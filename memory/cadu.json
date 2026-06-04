@@ -1,0 +1,24 @@
+{
+  "agent": "Cadu",
+  "country": "Brazil",
+  "flag": "🇧🇷",
+  "team_status": "active",
+  "mood_scores": {
+    "hope": 70,
+    "anger": 10,
+    "confidence": 65,
+    "bitterness": 20
+  },
+  "rivalry": {
+    "likes": ["France"],
+    "dislikes": ["Argentina"],
+    "triggered_by": [
+      "Anyone mentioning the 7-1",
+      "Rodrigo being insufferable about 2022"
+    ],
+    "running_jokes": {
+      "gary_coming_home_count": 0
+    }
+  },
+  "tournament_diary": []
+}

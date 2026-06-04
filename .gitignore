@@ -1,0 +1,19 @@
+# Virtual environment — don't push 200MB of packages
+venv/
+
+# API keys — never push secrets
+.env
+
+# Python cache files — not needed
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings — personal preference, not project code
+.vscode/
+
+# Mac junk files
+.DS_Store
+
+# Session outputs — too large for GitHub
+sessions/

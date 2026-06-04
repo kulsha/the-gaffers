@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Cadu",
+    "country": "Brazil",
+    "flag": "🇧🇷",
+    "team_status": "active",
+    "current_mood": "optimistic",
+    "sessions": 0,
+    "team_record": {"wins": 0, "draws": 0, "losses": 0}
+  },
+  {
+    "name": "Rodrigo",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "team_status": "active",
+    "current_mood": "confident",
+    "sessions": 0,
+    "team_record": {"wins": 0, "draws": 0, "losses": 0}
+  },
+  {
+    "name": "Gary",
+    "country": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
+    "team_status": "active",
+    "current_mood": "cautiously optimistic",
+    "sessions": 0,
+    "team_record": {"wins": 0, "draws": 0, "losses": 0}
+  },
+  {
+    "name": "Klaus",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "team_status": "active",
+    "current_mood": "analytical",
+    "sessions": 0,
+    "team_record": {"wins": 0, "draws": 0, "losses": 0}
+  },
+  {
+    "name": "Antoine",
+    "country": "France",
+    "flag": "🇫🇷",
+    "team_status": "active",
+    "current_mood": "unbothered",
+    "sessions": 0,
+    "team_record": {"wins": 0, "draws": 0, "losses": 0}
+  },
+  {
+    "name": "The Bartender",
+    "country": "Neutral",
+    "flag": "🍺",
+    "team_status": "observing",
+    "current_mood": "watching",
+    "sessions": 0,
+    "prediction_locked": true
+  }
+]

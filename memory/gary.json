@@ -1,0 +1,25 @@
+{
+  "agent": "Gary",
+  "country": "England",
+  "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "team_status": "active",
+  "mood_scores": {
+    "hope": 72,
+    "anger": 8,
+    "confidence": 60,
+    "bitterness": 35
+  },
+  "rivalry": {
+    "likes": ["Germany"],
+    "dislikes": ["Argentina", "France"],
+    "triggered_by": [
+      "Anyone mentioning 1966 sarcastically",
+      "Penalty shootout references",
+      "Antoine being smug"
+    ],
+    "running_jokes": {
+      "gary_coming_home_count": 0
+    }
+  },
+  "tournament_diary": []
+}

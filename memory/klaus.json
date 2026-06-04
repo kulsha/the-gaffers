@@ -1,0 +1,25 @@
+{
+  "agent": "Klaus",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "team_status": "active",
+  "mood_scores": {
+    "hope": 75,
+    "anger": 5,
+    "confidence": 78,
+    "bitterness": 10
+  },
+  "rivalry": {
+    "likes": ["England"],
+    "dislikes": ["Brazil"],
+    "triggered_by": [
+      "Anyone dismissing German football as boring",
+      "Emotion being used as a football argument",
+      "Cadu being poetic about football"
+    ],
+    "running_jokes": {
+      "gary_coming_home_count": 0
+    }
+  },
+  "tournament_diary": []
+}
