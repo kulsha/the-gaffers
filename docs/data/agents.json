@@ -2,55 +2,78 @@
   {
     "name": "Cadu",
     "country": "Brazil",
-    "flag": "🇧🇷",
+    "flag_class": "flag-brazil",
+    "flag_code": "BRA",
     "team_status": "active",
-    "current_mood": "optimistic",
-    "sessions": 0,
-    "team_record": {"wins": 0, "draws": 0, "losses": 0}
+    "mood_label": "Optimistic",
+    "sessions": 2,
+    "record": "W1 D0 L0",
+    "wins": 1,
+    "draws": 0,
+    "losses": 0
   },
   {
     "name": "Rodrigo",
     "country": "Argentina",
-    "flag": "🇦🇷",
+    "flag_class": "flag-argentina",
+    "flag_code": "ARG",
     "team_status": "active",
-    "current_mood": "confident",
-    "sessions": 0,
-    "team_record": {"wins": 0, "draws": 0, "losses": 0}
+    "mood_label": "Flying",
+    "sessions": 2,
+    "record": "W1 D0 L0",
+    "wins": 1,
+    "draws": 0,
+    "losses": 0,
+    "coming_home_count": 0
   },
   {
     "name": "Gary",
     "country": "England",
-    "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
+    "flag_class": "flag-england",
+    "flag_code": "ENG",
     "team_status": "active",
-    "current_mood": "cautiously optimistic",
-    "sessions": 0,
-    "team_record": {"wins": 0, "draws": 0, "losses": 0}
+    "mood_label": "Optimistic",
+    "sessions": 2,
+    "record": "W0 D0 L0",
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "coming_home_count": 0
   },
   {
     "name": "Klaus",
     "country": "Germany",
-    "flag": "🇩🇪",
+    "flag_class": "flag-germany",
+    "flag_code": "GER",
     "team_status": "active",
-    "current_mood": "analytical",
-    "sessions": 0,
-    "team_record": {"wins": 0, "draws": 0, "losses": 0}
+    "mood_label": "Cautious",
+    "sessions": 2,
+    "record": "W0 D0 L1",
+    "wins": 0,
+    "draws": 0,
+    "losses": 1
   },
   {
     "name": "Antoine",
     "country": "France",
-    "flag": "🇫🇷",
+    "flag_class": "flag-france",
+    "flag_code": "FRA",
     "team_status": "active",
-    "current_mood": "unbothered",
-    "sessions": 0,
-    "team_record": {"wins": 0, "draws": 0, "losses": 0}
+    "mood_label": "Flying",
+    "sessions": 2,
+    "record": "W0 D0 L1",
+    "wins": 0,
+    "draws": 0,
+    "losses": 1
   },
   {
     "name": "The Bartender",
-    "country": "Neutral",
-    "flag": "🍺",
+    "country": "Neutral Zone",
+    "flag_class": "bartender",
+    "flag_code": "🍺",
     "team_status": "observing",
-    "current_mood": "watching",
-    "sessions": 0,
-    "prediction_locked": true
+    "mood_label": "watching",
+    "sessions": 1,
+    "prediction_made": false
   }
 ]

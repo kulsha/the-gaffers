@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 80,
-    "anger": 5,
-    "confidence": 88,
-    "bitterness": 8
+    "hope": 82,
+    "anger": 3,
+    "confidence": 89,
+    "bitterness": 7
   },
   "rivalry": {
     "likes": [
@@ -35,6 +35,15 @@
       "my_team_played": true,
       "team_result": "lost",
       "reaction_summary": ""
+    },
+    {
+      "match_id": "test_dry_run_002",
+      "date": "2026-06-08",
+      "match": "Germany 1-2 Argentina",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*quiet for a long moment, watching Klaus set down his phone*\n\nThe data tells you *how* you lost, Klaus, but never *why*. Germany played well enough to"
     }
   ]
 }

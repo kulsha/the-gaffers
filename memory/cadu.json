@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 80,
-    "anger": 5,
-    "confidence": 73,
-    "bitterness": 17
+    "hope": 77,
+    "anger": 13,
+    "confidence": 71,
+    "bitterness": 22
   },
   "rivalry": {
     "likes": [
@@ -33,6 +33,15 @@
       "my_team_played": true,
       "team_result": "won",
       "reaction_summary": "Rodrygo in the 88th minute! *slams hand on bar* That's what I'm talking about — jogo bonito when it matters most, not those German robots calculating "
+    },
+    {
+      "match_id": "test_dry_run_002",
+      "date": "2026-06-08",
+      "match": "Germany 1-2 Argentina",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*leans back with a complicated smile, swirling cachaça*\n\nMessi again. Of course it's Messi. The Germans with all their efficiency, all their systems, "
     }
   ]
 }

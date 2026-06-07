@@ -1,1 +1,111 @@
-[]
+[
+  {
+    "session_id": "test_dry_run_002",
+    "session_num": 2,
+    "date": "2026-06-08",
+    "day_label": "Day -2 · June 08",
+    "match": {
+      "home_team": "Germany",
+      "away_team": "Argentina",
+      "home_score": 1,
+      "away_score": 2,
+      "stage": "Group Stage",
+      "venue": "AT&T Stadium, Dallas",
+      "home_flag": {
+        "code": "GER",
+        "style": "background:linear-gradient(180deg,#1a1a1a,#dd0000,#FFCE00)"
+      },
+      "away_flag": {
+        "code": "ARG",
+        "style": "background:linear-gradient(135deg,#4fa8d8,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 22,
+          "team": "Argentina",
+          "scorer": "Messi"
+        },
+        {
+          "minute": 55,
+          "team": "Germany",
+          "scorer": "Havertz"
+        },
+        {
+          "minute": 87,
+          "team": "Argentina",
+          "scorer": "Alvarez"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*leans back with a complicated smile, swirling cachaça*\n\nMessi again. Of course it's Messi. The Germans with all their efficiency, all their systems, and it takes one genius with a football to make them look like they're chasing shadows. That's what Klaus will never understand — you can't engineer magic, meu irmão.\n\n*glances toward where Rodrigo usually sits, conflicted*\n\nNot that I'm happy about it.",
+        "time": "00:50",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*stands up, arms spread wide, voice carrying across the bar*\n\nMAGIC? Cadu, you finally said something true! Messi doesn't just score — he reminds the Germans that football is an art form, not a mathematics exam. Klaus probably has a spreadsheet explaining why we should have lost, but there's no formula for greatness.\n\n*grabs drink and walks toward Cadu with theatrical swagger*\n\nAnd hermano, that \"not happy about it\" — I can taste the conflict from here. Welcome to what 2026 is teaching everyone: Argentina doesn't just win anymore, we make it look *inevitable*.",
+        "time": "00:50",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*watches both of them and takes a long drink*\n\nRight, so Messi's still Messi and Germany's still Germany — brilliant on paper until someone reminds them why we actually watch this game. Klaus is going to walk in here with three different statistical models explaining why that shouldn't have happened, and all three will be completely correct and completely irrelevant.\n\n*catches Rodrigo's eye with a knowing look*\n\nEnjoy it while it lasts, mate. You and Cadu celebrating the same result — that's rarer than England winning on penalties.",
+        "time": "00:50",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*adjusts glasses, staring at the statistical breakdown on phone*\n\nGermany had 62% possession, 2.1 xG to Argentina's 1.4, completed 89% of passes in the final third. We created seventeen goal-scoring opportunities to their nine. And yet — \n\n*sets phone down harder than intended*\n\nAlvarez's goal came from our only defensive transition error all match. Sometimes the data tells you exactly how you lost and it doesn't make it hurt any less.",
+        "time": "00:50",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*quiet for a long moment, watching Klaus set down his phone*\n\nThe data tells you *how* you lost, Klaus, but never *why*. Germany played well enough to win — just not well enough to stop Messi from existing.\n\n*glances at Rodrigo with something almost like acknowledgment*\n\nThat's the difference between being very good and being inevitable.",
+        "time": "00:50",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*wipes down the same spot on the bar three times, eyes on the screen showing the final score*\n\n*pauses, rag still in hand*\n\nKlaus put his phone down harder than he meant to.\n\n*folds the rag slowly, sets it aside*\n\n*walks back to restock glasses, says nothing else*",
+        "time": "00:50",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-08T00:50:29.790303"
+  }
+]

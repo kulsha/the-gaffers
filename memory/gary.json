@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 74,
-    "anger": 6,
-    "confidence": 61,
-    "bitterness": 34
+    "hope": 71,
+    "anger": 14,
+    "confidence": 59,
+    "bitterness": 39
   },
   "rivalry": {
     "likes": [
@@ -35,6 +35,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*watches Rodrigo celebrate and grins despite himself*\n\nRight, well, at least when you two knock each other out it means England have one fewer giant t"
+    },
+    {
+      "match_id": "test_dry_run_002",
+      "date": "2026-06-08",
+      "match": "Germany 1-2 Argentina",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*watches both of them and takes a long drink*\n\nRight, so Messi's still Messi and Germany's still Germany — brilliant on paper until someone reminds th"
     }
   ]
 }

@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 82,
-    "anger": 18,
-    "confidence": 89,
-    "bitterness": 10
+    "hope": 92,
+    "anger": 13,
+    "confidence": 97,
+    "bitterness": 7
   },
   "rivalry": {
     "likes": [
@@ -35,6 +35,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*laughs and raises glass toward Cadu* \n\nBeautiful, yes, but let's not forget who taught you lot about winning when it actually counts. 2022, hermano —"
+    },
+    {
+      "match_id": "test_dry_run_002",
+      "date": "2026-06-08",
+      "match": "Germany 1-2 Argentina",
+      "stage": "Group Stage",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*stands up, arms spread wide, voice carrying across the bar*\n\nMAGIC? Cadu, you finally said something true! Messi doesn't just score — he reminds the "
     }
   ]
 }

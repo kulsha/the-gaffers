@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 75,
-    "anger": 5,
-    "confidence": 78,
-    "bitterness": 10
+    "hope": 60,
+    "anger": 25,
+    "confidence": 68,
+    "bitterness": 22
   },
   "rivalry": {
     "likes": [
@@ -34,6 +34,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": ""
+    },
+    {
+      "match_id": "test_dry_run_002",
+      "date": "2026-06-08",
+      "match": "Germany 1-2 Argentina",
+      "stage": "Group Stage",
+      "my_team_played": true,
+      "team_result": "lost",
+      "reaction_summary": "*adjusts glasses, staring at the statistical breakdown on phone*\n\nGermany had 62% possession, 2.1 xG to Argentina's 1.4, completed 89% of passes in th"
     }
   ]
 }
