@@ -10,8 +10,13 @@
     "bitterness": 8
   },
   "rivalry": {
-    "likes": ["Brazil"],
-    "dislikes": ["England", "Germany"],
+    "likes": [
+      "Brazil"
+    ],
+    "dislikes": [
+      "England",
+      "Germany"
+    ],
     "triggered_by": [
       "Anyone underestimating France",
       "Gary being optimistic about England",
@@ -21,5 +26,15 @@
       "gary_coming_home_count": 0
     }
   },
-  "tournament_diary": []
+  "tournament_diary": [
+    {
+      "match_id": "test_dry_run_001",
+      "date": "2026-06-07",
+      "match": "Brazil 2-1 France",
+      "stage": "Group Stage",
+      "my_team_played": true,
+      "team_result": "lost",
+      "reaction_summary": ""
+    }
+  ]
 }

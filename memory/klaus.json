@@ -10,8 +10,12 @@
     "bitterness": 10
   },
   "rivalry": {
-    "likes": ["England"],
-    "dislikes": ["Brazil"],
+    "likes": [
+      "England"
+    ],
+    "dislikes": [
+      "Brazil"
+    ],
     "triggered_by": [
       "Anyone dismissing German football as boring",
       "Emotion being used as a football argument",
@@ -21,5 +25,15 @@
       "gary_coming_home_count": 0
     }
   },
-  "tournament_diary": []
+  "tournament_diary": [
+    {
+      "match_id": "test_dry_run_001",
+      "date": "2026-06-07",
+      "match": "Brazil 2-1 France",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": ""
+    }
+  ]
 }

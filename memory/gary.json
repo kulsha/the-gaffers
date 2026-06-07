@@ -4,14 +4,19 @@
   "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 72,
-    "anger": 8,
-    "confidence": 60,
-    "bitterness": 35
+    "hope": 74,
+    "anger": 6,
+    "confidence": 61,
+    "bitterness": 34
   },
   "rivalry": {
-    "likes": ["Germany"],
-    "dislikes": ["Argentina", "France"],
+    "likes": [
+      "Germany"
+    ],
+    "dislikes": [
+      "Argentina",
+      "France"
+    ],
     "triggered_by": [
       "Anyone mentioning 1966 sarcastically",
       "Penalty shootout references",
@@ -21,5 +26,15 @@
       "gary_coming_home_count": 0
     }
   },
-  "tournament_diary": []
+  "tournament_diary": [
+    {
+      "match_id": "test_dry_run_001",
+      "date": "2026-06-07",
+      "match": "Brazil 2-1 France",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*watches Rodrigo celebrate and grins despite himself*\n\nRight, well, at least when you two knock each other out it means England have one fewer giant t"
+    }
+  ]
 }

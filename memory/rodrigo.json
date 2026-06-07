@@ -4,14 +4,19 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 85,
-    "anger": 10,
-    "confidence": 91,
-    "bitterness": 5
+    "hope": 82,
+    "anger": 18,
+    "confidence": 89,
+    "bitterness": 10
   },
   "rivalry": {
-    "likes": ["France"],
-    "dislikes": ["Brazil", "England"],
+    "likes": [
+      "France"
+    ],
+    "dislikes": [
+      "Brazil",
+      "England"
+    ],
     "triggered_by": [
       "Anyone questioning Messi",
       "Brazil being called more skilful",
@@ -21,5 +26,15 @@
       "gary_coming_home_count": 0
     }
   },
-  "tournament_diary": []
+  "tournament_diary": [
+    {
+      "match_id": "test_dry_run_001",
+      "date": "2026-06-07",
+      "match": "Brazil 2-1 France",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*laughs and raises glass toward Cadu* \n\nBeautiful, yes, but let's not forget who taught you lot about winning when it actually counts. 2022, hermano —"
+    }
+  ]
 }

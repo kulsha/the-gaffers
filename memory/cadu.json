@@ -4,14 +4,18 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 70,
-    "anger": 10,
-    "confidence": 65,
-    "bitterness": 20
+    "hope": 80,
+    "anger": 5,
+    "confidence": 73,
+    "bitterness": 17
   },
   "rivalry": {
-    "likes": ["France"],
-    "dislikes": ["Argentina"],
+    "likes": [
+      "France"
+    ],
+    "dislikes": [
+      "Argentina"
+    ],
     "triggered_by": [
       "Anyone mentioning the 7-1",
       "Rodrigo being insufferable about 2022"
@@ -20,5 +24,15 @@
       "gary_coming_home_count": 0
     }
   },
-  "tournament_diary": []
+  "tournament_diary": [
+    {
+      "match_id": "test_dry_run_001",
+      "date": "2026-06-07",
+      "match": "Brazil 2-1 France",
+      "stage": "Group Stage",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "Rodrygo in the 88th minute! *slams hand on bar* That's what I'm talking about — jogo bonito when it matters most, not those German robots calculating "
+    }
+  ]
 }
