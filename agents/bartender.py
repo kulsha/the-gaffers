@@ -2,7 +2,7 @@ from crewai import Agent
 from langchain_anthropic import ChatAnthropic
 from utils.memory_manager import load_all_agents
 
-llm = ChatAnthropic(model="claude-sonnet-4-20250514", temperature=0.7)
+llm = "claude-sonnet-4-5"
 
 
 def create_bartender(mode: str = "silent") -> Agent:
@@ -151,6 +151,7 @@ You are the bartender. Close the tournament.
         goal="Observe everything. Say almost nothing. When you speak — make it count.",
         backstory=backstory,
         llm=llm,
+        temperature=0.7,
         verbose=False,
         allow_delegation=False,
         max_iter=1

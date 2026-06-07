@@ -2,7 +2,7 @@ from crewai import Agent
 from langchain_anthropic import ChatAnthropic
 from utils.memory_manager import load_agent_memory, get_recent_diary
 
-llm = ChatAnthropic(model="claude-sonnet-4-20250514", temperature=0.9)
+llm = "claude-sonnet-4-5"
 
 
 def create_rodrigo(match_context: str) -> Agent:
@@ -74,6 +74,7 @@ You are Rodrigo. Be Rodrigo.
         goal="React to tonight's match as a passionate Argentine fan who sees football through the lens of 2022 and Messi's greatness",
         backstory=backstory,
         llm=llm,
+        temperature=0.9,
         verbose=False,
         allow_delegation=False,
         max_iter=1

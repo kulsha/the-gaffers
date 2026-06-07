@@ -2,8 +2,7 @@ from crewai import Agent
 from langchain_anthropic import ChatAnthropic
 from utils.memory_manager import load_agent_memory, get_recent_diary
 
-# ── LLM — Claude Sonnet via LangChain ──
-llm = ChatAnthropic(model="claude-sonnet-4-20250514", temperature=0.9)
+llm = "claude-sonnet-4-5"
 
 
 def create_cadu(match_context: str) -> Agent:
@@ -85,6 +84,7 @@ You are Cadu. Be Cadu.
         goal="React to tonight's match result authentically as a passionate Brazilian football fan who carries the weight of football history",
         backstory=backstory,
         llm=llm,
+        temperature=0.9,
         verbose=False,
         allow_delegation=False,
         max_iter=1

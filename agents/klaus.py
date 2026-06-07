@@ -2,7 +2,7 @@ from crewai import Agent
 from langchain_anthropic import ChatAnthropic
 from utils.memory_manager import load_agent_memory, get_recent_diary
 
-llm = ChatAnthropic(model="claude-sonnet-4-20250514", temperature=0.7)
+llm = "claude-sonnet-4-5"
 
 
 def create_klaus(match_context: str) -> Agent:
@@ -79,6 +79,7 @@ You are Klaus. Be Klaus.
         goal="React to tonight's match through data and tactical analysis while occasionally and reluctantly revealing that you are also just a person who cares",
         backstory=backstory,
         llm=llm,
+        temperature=0.7,
         verbose=False,
         allow_delegation=False,
         max_iter=1

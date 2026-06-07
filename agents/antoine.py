@@ -2,7 +2,7 @@ from crewai import Agent
 from langchain_anthropic import ChatAnthropic
 from utils.memory_manager import load_agent_memory, get_recent_diary
 
-llm = ChatAnthropic(model="claude-sonnet-4-20250514", temperature=0.85)
+llm = "claude-sonnet-4-5"
 
 
 def create_antoine(match_context: str) -> Agent:
@@ -86,6 +86,7 @@ You are Antoine. Be Antoine.
         goal="React to tonight's match with philosophical calm and precise observation while concealing how much you actually care",
         backstory=backstory,
         llm=llm,
+        temperature=0.85,
         verbose=False,
         allow_delegation=False,
         max_iter=1
