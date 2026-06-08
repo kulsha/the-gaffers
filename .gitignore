@@ -17,3 +17,6 @@ __pycache__/
 
 # Session outputs — too large for GitHub
 sessions/
+
+run_morning.bat
+logs/
