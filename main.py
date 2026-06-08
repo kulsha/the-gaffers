@@ -259,7 +259,7 @@ def run_session():
     print(f"📊 Total sessions: {get_session_count()}")
 
     # ── Step 8 — Update website ──
-    update_site(match_data, outputs, session_num)
+    update_site(match_data, outputs, session_num, bartender_mode)
 
     # ── Step 9 — Bartender status ──
     if bartender_mode == "prediction":
@@ -329,7 +329,7 @@ Red Cards: None
     print(f"📊 Total sessions: {get_session_count()}")
 
     # Update website
-    update_site(match_data, outputs, session_num)
+    update_site(match_data, outputs, session_num, bartender_mode)
 
     print("✅ Test session complete.")
 
