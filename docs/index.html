@@ -141,15 +141,10 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .bartender-strip-text{font-size:14px;color:rgba(255,255,255,0.55);font-style:italic;line-height:1.65;}
 .bartender-strip-lock{margin-left:auto;flex-shrink:0;font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:2px;color:rgba(255,255,255,0.38);text-transform:uppercase;text-align:center;border:1px solid var(--border);padding:12px 20px;line-height:2.2;}
 
-/* ── LOADING ── */
-.loading{padding:80px 60px;text-align:center;}
-.loading-title{font-family:'Bebas Neue',sans-serif;font-size:32px;color:var(--muted);letter-spacing:2px;margin-bottom:8px;}
-.loading-sub{font-size:14px;color:rgba(255,255,255,0.3);font-style:italic;}
-
-/* ── NO SESSIONS ── */
+/* ── EMPTY STATE ── */
 .no-sessions{padding:80px 60px;text-align:center;}
 .no-sessions-title{font-family:'Bebas Neue',sans-serif;font-size:48px;color:var(--white);letter-spacing:2px;margin-bottom:12px;}
-.no-sessions-sub{font-size:15px;color:rgba(255,255,255,0.4);font-style:italic;}
+.no-sessions-sub{font-size:15px;color:rgba(255,255,255,0.4);font-style:italic;line-height:1.8;}
 
 ::-webkit-scrollbar{width:4px;}
 ::-webkit-scrollbar-track{background:transparent;}
@@ -158,7 +153,7 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 </head>
 <body>
 
-<!-- ═══ HERO ═══ -->
+<!-- HERO -->
 <section class="hero" onclick="document.getElementById('site').scrollIntoView({behavior:'smooth'})">
   <div class="hero-bg"></div>
   <div class="hero-pitch">
@@ -196,8 +191,6 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
       <ellipse cx="90" cy="38" rx="54" ry="13" fill="#080810" opacity="0.35"/>
       <path d="M20 60 Q-4 80 -2 114 Q8 110 14 96 L22 78" fill="#d4a843"/>
       <path d="M160 60 Q184 80 182 114 Q172 110 166 96 L158 78" fill="#d4a843"/>
-      <ellipse cx="90" cy="108" rx="46" ry="5" fill="#080810" opacity="0.12"/>
-      <ellipse cx="90" cy="148" rx="38" ry="4" fill="#080810" opacity="0.1"/>
     </svg>
   </div>
   <div class="particles" id="particles"></div>
@@ -215,7 +208,7 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
   <div class="scroll-cta"><span>Enter The Bar</span><span>↓</span></div>
 </section>
 
-<!-- ═══ MAIN SITE ═══ -->
+<!-- MAIN SITE -->
 <div id="site">
   <header class="site-header">
     <div class="site-logo">⚽ <span>The</span> Gaffers</div>
@@ -227,7 +220,6 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
     </div>
     <div class="live-indicator"><div class="live-dot"></div><span id="liveLabel">Live</span></div>
   </header>
-
   <div id="dayContent"></div>
 </div>
 
@@ -244,18 +236,16 @@ let agentsData = [];
 // ── INIT ──
 async function init() {
   try {
-    const [sessionsRes, agentsRes] = await Promise.all([
-      fetch('data/sessions.json'),
-      fetch('data/agents.json')
+    const [sRes, aRes] = await Promise.all([
+      fetch('data/sessions.json?v=' + Date.now()),
+      fetch('data/agents.json?v=' + Date.now())
     ]);
-    sessionsData = await sessionsRes.json();
-    agentsData = await agentsRes.json();
+    sessionsData = await sRes.json();
+    agentsData = await aRes.json();
   } catch(e) {
-    console.error('Failed to load data:', e);
     sessionsData = [];
     agentsData = [];
   }
-
   updateHeroStats();
   buildDayTabs();
   renderLatestDay();
@@ -266,10 +256,8 @@ async function init() {
 function updateHeroStats() {
   document.getElementById('heroSessions').innerHTML =
     `<span>${sessionsData.length}</span>`;
-
-  const predictionMade = sessionsData.length >= MATCHES_FOR_PREDICTION;
-  document.getElementById('heroBartender').textContent =
-    predictionMade ? '✓' : '🔒';
+  const predictionMade = sessionsData.some(s => s.bartender_mode === 'prediction');
+  document.getElementById('heroBartender').textContent = predictionMade ? '✓' : '🔒';
 }
 
 // ── DAY TABS ──
@@ -278,44 +266,36 @@ function buildDayTabs() {
   tabsEl.innerHTML = '';
 
   if (sessionsData.length === 0) {
-    tabsEl.innerHTML = `
-      <div style="font-family:'JetBrains Mono',monospace;font-size:10px;
-        color:rgba(255,255,255,0.3);letter-spacing:2px;padding:8px 16px;">
-        AWAITING FIRST MATCH · JUN 11
-      </div>`;
+    tabsEl.innerHTML = `<div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:rgba(255,255,255,0.3);letter-spacing:2px;padding:8px 16px;">AWAITING FIRST MATCH · JUN 11</div>`;
     return;
   }
 
-  // Group sessions by date — only real match days
   const dayMap = groupByDay(sessionsData);
   const sortedDates = Object.keys(dayMap).sort();
 
   sortedDates.forEach((date, index) => {
     const dayNum = getDayNumber(date);
     const dateLabel = formatDateShort(date);
-    const sessionCount = dayMap[date].length;
+    const count = dayMap[date].length;
 
     const btn = document.createElement('button');
     btn.className = 'day-tab';
     btn.setAttribute('data-date', date);
-    btn.innerHTML = `Day ${dayNum} · ${dateLabel}`;
-    if (sessionCount > 1) {
-      btn.innerHTML += ` <span style="color:rgba(212,168,67,0.5);font-size:8px">·${sessionCount}</span>`;
-    }
+    btn.innerHTML = `Day ${dayNum} · ${dateLabel}` +
+      (count > 1 ? ` <span style="color:rgba(212,168,67,0.5);font-size:8px">·${count}</span>` : '');
     btn.onclick = () => showDay(date, btn);
     tabsEl.appendChild(btn);
   });
 
-  // Activate latest day tab
+  // Activate latest day
   const tabs = tabsEl.querySelectorAll('.day-tab');
-  if (tabs.length > 0) {
-    tabs[tabs.length - 1].classList.add('active');
-  }
+  if (tabs.length > 0) tabs[tabs.length - 1].classList.add('active');
 
   // Update live label
   const latestDate = sortedDates[sortedDates.length - 1];
   const latestDayNum = getDayNumber(latestDate);
-  document.getElementById('liveLabel').textContent = `Live · Day ${latestDayNum}`;
+  document.getElementById('liveLabel').textContent =
+    latestDayNum > 0 ? `Live · Day ${latestDayNum}` : 'Live';
 }
 
 // ── RENDER LATEST DAY ──
@@ -324,11 +304,13 @@ function renderLatestDay() {
     document.getElementById('dayContent').innerHTML = `
       <div class="no-sessions">
         <div class="no-sessions-title">The Bar Opens June 11</div>
-        <div class="no-sessions-sub">First match. First session. First argument.<br/>Come back when the tournament starts.</div>
+        <div class="no-sessions-sub">
+          First match. First session. First argument.<br/>
+          Come back when the tournament starts.
+        </div>
       </div>`;
     return;
   }
-
   const dayMap = groupByDay(sessionsData);
   const sortedDates = Object.keys(dayMap).sort();
   const latestDate = sortedDates[sortedDates.length - 1];
@@ -339,7 +321,6 @@ function renderLatestDay() {
 function showDay(date, btn) {
   document.querySelectorAll('.day-tab').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
-
   const dayMap = groupByDay(sessionsData);
   renderDay(date, dayMap[date] || []);
   document.getElementById('site').scrollIntoView({behavior:'smooth'});
@@ -350,15 +331,18 @@ function renderDay(date, sessions) {
   const dayNum = getDayNumber(date);
   const dateFormatted = formatDateLong(date);
   const totalReactions = sessions.length * 5;
-  const bartenderSpoke = sessions.filter(s =>
-    s.messages && s.messages.some(m => m.is_bartender && m.text &&
-    m.text.length > 50)).length;
 
-  // Day title based on day number
+  // Bartender spoke count — prediction or closing mode only
+  const bartenderSpoke = sessions.filter(s =>
+    s.bartender_mode === 'prediction' || s.bartender_mode === 'closing'
+  ).length;
+
+  // Day titles
   const dayTitles = {
-    1: 'The Tournament Begins', 2: 'Morning After',
-    3: 'The Bar Settles In', 4: 'Familiar Faces',
-    5: 'Halfway Through The Week'
+    1:'The Tournament Begins', 2:'Morning After',
+    3:'The Bar Settles In', 4:'Familiar Faces',
+    5:'Halfway Through The Week', 6:'The Weekend',
+    7:'One Week In'
   };
   const dayTitle = dayTitles[dayNum] || `Day ${dayNum}`;
 
@@ -372,42 +356,38 @@ function renderDay(date, sessions) {
         <div class="day-stat"><div class="day-stat-num">${sessions.length}</div><div class="day-stat-label">Matches today</div></div>
         <div class="day-stat"><div class="day-stat-num">${sessions.length}</div><div class="day-stat-label">Sessions run</div></div>
         <div class="day-stat"><div class="day-stat-num">${totalReactions}</div><div class="day-stat-label">Agent reactions</div></div>
-        <div class="day-stat"><div class="day-stat-num">${bartenderSpoke}</div><div class="day-stat-label">Times bartender spoke</div></div>
+        <div class="day-stat"><div class="day-stat-num">${bartenderSpoke}</div><div class="day-stat-label">Bartender spoke</div></div>
       </div>
     </div>
-    ${buildAgentsStrip()}
-  `;
+    ${buildAgentsStrip()}`;
 
-  // Render each session
   sessions.forEach((session, idx) => {
     if (idx > 0) html += `<div class="session-separator"></div>`;
     html += buildSession(session);
   });
 
-  // Bartender locked/unlocked strip
   html += buildBartenderStrip();
-
   document.getElementById('dayContent').innerHTML = html;
 }
 
-// ── BUILD AGENTS STRIP ──
+// ── AGENTS STRIP ──
 function buildAgentsStrip() {
   if (!agentsData || agentsData.length === 0) return '';
+  const fans = agentsData.filter(a => a.name !== 'The Bartender');
 
-  const fanAgents = agentsData.filter(a => a.name !== 'The Bartender');
-
-  const chips = fanAgents.map(agent => {
-    const statusClass = agent.team_status === 'eliminated' ? 'status-eliminated' :
-                        agent.team_status === 'bitter' ? 'status-bitter' : 'status-active';
-    const statusText = agent.team_status === 'eliminated'
-      ? `${agent.country} · Eliminated`
-      : `${agent.country} · ${agent.mood_label || 'Active'} · ${agent.record || 'W0 D0 L0'}`;
+  const chips = fans.map(a => {
+    const statusClass = a.team_status === 'eliminated' ? 'status-eliminated' :
+                        a.team_status === 'bitter' ? 'status-bitter' : 'status-active';
+    // No mood label — just country and record
+    const statusText = a.team_status === 'eliminated'
+      ? `${a.country} · Eliminated`
+      : `${a.country} · ${a.record || 'W0 D0 L0'}`;
 
     return `
       <div class="agent-chip">
-        <div class="agent-flag-badge ${agent.flag_class}">${agent.flag_code}</div>
+        <div class="agent-flag-badge ${a.flag_class}">${a.flag_code}</div>
         <div>
-          <div class="agent-chip-name">${agent.name}</div>
+          <div class="agent-chip-name">${a.name}</div>
           <div class="agent-chip-status ${statusClass}">${statusText}</div>
         </div>
       </div>`;
@@ -422,27 +402,25 @@ function buildAgentsStrip() {
 
 // ── BUILD SESSION ──
 function buildSession(session) {
-  const match = session.match;
-  const homeFlag = match.home_flag || {code: match.home_team.substring(0,3).toUpperCase(), style:'background:#333'};
-  const awayFlag = match.away_flag || {code: match.away_team.substring(0,3).toUpperCase(), style:'background:#333'};
+  const m = session.match;
+  const hf = m.home_flag || {code: m.home_team.substring(0,3).toUpperCase(), style:'background:#333355'};
+  const af = m.away_flag || {code: m.away_team.substring(0,3).toUpperCase(), style:'background:#333355'};
 
-  // Build goals and red cards
   let eventsHtml = '';
-  if (match.goals && match.goals.length > 0) {
-    match.goals.forEach(g => {
+  if (m.goals && m.goals.length > 0) {
+    m.goals.forEach(g => {
       eventsHtml += `<div class="match-event goal">⚽ ${g.scorer} ${g.minute}'</div>`;
     });
   } else {
     eventsHtml += `<div class="match-event">No goals scored</div>`;
   }
-  if (match.red_cards && match.red_cards.length > 0) {
-    match.red_cards.forEach(r => {
+  if (m.red_cards && m.red_cards.length > 0) {
+    m.red_cards.forEach(r => {
       eventsHtml += `<div class="match-event red">🟥 ${r.player} ${r.minute}'</div>`;
     });
   }
 
-  // Build messages
-  const messagesHtml = session.messages.map(msg => buildMessage(msg)).join('');
+  const messagesHtml = (session.messages || []).map(msg => buildMessage(msg)).join('');
 
   return `
     <div class="session-block">
@@ -450,24 +428,24 @@ function buildSession(session) {
         <div class="session-tag-line"></div>
         <div class="session-tag-inner">
           <div class="session-tag-num">SESSION ${String(session.session_num).padStart(2,'0')}</div>
-          <div class="session-tag-label">${match.home_team} vs ${match.away_team} · ${match.stage}</div>
+          <div class="session-tag-label">${m.home_team} vs ${m.away_team} · ${m.stage}</div>
         </div>
         <div class="session-tag-line"></div>
       </div>
       <div class="match-card">
         <div class="match-teams">
           <div class="match-team">
-            <div class="match-flag-lg" style="${homeFlag.style}">${homeFlag.code}</div>
-            <div class="match-team-name">${match.home_team}</div>
+            <div class="match-flag-lg" style="${hf.style}">${hf.code}</div>
+            <div class="match-team-name">${m.home_team}</div>
           </div>
           <div class="match-score-center">
-            <div class="match-score-num">${match.home_score} <span>—</span> ${match.away_score}</div>
-            <div class="match-stage">${match.stage}</div>
-            <div class="match-venue">${match.venue}</div>
+            <div class="match-score-num">${m.home_score} <span>—</span> ${m.away_score}</div>
+            <div class="match-stage">${m.stage}</div>
+            <div class="match-venue">${m.venue}</div>
           </div>
           <div class="match-team">
-            <div class="match-flag-lg" style="${awayFlag.style}">${awayFlag.code}</div>
-            <div class="match-team-name">${match.away_team}</div>
+            <div class="match-flag-lg" style="${af.style}">${af.code}</div>
+            <div class="match-team-name">${m.away_team}</div>
           </div>
         </div>
         <div class="match-events-row">${eventsHtml}</div>
@@ -492,7 +470,6 @@ function buildMessage(msg) {
         </div>
       </div>`;
   }
-
   return `
     <div class="msg">
       <div class="msg-left">
@@ -509,11 +486,12 @@ function buildMessage(msg) {
     </div>`;
 }
 
-// ── BUILD BARTENDER STRIP ──
+// ── BARTENDER STRIP ──
 function buildBartenderStrip() {
-  const remaining = Math.max(0, MATCHES_FOR_PREDICTION - sessionsData.length);
-  const predictionMade = sessionsData.length >= MATCHES_FOR_PREDICTION;
-  const tournamentOver = sessionsData.length >= MATCHES_FOR_CLOSING;
+  const total = sessionsData.length;
+  const remaining = Math.max(0, MATCHES_FOR_PREDICTION - total);
+  const predictionMade = sessionsData.some(s => s.bartender_mode === 'prediction');
+  const tournamentOver = total >= MATCHES_FOR_CLOSING;
 
   if (tournamentOver) {
     return `
@@ -521,11 +499,10 @@ function buildBartenderStrip() {
         <div class="bartender-strip-icon">🍺</div>
         <div>
           <div class="bartender-strip-title">The Bartender Has Spoken</div>
-          <div class="bartender-strip-text">The tournament is over. He said what needed to be said.<br/>Same five stools. Different world.</div>
+          <div class="bartender-strip-text">The tournament is over. Same five stools. Different world.</div>
         </div>
       </div>`;
   }
-
   if (predictionMade) {
     return `
       <div class="bartender-strip">
@@ -534,12 +511,9 @@ function buildBartenderStrip() {
           <div class="bartender-strip-title">The Bartender Has Made His Prediction</div>
           <div class="bartender-strip-text">He read every session. He watched every argument.<br/>He spoke once. One name. One reason.</div>
         </div>
-        <div class="bartender-strip-lock" style="color:var(--green);border-color:rgba(78,203,113,0.2)">
-          Prediction<br/>made ✓
-        </div>
+        <div class="bartender-strip-lock" style="color:var(--green);border-color:rgba(78,203,113,0.2)">Prediction<br/>made ✓</div>
       </div>`;
   }
-
   return `
     <div class="bartender-strip">
       <div class="bartender-strip-icon">🔒</div>
@@ -565,7 +539,7 @@ function groupByDay(sessions) {
 }
 
 function getDayNumber(dateStr) {
-  const d = new Date(dateStr);
+  const d = new Date(dateStr + 'T12:00:00');
   const diff = Math.floor((d - TOURNAMENT_START) / (1000*60*60*24));
   return diff + 1;
 }
@@ -582,21 +556,30 @@ function formatDateLong(dateStr) {
 
 function formatText(text) {
   if (!text) return '';
-  return text
+  // Escape HTML first
+  let t = text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+  // Then apply markdown
+  t = t
     .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.*?)\*/g, '<em>$1</em>')
     .replace(/\n/g, '<br/>');
+  return t;
 }
 
 function buildParticles() {
   const c = document.getElementById('particles');
   for(let i=0;i<22;i++){
-    const p=document.createElement('div');p.className='particle';
-    p.style.left=Math.random()*100+'%';
-    p.style.animationDuration=(8+Math.random()*14)+'s';
-    p.style.animationDelay=(Math.random()*12)+'s';
+    const p = document.createElement('div');
+    p.className = 'particle';
+    p.style.left = Math.random()*100+'%';
+    p.style.animationDuration = (8+Math.random()*14)+'s';
+    p.style.animationDelay = (Math.random()*12)+'s';
     p.style.setProperty('--drift',(Math.random()*120-60)+'px');
-    const s=(Math.random()*3+1)+'px';p.style.width=s;p.style.height=s;
+    const s = (Math.random()*3+1)+'px';
+    p.style.width = s; p.style.height = s;
     c.appendChild(p);
   }
 }
