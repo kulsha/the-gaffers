@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
   "team_status": "eliminated",
   "mood_scores": {
-    "hope": 72,
-    "anger": 13,
-    "confidence": 59,
-    "bitterness": 39
+    "hope": 74,
+    "anger": 11,
+    "confidence": 60,
+    "bitterness": 38
   },
   "rivalry": {
     "likes": [
@@ -80,6 +80,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*looks at both of them and takes a slow drink, setting glass down with careful precision*\n\nRight, so that's Rodrigo celebrating like it's 1970 and Cad"
+    },
+    {
+      "match_id": "test_dry_run_007",
+      "date": "2026-06-09",
+      "match": "Brazil 1-0 Argentina",
+      "stage": "Quarter Final",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*looks at both of them and takes a drink, setting the glass down with the careful precision of someone who's watched their own team fail too many time"
     }
   ]
 }

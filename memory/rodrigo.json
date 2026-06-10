@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 71,
-    "anger": 44,
-    "confidence": 83,
-    "bitterness": 26
+    "hope": 56,
+    "anger": 64,
+    "confidence": 73,
+    "bitterness": 38
   },
   "rivalry": {
     "likes": [
@@ -80,6 +80,15 @@
       "my_team_played": true,
       "team_result": "lost",
       "reaction_summary": "*crushes cigarette into ashtray with enough force to crack it, stands slowly with both hands flat on the bar*\n\nOne goal. One fucking goal and you act "
+    },
+    {
+      "match_id": "test_dry_run_007",
+      "date": "2026-06-09",
+      "match": "Brazil 1-0 Argentina",
+      "stage": "Quarter Final",
+      "my_team_played": true,
+      "team_result": "lost",
+      "reaction_summary": "*lights cigarette with shaking hands, smoke obscuring his face for a moment before he speaks through gritted teeth*\n\nOne goal doesn't erase 2022, Cadu"
     }
   ]
 }

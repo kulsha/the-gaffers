@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "anger": 0,
-    "confidence": 89,
-    "bitterness": 14
+    "confidence": 97,
+    "bitterness": 11
   },
   "rivalry": {
     "likes": [
@@ -72,6 +72,15 @@
     },
     {
       "match_id": "test_dry_run_006",
+      "date": "2026-06-09",
+      "match": "Brazil 1-0 Argentina",
+      "stage": "Quarter Final",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*stands up from the stool, hands trembling as he raises his cachaça to the ceiling*\n\nVinicius Jr. against Argentina. In a quarterfinal. The poetry of "
+    },
+    {
+      "match_id": "test_dry_run_007",
       "date": "2026-06-09",
       "match": "Brazil 1-0 Argentina",
       "stage": "Quarter Final",

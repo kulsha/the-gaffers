@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 76,
-    "anger": 9,
-    "confidence": 85,
-    "bitterness": 11
+    "hope": 78,
+    "anger": 7,
+    "confidence": 86,
+    "bitterness": 10
   },
   "rivalry": {
     "likes": [
@@ -80,6 +80,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*swirls wine glass once, voice cutting through the noise with quiet precision*\n\nThe difference between Brazil's joy and Argentina's grief tonight is t"
+    },
+    {
+      "match_id": "test_dry_run_007",
+      "date": "2026-06-09",
+      "match": "Brazil 1-0 Argentina",
+      "stage": "Quarter Final",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*turns wine glass slowly, watching Rodrigo's cigarette smoke drift toward the ceiling*\n\nThe thing about Brazil beating Argentina is that it always fee"
     }
   ]
 }

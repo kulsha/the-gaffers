@@ -542,5 +542,105 @@
       }
     ],
     "timestamp": "2026-06-10T20:00:52.004306"
+  },
+  {
+    "session_id": "test_dry_run_007",
+    "session_num": 7,
+    "date": "2026-06-09",
+    "day_label": "Day -1 · June 09",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Brazil",
+      "away_team": "Argentina",
+      "home_score": 1,
+      "away_score": 0,
+      "stage": "Quarter Final",
+      "venue": "MetLife Stadium, New Jersey",
+      "home_flag": {
+        "code": "BRA",
+        "style": "background:linear-gradient(135deg,#009c3b,#FFDF00)"
+      },
+      "away_flag": {
+        "code": "ARG",
+        "style": "background:linear-gradient(135deg,#4fa8d8,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 55,
+          "team": "Brazil",
+          "scorer": "Vinicius Jr"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*stands up from the stool, hands trembling as he raises his cachaça to the ceiling*\n\nVinicius Jr. against Argentina. In a quarterfinal. The poetry of it — a carioca dancing past their defense like Garrincha's ghost. Rodrigo, my friend, where are your words now? Where is all that confidence when the ball finds the back of the net and it sounds like samba?",
+        "time": "20:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*lights cigarette with shaking hands, smoke obscuring his face for a moment before he speaks through gritted teeth*\n\nOne goal doesn't erase 2022, Cadu. One goal doesn't make Vinicius Messi. You needed everything — luck, referee's mercy, our defenders forgetting how to mark — and you barely scraped past us. Enjoy your samba while it lasts, because when the real pressure comes, Brazil always crumbles.",
+        "time": "20:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*looks at both of them and takes a drink, setting the glass down with the careful precision of someone who's watched their own team fail too many times to judge anyone else*\n\nRight, so that's Rodrigo discovering what the rest of us learned years ago — the hope is what kills you, not the losing. Cadu, enjoy it while it lasts, mate, because there's always a Germany or a France waiting in the semis to remind Brazil that beautiful football and winning football aren't always the same thing. And Rodrigo — welcome to supporting a national team. It's brilliant until it isn't, and then it's just drinking.",
+        "time": "20:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*adjusts glasses, reviewing the match data on phone with an expression of grudging approval*\n\nBrazil's pressing efficiency in the final third was 73% — forced Argentina into their lowest pass completion rate of the tournament at 81.3%. Vinicius created 2.1 xG by himself through progressive carries that averaged 18.2 meters. The data doesn't lie, Rodrigo — your defense wasn't unlucky, they were systematically dismantled by measurable superiority in transition speed.",
+        "time": "20:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*turns wine glass slowly, watching Rodrigo's cigarette smoke drift toward the ceiling*\n\nThe thing about Brazil beating Argentina is that it always feels inevitable until it isn't — and tonight, it was. Rodrigo, you played well enough to deserve sympathy but not well enough to deserve justice, and football has never cared about the difference between those two things. Cadu's joy and your grief are separated by one moment of brilliance, which tells you everything you need to know about why we love this and why it destroys us.",
+        "time": "20:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*sets down the glass I've been drying for the last five minutes, looks at the empty bottles and full ashtrays scattered across the bar, then at the screen still showing replays of Vinicius celebrating*\n\nSame ball. One man dancing, one man burning a cigarette to ash without smoking it.\n\n*turns off the television*",
+        "time": "20:07",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-10T20:07:31.846502"
   }
 ]
