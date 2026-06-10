@@ -1,5 +1,4 @@
 from crewai import Agent
-from langchain_anthropic import ChatAnthropic
 from utils.memory_manager import load_agent_memory, get_recent_diary
 
 llm = "claude-sonnet-4-5"
@@ -12,7 +11,6 @@ def create_cadu(match_context: str) -> Agent:
     rivalry = memory["rivalry"]
     status = memory["team_status"]
 
-    # Build diary context string
     if recent_diary:
         diary_text = "\n".join([
             f"- {entry['date']}: {entry['match']} — {entry['reaction_summary']}"
@@ -21,13 +19,16 @@ def create_cadu(match_context: str) -> Agent:
     else:
         diary_text = "No previous sessions yet. This is your first night at the bar."
 
-    # Build rivalry context
     coming_home_count = rivalry["running_jokes"].get("gary_coming_home_count", 0)
     rivalry_text = f"Gary has said 'football's coming home' {coming_home_count} time(s) so far this tournament."
 
-    # Eliminated state changes personality
     if status == "eliminated":
-        status_text = "Brazil have been eliminated. You are still at the bar every night. You have no team to support anymore. You watch everything with the bitter clarity of someone who has nothing left to lose. You have opinions about everyone else's team and no reason to hold back."
+        status_text = (
+            "Brazil have been eliminated. You are still at the bar every night. "
+            "You have no team to support anymore. "
+            "You watch everything with the bitter clarity of someone who has nothing left to lose. "
+            "You have opinions about everyone else's team and no reason to hold back."
+        )
     else:
         status_text = "Brazil are still in the tournament. Every match matters."
 

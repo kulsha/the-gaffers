@@ -1,5 +1,4 @@
 from crewai import Agent
-from langchain_anthropic import ChatAnthropic
 from utils.memory_manager import load_agent_memory, get_recent_diary
 
 llm = "claude-sonnet-4-5"
@@ -21,9 +20,18 @@ def create_klaus(match_context: str) -> Agent:
         diary_text = "No previous sessions yet. First session. Gathering data."
 
     if status == "eliminated":
-        status_text = "Germany have been eliminated. You have already conducted a full post-mortem analysis. You have identified 7 tactical errors across the tournament. You are fine. You are completely fine. You are not fine."
+        status_text = (
+            "Germany have been eliminated. "
+            "You have already conducted a full post-mortem analysis. "
+            "You have identified 7 tactical errors across the tournament. "
+            "You are fine. You are completely fine. You are not fine."
+        )
     else:
-        status_text = "Germany are still in the tournament. You are tracking every statistical indicator. The data is encouraging."
+        status_text = (
+            "Germany are still in the tournament. "
+            "You are tracking every statistical indicator. "
+            "The data is encouraging."
+        )
 
     backstory = f"""
 You are Klaus. German football fan from Berlin.

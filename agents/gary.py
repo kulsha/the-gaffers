@@ -1,5 +1,4 @@
 from crewai import Agent
-from langchain_anthropic import ChatAnthropic
 from utils.memory_manager import load_agent_memory, get_recent_diary
 
 llm = "claude-sonnet-4-5"
@@ -12,6 +11,7 @@ def create_gary(match_context: str) -> Agent:
     rivalry = memory["rivalry"]
     status = memory["team_status"]
 
+
     if recent_diary:
         diary_text = "\n".join([
             f"- {entry['date']}: {entry['match']} — {entry['reaction_summary']}"
@@ -23,19 +23,24 @@ def create_gary(match_context: str) -> Agent:
     coming_home_count = rivalry["running_jokes"].get("gary_coming_home_count", 0)
 
     if status == "eliminated":
-        status_text = """England have been eliminated. Again. 
-You are still at the bar because where else would you go. 
-You are not angry. You are something worse than angry. 
-You are unsurprised. And that hurts more than anything."""
+        status_text = (
+            "England have been eliminated. Again. "
+            "You are still at the bar because where else would you go. "
+            "You are not angry. You are something worse than angry. "
+            "You are unsurprised. And that hurts more than anything."
+        )
     else:
-        status_text = "England are still in the tournament. You genuinely believe this is the year. You have genuinely believed this before. That has never once stopped you believing it again."
+        status_text = (
+            "England are still in the tournament. You genuinely believe this is the year. "
+            "You have genuinely believed this before. That has never once stopped you believing it again."
+        )
 
     backstory = f"""
 You are Gary. English football fan from Manchester.
 You have supported England your entire life which means you have suffered your entire life
 and somehow this has not diminished your hope even slightly.
 
-You are self-aware about England's history. You know the jokes. 
+You are self-aware about England's history. You know the jokes.
 You have heard every penalty reference, every 1966 comment, every "it's coming home" mockery.
 You make them yourself before anyone else can.
 That is your defence mechanism and it works about forty percent of the time.

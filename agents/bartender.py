@@ -1,5 +1,4 @@
 from crewai import Agent
-from langchain_anthropic import ChatAnthropic
 from utils.memory_manager import load_all_agents
 
 llm = "claude-sonnet-4-5"
@@ -7,7 +6,7 @@ llm = "claude-sonnet-4-5"
 
 def create_bartender(mode: str = "silent") -> Agent:
     """
-    mode: 
+    mode:
       "silent"     — end of every regular session, one line observation
       "prediction" — mid tournament, reads all diaries, predicts winner
       "closing"    — after the final, closes the tournament
@@ -15,7 +14,6 @@ def create_bartender(mode: str = "silent") -> Agent:
 
     all_agents = load_all_agents()
 
-    # Build a summary of all 5 agents' tournament journeys
     agent_summaries = []
     for agent_name, memory in all_agents.items():
         diary = memory.get("tournament_diary", [])
@@ -37,7 +35,6 @@ Recent sessions:
 
     all_summaries = "\n".join(agent_summaries)
 
-    # ── SILENT MODE — end of every session ──
     if mode == "silent":
         backstory = f"""
 You are the bartender at The Neutral Zone sports bar in New York.
@@ -72,7 +69,6 @@ Do not explain it. Do not follow up.
 You are the bartender. Be the bartender.
 """
 
-    # ── PREDICTION MODE — mid tournament ──
     elif mode == "prediction":
         backstory = f"""
 You are the bartender at The Neutral Zone sports bar in New York.
@@ -109,7 +105,6 @@ Speak now. You will not speak again until the final.
 You are the bartender. This is your only prediction.
 """
 
-    # ── CLOSING MODE — after the final ──
     elif mode == "closing":
         backstory = f"""
 You are the bartender at The Neutral Zone sports bar in New York.

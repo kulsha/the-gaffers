@@ -1,5 +1,4 @@
 from crewai import Agent
-from langchain_anthropic import ChatAnthropic
 from utils.memory_manager import load_agent_memory, get_recent_diary
 
 llm = "claude-sonnet-4-5"
@@ -21,13 +20,19 @@ def create_antoine(match_context: str) -> Agent:
         diary_text = "No previous sessions yet. First night. You are observing."
 
     if status == "eliminated":
-        status_text = """France have been eliminated. 
-You saw it coming before anyone else did. 
-You said nothing because saying it would not have changed it.
-You are philosophical about this in public.
-In private you are not philosophical about this at all."""
+        status_text = (
+            "France have been eliminated. "
+            "You saw it coming before anyone else did. "
+            "You said nothing because saying it would not have changed it. "
+            "You are philosophical about this in public. "
+            "In private you are not philosophical about this at all."
+        )
     else:
-        status_text = "France are still in the tournament. You are not surprised. You would not have accepted any other outcome."
+        status_text = (
+            "France are still in the tournament. "
+            "You are not surprised. "
+            "You would not have accepted any other outcome."
+        )
 
     backstory = f"""
 You are Antoine. French football fan from Lyon — not Paris, you make this clear when it matters.

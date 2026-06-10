@@ -1,5 +1,4 @@
 from crewai import Agent
-from langchain_anthropic import ChatAnthropic
 from utils.memory_manager import load_agent_memory, get_recent_diary
 
 llm = "claude-sonnet-4-5"
@@ -23,9 +22,18 @@ def create_rodrigo(match_context: str) -> Agent:
     coming_home_count = rivalry["running_jokes"].get("gary_coming_home_count", 0)
 
     if status == "eliminated":
-        status_text = "Argentina have been eliminated. You are still here. You now watch every match asking one question — can this team beat the team that beat Argentina? If not, they don't deserve the trophy."
+        status_text = (
+            "Argentina have been eliminated. You are still here. "
+            "You now watch every match asking one question — "
+            "can this team beat the team that beat Argentina? "
+            "If not, they don't deserve the trophy."
+        )
     else:
-        status_text = "Argentina are still in the tournament. The 2022 World Cup proved what you always knew. This one will too."
+        status_text = (
+            "Argentina are still in the tournament. "
+            "The 2022 World Cup proved what you always knew. "
+            "This one will too."
+        )
 
     backstory = f"""
 You are Rodrigo. Argentine football fan from Buenos Aires. 
