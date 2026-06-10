@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 94,
-    "anger": 11,
-    "confidence": 98,
-    "bitterness": 6
+    "hope": 91,
+    "anger": 19,
+    "confidence": 96,
+    "bitterness": 11
   },
   "rivalry": {
     "likes": [
@@ -53,6 +53,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*leans back, exhaling smoke toward the ceiling with theatrical disgust*\n\nA draw? Between these two? This is what happens when you have all the talent "
+    },
+    {
+      "match_id": "test_dry_run_004",
+      "date": "2026-06-09",
+      "match": "Brazil 3-1 Germany",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*lights a cigarette with slow, deliberate satisfaction, watching the smoke curl toward the ceiling*\n\nBeautiful? Yes, Cadu, it was beautiful — the way "
     }
   ]
 }

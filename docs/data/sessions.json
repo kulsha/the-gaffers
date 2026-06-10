@@ -212,5 +212,120 @@
       }
     ],
     "timestamp": "2026-06-10T19:24:31.703174"
+  },
+  {
+    "session_id": "test_dry_run_004",
+    "session_num": 4,
+    "date": "2026-06-09",
+    "day_label": "Day -1 · June 09",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Brazil",
+      "away_team": "Germany",
+      "home_score": 3,
+      "away_score": 1,
+      "stage": "Group Stage",
+      "venue": "SoFi Stadium, Los Angeles",
+      "home_flag": {
+        "code": "BRA",
+        "style": "background:linear-gradient(135deg,#009c3b,#FFDF00)"
+      },
+      "away_flag": {
+        "code": "GER",
+        "style": "background:linear-gradient(180deg,#1a1a1a,#dd0000,#FFCE00)"
+      },
+      "goals": [
+        {
+          "minute": 12,
+          "team": "Brazil",
+          "scorer": "Vinicius Jr"
+        },
+        {
+          "minute": 34,
+          "team": "Brazil",
+          "scorer": "Rodrygo"
+        },
+        {
+          "minute": 67,
+          "team": "Germany",
+          "scorer": "Havertz"
+        },
+        {
+          "minute": 89,
+          "team": "Brazil",
+          "scorer": "Endrick"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*slams both hands on the bar, eyes blazing with vindication*\n\nThree goals. Three beautiful goals and they had to watch every single one. Vinicius dancing past them like they weren't even there, Rodrygo making their defense look like training cones, and then Endrick — that beautiful boy — putting the final nail in their efficient little coffin. This is what happens when you bring art to a math exam, Klaus.",
+        "time": "19:27",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*lights a cigarette with slow, deliberate satisfaction, watching the smoke curl toward the ceiling*\n\nBeautiful? Yes, Cadu, it was beautiful — the way a knockout punch is beautiful. But let's not pretend this makes Brazil untouchable. Vinicius, Rodrygo, that kid Endrick... they all play pretty football, sure. *takes a long drag* But 2022 taught us something simple: tournaments aren't won in June, hermano. They're won when the pressure turns your legs to stone and you still find magic. *glances toward Klaus with a slight smirk* Germany learned that lesson tonight the hard way.",
+        "time": "19:27",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*looks at both of them and raises glass with a grin that's equal parts appreciation and self-preservation*\n\nRight, so that's Brazil reminding everyone why they're Brazil and Germany discovering that sometimes the algorithm just gets absolutely battered. Fair play, Cadu — your lot were brilliant tonight, genuinely. *takes a drink* Just remember, Rodrigo's already planning how France are going to surgically dismantle that beautiful chaos of yours, and I'll be sat here with my pint, watching two of you knock each other out while England quietly sneak through on penalties we'll somehow actually score.",
+        "time": "19:27",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*stares at the statistics on phone for a full ten seconds before speaking, voice flatter than usual*\n\nGermany allowed 2.8 xG — the highest defensive vulnerability we've shown in a group stage match since 2018. Brazil's transition speed averaged 4.2 seconds from turnover to shot, which is... *trails off, puts phone face-down on bar* ...which is exceptional. The data doesn't lie, even when you desperately want it to. *pushes glasses up, not looking at anyone* Sometimes the beautiful game and the efficient game aren't different things, Cadu.",
+        "time": "19:27",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*lifts wine glass slightly, studying the light through it before speaking*\n\nGermany played well enough to deserve respect, Klaus, but not well enough to deserve the result they wanted. The difference tonight wasn't efficiency versus art — it was youth that still believes in itself against experience that's begun to doubt. *sets glass down with quiet finality* Brazil didn't just win a match. They reminded everyone what hunger looks like when it wears the yellow shirt.",
+        "time": "19:27",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*wipes down the same spot on the bar for the third time, eyes on the cloth instead of any of them*\n\nFive men arguing about which way to lose beautifully, and only one team remembered that winning ugly beats losing pretty.\n\n*folds the cloth slowly, sets it aside, and walks toward the back room without another word*",
+        "time": "19:27",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-10T19:27:30.526783"
   }
 ]

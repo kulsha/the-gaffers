@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 66,
-    "anger": 19,
-    "confidence": 56,
-    "bitterness": 42
+    "hope": 68,
+    "anger": 17,
+    "confidence": 57,
+    "bitterness": 41
   },
   "rivalry": {
     "likes": [
@@ -53,6 +53,15 @@
       "my_team_played": true,
       "team_result": "drew",
       "reaction_summary": "*takes a long drink and sets glass down carefully*\n\nRight, so we've gone from \"football's coming home\" to \"football's staying at the Holiday Inn for o"
+    },
+    {
+      "match_id": "test_dry_run_004",
+      "date": "2026-06-09",
+      "match": "Brazil 3-1 Germany",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*looks at both of them and raises glass with a grin that's equal parts appreciation and self-preservation*\n\nRight, so that's Brazil reminding everyone"
     }
   ]
 }

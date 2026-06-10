@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 79,
-    "anger": 11,
-    "confidence": 72,
-    "bitterness": 21
+    "hope": 89,
+    "anger": 6,
+    "confidence": 80,
+    "bitterness": 18
   },
   "rivalry": {
     "likes": [
@@ -51,6 +51,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*lights up a cigarette, shaking head with a knowing smile*\n\nBoth teams playing not to lose instead of playing to win — this is what happens when you l"
+    },
+    {
+      "match_id": "test_dry_run_004",
+      "date": "2026-06-09",
+      "match": "Brazil 3-1 Germany",
+      "stage": "Group Stage",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*slams both hands on the bar, eyes blazing with vindication*\n\nThree goals. Three beautiful goals and they had to watch every single one. Vinicius danc"
     }
   ]
 }

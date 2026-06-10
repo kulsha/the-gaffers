@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 77,
-    "anger": 8,
-    "confidence": 86,
-    "bitterness": 10
+    "hope": 79,
+    "anger": 6,
+    "confidence": 87,
+    "bitterness": 9
   },
   "rivalry": {
     "likes": [
@@ -53,6 +53,15 @@
       "my_team_played": true,
       "team_result": "drew",
       "reaction_summary": "*sets down wine glass with deliberate slowness*\n\nThe English defended as if protecting something they already had, which is always the first mistake. "
+    },
+    {
+      "match_id": "test_dry_run_004",
+      "date": "2026-06-09",
+      "match": "Brazil 3-1 Germany",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*lifts wine glass slightly, studying the light through it before speaking*\n\nGermany played well enough to deserve respect, Klaus, but not well enough "
     }
   ]
 }

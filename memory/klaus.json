@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 62,
-    "anger": 23,
-    "confidence": 69,
-    "bitterness": 21
+    "hope": 47,
+    "anger": 43,
+    "confidence": 59,
+    "bitterness": 33
   },
   "rivalry": {
     "likes": [
@@ -52,6 +52,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*scrolls through match statistics on phone, speaking without looking up*\n\nEngland's defensive shape collapsed exactly 6.2 meters deeper in the second "
+    },
+    {
+      "match_id": "test_dry_run_004",
+      "date": "2026-06-09",
+      "match": "Brazil 3-1 Germany",
+      "stage": "Group Stage",
+      "my_team_played": true,
+      "team_result": "lost",
+      "reaction_summary": "*stares at the statistics on phone for a full ten seconds before speaking, voice flatter than usual*\n\nGermany allowed 2.8 xG — the highest defensive v"
     }
   ]
 }
