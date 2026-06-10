@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 91,
-    "anger": 19,
-    "confidence": 96,
-    "bitterness": 11
+    "hope": 86,
+    "anger": 24,
+    "confidence": 93,
+    "bitterness": 14
   },
   "rivalry": {
     "likes": [
@@ -62,6 +62,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*lights a cigarette with slow, deliberate satisfaction, watching the smoke curl toward the ceiling*\n\nBeautiful? Yes, Cadu, it was beautiful — the way "
+    },
+    {
+      "match_id": "test_dry_run_005",
+      "date": "2026-06-09",
+      "match": "Argentina 2-2 France",
+      "stage": "Group Stage",
+      "my_team_played": true,
+      "team_result": "drew",
+      "reaction_summary": "*stubs out cigarette with controlled frustration, immediately lighting another*\n\nA draw against France feels like kissing your sister — technically fi"
     }
   ]
 }

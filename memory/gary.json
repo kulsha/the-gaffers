@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 68,
-    "anger": 17,
-    "confidence": 57,
-    "bitterness": 41
+    "hope": 70,
+    "anger": 15,
+    "confidence": 58,
+    "bitterness": 40
   },
   "rivalry": {
     "likes": [
@@ -62,6 +62,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*looks at both of them and raises glass with a grin that's equal parts appreciation and self-preservation*\n\nRight, so that's Brazil reminding everyone"
+    },
+    {
+      "match_id": "test_dry_run_005",
+      "date": "2026-06-09",
+      "match": "Argentina 2-2 France",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*watches both of them process the draw and can't help grinning*\n\nRight, so that's two of the biggest teams in world football sharing points like civil"
     }
   ]
 }

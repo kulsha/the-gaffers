@@ -327,5 +327,120 @@
       }
     ],
     "timestamp": "2026-06-10T19:27:30.526783"
+  },
+  {
+    "session_id": "test_dry_run_005",
+    "session_num": 5,
+    "date": "2026-06-09",
+    "day_label": "Day -1 · June 09",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Argentina",
+      "away_team": "France",
+      "home_score": 2,
+      "away_score": 2,
+      "stage": "Group Stage",
+      "venue": "AT&T Stadium, Dallas",
+      "home_flag": {
+        "code": "ARG",
+        "style": "background:linear-gradient(135deg,#4fa8d8,#ffffff)"
+      },
+      "away_flag": {
+        "code": "FRA",
+        "style": "background:linear-gradient(90deg,#002395 33%,#ffffff 33%,#ffffff 66%,#ED2939 66%)"
+      },
+      "goals": [
+        {
+          "minute": 18,
+          "team": "Argentina",
+          "scorer": "Messi"
+        },
+        {
+          "minute": 44,
+          "team": "France",
+          "scorer": "Mbappé"
+        },
+        {
+          "minute": 71,
+          "team": "Argentina",
+          "scorer": "Di María"
+        },
+        {
+          "minute": 90,
+          "team": "France",
+          "scorer": "Griezmann"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*lights another cigarette, exhaling slowly with a complicated expression*\n\nTwo beautiful teams playing beautiful football and somehow both of them drop points. Messi turning back time at 18 minutes, Mbappé answering like the prince he is, Di María with that left foot — *chef's kiss* — and then Griezmann ruins the poetry in the final breath. This is why football breaks your heart and you keep coming back for more.",
+        "time": "19:31",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*stubs out cigarette with controlled frustration, immediately lighting another*\n\nA draw against France feels like kissing your sister — technically fine, but nobody's celebrating. Messi opened them up like a letter from home, Di María gave us the lead we deserved, and then Griezmann steals two points in the 90th minute like some kind of French pickpocket. *blows smoke toward the ceiling* But this is the group stage, hermano — we save the real magic for when it matters, just like 2022.",
+        "time": "19:31",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*watches both of them process the draw and can't help grinning*\n\nRight, so that's two of the biggest teams in world football sharing points like civilized adults, which means England's Group B suddenly looks less terrifying and I should probably stop talking before I jinx it. *raises glass to both of them* That Griezmann equalizer though — proper gut punch that, the kind that makes you remember why you drink at these things.",
+        "time": "19:31",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*adjusts glasses, reviewing the match data on phone with an expression that's almost... troubled*\n\nFrance conceded 1.8 xG but only converted 0.9 — classic inefficiency from a team that should dominate possession phases better. Argentina's defensive transition speed dropped 23% after the 60th minute, which explains why Griezmann found that space. *pauses, looks up briefly* Gary, your group didn't get less terrifying — it got more chaotic, which for England is statistically worse.",
+        "time": "19:31",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*turns wine glass slowly, watching the others with that familiar calm*\n\nThe beautiful thing about a 2-2 draw between France and Argentina is that both teams will spend the next three days convincing themselves they deserved to win. *takes a sip* Griezmann's goal was not theft, Rodrigo — it was merely France refusing to accept a narrative written by someone else. This is what we do.",
+        "time": "19:31",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*sets down the glass I've been polishing for the last thirty seconds, looks at the five of them, then at the screen still showing the final score*\n\n*pause*\n\nMessi and Mbappé just gave you everything you came here for, and all five of you are sitting here upset about the ending.\n\n*walks back to the register without looking up*",
+        "time": "19:31",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-10T19:31:27.411940"
   }
 ]

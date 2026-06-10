@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 79,
-    "anger": 6,
-    "confidence": 87,
-    "bitterness": 9
+    "hope": 74,
+    "anger": 11,
+    "confidence": 84,
+    "bitterness": 12
   },
   "rivalry": {
     "likes": [
@@ -62,6 +62,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*lifts wine glass slightly, studying the light through it before speaking*\n\nGermany played well enough to deserve respect, Klaus, but not well enough "
+    },
+    {
+      "match_id": "test_dry_run_005",
+      "date": "2026-06-09",
+      "match": "Argentina 2-2 France",
+      "stage": "Group Stage",
+      "my_team_played": true,
+      "team_result": "drew",
+      "reaction_summary": "*turns wine glass slowly, watching the others with that familiar calm*\n\nThe beautiful thing about a 2-2 draw between France and Argentina is that both"
     }
   ]
 }

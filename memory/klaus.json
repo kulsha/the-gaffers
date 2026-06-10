@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 47,
-    "anger": 43,
-    "confidence": 59,
-    "bitterness": 33
+    "hope": 49,
+    "anger": 41,
+    "confidence": 60,
+    "bitterness": 32
   },
   "rivalry": {
     "likes": [
@@ -61,6 +61,15 @@
       "my_team_played": true,
       "team_result": "lost",
       "reaction_summary": "*stares at the statistics on phone for a full ten seconds before speaking, voice flatter than usual*\n\nGermany allowed 2.8 xG — the highest defensive v"
+    },
+    {
+      "match_id": "test_dry_run_005",
+      "date": "2026-06-09",
+      "match": "Argentina 2-2 France",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*adjusts glasses, reviewing the match data on phone with an expression that's almost... troubled*\n\nFrance conceded 1.8 xG but only converted 0.9 — cla"
     }
   ]
 }
