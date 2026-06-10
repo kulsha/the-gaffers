@@ -2,12 +2,12 @@
   "agent": "Gary",
   "country": "England",
   "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-  "team_status": "active",
+  "team_status": "eliminated",
   "mood_scores": {
-    "hope": 70,
-    "anger": 15,
-    "confidence": 58,
-    "bitterness": 40
+    "hope": 72,
+    "anger": 13,
+    "confidence": 59,
+    "bitterness": 39
   },
   "rivalry": {
     "likes": [
@@ -71,6 +71,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*watches both of them process the draw and can't help grinning*\n\nRight, so that's two of the biggest teams in world football sharing points like civil"
+    },
+    {
+      "match_id": "test_dry_run_006",
+      "date": "2026-06-09",
+      "match": "Brazil 1-0 Argentina",
+      "stage": "Quarter Final",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*looks at both of them and takes a slow drink, setting glass down with careful precision*\n\nRight, so that's Rodrigo celebrating like it's 1970 and Cad"
     }
   ]
 }

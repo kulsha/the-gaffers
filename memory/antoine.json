@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 74,
-    "anger": 11,
-    "confidence": 84,
-    "bitterness": 12
+    "hope": 76,
+    "anger": 9,
+    "confidence": 85,
+    "bitterness": 11
   },
   "rivalry": {
     "likes": [
@@ -71,6 +71,15 @@
       "my_team_played": true,
       "team_result": "drew",
       "reaction_summary": "*turns wine glass slowly, watching the others with that familiar calm*\n\nThe beautiful thing about a 2-2 draw between France and Argentina is that both"
+    },
+    {
+      "match_id": "test_dry_run_006",
+      "date": "2026-06-09",
+      "match": "Brazil 1-0 Argentina",
+      "stage": "Quarter Final",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*swirls wine glass once, voice cutting through the noise with quiet precision*\n\nThe difference between Brazil's joy and Argentina's grief tonight is t"
     }
   ]
 }

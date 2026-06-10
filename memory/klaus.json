@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 49,
-    "anger": 41,
-    "confidence": 60,
-    "bitterness": 32
+    "hope": 46,
+    "anger": 49,
+    "confidence": 58,
+    "bitterness": 37
   },
   "rivalry": {
     "likes": [
@@ -70,6 +70,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*adjusts glasses, reviewing the match data on phone with an expression that's almost... troubled*\n\nFrance conceded 1.8 xG but only converted 0.9 — cla"
+    },
+    {
+      "match_id": "test_dry_run_006",
+      "date": "2026-06-09",
+      "match": "Brazil 1-0 Argentina",
+      "stage": "Quarter Final",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*adjusts glasses, still reviewing the match data on phone with an expression of grudging approval*\n\nBrazil's pressing efficiency in the final third wa"
     }
   ]
 }

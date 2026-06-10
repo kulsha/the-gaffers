@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 91,
-    "anger": 4,
-    "confidence": 81,
-    "bitterness": 17
+    "hope": 100,
+    "anger": 0,
+    "confidence": 89,
+    "bitterness": 14
   },
   "rivalry": {
     "likes": [
@@ -69,6 +69,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*lights another cigarette, exhaling slowly with a complicated expression*\n\nTwo beautiful teams playing beautiful football and somehow both of them dro"
+    },
+    {
+      "match_id": "test_dry_run_006",
+      "date": "2026-06-09",
+      "match": "Brazil 1-0 Argentina",
+      "stage": "Quarter Final",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*stands up from the stool, hands trembling as he raises his cachaça to the ceiling*\n\nVinicius Jr. against Argentina. In a quarterfinal. The poetry of "
     }
   ]
 }

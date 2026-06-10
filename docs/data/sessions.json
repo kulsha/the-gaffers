@@ -442,5 +442,105 @@
       }
     ],
     "timestamp": "2026-06-10T19:31:27.411940"
+  },
+  {
+    "session_id": "test_dry_run_006",
+    "session_num": 6,
+    "date": "2026-06-09",
+    "day_label": "Day -1 · June 09",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Brazil",
+      "away_team": "Argentina",
+      "home_score": 1,
+      "away_score": 0,
+      "stage": "Quarter Final",
+      "venue": "MetLife Stadium, New Jersey",
+      "home_flag": {
+        "code": "BRA",
+        "style": "background:linear-gradient(135deg,#009c3b,#FFDF00)"
+      },
+      "away_flag": {
+        "code": "ARG",
+        "style": "background:linear-gradient(135deg,#4fa8d8,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 55,
+          "team": "Brazil",
+          "scorer": "Vinicius Jr"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*stands up from the stool, hands trembling as he raises his cachaça to the ceiling*\n\nVinicius Jr. against Argentina. In a quarterfinal. The poetry of it — the boy who dances with the ball sends Messi home. *turns to where Rodrigo usually sits, voice thick with emotion* This one's for every time you told me our football was dead, that the beautiful game died in 2014. Tonight she lives, meu irmão. Tonight she fucking lives.",
+        "time": "20:00",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*crushes cigarette into ashtray with enough force to crack it, stands slowly with both hands flat on the bar*\n\nOne goal. One fucking goal and you act like you've won the World Cup again — oh wait, you haven't done that since before I was born. *voice drops, quieter but sharper* Messi elevated everyone around him to glory in 2022. Your Vinicius? He'll never know what that weight feels like.",
+        "time": "20:00",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*looks at both of them and takes a slow drink, setting glass down with careful precision*\n\nRight, so that's Rodrigo celebrating like it's 1970 and Cadu pretending twenty-two World Cups don't count because they happened before he was born. *slight grin despite himself* At least when you two are busy destroying each other, the rest of us get to watch proper football — even if it does remind me that England would've lost to both of you by now anyway.",
+        "time": "20:00",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*adjusts glasses, still reviewing the match data on phone with an expression of grudging approval*\n\nBrazil's pressing efficiency in the final third was 41% — highest of the tournament so far — and it forced Argentina into 23 unforced errors, twelve more than their average. *glances up at Rodrigo, then back to screen* Vinicius Jr. completed 7 of 9 dribbles with a 91% pass completion rate under pressure. The data says what Cadu is feeling — this wasn't luck, it was systematic dismantling.",
+        "time": "20:00",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*swirls wine glass once, voice cutting through the noise with quiet precision*\n\nThe difference between Brazil's joy and Argentina's grief tonight is the same difference that exists in all football — one team remembered they were supposed to win, and the other forgot they could lose. *sets glass down, meets Rodrigo's eyes across the bar* Vinicius didn't just score against Argentina. He scored against the weight of expectation itself, which is something Messi carried alone for too long.",
+        "time": "20:00",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*wipes down the same spot on the bar three times, not looking up*\n\nFunny how the loudest celebration in here tonight came from the guy who never had to watch his hero leave.",
+        "time": "20:00",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-10T20:00:52.004306"
   }
 ]
