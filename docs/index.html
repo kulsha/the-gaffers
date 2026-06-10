@@ -10,7 +10,7 @@
 *{margin:0;padding:0;box-sizing:border-box;}
 html{scroll-behavior:smooth;}
 body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;font-size:15px;min-height:100vh;overflow-x:hidden;}
-
+ 
 /* ── HERO ── */
 .hero{position:relative;height:100vh;min-height:600px;display:flex;flex-direction:column;justify-content:flex-end;overflow:hidden;cursor:pointer;}
 .hero-bg{position:absolute;inset:0;background:radial-gradient(ellipse 120% 80% at 50% 110%,#0d3d1a 0%,transparent 60%),radial-gradient(ellipse 80% 60% at 30% 80%,#0a2d14 0%,transparent 50%),linear-gradient(180deg,#080810 0%,#0a1520 40%,#0d2d18 70%,#0a1f10 100%);}
@@ -41,12 +41,13 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .hero-stat-label{font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:2px;color:rgba(255,255,255,0.62);text-transform:uppercase;}
 .scroll-cta{position:absolute;bottom:28px;left:50%;transform:translateX(-50%);font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:3px;color:rgba(255,255,255,0.75);text-transform:uppercase;display:flex;flex-direction:column;align-items:center;gap:6px;animation:bounce 2s infinite;z-index:10;}
 @keyframes bounce{0%,100%{transform:translateX(-50%) translateY(0);}50%{transform:translateX(-50%) translateY(6px);}}
-
+ 
 /* ── SITE HEADER ── */
 .site-header{position:sticky;top:0;z-index:100;background:rgba(8,8,16,0.96);backdrop-filter:blur(20px);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 24px;height:60px;gap:24px;}
 .site-logo{font-family:'Bebas Neue',sans-serif;font-size:24px;color:var(--white);letter-spacing:2px;flex-shrink:0;display:flex;align-items:center;gap:8px;}
 .site-logo span{color:var(--gold);}
 .day-tabs-wrapper{flex:1;position:relative;overflow:hidden;display:flex;align-items:center;}
+.day-tabs-fade-left{position:absolute;left:0;top:0;bottom:0;width:60px;background:linear-gradient(270deg,transparent,rgba(8,8,16,0.96));pointer-events:none;display:flex;align-items:center;justify-content:flex-start;padding-left:8px;z-index:1;}
 .day-tabs{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;scroll-behavior:smooth;}
 .day-tabs::-webkit-scrollbar{display:none;}
 .day-tabs-fade{position:absolute;right:0;top:0;bottom:0;width:60px;background:linear-gradient(90deg,transparent,rgba(8,8,16,0.96));pointer-events:none;display:flex;align-items:center;justify-content:flex-end;padding-right:8px;}
@@ -58,7 +59,7 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .live-indicator{display:flex;align-items:center;gap:6px;font-family:'JetBrains Mono',monospace;font-size:9px;color:var(--green);letter-spacing:2px;text-transform:uppercase;flex-shrink:0;}
 .live-dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:pulse 2s infinite;box-shadow:0 0 8px var(--green);}
 @keyframes pulse{0%,100%{opacity:1;}50%{opacity:0.3;}}
-
+ 
 /* ── DAY PAGES ── */
 .day-page{display:none;}
 .day-page.active{display:block;}
@@ -71,7 +72,7 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .day-stat{display:flex;flex-direction:column;gap:3px;}
 .day-stat-num{font-family:'Bebas Neue',sans-serif;font-size:28px;color:var(--gold);line-height:1;}
 .day-stat-label{font-family:'JetBrains Mono',monospace;font-size:8px;letter-spacing:2px;color:rgba(255,255,255,0.38);text-transform:uppercase;}
-
+ 
 /* ── AGENTS STRIP ── */
 .agents-strip{padding:0 60px;margin-bottom:40px;}
 .agents-strip-label{font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:4px;color:rgba(255,255,255,0.38);text-transform:uppercase;margin-bottom:14px;}
@@ -89,7 +90,7 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .status-active{color:var(--green);}
 .status-eliminated{color:var(--red);}
 .status-bitter{color:#e08c52;}
-
+ 
 /* ── SESSION BLOCK ── */
 .session-block{margin:0 60px 56px;}
 .session-tag{display:flex;align-items:center;gap:16px;margin-bottom:20px;}
@@ -98,7 +99,7 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .session-tag-label{font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:3px;color:var(--muted);text-transform:uppercase;}
 .session-tag-num{font-family:'Bebas Neue',sans-serif;font-size:14px;color:var(--gold);letter-spacing:1px;}
 .session-separator{margin:0 60px 48px;height:1px;background:linear-gradient(90deg,transparent,rgba(212,168,67,0.15),transparent);}
-
+ 
 /* ── MATCH CARD ── */
 .match-card{background:var(--surface);border:1px solid var(--border);padding:24px 28px;margin-bottom:28px;display:flex;align-items:center;gap:28px;position:relative;overflow:hidden;}
 .match-card::before{content:'⚽';position:absolute;right:20px;top:50%;transform:translateY(-50%);font-size:70px;opacity:0.04;pointer-events:none;}
@@ -115,7 +116,7 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .match-event{font-family:'JetBrains Mono',monospace;font-size:10px;color:rgba(255,255,255,0.42);display:flex;align-items:center;gap:6px;}
 .match-event.goal{color:var(--green);}
 .match-event.red{color:var(--red);}
-
+ 
 /* ── CONVERSATION ── */
 .conversation{display:flex;flex-direction:column;}
 .msg{display:flex;gap:18px;padding:20px 0;border-bottom:1px solid rgba(255,255,255,0.04);}
@@ -126,33 +127,33 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .msg-body{flex:1;}
 .msg-top{display:flex;align-items:baseline;gap:10px;margin-bottom:7px;flex-wrap:wrap;}
 .msg-name{font-family:'Unbounded',sans-serif;font-size:12px;font-weight:700;color:var(--white);}
-.msg-country{font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:2px;text-transform:uppercase;opacity:0.7;}
+.msg-country{font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:2px;text-transform:uppercase;color:rgba(255,255,255,0.45);}
 .msg-time{font-family:'JetBrains Mono',monospace;font-size:9px;color:rgba(255,255,255,0.22);margin-left:auto;}
 .msg-text{font-size:15px;color:rgba(255,255,255,0.78);line-height:1.8;}
 .msg-text strong{color:var(--white);font-weight:500;}
 .msg-text em{color:rgba(255,255,255,0.95);font-style:italic;}
 .msg.bartender-msg{background:linear-gradient(135deg,rgba(212,168,67,0.06),rgba(212,168,67,0.02));border:1px solid rgba(212,168,67,0.12);padding:20px 24px;margin-top:8px;}
 .msg.bartender-msg .msg-text{color:rgba(212,168,67,0.88);font-style:italic;font-size:14px;}
-
+ 
 /* ── BARTENDER STRIP ── */
 .bartender-strip{margin:0 60px 80px;padding:28px 36px;background:var(--surface);border:1px solid rgba(212,168,67,0.1);display:flex;align-items:center;gap:28px;}
 .bartender-strip-icon{font-size:36px;}
 .bartender-strip-title{font-family:'Bebas Neue',sans-serif;font-size:26px;color:var(--gold);letter-spacing:1px;margin-bottom:4px;}
 .bartender-strip-text{font-size:14px;color:rgba(255,255,255,0.55);font-style:italic;line-height:1.65;}
 .bartender-strip-lock{margin-left:auto;flex-shrink:0;font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:2px;color:rgba(255,255,255,0.38);text-transform:uppercase;text-align:center;border:1px solid var(--border);padding:12px 20px;line-height:2.2;}
-
+ 
 /* ── EMPTY STATE ── */
 .no-sessions{padding:80px 60px;text-align:center;}
 .no-sessions-title{font-family:'Bebas Neue',sans-serif;font-size:48px;color:var(--white);letter-spacing:2px;margin-bottom:12px;}
 .no-sessions-sub{font-size:15px;color:rgba(255,255,255,0.4);font-style:italic;line-height:1.8;}
-
+ 
 ::-webkit-scrollbar{width:4px;}
 ::-webkit-scrollbar-track{background:transparent;}
 ::-webkit-scrollbar-thumb{background:var(--surface2);}
 </style>
 </head>
 <body>
-
+ 
 <!-- HERO -->
 <section class="hero" onclick="document.getElementById('site').scrollIntoView({behavior:'smooth'})">
   <div class="hero-bg"></div>
@@ -207,12 +208,15 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
   </div>
   <div class="scroll-cta"><span>Enter The Bar</span><span>↓</span></div>
 </section>
-
+ 
 <!-- MAIN SITE -->
 <div id="site">
   <header class="site-header">
     <div class="site-logo">⚽ <span>The</span> Gaffers</div>
     <div class="day-tabs-wrapper">
+      <div class="day-tabs-fade-left">
+        <div class="day-tabs-arrow" onclick="document.getElementById('dayTabs').scrollBy({left:-200,behavior:'smooth'})">‹</div>
+      </div>
       <div class="day-tabs" id="dayTabs"></div>
       <div class="day-tabs-fade">
         <div class="day-tabs-arrow" onclick="document.getElementById('dayTabs').scrollBy({left:200,behavior:'smooth'})">›</div>
@@ -222,18 +226,15 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
   </header>
   <div id="dayContent"></div>
 </div>
-
+ 
 <script>
-// ── CONFIG ──
 const TOURNAMENT_START = new Date('2026-06-11');
 const MATCHES_FOR_PREDICTION = 32;
 const MATCHES_FOR_CLOSING = 104;
-
-// ── DATA ──
+ 
 let sessionsData = [];
 let agentsData = [];
-
-// ── INIT ──
+ 
 async function init() {
   try {
     const [sRes, aRes] = await Promise.all([
@@ -251,33 +252,30 @@ async function init() {
   renderLatestDay();
   buildParticles();
 }
-
-// ── HERO STATS ──
+ 
 function updateHeroStats() {
-  document.getElementById('heroSessions').innerHTML =
-    `<span>${sessionsData.length}</span>`;
+  document.getElementById('heroSessions').innerHTML = `<span>${sessionsData.length}</span>`;
   const predictionMade = sessionsData.some(s => s.bartender_mode === 'prediction');
   document.getElementById('heroBartender').textContent = predictionMade ? '✓' : '🔒';
 }
-
-// ── DAY TABS ──
+ 
 function buildDayTabs() {
   const tabsEl = document.getElementById('dayTabs');
   tabsEl.innerHTML = '';
-
+ 
   if (sessionsData.length === 0) {
     tabsEl.innerHTML = `<div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:rgba(255,255,255,0.3);letter-spacing:2px;padding:8px 16px;">AWAITING FIRST MATCH · JUN 11</div>`;
     return;
   }
-
+ 
   const dayMap = groupByDay(sessionsData);
   const sortedDates = Object.keys(dayMap).sort();
-
-  sortedDates.forEach((date, index) => {
+ 
+  sortedDates.forEach((date) => {
     const dayNum = getDayNumber(date);
     const dateLabel = formatDateShort(date);
     const count = dayMap[date].length;
-
+ 
     const btn = document.createElement('button');
     btn.className = 'day-tab';
     btn.setAttribute('data-date', date);
@@ -286,28 +284,28 @@ function buildDayTabs() {
     btn.onclick = () => showDay(date, btn);
     tabsEl.appendChild(btn);
   });
-
+ 
   // Activate latest day
   const tabs = tabsEl.querySelectorAll('.day-tab');
   if (tabs.length > 0) tabs[tabs.length - 1].classList.add('active');
-
+ 
+  // Auto-scroll to latest day tab
+  const latestTab = tabs[tabs.length - 1];
+  if (latestTab) latestTab.scrollIntoView({behavior:'smooth', block:'nearest', inline:'end'});
+ 
   // Update live label
   const latestDate = sortedDates[sortedDates.length - 1];
   const latestDayNum = getDayNumber(latestDate);
   document.getElementById('liveLabel').textContent =
     latestDayNum > 0 ? `Live · Day ${latestDayNum}` : 'Live';
 }
-
-// ── RENDER LATEST DAY ──
+ 
 function renderLatestDay() {
   if (sessionsData.length === 0) {
     document.getElementById('dayContent').innerHTML = `
       <div class="no-sessions">
         <div class="no-sessions-title">The Bar Opens June 11</div>
-        <div class="no-sessions-sub">
-          First match. First session. First argument.<br/>
-          Come back when the tournament starts.
-        </div>
+        <div class="no-sessions-sub">First match. First session. First argument.<br/>Come back when the tournament starts.</div>
       </div>`;
     return;
   }
@@ -316,8 +314,7 @@ function renderLatestDay() {
   const latestDate = sortedDates[sortedDates.length - 1];
   renderDay(latestDate, dayMap[latestDate]);
 }
-
-// ── SHOW DAY ──
+ 
 function showDay(date, btn) {
   document.querySelectorAll('.day-tab').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
@@ -325,27 +322,25 @@ function showDay(date, btn) {
   renderDay(date, dayMap[date] || []);
   document.getElementById('site').scrollIntoView({behavior:'smooth'});
 }
-
-// ── RENDER DAY ──
+ 
 function renderDay(date, sessions) {
   const dayNum = getDayNumber(date);
   const dateFormatted = formatDateLong(date);
   const totalReactions = sessions.length * 5;
-
-  // Bartender spoke count — prediction or closing mode only
   const bartenderSpoke = sessions.filter(s =>
     s.bartender_mode === 'prediction' || s.bartender_mode === 'closing'
   ).length;
-
-  // Day titles
+ 
   const dayTitles = {
     1:'The Tournament Begins', 2:'Morning After',
     3:'The Bar Settles In', 4:'Familiar Faces',
     5:'Halfway Through The Week', 6:'The Weekend',
-    7:'One Week In'
+    7:'One Week In', 8:'Second Week', 16:'Group Stage Finale',
+    17:'Round of 32 Begins', 24:'Round of 16',
+    28:'Quarter Finals', 31:'Semi Finals', 34:'The Final'
   };
   const dayTitle = dayTitles[dayNum] || `Day ${dayNum}`;
-
+ 
   let html = `
     <div class="day-header">
       <div class="day-header-bg"></div>
@@ -360,29 +355,25 @@ function renderDay(date, sessions) {
       </div>
     </div>
     ${buildAgentsStrip()}`;
-
+ 
   sessions.forEach((session, idx) => {
     if (idx > 0) html += `<div class="session-separator"></div>`;
     html += buildSession(session);
   });
-
+ 
   html += buildBartenderStrip();
   document.getElementById('dayContent').innerHTML = html;
 }
-
-// ── AGENTS STRIP ──
+ 
 function buildAgentsStrip() {
   if (!agentsData || agentsData.length === 0) return '';
   const fans = agentsData.filter(a => a.name !== 'The Bartender');
-
   const chips = fans.map(a => {
     const statusClass = a.team_status === 'eliminated' ? 'status-eliminated' :
                         a.team_status === 'bitter' ? 'status-bitter' : 'status-active';
-    // No mood label — just country and record
     const statusText = a.team_status === 'eliminated'
       ? `${a.country} · Eliminated`
       : `${a.country} · ${a.record || 'W0 D0 L0'}`;
-
     return `
       <div class="agent-chip">
         <div class="agent-flag-badge ${a.flag_class}">${a.flag_code}</div>
@@ -392,36 +383,30 @@ function buildAgentsStrip() {
         </div>
       </div>`;
   }).join('');
-
   return `
     <div class="agents-strip">
       <div class="agents-strip-label">At The Bar</div>
       <div class="agents-row">${chips}</div>
     </div>`;
 }
-
-// ── BUILD SESSION ──
+ 
 function buildSession(session) {
   const m = session.match;
   const hf = m.home_flag || {code: m.home_team.substring(0,3).toUpperCase(), style:'background:#333355'};
   const af = m.away_flag || {code: m.away_team.substring(0,3).toUpperCase(), style:'background:#333355'};
-
+ 
   let eventsHtml = '';
   if (m.goals && m.goals.length > 0) {
-    m.goals.forEach(g => {
-      eventsHtml += `<div class="match-event goal">⚽ ${g.scorer} ${g.minute}'</div>`;
-    });
+    m.goals.forEach(g => { eventsHtml += `<div class="match-event goal">⚽ ${g.scorer} ${g.minute}'</div>`; });
   } else {
     eventsHtml += `<div class="match-event">No goals scored</div>`;
   }
   if (m.red_cards && m.red_cards.length > 0) {
-    m.red_cards.forEach(r => {
-      eventsHtml += `<div class="match-event red">🟥 ${r.player} ${r.minute}'</div>`;
-    });
+    m.red_cards.forEach(r => { eventsHtml += `<div class="match-event red">🟥 ${r.player} ${r.minute}'</div>`; });
   }
-
+ 
   const messagesHtml = (session.messages || []).map(msg => buildMessage(msg)).join('');
-
+ 
   return `
     <div class="session-block">
       <div class="session-tag">
@@ -453,8 +438,7 @@ function buildSession(session) {
       <div class="conversation">${messagesHtml}</div>
     </div>`;
 }
-
-// ── BUILD MESSAGE ──
+ 
 function buildMessage(msg) {
   if (msg.is_bartender) {
     return `
@@ -485,14 +469,13 @@ function buildMessage(msg) {
       </div>
     </div>`;
 }
-
-// ── BARTENDER STRIP ──
+ 
 function buildBartenderStrip() {
   const total = sessionsData.length;
   const remaining = Math.max(0, MATCHES_FOR_PREDICTION - total);
   const predictionMade = sessionsData.some(s => s.bartender_mode === 'prediction');
   const tournamentOver = total >= MATCHES_FOR_CLOSING;
-
+ 
   if (tournamentOver) {
     return `
       <div class="bartender-strip">
@@ -527,8 +510,7 @@ function buildBartenderStrip() {
       </div>
     </div>`;
 }
-
-// ── HELPERS ──
+ 
 function groupByDay(sessions) {
   const map = {};
   sessions.forEach(s => {
@@ -537,38 +519,36 @@ function groupByDay(sessions) {
   });
   return map;
 }
-
+ 
 function getDayNumber(dateStr) {
   const d = new Date(dateStr + 'T12:00:00');
   const diff = Math.floor((d - TOURNAMENT_START) / (1000*60*60*24));
   return diff + 1;
 }
-
+ 
 function formatDateShort(dateStr) {
   const d = new Date(dateStr + 'T12:00:00');
   return d.toLocaleDateString('en-US', {month:'short', day:'numeric'});
 }
-
+ 
 function formatDateLong(dateStr) {
   const d = new Date(dateStr + 'T12:00:00');
   return d.toLocaleDateString('en-US', {weekday:'long', month:'long', day:'numeric', year:'numeric'});
 }
-
+ 
 function formatText(text) {
   if (!text) return '';
-  // Escape HTML first
   let t = text
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;');
-  // Then apply markdown
   t = t
     .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.*?)\*/g, '<em>$1</em>')
     .replace(/\n/g, '<br/>');
   return t;
 }
-
+ 
 function buildParticles() {
   const c = document.getElementById('particles');
   for(let i=0;i<22;i++){
@@ -583,8 +563,7 @@ function buildParticles() {
     c.appendChild(p);
   }
 }
-
-// ── START ──
+ 
 init();
 </script>
 </body>
