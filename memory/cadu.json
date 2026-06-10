@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 77,
-    "anger": 13,
-    "confidence": 71,
-    "bitterness": 22
+    "hope": 79,
+    "anger": 11,
+    "confidence": 72,
+    "bitterness": 21
   },
   "rivalry": {
     "likes": [
@@ -21,7 +21,7 @@
       "Rodrigo being insufferable about 2022"
     ],
     "running_jokes": {
-      "gary_coming_home_count": 0
+      "gary_coming_home_count": 1
     }
   },
   "tournament_diary": [
@@ -42,6 +42,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*leans back with a complicated smile, swirling cachaça*\n\nMessi again. Of course it's Messi. The Germans with all their efficiency, all their systems, "
+    },
+    {
+      "match_id": "test_dry_run_003",
+      "date": "2026-06-09",
+      "match": "England 1-1 France",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*lights up a cigarette, shaking head with a knowing smile*\n\nBoth teams playing not to lose instead of playing to win — this is what happens when you l"
     }
   ]
 }

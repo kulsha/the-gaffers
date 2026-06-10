@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 92,
-    "anger": 13,
-    "confidence": 97,
-    "bitterness": 7
+    "hope": 94,
+    "anger": 11,
+    "confidence": 98,
+    "bitterness": 6
   },
   "rivalry": {
     "likes": [
@@ -23,7 +23,7 @@
       "Gary saying football's coming home"
     ],
     "running_jokes": {
-      "gary_coming_home_count": 0
+      "gary_coming_home_count": 1
     }
   },
   "tournament_diary": [
@@ -44,6 +44,15 @@
       "my_team_played": true,
       "team_result": "won",
       "reaction_summary": "*stands up, arms spread wide, voice carrying across the bar*\n\nMAGIC? Cadu, you finally said something true! Messi doesn't just score — he reminds the "
+    },
+    {
+      "match_id": "test_dry_run_003",
+      "date": "2026-06-09",
+      "match": "England 1-1 France",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*leans back, exhaling smoke toward the ceiling with theatrical disgust*\n\nA draw? Between these two? This is what happens when you have all the talent "
     }
   ]
 }

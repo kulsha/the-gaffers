@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 82,
-    "anger": 3,
-    "confidence": 89,
-    "bitterness": 7
+    "hope": 77,
+    "anger": 8,
+    "confidence": 86,
+    "bitterness": 10
   },
   "rivalry": {
     "likes": [
@@ -23,7 +23,7 @@
       "Results being called lucky"
     ],
     "running_jokes": {
-      "gary_coming_home_count": 0
+      "gary_coming_home_count": 1
     }
   },
   "tournament_diary": [
@@ -44,6 +44,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*quiet for a long moment, watching Klaus set down his phone*\n\nThe data tells you *how* you lost, Klaus, but never *why*. Germany played well enough to"
+    },
+    {
+      "match_id": "test_dry_run_003",
+      "date": "2026-06-09",
+      "match": "England 1-1 France",
+      "stage": "Group Stage",
+      "my_team_played": true,
+      "team_result": "drew",
+      "reaction_summary": "*sets down wine glass with deliberate slowness*\n\nThe English defended as if protecting something they already had, which is always the first mistake. "
     }
   ]
 }

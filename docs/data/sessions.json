@@ -107,5 +107,110 @@
       }
     ],
     "timestamp": "2026-06-08T00:50:29.790303"
+  },
+  {
+    "session_id": "test_dry_run_003",
+    "session_num": 3,
+    "date": "2026-06-09",
+    "day_label": "Day -1 · June 09",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "England",
+      "away_team": "France",
+      "home_score": 1,
+      "away_score": 1,
+      "stage": "Group Stage",
+      "venue": "MetLife Stadium, New Jersey",
+      "home_flag": {
+        "code": "ENG",
+        "style": "background:#cf081f"
+      },
+      "away_flag": {
+        "code": "FRA",
+        "style": "background:linear-gradient(90deg,#002395 33%,#ffffff 33%,#ffffff 66%,#ED2939 66%)"
+      },
+      "goals": [
+        {
+          "minute": 45,
+          "team": "England",
+          "scorer": "Bellingham"
+        },
+        {
+          "minute": 78,
+          "team": "France",
+          "scorer": "Mbappé"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*lights up a cigarette, shaking head with a knowing smile*\n\nBoth teams playing not to lose instead of playing to win — this is what happens when you let fear drive the bus. Mbappé though... that goal at 78 minutes, *chef's kiss*, pure electricity against a defense that had been sleeping comfortable. England got saved by the draw, France wasted their chance to make a statement. Nobody wins when everyone's afraid to be beautiful.",
+        "time": "19:24",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*leans back, exhaling smoke toward the ceiling with theatrical disgust*\n\nA draw? Between these two? This is what happens when you have all the talent in the world but none of the *cojones* to use it. Mbappé scores a beauty and then what — they park the bus like it's a friendly? Cadu's right for once — fear killed this match before it could become anything worth remembering. In 2022, we didn't play for draws, hermano, we played to make history.",
+        "time": "19:24",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*takes a long drink and sets glass down carefully*\n\nRight, so we've gone from \"football's coming home\" to \"football's staying at the Holiday Inn for one more night.\" Bellingham scores a worldie right before half-time, we hang on for dear life for seventy-eight minutes, and then Mbappé does what Mbappé does because of course he does. Point earned, pride somewhat intact, and I've already heard three separate people tell me a draw against France is basically a win — which tells you everything you need to know about where we actually are, doesn't it?",
+        "time": "19:24",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*scrolls through match statistics on phone, speaking without looking up*\n\nEngland's defensive shape collapsed exactly 6.2 meters deeper in the second half — Southgate's famous conservatism transformed a controlled performance into statistical inevitability. France generated 1.7 xG after the 60th minute alone compared to 0.9 in the entire first half, which means Gary, your \"point earned\" is actually two points surrendered through tactical cowardice. The data doesn't care about your feelings, but it does care about defensive compactness under pressure, and England's evaporated the moment they decided to protect instead of play.",
+        "time": "19:24",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*sets down wine glass with deliberate slowness*\n\nThe English defended as if protecting something they already had, which is always the first mistake. France attacked as if they had all the time in the world, which was the second. Both teams left with what they deserved — a point that satisfies no one and proves nothing except that fear is contagious, even at the highest level.",
+        "time": "19:24",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*wipes down the same spot on the bar three times, watching Gary stare into his half-empty glass while Klaus puts his phone away for once*\n\nYou all came in here hoping to see a winner. \n\n*pauses, folds the towel*\n\nInstead you got a mirror.",
+        "time": "19:24",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-10T19:24:31.703174"
   }
 ]

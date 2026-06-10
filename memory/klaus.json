@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 60,
-    "anger": 25,
-    "confidence": 68,
-    "bitterness": 22
+    "hope": 62,
+    "anger": 23,
+    "confidence": 69,
+    "bitterness": 21
   },
   "rivalry": {
     "likes": [
@@ -22,7 +22,7 @@
       "Cadu being poetic about football"
     ],
     "running_jokes": {
-      "gary_coming_home_count": 0
+      "gary_coming_home_count": 1
     }
   },
   "tournament_diary": [
@@ -43,6 +43,15 @@
       "my_team_played": true,
       "team_result": "lost",
       "reaction_summary": "*adjusts glasses, staring at the statistical breakdown on phone*\n\nGermany had 62% possession, 2.1 xG to Argentina's 1.4, completed 89% of passes in th"
+    },
+    {
+      "match_id": "test_dry_run_003",
+      "date": "2026-06-09",
+      "match": "England 1-1 France",
+      "stage": "Group Stage",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*scrolls through match statistics on phone, speaking without looking up*\n\nEngland's defensive shape collapsed exactly 6.2 meters deeper in the second "
     }
   ]
 }
