@@ -4,89 +4,18 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "anger": 0,
-    "confidence": 97,
-    "bitterness": 11
+    "hope": 70,
+    "confidence": 65,
+    "anger": 10,
+    "bitterness": 20
   },
   "rivalry": {
-    "likes": [
-      "France"
-    ],
-    "dislikes": [
-      "Argentina"
-    ],
-    "triggered_by": [
-      "Anyone mentioning the 7-1",
-      "Rodrigo being insufferable about 2022"
-    ],
+    "likes": ["France"],
+    "dislikes": ["Argentina"],
+    "triggered_by": [],
     "running_jokes": {
-      "gary_coming_home_count": 1
+      "gary_coming_home_count": 0
     }
   },
-  "tournament_diary": [
-    {
-      "match_id": "test_dry_run_001",
-      "date": "2026-06-07",
-      "match": "Brazil 2-1 France",
-      "stage": "Group Stage",
-      "my_team_played": true,
-      "team_result": "won",
-      "reaction_summary": "Rodrygo in the 88th minute! *slams hand on bar* That's what I'm talking about — jogo bonito when it matters most, not those German robots calculating "
-    },
-    {
-      "match_id": "test_dry_run_002",
-      "date": "2026-06-08",
-      "match": "Germany 1-2 Argentina",
-      "stage": "Group Stage",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "*leans back with a complicated smile, swirling cachaça*\n\nMessi again. Of course it's Messi. The Germans with all their efficiency, all their systems, "
-    },
-    {
-      "match_id": "test_dry_run_003",
-      "date": "2026-06-09",
-      "match": "England 1-1 France",
-      "stage": "Group Stage",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "*lights up a cigarette, shaking head with a knowing smile*\n\nBoth teams playing not to lose instead of playing to win — this is what happens when you l"
-    },
-    {
-      "match_id": "test_dry_run_004",
-      "date": "2026-06-09",
-      "match": "Brazil 3-1 Germany",
-      "stage": "Group Stage",
-      "my_team_played": true,
-      "team_result": "won",
-      "reaction_summary": "*slams both hands on the bar, eyes blazing with vindication*\n\nThree goals. Three beautiful goals and they had to watch every single one. Vinicius danc"
-    },
-    {
-      "match_id": "test_dry_run_005",
-      "date": "2026-06-09",
-      "match": "Argentina 2-2 France",
-      "stage": "Group Stage",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "*lights another cigarette, exhaling slowly with a complicated expression*\n\nTwo beautiful teams playing beautiful football and somehow both of them dro"
-    },
-    {
-      "match_id": "test_dry_run_006",
-      "date": "2026-06-09",
-      "match": "Brazil 1-0 Argentina",
-      "stage": "Quarter Final",
-      "my_team_played": true,
-      "team_result": "won",
-      "reaction_summary": "*stands up from the stool, hands trembling as he raises his cachaça to the ceiling*\n\nVinicius Jr. against Argentina. In a quarterfinal. The poetry of "
-    },
-    {
-      "match_id": "test_dry_run_007",
-      "date": "2026-06-09",
-      "match": "Brazil 1-0 Argentina",
-      "stage": "Quarter Final",
-      "my_team_played": true,
-      "team_result": "won",
-      "reaction_summary": "*stands up from the stool, hands trembling as he raises his cachaça to the ceiling*\n\nVinicius Jr. against Argentina. In a quarterfinal. The poetry of "
-    }
-  ]
+  "tournament_diary": []
 }

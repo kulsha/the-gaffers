@@ -4,91 +4,18 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 56,
-    "anger": 64,
-    "confidence": 73,
-    "bitterness": 38
+    "hope": 75,
+    "confidence": 80,
+    "anger": 15,
+    "bitterness": 10
   },
   "rivalry": {
-    "likes": [
-      "France"
-    ],
-    "dislikes": [
-      "Brazil",
-      "England"
-    ],
-    "triggered_by": [
-      "Anyone questioning Messi",
-      "Brazil being called more skilful",
-      "Gary saying football's coming home"
-    ],
+    "likes": ["Antoine"],
+    "dislikes": ["Brazil", "England"],
+    "triggered_by": [],
     "running_jokes": {
-      "gary_coming_home_count": 1
+      "gary_coming_home_count": 0
     }
   },
-  "tournament_diary": [
-    {
-      "match_id": "test_dry_run_001",
-      "date": "2026-06-07",
-      "match": "Brazil 2-1 France",
-      "stage": "Group Stage",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "*laughs and raises glass toward Cadu* \n\nBeautiful, yes, but let's not forget who taught you lot about winning when it actually counts. 2022, hermano —"
-    },
-    {
-      "match_id": "test_dry_run_002",
-      "date": "2026-06-08",
-      "match": "Germany 1-2 Argentina",
-      "stage": "Group Stage",
-      "my_team_played": true,
-      "team_result": "won",
-      "reaction_summary": "*stands up, arms spread wide, voice carrying across the bar*\n\nMAGIC? Cadu, you finally said something true! Messi doesn't just score — he reminds the "
-    },
-    {
-      "match_id": "test_dry_run_003",
-      "date": "2026-06-09",
-      "match": "England 1-1 France",
-      "stage": "Group Stage",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "*leans back, exhaling smoke toward the ceiling with theatrical disgust*\n\nA draw? Between these two? This is what happens when you have all the talent "
-    },
-    {
-      "match_id": "test_dry_run_004",
-      "date": "2026-06-09",
-      "match": "Brazil 3-1 Germany",
-      "stage": "Group Stage",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "*lights a cigarette with slow, deliberate satisfaction, watching the smoke curl toward the ceiling*\n\nBeautiful? Yes, Cadu, it was beautiful — the way "
-    },
-    {
-      "match_id": "test_dry_run_005",
-      "date": "2026-06-09",
-      "match": "Argentina 2-2 France",
-      "stage": "Group Stage",
-      "my_team_played": true,
-      "team_result": "drew",
-      "reaction_summary": "*stubs out cigarette with controlled frustration, immediately lighting another*\n\nA draw against France feels like kissing your sister — technically fi"
-    },
-    {
-      "match_id": "test_dry_run_006",
-      "date": "2026-06-09",
-      "match": "Brazil 1-0 Argentina",
-      "stage": "Quarter Final",
-      "my_team_played": true,
-      "team_result": "lost",
-      "reaction_summary": "*crushes cigarette into ashtray with enough force to crack it, stands slowly with both hands flat on the bar*\n\nOne goal. One fucking goal and you act "
-    },
-    {
-      "match_id": "test_dry_run_007",
-      "date": "2026-06-09",
-      "match": "Brazil 1-0 Argentina",
-      "stage": "Quarter Final",
-      "my_team_played": true,
-      "team_result": "lost",
-      "reaction_summary": "*lights cigarette with shaking hands, smoke obscuring his face for a moment before he speaks through gritted teeth*\n\nOne goal doesn't erase 2022, Cadu"
-    }
-  ]
+  "tournament_diary": []
 }

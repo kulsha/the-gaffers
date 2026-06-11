@@ -274,28 +274,24 @@ def run_test_session():
     Remove after June 11 when live data is available.
     """
     match_data = {
-        "match_id": "test_dry_run_002",
-        "date": "2026-06-08",
-        "home_team": "Germany",
-        "away_team": "Argentina",
-        "home_score": 1,
-        "away_score": 2,
-        "goals": [
-            {"minute": 22, "team": "Argentina", "scorer": "Messi"},
-            {"minute": 55, "team": "Germany", "scorer": "Havertz"},
-            {"minute": 87, "team": "Argentina", "scorer": "Alvarez"}
-        ],
-        "red_cards": [],
-        "stage": "Group Stage",
-        "venue": "AT&T Stadium, Dallas",
-        "result": "Argentina win",
-        "match_context": """
-Match: Germany 1 - 2 Argentina
-Result: Argentina win
-Stage: Group Stage
-Venue: AT&T Stadium, Dallas
-Date: 2026-06-08
-Scorers: Messi 22' (Argentina) | Havertz 55' (Germany) | Alvarez 87' (Argentina)
+        "match_id": "test_dry_run_007",
+"date": "2026-06-09",
+"home_team": "Brazil",
+"away_team": "Argentina",
+"home_score": 1,
+"away_score": 0,
+"goals": [{"minute": 55, "team": "Brazil", "scorer": "Vinicius Jr"}],
+"red_cards": [],
+"stage": "Quarter Final",
+"venue": "MetLife Stadium, New Jersey",
+"result": "Brazil win",
+"match_context": """
+Match: Brazil 1 - 0 Argentina
+Result: Brazil win
+Stage: Quarter Final
+Venue: MetLife Stadium, New Jersey
+Date: 2026-06-09
+Scorers: Vinicius Jr 55' (Brazil)
 Red Cards: None
 """
     }
@@ -335,4 +331,4 @@ Red Cards: None
 
 
 if __name__ == "__main__":
-    run_test_session()  # swap to run_session() on June 11
+    run_session()

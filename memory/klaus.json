@@ -4,90 +4,18 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 43,
-    "anger": 57,
-    "confidence": 56,
-    "bitterness": 42
+    "hope": 65,
+    "confidence": 70,
+    "anger": 10,
+    "bitterness": 15
   },
   "rivalry": {
-    "likes": [
-      "England"
-    ],
-    "dislikes": [
-      "Brazil"
-    ],
-    "triggered_by": [
-      "Anyone dismissing German football as boring",
-      "Emotion being used as a football argument",
-      "Cadu being poetic about football"
-    ],
+    "likes": ["Antoine"],
+    "dislikes": ["Brazil"],
+    "triggered_by": [],
     "running_jokes": {
-      "gary_coming_home_count": 1
+      "gary_coming_home_count": 0
     }
   },
-  "tournament_diary": [
-    {
-      "match_id": "test_dry_run_001",
-      "date": "2026-06-07",
-      "match": "Brazil 2-1 France",
-      "stage": "Group Stage",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": ""
-    },
-    {
-      "match_id": "test_dry_run_002",
-      "date": "2026-06-08",
-      "match": "Germany 1-2 Argentina",
-      "stage": "Group Stage",
-      "my_team_played": true,
-      "team_result": "lost",
-      "reaction_summary": "*adjusts glasses, staring at the statistical breakdown on phone*\n\nGermany had 62% possession, 2.1 xG to Argentina's 1.4, completed 89% of passes in th"
-    },
-    {
-      "match_id": "test_dry_run_003",
-      "date": "2026-06-09",
-      "match": "England 1-1 France",
-      "stage": "Group Stage",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "*scrolls through match statistics on phone, speaking without looking up*\n\nEngland's defensive shape collapsed exactly 6.2 meters deeper in the second "
-    },
-    {
-      "match_id": "test_dry_run_004",
-      "date": "2026-06-09",
-      "match": "Brazil 3-1 Germany",
-      "stage": "Group Stage",
-      "my_team_played": true,
-      "team_result": "lost",
-      "reaction_summary": "*stares at the statistics on phone for a full ten seconds before speaking, voice flatter than usual*\n\nGermany allowed 2.8 xG — the highest defensive v"
-    },
-    {
-      "match_id": "test_dry_run_005",
-      "date": "2026-06-09",
-      "match": "Argentina 2-2 France",
-      "stage": "Group Stage",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "*adjusts glasses, reviewing the match data on phone with an expression that's almost... troubled*\n\nFrance conceded 1.8 xG but only converted 0.9 — cla"
-    },
-    {
-      "match_id": "test_dry_run_006",
-      "date": "2026-06-09",
-      "match": "Brazil 1-0 Argentina",
-      "stage": "Quarter Final",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "*adjusts glasses, still reviewing the match data on phone with an expression of grudging approval*\n\nBrazil's pressing efficiency in the final third wa"
-    },
-    {
-      "match_id": "test_dry_run_007",
-      "date": "2026-06-09",
-      "match": "Brazil 1-0 Argentina",
-      "stage": "Quarter Final",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "*adjusts glasses, reviewing the match data on phone with an expression of grudging approval*\n\nBrazil's pressing efficiency in the final third was 73% "
-    }
-  ]
+  "tournament_diary": []
 }
