@@ -20,11 +20,10 @@ RED_CARDS_MANUAL = {
 }
 
 
-def fetch_latest_match():
+def fetch_latest_match(exclude_ids: list = None):
     """
-    Fetch the most recently completed FIFA 2026 match.
-    Uses free World Cup API — no key required.
-    Returns a clean match dictionary or None if no match found.
+    Fetch the oldest unprocessed finished FIFA 2026 match.
+    exclude_ids — list of match IDs already processed by session guard.
     """
     try:
         response = requests.get(WORLDCUP_API, timeout=10)
@@ -41,14 +40,25 @@ def fetch_latest_match():
             print("The Gaffers will run automatically when the tournament begins on June 11.")
             return None
 
-        # Sort by id descending — get the most recently finished
-        finished_sorted = sorted(finished, key=lambda x: int(x["id"]), reverse=False)
-        game = finished_sorted[0]
+        # Sort ascending — process in chronological order
+        finished_sorted = sorted(finished, key=lambda x: int(x["id"]))
 
+        # Skip already processed matches
+        if exclude_ids:
+            finished_sorted = [
+                g for g in finished_sorted
+                if str(g["id"]) not in exclude_ids
+            ]
+
+        if not finished_sorted:
+            return None
+
+        # Return oldest unprocessed match
+        game = finished_sorted[0]
         return parse_match(game)
 
     except requests.exceptions.Timeout:
-        print("⚠️  API request timed out. Check your connection.")
+        print("⚽  API request timed out. Check your connection.")
         return None
     except requests.exceptions.RequestException as e:
         print(f"⚠️  API request failed: {e}")
@@ -108,9 +118,9 @@ def parse_match(game: dict) -> dict:
             if not scorer:
                 continue
             parts = scorer.rsplit(" ", 1)
-            if len(parts) == 2 and parts[1].endswith(""):
+            if len(parts) == 2:
                 name = parts[0].strip()
-                minute_str = parts[1].replace("", "").strip()
+                minute_str = parts[1].replace("'", "").strip()
                 try:
                     parsed.append({
                         "minute": int(minute_str),

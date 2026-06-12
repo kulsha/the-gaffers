@@ -31,7 +31,6 @@ def mark_session_complete(match_id: str, match_data: dict):
         try:
             memory = load_agent_memory(agent_name)
 
-            # Determine if this agent's team played tonight
             agent_country_map = {
                 "cadu": "Brazil",
                 "rodrigo": "Argentina",
@@ -46,7 +45,6 @@ def mark_session_complete(match_id: str, match_data: dict):
                 agent_country == match_data["away_team"]
             )
 
-            # Determine result for this agent's team
             if my_team_played:
                 if match_data["result"] == f"{agent_country} win":
                     team_result = "won"
@@ -57,7 +55,6 @@ def mark_session_complete(match_id: str, match_data: dict):
             else:
                 team_result = "not_playing"
 
-            # Build diary entry
             entry = {
                 "match_id": match_id,
                 "date": match_data["date"],
@@ -65,12 +62,11 @@ def mark_session_complete(match_id: str, match_data: dict):
                 "stage": match_data["stage"],
                 "my_team_played": my_team_played,
                 "team_result": team_result,
-                "reaction_summary": ""  # filled after session runs
+                "reaction_summary": ""
             }
 
             memory["tournament_diary"].append(entry)
 
-            # Save updated memory
             from utils.memory_manager import save_agent_memory
             save_agent_memory(agent_name, memory)
 
@@ -81,14 +77,11 @@ def mark_session_complete(match_id: str, match_data: dict):
 def update_reaction_summary(agent_name: str, match_id: str, summary: str):
     """
     After each agent speaks — store a short summary of their reaction.
-    This becomes part of their diary context for future sessions.
-    summary: first 150 chars of their response
     """
     try:
         memory = load_agent_memory(agent_name)
         diary = memory.get("tournament_diary", [])
 
-        # Find the entry for this match and update summary
         for entry in diary:
             if entry["match_id"] == match_id:
                 entry["reaction_summary"] = summary[:150]
@@ -104,7 +97,6 @@ def update_reaction_summary(agent_name: str, match_id: str, summary: str):
 def get_session_count() -> int:
     """
     How many sessions have run so far this tournament.
-    Used to determine when bartender prediction triggers.
     """
     try:
         memory = load_agent_memory("cadu")
@@ -113,10 +105,22 @@ def get_session_count() -> int:
         return 0
 
 
+def get_processed_match_ids() -> list:
+    """
+    Returns list of all match IDs that have already run.
+    Used by match_fetcher to skip already-processed matches.
+    """
+    try:
+        memory = load_agent_memory("cadu")
+        diary = memory.get("tournament_diary", [])
+        return [entry["match_id"] for entry in diary]
+    except Exception:
+        return []
+
+
 def should_bartender_predict() -> bool:
     """
     Bartender prediction triggers at session 32 — end of group stage.
-    Returns True when it's time for the bartender to speak.
     """
     count = get_session_count()
     return count == 32
@@ -125,7 +129,6 @@ def should_bartender_predict() -> bool:
 def should_bartender_close() -> bool:
     """
     Bartender closing statement triggers at session 104 — after the final.
-    Returns True when the tournament is over.
     """
     count = get_session_count()
     return count >= 104

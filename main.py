@@ -1,12 +1,12 @@
 import os
 import sys
-from dotenv import load_dotenv
-from crewai import Crew, Task, Process
 import asyncio
 
 if sys.platform == "win32":
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
+from dotenv import load_dotenv
+from crewai import Crew, Task, Process
 from agents.cadu import create_cadu
 from agents.rodrigo import create_rodrigo
 from agents.gary import create_gary
@@ -19,6 +19,7 @@ from utils.session_guard import (
     mark_session_complete,
     update_reaction_summary,
     get_session_count,
+    get_processed_match_ids,
     should_bartender_predict,
     should_bartender_close
 )
@@ -88,15 +89,11 @@ def print_session_header(match_data: dict, session_num: int):
 
 
 def run_crew(match_context: str, bartender_mode: str):
-    """
-    Build agents, tasks and run the crew.
-    Returns outputs dict.
-    """
-    cadu    = create_cadu(match_context)
-    rodrigo = create_rodrigo(match_context)
-    gary    = create_gary(match_context)
-    klaus   = create_klaus(match_context)
-    antoine = create_antoine(match_context)
+    cadu      = create_cadu(match_context)
+    rodrigo   = create_rodrigo(match_context)
+    gary      = create_gary(match_context)
+    klaus     = create_klaus(match_context)
+    antoine   = create_antoine(match_context)
     bartender = create_bartender(mode=bartender_mode)
 
     task_cadu = Task(
@@ -111,11 +108,11 @@ def run_crew(match_context: str, bartender_mode: str):
     task_rodrigo = Task(
         description=f"""
         The match just finished: {match_context}
-        Cadu just reacted. You heard what he said.
-        React to the match AND respond to Cadu if relevant.
-        Be Rodrigo. 2-4 sentences maximum.
+        Cadu has already reacted. You heard him.
+        You MUST give a DIFFERENT take — do NOT repeat or echo what Cadu said.
+        Bring your own angle. Disagree if you can. Be Rodrigo. 2-4 sentences maximum.
         """,
-        expected_output="Rodrigo's reaction to the match and possibly Cadu",
+        expected_output="Rodrigo's unique reaction — different from Cadu's",
         agent=rodrigo,
         context=[task_cadu]
     )
@@ -123,10 +120,10 @@ def run_crew(match_context: str, bartender_mode: str):
         description=f"""
         The match just finished: {match_context}
         Cadu and Rodrigo have both spoken. You heard everything.
-        React to the match. Respond to anyone if relevant.
-        Be Gary. 2-4 sentences maximum.
+        Do NOT repeat what either of them said. Bring something new.
+        React in Gary's voice. 2-4 sentences maximum.
         """,
-        expected_output="Gary's reaction to the match and conversation so far",
+        expected_output="Gary's unique reaction — different from Cadu and Rodrigo",
         agent=gary,
         context=[task_cadu, task_rodrigo]
     )
@@ -134,10 +131,10 @@ def run_crew(match_context: str, bartender_mode: str):
         description=f"""
         The match just finished: {match_context}
         Cadu, Rodrigo and Gary have all reacted. You heard everything.
-        React with analysis. Correct anyone if their reasoning is wrong.
-        Be Klaus. 2-4 sentences maximum.
+        Do NOT repeat what anyone said. Add data, statistics, analysis they missed.
+        Correct someone if their reasoning is wrong. Be Klaus. 2-4 sentences maximum.
         """,
-        expected_output="Klaus's analytical reaction with at least one statistic",
+        expected_output="Klaus's analytical reaction with at least one statistic — unique perspective",
         agent=klaus,
         context=[task_cadu, task_rodrigo, task_gary]
     )
@@ -145,10 +142,10 @@ def run_crew(match_context: str, bartender_mode: str):
         description=f"""
         The match just finished: {match_context}
         Everyone has spoken. You have heard it all.
-        React philosophically. Respond to whoever said something worth responding to.
-        Be Antoine. 2-4 sentences maximum.
+        Do NOT repeat what anyone said. Say something none of them thought to say.
+        Be philosophical. Be Antoine. 2-4 sentences maximum.
         """,
-        expected_output="Antoine's philosophical calm reaction",
+        expected_output="Antoine's philosophical reaction — a perspective nobody else raised",
         agent=antoine,
         context=[task_cadu, task_rodrigo, task_gary, task_klaus]
     )
@@ -157,8 +154,9 @@ def run_crew(match_context: str, bartender_mode: str):
         You have watched the whole session tonight.
         Five fans reacted to: {match_context}
         End the session in your mode: {bartender_mode}
+        Say something that cuts through all the noise. One observation nobody made.
         """,
-        expected_output="The bartender's closing for tonight",
+        expected_output="The bartender's closing — one sharp observation",
         agent=bartender,
         context=[task_cadu, task_rodrigo, task_gary, task_klaus, task_antoine]
     )
@@ -193,7 +191,6 @@ def print_outputs(outputs: dict):
 
 
 def update_memories(match_data: dict, outputs: dict, match_id: str):
-    """Update all agent memories after a session."""
     agent_names = ["cadu", "rodrigo", "gary", "klaus", "antoine"]
 
     mark_session_complete(match_id, match_data)
@@ -216,13 +213,14 @@ def update_memories(match_data: dict, outputs: dict, match_id: str):
 
 def run_session():
     """
-    Main session runner — uses live FIFA 2026 API data.
-    This runs autonomously from June 11 onwards.
+    Main session runner — uses live FIFA 2026 data.
+    Runs autonomously from June 11 onwards.
     """
 
-    # ── Step 1 — Fetch latest match ──
+    # ── Step 1 — Fetch latest unprocessed match ──
     print("\n⚽ Fetching latest FIFA 2026 match...")
-    match_data = fetch_latest_match()
+    processed_ids = get_processed_match_ids()
+    match_data = fetch_latest_match(exclude_ids=processed_ids)
 
     if not match_data:
         print("⚠️  No FIFA 2026 match available.")
@@ -232,7 +230,7 @@ def run_session():
     match_id = match_data["match_id"]
     match_context = match_data["match_context"]
 
-    # ── Step 2 — Session guard ──
+    # ── Step 2 — Session guard (safety net) ──
     if already_ran(match_id):
         print(f"⚠️  Session already ran for this match.")
         print(f"Match: {match_data['home_team']} vs {match_data['away_team']}")
@@ -275,21 +273,20 @@ def run_session():
 def run_test_session():
     """
     Dry run with hardcoded match — verifies full pipeline.
-    Remove after June 11 when live data is available.
     """
     match_data = {
         "match_id": "test_dry_run_007",
-"date": "2026-06-09",
-"home_team": "Brazil",
-"away_team": "Argentina",
-"home_score": 1,
-"away_score": 0,
-"goals": [{"minute": 55, "team": "Brazil", "scorer": "Vinicius Jr"}],
-"red_cards": [],
-"stage": "Quarter Final",
-"venue": "MetLife Stadium, New Jersey",
-"result": "Brazil win",
-"match_context": """
+        "date": "2026-06-09",
+        "home_team": "Brazil",
+        "away_team": "Argentina",
+        "home_score": 1,
+        "away_score": 0,
+        "goals": [{"minute": 55, "team": "Brazil", "scorer": "Vinicius Jr"}],
+        "red_cards": [],
+        "stage": "Quarter Final",
+        "venue": "MetLife Stadium, New Jersey",
+        "result": "Brazil win",
+        "match_context": """
 Match: Brazil 1 - 0 Argentina
 Result: Brazil win
 Stage: Quarter Final
@@ -317,20 +314,14 @@ Red Cards: None
     else:
         bartender_mode = "silent"
 
-    # Run crew
     outputs = run_crew(match_context, bartender_mode)
-
-    # Print
     print_outputs(outputs)
 
-    # Update memories
     print("💾 Updating memories...")
     update_memories(match_data, outputs, match_id)
     print(f"📊 Total sessions: {get_session_count()}")
 
-    # Update website
     update_site(match_data, outputs, session_num, bartender_mode)
-
     print("✅ Test session complete.")
 
 
