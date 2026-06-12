@@ -1,13 +1,13 @@
 {
-  "agent": "Antoine",
+  "agent": "antoine",
   "country": "France",
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 76,
-    "confidence": 77,
-    "anger": 4,
-    "bitterness": 10
+    "hope": 74,
+    "confidence": 76,
+    "anger": 6,
+    "bitterness": 11
   },
   "rivalry": {
     "likes": [
@@ -30,16 +30,7 @@
       "stage": "Group A - Matchday 1",
       "my_team_played": false,
       "team_result": "not_playing",
-      "reaction_summary": "Three red cards and Klaus is already calculating oxygen consumption — perhaps this is why the Germans have not won a World Cup since 2014. Survival is"
-    },
-    {
-      "match_id": "2",
-      "date": "2026-06-11",
-      "match": "South Korea 2-1 Czech Republic",
-      "stage": "Group A - Matchday 1",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "The Czechs possessed the ball the way some people possess good manners — correctly, carefully, and without ever making anyone feel anything. South Kor"
+      "reaction_summary": "Three red cards — perhaps the match revealed more about what both teams fear than what they can do. South Africa forgot that discipline is also courag"
     }
   ]
 }

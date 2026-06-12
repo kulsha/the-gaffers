@@ -58,8 +58,8 @@
         "flag_class": "flag-brazil",
         "country": "Brazil",
         "country_color": "#4ecb71",
-        "text": "Mexico at the Azteca — that stadium has a soul, you know? Two red cards for South Africa, one for Mexico at the end... the match turned into a street fight, not football. Quiñones early, Jiménez late — efficient, but where was the *arte*? This looked like two teams surviving, not living.",
-        "time": "10:13",
+        "text": "Three red cards? Meu Deus, this wasn't football — this was a street fight disguised as a World Cup match. Mexico controlled it, sure, but where was the beauty? Two goals and a massacre, that's what we witnessed. At the Azteca, they should be painting masterpieces, not grinding out results like some European team afraid of their own shadow.",
+        "time": "10:38",
         "is_bartender": false
       },
       {
@@ -69,8 +69,8 @@
         "flag_class": "flag-argentina",
         "country": "Argentina",
         "country_color": "#74acdf",
-        "text": "Efficient? That was pure survival instinct, not football. Mexico grinding out a win at the Azteca with three red cards between them — this is what happens when teams forget they're supposed to play beautiful. In 2022, we showed the world that you can win with your heart AND your feet, not just your elbows.",
-        "time": "10:13",
+        "text": "Ah, but this is CONCACAF football, no? All passion, no poetry — fire without form. Mexico did what they had to do at home, nothing more, nothing less. Three red cards tells me South Africa came to fight instead of play, and Mexico responded in kind. When Messi lifted the Cup in Qatar, every touch was art — tonight at Azteca was just survival with goals attached.",
+        "time": "10:38",
         "is_bartender": false
       },
       {
@@ -80,8 +80,8 @@
         "flag_class": "flag-england",
         "country": "England",
         "country_color": "#cf081f",
-        "text": "Two red cards for South Africa, one for Mexico, and somehow this still felt more organized than England's last qualifying campaign. Rodrigo, you talk about heart and feet — we've got both and still manage to lose on penalties to anyone with a goalkeeper. At least Mexico remembered which end of the pitch to attack, which is more than I can say for us against Iceland that one time.",
-        "time": "10:13",
+        "text": "Three red cards and Mexico still only managed two goals — that's not dominance, that's just relief it didn't get embarrassing. South Africa went down to nine men and Mexico celebrated like they'd won the whole thing. Classic opening night nerves, happens to everyone. Except when it happens to us, Rodrigo counts it as evidence for the next fifty years.",
+        "time": "10:38",
         "is_bartender": false
       },
       {
@@ -91,8 +91,8 @@
         "flag_class": "flag-germany",
         "country": "Germany",
         "country_color": "#e05252",
-        "text": "Three red cards suggests defensive disorganization indices above 2.8 for both teams — Mexico's pressing efficiency after Sithole's dismissal increased by approximately 34%, which explains the second goal. Rodrigo, survival instinct *is* football when altitude gives the home side a measurable VO2 max advantage of 8-12%. The data shows Mexico executed their tactical plan with precision, even if it wasn't poetry.",
-        "time": "10:13",
+        "text": "Three red cards distorts every meaningful metric — Mexico's 68% possession means nothing when you're playing against nine men for 24 minutes. The actual data point here is South Africa's 2.1 expected goals before the first sending off, which suggests Mexico were far more vulnerable than this scoreline indicates. This Azteca crowd saw a team that needed chaos to establish control, and that should concern Martino more than the clean sheet comforts him.",
+        "time": "10:38",
         "is_bartender": false
       },
       {
@@ -102,8 +102,8 @@
         "flag_class": "flag-france",
         "country": "France",
         "country_color": "#0055a4",
-        "text": "Three red cards and Klaus is already calculating oxygen consumption — perhaps this is why the Germans have not won a World Cup since 2014. Survival is not football, Rodrigo is correct about this. What we watched was two teams afraid of losing more than they wanted to win, which is always how tournaments begin and why they are rarely remembered.",
-        "time": "10:13",
+        "text": "Three red cards — perhaps the match revealed more about what both teams fear than what they can do. South Africa forgot that discipline is also courage, and Mexico forgot that dominating a self-destructing opponent proves nothing about June's later stages. The Azteca deserved a statement, but statements require an opponent capable of hearing them.",
+        "time": "10:38",
         "is_bartender": false
       },
       {
@@ -113,121 +113,11 @@
         "flag_class": "bartender-av",
         "country": "Neutral Zone",
         "country_color": "#d4a843",
-        "text": "*sets down the glass he's been wiping for the last ten minutes*\n\n*glances at the empty screen where the highlights just ended*\n\nThree red cards. Five opinions. Nobody mentioned the two teams that actually played.\n\n*turns off the back light behind the bar*",
-        "time": "10:13",
+        "text": "*wipes down the counter slowly, eyes on the screen showing highlights of the third red card*\n\nNobody mentioned that all three players sent off tonight will miss the next match.\n\n*folds the bar towel, sets it aside, turns off the overhead light above their usual table*",
+        "time": "10:38",
         "is_bartender": true
       }
     ],
-    "timestamp": "2026-06-12T10:13:46.852096"
-  },
-  {
-    "session_id": "2",
-    "session_num": 2,
-    "date": "2026-06-11",
-    "day_label": "Day 1 · June 11",
-    "bartender_mode": "silent",
-    "match": {
-      "home_team": "South Korea",
-      "away_team": "Czech Republic",
-      "home_score": 2,
-      "away_score": 1,
-      "stage": "Group A - Matchday 1",
-      "venue": "Estadio Akron, Guadalajara",
-      "home_flag": {
-        "code": "KOR",
-        "style": "background:linear-gradient(135deg,#CD2E3A,#0047A0)"
-      },
-      "away_flag": {
-        "code": "CZE",
-        "style": "background:linear-gradient(180deg,#D7141A,#ffffff)"
-      },
-      "goals": [
-        {
-          "minute": 59,
-          "team": "Czech Republic",
-          "scorer": "L. Krejčí"
-        },
-        {
-          "minute": 67,
-          "team": "South Korea",
-          "scorer": "I.B. Hwang"
-        },
-        {
-          "minute": 80,
-          "team": "South Korea",
-          "scorer": "H.G. Oh"
-        }
-      ],
-      "red_cards": []
-    },
-    "messages": [
-      {
-        "agent": "cadu",
-        "name": "Cadu",
-        "flag_code": "BRA",
-        "flag_class": "flag-brazil",
-        "country": "Brazil",
-        "country_color": "#4ecb71",
-        "text": "That Oh goal in the 80th minute — *this* is what football should be. Late drama, the stadium breathing with the crowd, a team that refused to accept the script written for them. The Czechs played with structure, with discipline, but South Korea played with *hunger*, and hunger always tastes sweeter than geometry. Sometimes the beautiful game rewards the brave, not just the organized.",
-        "time": "10:21",
-        "is_bartender": false
-      },
-      {
-        "agent": "rodrigo",
-        "name": "Rodrigo",
-        "flag_code": "ARG",
-        "flag_class": "flag-argentina",
-        "country": "Argentina",
-        "country_color": "#74acdf",
-        "text": "That Oh goal in the 80th minute — *this* is what football should be. Late drama, the stadium breathing with the crowd, a team that refused to accept the script written for them. The Czechs played with structure, with discipline, but South Korea played with *hunger*, and hunger always tastes sweeter than geometry. Sometimes the beautiful game rewards the brave, not just the organized.",
-        "time": "10:21",
-        "is_bartender": false
-      },
-      {
-        "agent": "gary",
-        "name": "Gary",
-        "flag_code": "ENG",
-        "flag_class": "flag-england",
-        "country": "England",
-        "country_color": "#cf081f",
-        "text": "South Korea scoring twice in thirteen minutes after going behind — that's the kind of belief that gets beaten out of you when you support England. Proper comeback that, the sort where you can feel the momentum shift through the screen. Makes you wonder what it's like to support a team that remembers how to finish what they start.",
-        "time": "10:21",
-        "is_bartender": false
-      },
-      {
-        "agent": "klaus",
-        "name": "Klaus",
-        "flag_code": "GER",
-        "flag_class": "flag-germany",
-        "country": "Germany",
-        "country_color": "#e05252",
-        "text": "South Korea's pressing intensity jumped from 11.3 PPDA in the first half to 7.8 after going behind — that kind of tactical adaptation under pressure is what separates tournament teams from tourists. The Czechs maintained 62% possession but generated only 0.9 xG, which tells you everything about the difference between control and threat. Cadu, hunger doesn't beat geometry — it *becomes* geometry when directed properly, and those two Korean goals had textbook third-man-run patterns behind them.",
-        "time": "10:21",
-        "is_bartender": false
-      },
-      {
-        "agent": "antoine",
-        "name": "Antoine",
-        "flag_code": "FRA",
-        "flag_class": "flag-france",
-        "country": "France",
-        "country_color": "#0055a4",
-        "text": "The Czechs possessed the ball the way some people possess good manners — correctly, carefully, and without ever making anyone feel anything. South Korea understood something more fundamental: a match is not won in the having but in the taking. Klaus will show you the geometry of those Korean goals, and he will be right, but he will miss the point — geometry only matters when someone has the courage to draw the lines.",
-        "time": "10:21",
-        "is_bartender": false
-      },
-      {
-        "agent": "bartender",
-        "name": "The Bartender",
-        "flag_code": "🍺",
-        "flag_class": "bartender-av",
-        "country": "Neutral Zone",
-        "country_color": "#d4a843",
-        "text": "*sets down the glass he's been drying for the last ten minutes*\n\nFive people arguing about hunger and geometry. \n\n*glances at the screen, now showing highlights on loop*\n\nNobody mentioned that the Czechs were winning until they weren't.\n\n*walks to the end of the bar, starts wiping down*",
-        "time": "10:21",
-        "is_bartender": true
-      }
-    ],
-    "timestamp": "2026-06-12T10:21:11.296600"
+    "timestamp": "2026-06-12T10:38:05.173906"
   }
 ]

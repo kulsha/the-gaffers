@@ -1,13 +1,13 @@
 {
-  "agent": "Gary",
+  "agent": "gary",
   "country": "England",
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 64,
-    "confidence": 47,
-    "anger": 6,
-    "bitterness": 28
+    "hope": 62,
+    "confidence": 46,
+    "anger": 8,
+    "bitterness": 29
   },
   "rivalry": {
     "likes": [
@@ -30,16 +30,7 @@
       "stage": "Group A - Matchday 1",
       "my_team_played": false,
       "team_result": "not_playing",
-      "reaction_summary": "Two red cards for South Africa, one for Mexico, and somehow this still felt more organized than England's last qualifying campaign. Rodrigo, you talk "
-    },
-    {
-      "match_id": "2",
-      "date": "2026-06-11",
-      "match": "South Korea 2-1 Czech Republic",
-      "stage": "Group A - Matchday 1",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "South Korea scoring twice in thirteen minutes after going behind — that's the kind of belief that gets beaten out of you when you support England. Pro"
+      "reaction_summary": "Three red cards and Mexico still only managed two goals — that's not dominance, that's just relief it didn't get embarrassing. South Africa went down "
     }
   ]
 }

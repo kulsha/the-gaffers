@@ -1,13 +1,13 @@
 {
-  "agent": "Rodrigo",
+  "agent": "rodrigo",
   "country": "Argentina",
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 79,
-    "confidence": 82,
-    "anger": 11,
-    "bitterness": 8
+    "hope": 77,
+    "confidence": 81,
+    "anger": 13,
+    "bitterness": 9
   },
   "rivalry": {
     "likes": [
@@ -30,16 +30,7 @@
       "stage": "Group A - Matchday 1",
       "my_team_played": false,
       "team_result": "not_playing",
-      "reaction_summary": "Efficient? That was pure survival instinct, not football. Mexico grinding out a win at the Azteca with three red cards between them — this is what hap"
-    },
-    {
-      "match_id": "2",
-      "date": "2026-06-11",
-      "match": "South Korea 2-1 Czech Republic",
-      "stage": "Group A - Matchday 1",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "That Oh goal in the 80th minute — *this* is what football should be. Late drama, the stadium breathing with the crowd, a team that refused to accept t"
+      "reaction_summary": "Ah, but this is CONCACAF football, no? All passion, no poetry — fire without form. Mexico did what they had to do at home, nothing more, nothing less."
     }
   ]
 }

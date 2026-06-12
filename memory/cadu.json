@@ -1,13 +1,13 @@
 {
-  "agent": "Cadu",
+  "agent": "cadu",
   "country": "Brazil",
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 74,
-    "confidence": 67,
-    "anger": 6,
-    "bitterness": 18
+    "hope": 72,
+    "confidence": 66,
+    "anger": 8,
+    "bitterness": 19
   },
   "rivalry": {
     "likes": [
@@ -29,16 +29,7 @@
       "stage": "Group A - Matchday 1",
       "my_team_played": false,
       "team_result": "not_playing",
-      "reaction_summary": "Mexico at the Azteca — that stadium has a soul, you know? Two red cards for South Africa, one for Mexico at the end... the match turned into a street "
-    },
-    {
-      "match_id": "2",
-      "date": "2026-06-11",
-      "match": "South Korea 2-1 Czech Republic",
-      "stage": "Group A - Matchday 1",
-      "my_team_played": false,
-      "team_result": "not_playing",
-      "reaction_summary": "That Oh goal in the 80th minute — *this* is what football should be. Late drama, the stadium breathing with the crowd, a team that refused to accept t"
+      "reaction_summary": "Three red cards? Meu Deus, this wasn't football — this was a street fight disguised as a World Cup match. Mexico controlled it, sure, but where was th"
     }
   ]
 }
