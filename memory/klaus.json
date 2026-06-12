@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 67,
-    "confidence": 71,
-    "anger": 8,
-    "bitterness": 14
+    "hope": 69,
+    "confidence": 72,
+    "anger": 6,
+    "bitterness": 13
   },
   "rivalry": {
     "likes": [
@@ -30,6 +30,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "Three red cards suggests defensive disorganization indices above 2.8 for both teams — Mexico's pressing efficiency after Sithole's dismissal increased"
+    },
+    {
+      "match_id": "2",
+      "date": "2026-06-11",
+      "match": "South Korea 2-1 Czech Republic",
+      "stage": "Group A - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "South Korea's pressing intensity jumped from 11.3 PPDA in the first half to 7.8 after going behind — that kind of tactical adaptation under pressure i"
     }
   ]
 }

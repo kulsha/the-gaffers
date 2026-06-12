@@ -119,5 +119,115 @@
       }
     ],
     "timestamp": "2026-06-12T10:13:46.852096"
+  },
+  {
+    "session_id": "2",
+    "session_num": 2,
+    "date": "2026-06-11",
+    "day_label": "Day 1 · June 11",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "South Korea",
+      "away_team": "Czech Republic",
+      "home_score": 2,
+      "away_score": 1,
+      "stage": "Group A - Matchday 1",
+      "venue": "Estadio Akron, Guadalajara",
+      "home_flag": {
+        "code": "KOR",
+        "style": "background:linear-gradient(135deg,#CD2E3A,#0047A0)"
+      },
+      "away_flag": {
+        "code": "CZE",
+        "style": "background:linear-gradient(180deg,#D7141A,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 59,
+          "team": "Czech Republic",
+          "scorer": "L. Krejčí"
+        },
+        {
+          "minute": 67,
+          "team": "South Korea",
+          "scorer": "I.B. Hwang"
+        },
+        {
+          "minute": 80,
+          "team": "South Korea",
+          "scorer": "H.G. Oh"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "That Oh goal in the 80th minute — *this* is what football should be. Late drama, the stadium breathing with the crowd, a team that refused to accept the script written for them. The Czechs played with structure, with discipline, but South Korea played with *hunger*, and hunger always tastes sweeter than geometry. Sometimes the beautiful game rewards the brave, not just the organized.",
+        "time": "10:21",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "That Oh goal in the 80th minute — *this* is what football should be. Late drama, the stadium breathing with the crowd, a team that refused to accept the script written for them. The Czechs played with structure, with discipline, but South Korea played with *hunger*, and hunger always tastes sweeter than geometry. Sometimes the beautiful game rewards the brave, not just the organized.",
+        "time": "10:21",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "South Korea scoring twice in thirteen minutes after going behind — that's the kind of belief that gets beaten out of you when you support England. Proper comeback that, the sort where you can feel the momentum shift through the screen. Makes you wonder what it's like to support a team that remembers how to finish what they start.",
+        "time": "10:21",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "South Korea's pressing intensity jumped from 11.3 PPDA in the first half to 7.8 after going behind — that kind of tactical adaptation under pressure is what separates tournament teams from tourists. The Czechs maintained 62% possession but generated only 0.9 xG, which tells you everything about the difference between control and threat. Cadu, hunger doesn't beat geometry — it *becomes* geometry when directed properly, and those two Korean goals had textbook third-man-run patterns behind them.",
+        "time": "10:21",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "The Czechs possessed the ball the way some people possess good manners — correctly, carefully, and without ever making anyone feel anything. South Korea understood something more fundamental: a match is not won in the having but in the taking. Klaus will show you the geometry of those Korean goals, and he will be right, but he will miss the point — geometry only matters when someone has the courage to draw the lines.",
+        "time": "10:21",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*sets down the glass he's been drying for the last ten minutes*\n\nFive people arguing about hunger and geometry. \n\n*glances at the screen, now showing highlights on loop*\n\nNobody mentioned that the Czechs were winning until they weren't.\n\n*walks to the end of the bar, starts wiping down*",
+        "time": "10:21",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-12T10:21:11.296600"
   }
 ]
