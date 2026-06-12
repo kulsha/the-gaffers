@@ -2,6 +2,10 @@ import os
 import sys
 from dotenv import load_dotenv
 from crewai import Crew, Task, Process
+import asyncio
+
+if sys.platform == "win32":
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
 from agents.cadu import create_cadu
 from agents.rodrigo import create_rodrigo
