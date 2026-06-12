@@ -58,8 +58,8 @@
         "flag_class": "flag-brazil",
         "country": "Brazil",
         "country_color": "#4ecb71",
-        "text": "Three red cards? Meu Deus, this wasn't football — this was a street fight disguised as a World Cup match. Mexico controlled it, sure, but where was the beauty? Two goals and a massacre, that's what we witnessed. At the Azteca, they should be painting masterpieces, not grinding out results like some European team afraid of their own shadow.",
-        "time": "10:38",
+        "text": "Azteca showing mercy to South Africa, ending it at two. Three red cards though — that's not football, that's a street fight masquerading as a World Cup match. Mexico played well enough but there was no *arte* in it, just efficiency and chaos. Makes me miss the days when CONCACAF teams at least pretended to care about beauty.",
+        "time": "10:42",
         "is_bartender": false
       },
       {
@@ -69,8 +69,8 @@
         "flag_class": "flag-argentina",
         "country": "Argentina",
         "country_color": "#74acdf",
-        "text": "Ah, but this is CONCACAF football, no? All passion, no poetry — fire without form. Mexico did what they had to do at home, nothing more, nothing less. Three red cards tells me South Africa came to fight instead of play, and Mexico responded in kind. When Messi lifted the Cup in Qatar, every touch was art — tonight at Azteca was just survival with goals attached.",
-        "time": "10:38",
+        "text": "Efficiency without beauty? That's just modern football, my friend. Mexico did what they needed to do at the Azteca — hostile crowd, altitude advantage, two goals, three points. South Africa gave them two red cards as gifts and still Mexico couldn't score more than two? That's the real story here.",
+        "time": "10:42",
         "is_bartender": false
       },
       {
@@ -80,8 +80,8 @@
         "flag_class": "flag-england",
         "country": "England",
         "country_color": "#cf081f",
-        "text": "Three red cards and Mexico still only managed two goals — that's not dominance, that's just relief it didn't get embarrassing. South Africa went down to nine men and Mexico celebrated like they'd won the whole thing. Classic opening night nerves, happens to everyone. Except when it happens to us, Rodrigo counts it as evidence for the next fifty years.",
-        "time": "10:38",
+        "text": "Two reds and they only managed two goals? That's Championship efficiency with a World Cup badge. South Africa made it easier for them than a penalty against us, and Mexico still couldn't put on a proper show. Still, three points is three points — something we'll probably be desperately calculating on a napkin come matchday three.",
+        "time": "10:42",
         "is_bartender": false
       },
       {
@@ -91,8 +91,8 @@
         "flag_class": "flag-germany",
         "country": "Germany",
         "country_color": "#e05252",
-        "text": "Three red cards distorts every meaningful metric — Mexico's 68% possession means nothing when you're playing against nine men for 24 minutes. The actual data point here is South Africa's 2.1 expected goals before the first sending off, which suggests Mexico were far more vulnerable than this scoreline indicates. This Azteca crowd saw a team that needed chaos to establish control, and that should concern Martino more than the clean sheet comforts him.",
-        "time": "10:38",
+        "text": "Two red cards and Mexico's xG only reached 2.4 — statistically they underperformed their chances even with the numerical advantage. The defensive collapse after the first sending-off tells you everything about South Africa's tactical preparation, or rather the complete absence of it. Interesting that Montes gets sent off at ninety minutes though — suggests Mexico's discipline deteriorated once the result was secure, which could matter against better opposition. Still, CONCACAF opens with a win and Germany's group doesn't look any more forgiving from the data I've seen.",
+        "time": "10:42",
         "is_bartender": false
       },
       {
@@ -102,8 +102,8 @@
         "flag_class": "flag-france",
         "country": "France",
         "country_color": "#0055a4",
-        "text": "Three red cards — perhaps the match revealed more about what both teams fear than what they can do. South Africa forgot that discipline is also courage, and Mexico forgot that dominating a self-destructing opponent proves nothing about June's later stages. The Azteca deserved a statement, but statements require an opponent capable of hearing them.",
-        "time": "10:38",
+        "text": "Three red cards tells you more about what the match became than what it was supposed to be. Football has a temperature — this one boiled over because neither side trusted the moment enough to simply play it. Mexico won, yes, but they also revealed something: even at home, even with every advantage, they needed chaos to feel secure.",
+        "time": "10:42",
         "is_bartender": false
       },
       {
@@ -113,11 +113,11 @@
         "flag_class": "bartender-av",
         "country": "Neutral Zone",
         "country_color": "#d4a843",
-        "text": "*wipes down the counter slowly, eyes on the screen showing highlights of the third red card*\n\nNobody mentioned that all three players sent off tonight will miss the next match.\n\n*folds the bar towel, sets it aside, turns off the overhead light above their usual table*",
-        "time": "10:38",
+        "text": "*Sets down the glass he's been drying for the last ten minutes. Doesn't look at any of them. Just at the TV screen, now showing replays of all three red cards.*\n\nFive guys talking about Mexico for twenty minutes. Nobody mentioned South Africa once, except to count how many players they lost.\n\n*Turns off the TV with the remote. The bar goes quiet.*",
+        "time": "10:42",
         "is_bartender": true
       }
     ],
-    "timestamp": "2026-06-12T10:38:05.173906"
+    "timestamp": "2026-06-12T10:42:37.510251"
   }
 ]

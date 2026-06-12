@@ -21,5 +21,15 @@
       "gary_coming_home_count": 0
     }
   },
-  "tournament_diary": []
+  "tournament_diary": [
+    {
+      "match_id": "1",
+      "date": "2026-06-11",
+      "match": "Mexico 2-0 South Africa",
+      "stage": "Group A - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "Two red cards and Mexico's xG only reached 2.4 — statistically they underperformed their chances even with the numerical advantage. The defensive coll"
+    }
+  ]
 }
