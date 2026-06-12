@@ -4,18 +4,33 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 60,
-    "confidence": 45,
-    "anger": 10,
-    "bitterness": 30
+    "hope": 62,
+    "confidence": 46,
+    "anger": 8,
+    "bitterness": 29
   },
   "rivalry": {
-    "likes": ["Cadu"],
-    "dislikes": ["Argentina", "France"],
+    "likes": [
+      "Cadu"
+    ],
+    "dislikes": [
+      "Argentina",
+      "France"
+    ],
     "triggered_by": [],
     "running_jokes": {
       "gary_coming_home_count": 0
     }
   },
-  "tournament_diary": []
+  "tournament_diary": [
+    {
+      "match_id": "1",
+      "date": "2026-06-11",
+      "match": "Mexico 2-0 South Africa",
+      "stage": "Group A - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "Two red cards for South Africa, one for Mexico, and somehow this still felt more organized than England's last qualifying campaign. Rodrigo, you talk "
+    }
+  ]
 }

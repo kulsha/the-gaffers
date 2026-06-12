@@ -4,18 +4,33 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 75,
-    "confidence": 80,
-    "anger": 15,
-    "bitterness": 10
+    "hope": 77,
+    "confidence": 81,
+    "anger": 13,
+    "bitterness": 9
   },
   "rivalry": {
-    "likes": ["Antoine"],
-    "dislikes": ["Brazil", "England"],
+    "likes": [
+      "Antoine"
+    ],
+    "dislikes": [
+      "Brazil",
+      "England"
+    ],
     "triggered_by": [],
     "running_jokes": {
       "gary_coming_home_count": 0
     }
   },
-  "tournament_diary": []
+  "tournament_diary": [
+    {
+      "match_id": "1",
+      "date": "2026-06-11",
+      "match": "Mexico 2-0 South Africa",
+      "stage": "Group A - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "Efficient? That was pure survival instinct, not football. Mexico grinding out a win at the Azteca with three red cards between them — this is what hap"
+    }
+  ]
 }

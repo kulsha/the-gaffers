@@ -1,1 +1,123 @@
-[]
+[
+  {
+    "session_id": "1",
+    "session_num": 1,
+    "date": "2026-06-11",
+    "day_label": "Day 1 · June 11",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Mexico",
+      "away_team": "South Africa",
+      "home_score": 2,
+      "away_score": 0,
+      "stage": "Group A - Matchday 1",
+      "venue": "Estadio Azteca, Mexico City",
+      "home_flag": {
+        "code": "MEX",
+        "style": "background:linear-gradient(135deg,#006847,#CE1126)"
+      },
+      "away_flag": {
+        "code": "RSA",
+        "style": "background:linear-gradient(135deg,#007A4D,#FFB612,#DE3831)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "Mexico",
+          "scorer": "“J. Quiñones 9”"
+        },
+        {
+          "minute": 0,
+          "team": "Mexico",
+          "scorer": "”R. Jiménez 67”"
+        }
+      ],
+      "red_cards": [
+        {
+          "minute": 66,
+          "team": "South Africa",
+          "player": "S. Sithole"
+        },
+        {
+          "minute": 84,
+          "team": "South Africa",
+          "player": "T. Zwane"
+        },
+        {
+          "minute": 90,
+          "team": "Mexico",
+          "player": "C. Montes"
+        }
+      ]
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "Mexico at the Azteca — that stadium has a soul, you know? Two red cards for South Africa, one for Mexico at the end... the match turned into a street fight, not football. Quiñones early, Jiménez late — efficient, but where was the *arte*? This looked like two teams surviving, not living.",
+        "time": "10:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "Efficient? That was pure survival instinct, not football. Mexico grinding out a win at the Azteca with three red cards between them — this is what happens when teams forget they're supposed to play beautiful. In 2022, we showed the world that you can win with your heart AND your feet, not just your elbows.",
+        "time": "10:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "Two red cards for South Africa, one for Mexico, and somehow this still felt more organized than England's last qualifying campaign. Rodrigo, you talk about heart and feet — we've got both and still manage to lose on penalties to anyone with a goalkeeper. At least Mexico remembered which end of the pitch to attack, which is more than I can say for us against Iceland that one time.",
+        "time": "10:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "Three red cards suggests defensive disorganization indices above 2.8 for both teams — Mexico's pressing efficiency after Sithole's dismissal increased by approximately 34%, which explains the second goal. Rodrigo, survival instinct *is* football when altitude gives the home side a measurable VO2 max advantage of 8-12%. The data shows Mexico executed their tactical plan with precision, even if it wasn't poetry.",
+        "time": "10:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "Three red cards and Klaus is already calculating oxygen consumption — perhaps this is why the Germans have not won a World Cup since 2014. Survival is not football, Rodrigo is correct about this. What we watched was two teams afraid of losing more than they wanted to win, which is always how tournaments begin and why they are rarely remembered.",
+        "time": "10:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*sets down the glass he's been wiping for the last ten minutes*\n\n*glances at the empty screen where the highlights just ended*\n\nThree red cards. Five opinions. Nobody mentioned the two teams that actually played.\n\n*turns off the back light behind the bar*",
+        "time": "10:13",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-12T10:13:46.852096"
+  }
+]
