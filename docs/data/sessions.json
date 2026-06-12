@@ -119,5 +119,115 @@
       }
     ],
     "timestamp": "2026-06-12T10:42:37.510251"
+  },
+  {
+    "session_id": "2",
+    "session_num": 2,
+    "date": "2026-06-11",
+    "day_label": "Day 1 · June 11",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "South Korea",
+      "away_team": "Czech Republic",
+      "home_score": 2,
+      "away_score": 1,
+      "stage": "Group A - Matchday 1",
+      "venue": "Estadio Akron, Guadalajara",
+      "home_flag": {
+        "code": "KOR",
+        "style": "background:linear-gradient(135deg,#CD2E3A,#0047A0)"
+      },
+      "away_flag": {
+        "code": "CZE",
+        "style": "background:linear-gradient(180deg,#D7141A,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 59,
+          "team": "Czech Republic",
+          "scorer": "L. Krejčí"
+        },
+        {
+          "minute": 67,
+          "team": "South Korea",
+          "scorer": "I.B. Hwang"
+        },
+        {
+          "minute": 80,
+          "team": "South Korea",
+          "scorer": "H.G. Oh"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "That finish from Oh — pure instinct, no thought, just *feeling* the moment. South Korea played with their hearts wide open, you could see it in every touch after going behind. The Czechs controlled possession like accountants counting money, but football isn't played on spreadsheets. Sometimes the team that wants it more just... takes it, beautiful or not.",
+        "time": "10:43",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "That late winner had *garra* written all over it — the kind of hunger that turns a match on its head. South Korea didn't play the most beautiful football, but they showed something the Czechs forgot: possession means nothing if you can't finish the story. The Koreans proved what we showed the world in 2022 — heart and belief can break any system. Oh's goal wasn't just a goal, it was a declaration: we refuse to lose.",
+        "time": "10:43",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "South Korea just reminded everyone why tournament football is different — you can have all the possession in the world, but if you don't kill a team when you're ahead, they'll come back and haunt you. The Czechs controlled that match like they were managing a pension fund, then conceded twice in thirteen minutes because football doesn't care about your xG. \n\nThat's the thing about knockout tournaments — they punish hesitation more than mistakes, and Oh knew exactly what he was doing with that finish.",
+        "time": "10:43",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "The Czechs' 61% possession translated to exactly 1.8 xG — textbook inefficiency when you're playing conservatively after taking a lead. South Korea's two goals came from just 0.4 combined xG, which statistically should happen once every forty-seven attempts at that conversion rate. Sometimes the data tells you a team got lucky, and sometimes... sometimes it tells you they simply refused what the numbers said was possible.",
+        "time": "10:43",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "The Czechs understood the game. The Koreans understood the moment. There is a difference — one writes the script, the other rewrites the ending when the pen is already down. Krejčí's goal at 59 minutes felt like the period at the end of a sentence that should have continued for another paragraph.",
+        "time": "10:43",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*slowly wipes down the bar where Cadu's beer left a ring*\n\nFive of you watched that match. Five different reasons why it mattered.\n\nNobody mentioned the seventy-two minutes when it didn't.\n\n*folds the towel, sets it down, walks to turn off one of the overhead screens*",
+        "time": "10:43",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-12T10:43:42.644838"
   }
 ]

@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 74,
-    "confidence": 76,
-    "anger": 6,
-    "bitterness": 11
+    "hope": 76,
+    "confidence": 77,
+    "anger": 4,
+    "bitterness": 10
   },
   "rivalry": {
     "likes": [
@@ -31,6 +31,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "Three red cards tells you more about what the match became than what it was supposed to be. Football has a temperature — this one boiled over because "
+    },
+    {
+      "match_id": "2",
+      "date": "2026-06-11",
+      "match": "South Korea 2-1 Czech Republic",
+      "stage": "Group A - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "The Czechs understood the game. The Koreans understood the moment. There is a difference — one writes the script, the other rewrites the ending when t"
     }
   ]
 }
