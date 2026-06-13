@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 78,
-    "confidence": 78,
-    "anger": 2,
-    "bitterness": 9
+    "hope": 80,
+    "confidence": 79,
+    "anger": 0,
+    "bitterness": 8
   },
   "rivalry": {
     "likes": [
@@ -49,6 +49,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "A draw feels safe until you realize it commits both teams to needing something from their next match — now neither controls their own fate, both depen"
+    },
+    {
+      "match_id": "4",
+      "date": "2026-06-12",
+      "match": "United States 4-1 Paraguay",
+      "stage": "Group D - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls wine glass slowly, eyes on the condensation pattern*\n\nFour goals tells you nothing about quality — it tells you everything about the distance "
     }
   ]
 }

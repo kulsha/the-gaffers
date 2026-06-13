@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 81,
-    "confidence": 83,
-    "anger": 9,
-    "bitterness": 7
+    "hope": 83,
+    "confidence": 84,
+    "anger": 7,
+    "bitterness": 6
   },
   "rivalry": {
     "likes": [
@@ -49,6 +49,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Throws hands up at the screen, shaking head*\n\nA draw in Miami? That's not football, that's negotiation. Canada scores early and suddenly forgets how "
+    },
+    {
+      "match_id": "4",
+      "date": "2026-06-12",
+      "match": "United States 4-1 Paraguay",
+      "stage": "Group D - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Leans back, arms crossed, one eyebrow raised*\n\nBalogun scores twice and suddenly everyone forgets he couldn't get a game at Arsenal? Paraguay made th"
     }
   ]
 }

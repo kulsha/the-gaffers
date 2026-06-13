@@ -334,5 +334,125 @@
       }
     ],
     "timestamp": "2026-06-13T09:34:41.122353"
+  },
+  {
+    "session_id": "4",
+    "session_num": 4,
+    "date": "2026-06-12",
+    "day_label": "Day 2 · June 12",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "United States",
+      "away_team": "Paraguay",
+      "home_score": 4,
+      "away_score": 1,
+      "stage": "Group D - Matchday 1",
+      "venue": "SoFi Stadium, Los Angeles",
+      "home_flag": {
+        "code": "US",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "PAR",
+        "style": "background:linear-gradient(180deg,#D52B1E,#ffffff,#009B3A)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "United States",
+          "scorer": "D. Bobadilla 7(OG)"
+        },
+        {
+          "minute": 0,
+          "team": "United States",
+          "scorer": "F. Balogun 45+5"
+        },
+        {
+          "minute": 0,
+          "team": "United States",
+          "scorer": "G. Reyna 90+8"
+        },
+        {
+          "minute": 31,
+          "team": "United States",
+          "scorer": "F. Balogun"
+        },
+        {
+          "minute": 73,
+          "team": "Paraguay",
+          "scorer": "Maurício"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Shakes head, trying not to smile but failing*\n\nFour goals. Balogun with two, that Reyna strike in stoppage time — the United States looked *alive* tonight. Paraguay fell apart like wet paper, that own goal to start was almost merciful compared to what came after. The Americans are dangerous when they play with joy instead of pressure, and tonight at SoFi they played like they had nothing to lose.",
+        "time": "10:36",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Leans back, arms crossed, one eyebrow raised*\n\nBalogun scores twice and suddenly everyone forgets he couldn't get a game at Arsenal? Paraguay made them look like Brazil '70 out there. That own goal in the opening seconds — that's not football, that's a psychological collapse. The United States didn't win this match, Paraguay handed it to them wrapped in a bow.",
+        "time": "10:36",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Takes a long pull of my pint, sets it down carefully*\n\nBalogun looking sharp is genuinely brilliant for us — nothing like watching a player you've technically produced tear it up for someone else. That's the modern English football experience right there. The Americans love a narrative though, don't they? One good performance and suddenly they're favourites for the whole thing, just wait till they meet someone who doesn't gift them a goal in the first minute.",
+        "time": "10:36",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up xG data on phone, then looks up with something almost like appreciation*\n\nThe United States generated 3.2 expected goals — they actually overperformed their underlying metrics for once, which is statistically unusual for CONCACAF teams in major tournaments. Balogun's movement created 0.4 xG per touch in the final third, that's elite-level positioning whether Gary wants to admit Arsenal's loss or not. Paraguay's defensive line averaged 38 meters from their own goal after the own goal — they never recovered psychologically, you could see it in the passing networks.",
+        "time": "10:36",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Swirls wine glass slowly, eyes on the condensation pattern*\n\nFour goals tells you nothing about quality — it tells you everything about the distance between expectation and preparation. Paraguay arrived believing they belonged; the United States arrived knowing they had to prove it. Belief without evidence is religion, evidence without belief is science — tonight we watched which one survives contact with reality.",
+        "time": "10:36",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ten minutes, looks at the screen where Reyna's celebration is frozen mid-jump*\n\nFour-one, and nobody mentioned the own goal was in the first minute.\n\n*Picks up another glass, starts polishing*\n\nThat's not when you score to demoralize someone. That's when you score because the other team was already demoralized before kickoff.\n\n*Glances at the five of them, then back at the glass*",
+        "time": "10:36",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-13T10:36:18.037295"
   }
 ]

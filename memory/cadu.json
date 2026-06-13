@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 76,
-    "confidence": 68,
-    "anger": 4,
-    "bitterness": 17
+    "hope": 78,
+    "confidence": 69,
+    "anger": 2,
+    "bitterness": 16
   },
   "rivalry": {
     "likes": [
@@ -48,6 +48,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lets out a long breath, staring at the screen*\n\nBoth teams playing scared, neither willing to truly *attack*. That Larin goal had promise, a flash of"
+    },
+    {
+      "match_id": "4",
+      "date": "2026-06-12",
+      "match": "United States 4-1 Paraguay",
+      "stage": "Group D - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Shakes head, trying not to smile but failing*\n\nFour goals. Balogun with two, that Reyna strike in stoppage time — the United States looked *alive* to"
     }
   ]
 }

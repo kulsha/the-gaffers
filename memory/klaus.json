@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 71,
-    "confidence": 73,
-    "anger": 4,
-    "bitterness": 12
+    "hope": 73,
+    "confidence": 74,
+    "anger": 2,
+    "bitterness": 11
   },
   "rivalry": {
     "likes": [
@@ -48,6 +48,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Adjusts glasses, pulling up data on phone*\n\nCanada's 34% possession in the second half tells you everything — they generated 0.4 xG after the 20th mi"
+    },
+    {
+      "match_id": "4",
+      "date": "2026-06-12",
+      "match": "United States 4-1 Paraguay",
+      "stage": "Group D - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up xG data on phone, then looks up with something almost like appreciation*\n\nThe United States generated 3.2 expected goals — they actually ove"
     }
   ]
 }

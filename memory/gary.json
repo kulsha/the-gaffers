@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 66,
-    "confidence": 48,
-    "anger": 4,
-    "bitterness": 27
+    "hope": 68,
+    "confidence": 49,
+    "anger": 2,
+    "bitterness": 26
   },
   "rivalry": {
     "likes": [
@@ -49,6 +49,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Glances at the screen, then back at my pint*\n\nDraw in the opening match of the group — tale as old as time, that. Both sides playing not to lose inst"
+    },
+    {
+      "match_id": "4",
+      "date": "2026-06-12",
+      "match": "United States 4-1 Paraguay",
+      "stage": "Group D - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Takes a long pull of my pint, sets it down carefully*\n\nBalogun looking sharp is genuinely brilliant for us — nothing like watching a player you've te"
     }
   ]
 }
