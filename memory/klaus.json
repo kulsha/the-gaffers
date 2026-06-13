@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 69,
-    "confidence": 72,
-    "anger": 6,
-    "bitterness": 13
+    "hope": 71,
+    "confidence": 73,
+    "anger": 4,
+    "bitterness": 12
   },
   "rivalry": {
     "likes": [
@@ -39,6 +39,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "The Czechs' 61% possession translated to exactly 1.8 xG — textbook inefficiency when you're playing conservatively after taking a lead. South Korea's "
+    },
+    {
+      "match_id": "3",
+      "date": "2026-06-12",
+      "match": "Canada 1-1 Bosnia and Herzegovina",
+      "stage": "Group B - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Adjusts glasses, pulling up data on phone*\n\nCanada's 34% possession in the second half tells you everything — they generated 0.4 xG after the 20th mi"
     }
   ]
 }

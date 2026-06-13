@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 74,
-    "confidence": 67,
-    "anger": 6,
-    "bitterness": 18
+    "hope": 76,
+    "confidence": 68,
+    "anger": 4,
+    "bitterness": 17
   },
   "rivalry": {
     "likes": [
@@ -39,6 +39,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "That finish from Oh — pure instinct, no thought, just *feeling* the moment. South Korea played with their hearts wide open, you could see it in every "
+    },
+    {
+      "match_id": "3",
+      "date": "2026-06-12",
+      "match": "Canada 1-1 Bosnia and Herzegovina",
+      "stage": "Group B - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lets out a long breath, staring at the screen*\n\nBoth teams playing scared, neither willing to truly *attack*. That Larin goal had promise, a flash of"
     }
   ]
 }
