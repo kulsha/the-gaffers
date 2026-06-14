@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 77,
-    "confidence": 68,
-    "anger": 3,
-    "bitterness": 17
+    "hope": 79,
+    "confidence": 69,
+    "anger": 1,
+    "bitterness": 16
   },
   "rivalry": {
     "likes": [
@@ -84,6 +84,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Leans forward, eyes still on the screen*\n\nMcGinn's goal — simple, direct, no nonsense. Scotland grinding out results the way they always do, nothing "
+    },
+    {
+      "match_id": "6",
+      "date": "2026-06-13",
+      "match": "Australia 2-0 Turkey",
+      "stage": "Group D - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the final whistle, nodding slowly*\n\nAustralia with that directness, that honest football — two goals, clean sheet, no pretense. Turkey tried "
     }
   ]
 }

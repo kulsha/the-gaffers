@@ -764,5 +764,110 @@
       }
     ],
     "timestamp": "2026-06-14T08:41:33.114955"
+  },
+  {
+    "session_id": "6",
+    "session_num": 8,
+    "date": "2026-06-13",
+    "day_label": "Day 3 · June 13",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Australia",
+      "away_team": "Turkey",
+      "home_score": 2,
+      "away_score": 0,
+      "stage": "Group D - Matchday 1",
+      "venue": "BC Place, Vancouver",
+      "home_flag": {
+        "code": "AUS",
+        "style": "background:linear-gradient(135deg,#00008B,#FF0000)"
+      },
+      "away_flag": {
+        "code": "T",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 27,
+          "team": "Australia",
+          "scorer": "Nestory Irankunda"
+        },
+        {
+          "minute": 75,
+          "team": "Australia",
+          "scorer": "C. Metcalfe"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Watches the final whistle, nodding slowly*\n\nAustralia with that directness, that honest football — two goals, clean sheet, no pretense. Turkey tried to control possession but possession without *purpose* is just passing sideways until someone punishes you. Irankunda's goal had real hunger in it, the kind you see in players who haven't forgotten what it means to score for your country.",
+        "time": "16:38",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Leans forward and taps the bar twice*\n\nTurkey had 62% possession and lost 2-0 — that's not football, that's a statistics seminar. Australia didn't need to control the ball, they controlled the *moments*, and in 2022 we proved that's what separates champions from pretenders. Irankunda at 21 years old shows more clarity than Turkey's entire midfield — he sees the goal, he takes the goal, simple.",
+        "time": "16:38",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Glances at the screen as it cuts to the Turkish players looking bewildered*\n\nAustralia doing the thing we can never quite manage — turning up, being professional, taking their chances without needing to make it poetry. Two-nil against a side that had all that possession and did absolutely nothing with it — that's the kind of efficiency that would have us out of the group stage by now if the roles were reversed.",
+        "time": "16:38",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the possession map on phone, adjusting glasses*\n\nTurkey completed 487 passes to Australia's 301 but generated only 0.7 expected goals — that's the statistical definition of sterile dominance. Australia's 2.1 xG from significantly fewer touches proves what the data has always shown: possession is a vanity metric when your final third entries lack verticality. Turkey's midfield recorded 89% pass completion in zones that created exactly zero danger, which is perhaps the most damning statistic you can produce in modern football.",
+        "time": "16:38",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Traces the water ring on the bar with one finger*\n\nTurkey forgot that possession is a question, not an answer — they kept asking it for ninety minutes without listening to what the game told them. Australia understood something simpler: the ball is only worth keeping if you know what to do when you let it go. The scoreline feels inevitable once you realize one team was waiting for something to happen and the other made it happen.",
+        "time": "16:38",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing, glances at the screen showing Turkish players still standing in disbelief, then back at the five of them*\n\nTurkey spent ninety minutes proving they knew how to keep the ball.\n\nAustralia spent two moments proving they knew why.\n\n*Goes back to wiping down the bar*",
+        "time": "16:38",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-14T16:38:37.651577"
   }
 ]

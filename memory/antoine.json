@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 86,
-    "confidence": 82,
+    "hope": 88,
+    "confidence": 83,
     "anger": 0,
-    "bitterness": 5
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -85,6 +85,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Traces a finger along the rim of the glass*\n\nScotland took what Haiti offered — not the game Haiti wanted to play, but the one they were capable of d"
+    },
+    {
+      "match_id": "6",
+      "date": "2026-06-13",
+      "match": "Australia 2-0 Turkey",
+      "stage": "Group D - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Traces the water ring on the bar with one finger*\n\nTurkey forgot that possession is a question, not an answer — they kept asking it for ninety minute"
     }
   ]
 }

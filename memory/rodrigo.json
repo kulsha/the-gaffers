@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 89,
-    "confidence": 87,
-    "anger": 1,
-    "bitterness": 3
+    "hope": 91,
+    "confidence": 88,
+    "anger": 0,
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -85,6 +85,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Taps fingers on the bar, shaking head slowly*\n\nScotland celebrate like they've won something real, but what did we actually see? Haiti missing chance"
+    },
+    {
+      "match_id": "6",
+      "date": "2026-06-13",
+      "match": "Australia 2-0 Turkey",
+      "stage": "Group D - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Leans forward and taps the bar twice*\n\nTurkey had 62% possession and lost 2-0 — that's not football, that's a statistics seminar. Australia didn't ne"
     }
   ]
 }

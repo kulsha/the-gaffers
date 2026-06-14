@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 74,
-    "confidence": 52,
+    "hope": 76,
+    "confidence": 53,
     "anger": 0,
-    "bitterness": 23
+    "bitterness": 22
   },
   "rivalry": {
     "likes": [
@@ -85,6 +85,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Sets my pint down with a knowing smile*\n\nScotland doing just enough to get the job done — that's actually impressive in a tournament, even if Rodrigo"
+    },
+    {
+      "match_id": "6",
+      "date": "2026-06-13",
+      "match": "Australia 2-0 Turkey",
+      "stage": "Group D - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Glances at the screen as it cuts to the Turkish players looking bewildered*\n\nAustralia doing the thing we can never quite manage — turning up, being "
     }
   ]
 }
