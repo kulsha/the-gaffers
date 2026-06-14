@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 78,
-    "confidence": 69,
-    "anger": 2,
-    "bitterness": 16
+    "hope": 73,
+    "confidence": 66,
+    "anger": 7,
+    "bitterness": 19
   },
   "rivalry": {
     "likes": [
@@ -57,6 +57,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Shakes head, trying not to smile but failing*\n\nFour goals. Balogun with two, that Reyna strike in stoppage time — the United States looked *alive* to"
+    },
+    {
+      "match_id": "7",
+      "date": "2026-06-13",
+      "match": "Brazil 1-1 Morocco",
+      "stage": "Group C - Matchday 1",
+      "my_team_played": true,
+      "team_result": "drew",
+      "reaction_summary": "*Runs hands through hair, staring at the empty glass in front of me*\n\nVinicius gave us that moment of pure *samba* — that's what we are, that's our so"
     }
   ]
 }

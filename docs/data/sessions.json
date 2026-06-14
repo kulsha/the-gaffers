@@ -454,5 +454,110 @@
       }
     ],
     "timestamp": "2026-06-13T10:36:18.037295"
+  },
+  {
+    "session_id": "7",
+    "session_num": 5,
+    "date": "2026-06-13",
+    "day_label": "Day 3 · June 13",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Brazil",
+      "away_team": "Morocco",
+      "home_score": 1,
+      "away_score": 1,
+      "stage": "Group C - Matchday 1",
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "home_flag": {
+        "code": "BRA",
+        "style": "background:linear-gradient(135deg,#009c3b,#FFDF00)"
+      },
+      "away_flag": {
+        "code": "MAR",
+        "style": "background:linear-gradient(135deg,#006233,#C1272D)"
+      },
+      "goals": [
+        {
+          "minute": 21,
+          "team": "Morocco",
+          "scorer": "I. Saibari"
+        },
+        {
+          "minute": 32,
+          "team": "Brazil",
+          "scorer": "V. Júnior"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Runs hands through hair, staring at the empty glass in front of me*\n\nVinicius gave us that moment of pure *samba* — that's what we are, that's our soul — but then we just... stopped dancing. Morocco didn't fear us, you could see it in their eyes, they looked at the yellow shirt and saw nothing to be afraid of. \n\n*Voice drops quieter*\n\nOne point against Morocco. In Atlanta. This isn't the Brazil that made the world fall in love with football.",
+        "time": "07:37",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Leans forward with a slow, knowing smile*\n\nMorocco didn't look at the yellow shirt and see nothing — they looked at it and saw exactly what it is: beautiful on the outside, hollow where the hunger should be. One goal from Vinicius and Brazil thought the match would finish itself, like the ball would just roll into the net out of respect. *Waves dismissively* That's the difference between wanting to win and expecting to win — Argentina in 2022 knew we had to *earn* every single moment.",
+        "time": "07:37",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Cadu stare into his glass, then glances at Rodrigo's satisfied grin*\n\nBrazil dropping points to Morocco in the group stage — that's the kind of result that would have England fans building conspiracy theories about FIFA and discussing xG until three in the morning. Difference is, you lot will probably still win the group while sleepwalking, and we'll beat San Marino 1-0 with an own goal and call it \"tournament experience.\"",
+        "time": "07:37",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up match data on phone, adjusting glasses*\n\nBrazil's 67% possession converted to exactly 1.3 expected goals — Morocco actually outperformed their 0.8 xG, which tells you everything about clinical finishing versus pretty passing. The midfield press resistance was completely absent after the 35th minute, fourteen turnovers in the final third alone. *Pauses, looks up from screen* Gary's right about one thing though — if Germany had drawn with Morocco, I'd already be calculating elimination scenarios and drinking something stronger than this.",
+        "time": "07:37",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Swirls the condensation on the glass, not looking up*\n\nThe draw tells us less about Brazil than it does about what football has become — Morocco defended with the same organization France would, pressed with German discipline, countered with South American instinct. The world doesn't watch and copy anymore, they watch and *adapt*. Brazil looked surprised to find an equal opponent wearing the wrong colors.",
+        "time": "07:37",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ten minutes, looks at the five of them sitting there in the silence*\n\nMorocco didn't surprise Brazil tonight.\n\nBrazil surprised themselves by realizing they're not special anymore.\n\n*Turns off the television*",
+        "time": "07:37",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-14T07:37:03.824380"
   }
 ]

@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 83,
-    "confidence": 84,
-    "anger": 7,
-    "bitterness": 6
+    "hope": 85,
+    "confidence": 85,
+    "anger": 5,
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -58,6 +58,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Leans back, arms crossed, one eyebrow raised*\n\nBalogun scores twice and suddenly everyone forgets he couldn't get a game at Arsenal? Paraguay made th"
+    },
+    {
+      "match_id": "7",
+      "date": "2026-06-13",
+      "match": "Brazil 1-1 Morocco",
+      "stage": "Group C - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Leans forward with a slow, knowing smile*\n\nMorocco didn't look at the yellow shirt and see nothing — they looked at it and saw exactly what it is: be"
     }
   ]
 }
