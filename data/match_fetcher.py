@@ -19,6 +19,115 @@ RED_CARDS_MANUAL = {
     ],
 }
 
+# Match-specific venue map — covers all 104 matches
+# Key = match ID from worldcup26.ir (string)
+MATCH_VENUE_MAP = {
+    "1":   "Estadio Azteca, Mexico City",
+    "2":   "Estadio Akron, Zapopan",
+    "3":   "BMO Field, Toronto",
+    "4":   "SoFi Stadium, Inglewood",
+    "5":   "Levi's Stadium, Santa Clara",
+    "6":   "MetLife Stadium, East Rutherford",
+    "7":   "Gillette Stadium, Foxborough",
+    "8":   "BC Place, Vancouver",
+    "9":   "NRG Stadium, Houston",
+    "10":  "AT&T Stadium, Arlington",
+    "11":  "Lincoln Financial Field, Philadelphia",
+    "12":  "Estadio BBVA, Monterrey",
+    "13":  "Mercedes-Benz Stadium, Atlanta",
+    "14":  "Lumen Field, Seattle",
+    "15":  "Hard Rock Stadium, Miami Gardens",
+    "16":  "SoFi Stadium, Inglewood",
+    "17":  "MetLife Stadium, East Rutherford",
+    "18":  "Gillette Stadium, Foxborough",
+    "19":  "Arrowhead Stadium, Kansas City",
+    "20":  "Levi's Stadium, Santa Clara",
+    "21":  "NRG Stadium, Houston",
+    "22":  "AT&T Stadium, Arlington",
+    "23":  "BMO Field, Toronto",
+    "24":  "Estadio Azteca, Mexico City",
+    "25":  "Mercedes-Benz Stadium, Atlanta",
+    "26":  "SoFi Stadium, Inglewood",
+    "27":  "BC Place, Vancouver",
+    "28":  "Estadio Akron, Zapopan",
+    "29":  "Lumen Field, Seattle",
+    "30":  "Gillette Stadium, Foxborough",
+    "31":  "Lincoln Financial Field, Philadelphia",
+    "32":  "Levi's Stadium, Santa Clara",
+    "33":  "NRG Stadium, Houston",
+    "34":  "BMO Field, Toronto",
+    "35":  "Arrowhead Stadium, Kansas City",
+    "36":  "Estadio BBVA, Monterrey",
+    "37":  "Mercedes-Benz Stadium, Atlanta",
+    "38":  "SoFi Stadium, Inglewood",
+    "39":  "Hard Rock Stadium, Miami Gardens",
+    "40":  "BC Place, Vancouver",
+    "41":  "AT&T Stadium, Arlington",
+    "42":  "Lincoln Financial Field, Philadelphia",
+    "43":  "MetLife Stadium, East Rutherford",
+    "44":  "Levi's Stadium, Santa Clara",
+    "45":  "NRG Stadium, Houston",
+    "46":  "Gillette Stadium, Foxborough",
+    "47":  "BMO Field, Toronto",
+    "48":  "Estadio Akron, Zapopan",
+    "49":  "BC Place, Vancouver",
+    "50":  "Lumen Field, Seattle",
+    "51":  "Hard Rock Stadium, Miami Gardens",
+    "52":  "Mercedes-Benz Stadium, Atlanta",
+    "53":  "Estadio Azteca, Mexico City",
+    "54":  "Estadio BBVA, Monterrey",
+    "55":  "Lincoln Financial Field, Philadelphia",
+    "56":  "MetLife Stadium, East Rutherford",
+    "57":  "AT&T Stadium, Arlington",
+    "58":  "Arrowhead Stadium, Kansas City",
+    "59":  "SoFi Stadium, Inglewood",
+    "60":  "Levi's Stadium, Santa Clara",
+    "61":  "Gillette Stadium, Foxborough",
+    "62":  "BMO Field, Toronto",
+    "63":  "NRG Stadium, Houston",
+    "64":  "Estadio Akron, Zapopan",
+    "65":  "Lumen Field, Seattle",
+    "66":  "BC Place, Vancouver",
+    "67":  "MetLife Stadium, East Rutherford",
+    "68":  "Lincoln Financial Field, Philadelphia",
+    "69":  "Hard Rock Stadium, Miami Gardens",
+    "70":  "Mercedes-Benz Stadium, Atlanta",
+    "71":  "Arrowhead Stadium, Kansas City",
+    "72":  "AT&T Stadium, Arlington",
+    "73":  "SoFi Stadium, Inglewood",
+    "74":  "NRG Stadium, Houston",
+    "75":  "Gillette Stadium, Foxborough",
+    "76":  "Estadio BBVA, Monterrey",
+    "77":  "AT&T Stadium, Arlington",
+    "78":  "MetLife Stadium, East Rutherford",
+    "79":  "Estadio Azteca, Mexico City",
+    "80":  "Mercedes-Benz Stadium, Atlanta",
+    "81":  "Lumen Field, Seattle",
+    "82":  "Levi's Stadium, Santa Clara",
+    "83":  "SoFi Stadium, Inglewood",
+    "84":  "BMO Field, Toronto",
+    "85":  "BC Place, Vancouver",
+    "86":  "AT&T Stadium, Arlington",
+    "87":  "Hard Rock Stadium, Miami Gardens",
+    "88":  "Arrowhead Stadium, Kansas City",
+    "89":  "NRG Stadium, Houston",
+    "90":  "Lincoln Financial Field, Philadelphia",
+    "91":  "MetLife Stadium, East Rutherford",
+    "92":  "Estadio Azteca, Mexico City",
+    "93":  "AT&T Stadium, Arlington",
+    "94":  "Lumen Field, Seattle",
+    "95":  "Mercedes-Benz Stadium, Atlanta",
+    "96":  "BC Place, Vancouver",
+    "97":  "Gillette Stadium, Foxborough",
+    "98":  "SoFi Stadium, Inglewood",
+    "99":  "Hard Rock Stadium, Miami Gardens",
+    "100": "Arrowhead Stadium, Kansas City",
+    "101": "AT&T Stadium, Arlington",
+    "102": "Mercedes-Benz Stadium, Atlanta",
+    "103": "Hard Rock Stadium, Miami Gardens",
+    "104": "MetLife Stadium, East Rutherford",
+}
+
 
 def fetch_latest_match(exclude_ids: list = None):
     """
@@ -58,7 +167,7 @@ def fetch_latest_match(exclude_ids: list = None):
         return parse_match(game)
 
     except requests.exceptions.Timeout:
-        print("⚽  API request timed out. Check your connection.")
+        print("⚠️  API request timed out. Check your connection.")
         return None
     except requests.exceptions.RequestException as e:
         print(f"⚠️  API request failed: {e}")
@@ -159,26 +268,8 @@ def parse_match(game: dict) -> dict:
     else:
         result = "Draw"
 
-    # Venue from stadium_id
-    stadium_map = {
-        "1": "Estadio Azteca, Mexico City",
-        "2": "Estadio Akron, Guadalajara",
-        "3": "Estadio BBVA, Monterrey",
-        "4": "AT&T Stadium, Dallas",
-        "5": "NRG Stadium, Houston",
-        "6": "Levi's Stadium, San Francisco",
-        "7": "Arrowhead Stadium, Kansas City",
-        "8": "Lincoln Financial Field, Philadelphia",
-        "9": "MetLife Stadium, New York",
-        "10": "Gillette Stadium, Boston",
-        "11": "Mercedes-Benz Stadium, Atlanta",
-        "12": "BMO Field, Toronto",
-        "13": "BC Place, Vancouver",
-        "14": "Hard Rock Stadium, Miami",
-        "15": "Lumen Field, Seattle",
-        "16": "SoFi Stadium, Los Angeles",
-    }
-    venue = stadium_map.get(str(game.get("stadium_id", "")), "World Cup 2026 Stadium")
+    # Venue from match-specific map
+    venue = MATCH_VENUE_MAP.get(match_id, "World Cup 2026 Stadium")
 
     match_context = f"""
 Match: {home_team} {home_score} - {away_score} {away_team}
