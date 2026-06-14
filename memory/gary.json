@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 70,
-    "confidence": 50,
+    "hope": 72,
+    "confidence": 51,
     "anger": 0,
-    "bitterness": 25
+    "bitterness": 24
   },
   "rivalry": {
     "likes": [
@@ -67,6 +67,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Cadu stare into his glass, then glances at Rodrigo's satisfied grin*\n\nBrazil dropping points to Morocco in the group stage — that's the kind "
+    },
+    {
+      "match_id": "8",
+      "date": "2026-06-13",
+      "match": "Qatar 1-1 Switzerland",
+      "stage": "Group B - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Glances up from my pint with the faintest smile*\n\nSwitzerland conceding in the 95th minute to Qatar — that's the kind of thing that would destroy us "
     }
   ]
 }

@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 82,
-    "confidence": 80,
+    "hope": 84,
+    "confidence": 81,
     "anger": 0,
-    "bitterness": 7
+    "bitterness": 6
   },
   "rivalry": {
     "likes": [
@@ -67,6 +67,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls the condensation on the glass, not looking up*\n\nThe draw tells us less about Brazil than it does about what football has become — Morocco defe"
+    },
+    {
+      "match_id": "8",
+      "date": "2026-06-13",
+      "match": "Qatar 1-1 Switzerland",
+      "stage": "Group B - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the condensation slide down the glass*\n\nThe Swiss will analyze what went wrong — the gap between their defenders, the timing of their substit"
     }
   ]
 }

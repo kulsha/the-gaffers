@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 73,
-    "confidence": 66,
-    "anger": 7,
-    "bitterness": 19
+    "hope": 75,
+    "confidence": 67,
+    "anger": 5,
+    "bitterness": 18
   },
   "rivalry": {
     "likes": [
@@ -66,6 +66,15 @@
       "my_team_played": true,
       "team_result": "drew",
       "reaction_summary": "*Runs hands through hair, staring at the empty glass in front of me*\n\nVinicius gave us that moment of pure *samba* — that's what we are, that's our so"
+    },
+    {
+      "match_id": "8",
+      "date": "2026-06-13",
+      "match": "Qatar 1-1 Switzerland",
+      "stage": "Group B - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Leans back, swirling the last of my drink*\n\nSwitzerland get their penalty, think they've controlled the match, then Qatar — *Qatar* — score in the fi"
     }
   ]
 }

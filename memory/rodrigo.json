@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 85,
-    "confidence": 85,
-    "anger": 5,
-    "bitterness": 5
+    "hope": 87,
+    "confidence": 86,
+    "anger": 3,
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -67,6 +67,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Leans forward with a slow, knowing smile*\n\nMorocco didn't look at the yellow shirt and see nothing — they looked at it and saw exactly what it is: be"
+    },
+    {
+      "match_id": "8",
+      "date": "2026-06-13",
+      "match": "Qatar 1-1 Switzerland",
+      "stage": "Group B - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Slaps the bar and grins wide*\n\nBeautiful? Cadu, that wasn't beautiful — that was desperation rewarded by Swiss complacency! Switzerland had 73 minute"
     }
   ]
 }

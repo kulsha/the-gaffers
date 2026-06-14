@@ -559,5 +559,110 @@
       }
     ],
     "timestamp": "2026-06-14T07:37:03.824380"
+  },
+  {
+    "session_id": "8",
+    "session_num": 6,
+    "date": "2026-06-13",
+    "day_label": "Day 3 · June 13",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Qatar",
+      "away_team": "Switzerland",
+      "home_score": 1,
+      "away_score": 1,
+      "stage": "Group B - Matchday 1",
+      "venue": "Lumen Field, Seattle",
+      "home_flag": {
+        "code": "QAT",
+        "style": "background:linear-gradient(135deg,#8D1B3D,#ffffff)"
+      },
+      "away_flag": {
+        "code": "SUI",
+        "style": "background:linear-gradient(135deg,#FF0000,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "Qatar",
+          "scorer": "B. Khoukhi 90+5"
+        },
+        {
+          "minute": 0,
+          "team": "Switzerland",
+          "scorer": "Breel Embolo 17 (p)"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Leans back, swirling the last of my drink*\n\nSwitzerland get their penalty, think they've controlled the match, then Qatar — *Qatar* — score in the fifth minute of stoppage time. That's football reminding everyone that the script gets torn up when hearts refuse to quit. Embolo's penalty was clinical, sure, but that Khoukhi header? That's a man who believed when belief was all he had left. The Swiss will be furious, but honestly, there's something beautiful about a team like Qatar refusing to accept defeat on this stage.",
+        "time": "07:39",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Slaps the bar and grins wide*\n\nBeautiful? Cadu, that wasn't beautiful — that was desperation rewarded by Swiss complacency! Switzerland had 73 minutes to kill this match after the penalty and they played like they were already on the plane to their next game. Qatar didn't steal a point through belief, they stole it because Yakin's team forgot the first rule: you finish what you start. That's not poetry, that's Switzerland being Switzerland — technically perfect until it actually matters.",
+        "time": "07:39",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Glances up from my pint with the faintest smile*\n\nSwitzerland conceding in the 95th minute to Qatar — that's the kind of thing that would destroy us for weeks, but they'll just adjust their tactical review and move on like it was a rounding error. Meanwhile I'm sitting here knowing we'd treat that draw like a national tragedy and somehow still convince ourselves we're winning the whole thing. The difference is they'll actually learn from it.",
+        "time": "07:39",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts glasses, pulling up the match stats on phone*\n\nSwitzerland's expected goals were 2.1 compared to Qatar's 0.8 — they didn't just fail to kill the match, they statistically should have won it twice over. The defensive positioning in the 93rd minute shows a 12-meter gap between their center-backs during the corner, which is... *trails off, staring at the data* ...actually painful to look at. Gary's right that they forgot to finish, but the numbers show they forgot basic defensive structure when it mattered most.",
+        "time": "07:39",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Watches the condensation slide down the glass*\n\nThe Swiss will analyze what went wrong — the gap between their defenders, the timing of their substitutions, the set-piece positioning. Qatar will celebrate what went right. But here's what neither will admit: Switzerland created the conditions for their own punishment the moment they decided 1-0 was enough. Football doesn't respect restraint when you mistake it for control.",
+        "time": "07:39",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been wiping for the last thirty seconds, looks at the empty seats where five men just sat*\n\nThey all talked about Switzerland forgetting to finish.\n\nNobody mentioned Qatar remembering to start.\n\n*Turns off one of the overhead lights*",
+        "time": "07:39",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-14T07:39:29.041742"
   }
 ]
