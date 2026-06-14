@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 87,
-    "confidence": 86,
-    "anger": 3,
-    "bitterness": 4
+    "hope": 89,
+    "confidence": 87,
+    "anger": 1,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -76,6 +76,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Slaps the bar and grins wide*\n\nBeautiful? Cadu, that wasn't beautiful — that was desperation rewarded by Swiss complacency! Switzerland had 73 minute"
+    },
+    {
+      "match_id": "5",
+      "date": "2026-06-13",
+      "match": "Haiti 0-1 Scotland",
+      "stage": "Group C - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Taps fingers on the bar, shaking head slowly*\n\nScotland celebrate like they've won something real, but what did we actually see? Haiti missing chance"
     }
   ]
 }

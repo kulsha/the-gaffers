@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 77,
-    "confidence": 76,
+    "hope": 79,
+    "confidence": 77,
     "anger": 0,
-    "bitterness": 9
+    "bitterness": 8
   },
   "rivalry": {
     "likes": [
@@ -75,6 +75,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Adjusts glasses, pulling up the match stats on phone*\n\nSwitzerland's expected goals were 2.1 compared to Qatar's 0.8 — they didn't just fail to kill "
+    },
+    {
+      "match_id": "5",
+      "date": "2026-06-13",
+      "match": "Haiti 0-1 Scotland",
+      "stage": "Group C - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Adjusts glasses, pulling up the match stats on phone*\n\nScotland's 0.9 expected goals from 14 shots tells you everything about their efficiency proble"
     }
   ]
 }

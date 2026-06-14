@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 72,
-    "confidence": 51,
+    "hope": 74,
+    "confidence": 52,
     "anger": 0,
-    "bitterness": 24
+    "bitterness": 23
   },
   "rivalry": {
     "likes": [
@@ -76,6 +76,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Glances up from my pint with the faintest smile*\n\nSwitzerland conceding in the 95th minute to Qatar — that's the kind of thing that would destroy us "
+    },
+    {
+      "match_id": "5",
+      "date": "2026-06-13",
+      "match": "Haiti 0-1 Scotland",
+      "stage": "Group C - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Sets my pint down with a knowing smile*\n\nScotland doing just enough to get the job done — that's actually impressive in a tournament, even if Rodrigo"
     }
   ]
 }

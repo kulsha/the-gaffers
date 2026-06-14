@@ -664,5 +664,105 @@
       }
     ],
     "timestamp": "2026-06-14T07:39:29.041742"
+  },
+  {
+    "session_id": "5",
+    "session_num": 7,
+    "date": "2026-06-13",
+    "day_label": "Day 3 · June 13",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Haiti",
+      "away_team": "Scotland",
+      "home_score": 0,
+      "away_score": 1,
+      "stage": "Group C - Matchday 1",
+      "venue": "MetLife Stadium, New York",
+      "home_flag": {
+        "code": "HAI",
+        "style": "background:linear-gradient(180deg,#00209F,#D21034)"
+      },
+      "away_flag": {
+        "code": "SCO",
+        "style": "background:linear-gradient(135deg,#003078,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 28,
+          "team": "Scotland",
+          "scorer": "J. McGinn"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Leans forward, eyes still on the screen*\n\nMcGinn's goal — simple, direct, no nonsense. Scotland grinding out results the way they always do, nothing beautiful but it *works*. Haiti had moments, flashes of something, but couldn't find the finish when it mattered. One goal, three points — in tournaments, that's all the poetry you need sometimes, even if it hurts me to admit it.",
+        "time": "08:41",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Taps fingers on the bar, shaking head slowly*\n\nScotland celebrate like they've won something real, but what did we actually see? Haiti missing chances and McGinn scoring the kind of goal a Sunday league player dreams about. This is Group C football — grit without brilliance, results without art. Gary will probably add this to his \"coming home\" evidence though, won't he?",
+        "time": "08:41",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Sets my pint down with a knowing smile*\n\nScotland doing just enough to get the job done — that's actually impressive in a tournament, even if Rodrigo won't admit it. McGinn's goal was nothing fancy but it counted, and at the end of the day that's what separates going home early from staying in the dance. Meanwhile we've got England-Slovenia tomorrow and I'm already preparing seventeen different explanations for why a draw is actually tactical brilliance.",
+        "time": "08:41",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts glasses, pulling up the match stats on phone*\n\nScotland's 0.9 expected goals from 14 shots tells you everything about their efficiency problem — they created chances worth nearly a goal and somehow only scored exactly once. Haiti actually had 1.1 xG which means statistically they deserved more, but tournaments don't care about deserving. Gary's optimism is mathematically sound for once — grinding out 1-0 wins is how you advance, even if it's ugly.",
+        "time": "08:41",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Traces a finger along the rim of the glass*\n\nScotland took what Haiti offered — not the game Haiti wanted to play, but the one they were capable of defending. The difference between ambition and execution is where tournaments are won and lost. McGinn didn't score a beautiful goal; he scored the only goal that mattered, which is its own kind of beauty if you're willing to see it.",
+        "time": "08:41",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last three minutes, glances once at the empty screen*\n\nFive people just watched Haiti lose and all of them saw Scotland win.",
+        "time": "08:41",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-14T08:41:33.114955"
   }
 ]
