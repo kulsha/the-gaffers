@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 81,
-    "confidence": 70,
+    "hope": 83,
+    "confidence": 71,
     "anger": 0,
-    "bitterness": 15
+    "bitterness": 14
   },
   "rivalry": {
     "likes": [
@@ -102,6 +102,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Exhales slowly, watching the Ivorian players celebrate*\n\nDiallo in the ninetieth minute — that's football showing her cruelest face to Ecuador. The w"
+    },
+    {
+      "match_id": "10",
+      "date": "2026-06-14",
+      "match": "Germany 7-1 Curaçao",
+      "stage": "Group E - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Glass shatters against the table, not thrown but dropped from suddenly nerveless fingers*\n\nSeven-one. They had to make it seven-one. Against Curaçao,"
     }
   ]
 }

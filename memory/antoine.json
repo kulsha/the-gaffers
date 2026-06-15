@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 90,
-    "confidence": 84,
-    "anger": 0,
-    "bitterness": 3
+    "hope": 87,
+    "confidence": 82,
+    "anger": 8,
+    "bitterness": 8
   },
   "rivalry": {
     "likes": [
@@ -103,6 +103,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls the glass, watching light refract through the wine*\n\nThe tragedy is not that Ecuador controlled the match — it's that they confused control wi"
+    },
+    {
+      "match_id": "10",
+      "date": "2026-06-14",
+      "match": "Germany 7-1 Curaçao",
+      "stage": "Group E - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lifts the glass, holds it to the light*\n\nThe cruelty is not the scoreline — it is the mercy Germany showed by stopping at seven. Curaçao deserved eit"
     }
   ]
 }

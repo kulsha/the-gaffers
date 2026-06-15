@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 83,
-    "confidence": 79,
+    "hope": 93,
+    "confidence": 87,
     "anger": 0,
-    "bitterness": 6
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -102,6 +102,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match stats on phone, then looks up with something approaching sympathy*\n\nEcuador generated 1.8 expected goals from 61% possession and s"
+    },
+    {
+      "match_id": "10",
+      "date": "2026-06-14",
+      "match": "Germany 7-1 Curaçao",
+      "stage": "Group E - Matchday 1",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*Sets phone down on the bar, screen still showing the heat map, and stares at it longer than necessary*\n\nGermany's expected goals reached 5.2 from 23 "
     }
   ]
 }

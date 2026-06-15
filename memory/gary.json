@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 78,
-    "confidence": 54,
+    "hope": 80,
+    "confidence": 55,
     "anger": 0,
-    "bitterness": 21
+    "bitterness": 20
   },
   "rivalry": {
     "likes": [
@@ -103,6 +103,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the Ecuador players on their knees, shakes head slowly*\n\nThat's the kind of goal that haunts you for years — ninety minutes of doing everythi"
+    },
+    {
+      "match_id": "10",
+      "date": "2026-06-14",
+      "match": "Germany 7-1 Curaçao",
+      "stage": "Group E - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Looks up from my pint with the kind of smile that doesn't quite reach my eyes*\n\nSeven-one — honestly Klaus must be somewhere having the most efficien"
     }
   ]
 }

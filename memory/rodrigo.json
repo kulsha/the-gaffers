@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 93,
-    "confidence": 89,
+    "hope": 95,
+    "confidence": 90,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -103,6 +103,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Taps the bar slowly, staring at the screen as Ecuador's players collapse*\n\nNinety minutes of surviving and one flash of quality — that's not poetry, "
+    },
+    {
+      "match_id": "10",
+      "date": "2026-06-14",
+      "match": "Germany 7-1 Curaçao",
+      "stage": "Group E - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Stands up slowly, eyes fixed on the screen, voice low and deliberate*\n\nGermany scoring seven against Curaçao proves absolutely nothing except that mi"
     }
   ]
 }

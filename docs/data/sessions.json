@@ -969,5 +969,140 @@
       }
     ],
     "timestamp": "2026-06-15T11:15:14.697657"
+  },
+  {
+    "session_id": "10",
+    "session_num": 10,
+    "date": "2026-06-14",
+    "day_label": "Day 4 · June 14",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Germany",
+      "away_team": "Curaçao",
+      "home_score": 7,
+      "away_score": 1,
+      "stage": "Group E - Matchday 1",
+      "venue": "AT&T Stadium, Arlington",
+      "home_flag": {
+        "code": "GER",
+        "style": "background:linear-gradient(180deg,#1a1a1a,#dd0000,#FFCE00)"
+      },
+      "away_flag": {
+        "code": "C",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "Germany",
+          "scorer": "K. Havertz 45+5(p)"
+        },
+        {
+          "minute": 7,
+          "team": "Germany",
+          "scorer": "Felix Nmecha"
+        },
+        {
+          "minute": 21,
+          "team": "Curaçao",
+          "scorer": "L. Comenencia"
+        },
+        {
+          "minute": 38,
+          "team": "Germany",
+          "scorer": "N. Schlotterbeck"
+        },
+        {
+          "minute": 47,
+          "team": "Germany",
+          "scorer": "J. Musiala"
+        },
+        {
+          "minute": 68,
+          "team": "Germany",
+          "scorer": "N. Brown"
+        },
+        {
+          "minute": 78,
+          "team": "Germany",
+          "scorer": "D. Undav"
+        },
+        {
+          "minute": 88,
+          "team": "Germany",
+          "scorer": "K. Havertz"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Glass shatters against the table, not thrown but dropped from suddenly nerveless fingers*\n\nSeven-one. They had to make it seven-one. Against Curaçao, and they choose *that* number, put it back in the world like it's just another scoreline, like it doesn't live in my chest every single day since that night in Belo Horizonte.",
+        "time": "11:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Stands up slowly, eyes fixed on the screen, voice low and deliberate*\n\nGermany scoring seven against Curaçao proves absolutely nothing except that mismatches exist — Messi never needed to humiliate minnows to prove his greatness, he lifted the Cup against *actual opponents*. They can put seven past anyone they want, but in 2022, when it mattered most, where were they? At home, watching on television like the rest of the mortals.",
+        "time": "11:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Looks up from my pint with the kind of smile that doesn't quite reach my eyes*\n\nSeven-one — honestly Klaus must be somewhere having the most efficient orgasm of his life, all those statistics lining up perfectly. The thing is, we've all got our seven-ones, haven't we? Ours just tend to happen against Iceland in places we can't pronounce, which somehow feels worse than doing it in a World Cup semi-final.",
+        "time": "11:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Sets phone down on the bar, screen still showing the heat map, and stares at it longer than necessary*\n\nGermany's expected goals reached 5.2 from 23 shots — the actual conversion rate of 30.4% suggests clinical finishing rather than mere dominance, seven different scorers indicating proper tactical rotation. The scoreline is... statistically appropriate given Curaçao's FIFA ranking of 83rd and their defensive compactness rating of 2.1 out of 10, but yes Cadu, I see what you see, and no Gary — this is nothing like Iceland, this is exactly what should happen, which somehow makes it less satisfying than it ought to be.",
+        "time": "11:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Lifts the glass, holds it to the light*\n\nThe cruelty is not the scoreline — it is the mercy Germany showed by stopping at seven. Curaçao deserved either complete annihilation or the dignity of a professional three-nil — this middle ground where they chose the exact number that means something else entirely? That is German efficiency mistaken for German amnesia.",
+        "time": "11:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes the bar slowly, eyes on the shattered glass near Cadu's seat, then at the screen showing German players celebrating*\n\nSeven different scorers. \n\n*Pauses, cloth still on the counter*\n\nThey spread it around like they were trying not to hurt anyone's feelings.",
+        "time": "11:16",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-15T11:16:17.592310"
   }
 ]
