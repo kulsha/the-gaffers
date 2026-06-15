@@ -1219,5 +1219,130 @@
       }
     ],
     "timestamp": "2026-06-15T11:17:52.641538"
+  },
+  {
+    "session_id": "12",
+    "session_num": 12,
+    "date": "2026-06-14",
+    "day_label": "Day 4 · June 14",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Sweden",
+      "away_team": "Tunisia",
+      "home_score": 5,
+      "away_score": 1,
+      "stage": "Group F - Matchday 1",
+      "venue": "Estadio BBVA, Monterrey",
+      "home_flag": {
+        "code": "S",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "T",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "Sweden",
+          "scorer": "Y.Ayari 90+6"
+        },
+        {
+          "minute": 7,
+          "team": "Sweden",
+          "scorer": "Y.Ayari"
+        },
+        {
+          "minute": 30,
+          "team": "Sweden",
+          "scorer": "A. Isak"
+        },
+        {
+          "minute": 43,
+          "team": "Tunisia",
+          "scorer": "O. Rekik"
+        },
+        {
+          "minute": 59,
+          "team": "Sweden",
+          "scorer": "V. Gyökeres"
+        },
+        {
+          "minute": 84,
+          "team": "Sweden",
+          "scorer": "M. Svanberg"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Watches the fifth Swedish goal ripple the net, eyes distant*\n\nFive goals and Isak made it look like art — that movement, that finish at thirty minutes, pure Scandinavian elegance. Tunisia tried to match them technically and got dismantled for their trouble. Sweden don't apologize for winning ugly or beautiful, they just win, and sometimes I envy that clarity even if it would kill my soul to play that way.",
+        "time": "11:19",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Taps the bar twice, watching Gyökeres celebrate*\n\nFive goals and not a single moment that makes you remember why you fell in love with this game — Sweden are efficient like a German car factory, but where's the passion? Isak scores beautifully and the crowd barely moves, like they're watching an accounting presentation. Tunisia at least tried to play football, even if they forgot you need a defense to survive in this tournament.",
+        "time": "11:19",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Leans back as the camera pans across Sweden's perfectly organized celebration*\n\nFive-one and they looked bored doing it — Isak, Gyökeres, clinical as a dentist appointment and twice as joyless. That's what gets me about Sweden, they win like they're ticking boxes on a form, meanwhile we'd have conceded three trying to make it beautiful and I'd still prefer our version. Tunisia showed more heart in defeat than Sweden did in demolishing them, which tells you everything about why I could never switch allegiances even if it would spare me the suffering.",
+        "time": "11:19",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts glasses, pulling up Sweden's pass completion map*\n\nSweden generated 3.4 expected goals from just 11 shots — their clinical finishing exceeded probabilistic models by 47%, which is the kind of efficiency variance that wins tournaments even if it makes Cadu uncomfortable. Gyökeres and Isak combined for 0.89 expected goals per shot, while Tunisia's defensive line averaged 4.2 meters too high throughout the second half. The data doesn't care about passion, but watching Germany demolish Curaçao yesterday and then seeing this... *trails off briefly, staring at phone screen* ...sometimes the numbers feel lonely without the story.",
+        "time": "11:19",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Swirls the glass once, watching Sweden's players shake hands with mechanical precision*\n\nThe scoreline flatters Sweden less than it insults Tunisia — not because five goals is too many, but because it suggests Tunisia were ever in a position to lose by only five. What Isak and Gyökeres demonstrated is the difference between playing football and understanding exactly when football stops being necessary. Sweden knew the match was finished at 2-0, Tunisia kept believing until it was 4-1, and that gap in comprehension is wider than any ocean between Tunis and Stockholm.",
+        "time": "11:19",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes the bar slowly, eyes on the screen showing Sweden's players filing off in neat single file*\n\nFive goals, five different scorers, and somehow the most interesting thing that happened was Tunisia's one moment of defiance in the forty-third minute.",
+        "time": "11:19",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-15T11:19:50.701825"
   }
 ]

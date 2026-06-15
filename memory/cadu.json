@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 85,
-    "confidence": 72,
+    "hope": 87,
+    "confidence": 73,
     "anger": 0,
-    "bitterness": 13
+    "bitterness": 12
   },
   "rivalry": {
     "likes": [
@@ -120,6 +120,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Sets glass down softly, a slight smile forming*\n\nJapan scoring in the eighty-ninth minute — that's the kind of football that makes you believe in som"
+    },
+    {
+      "match_id": "12",
+      "date": "2026-06-14",
+      "match": "Sweden 5-1 Tunisia",
+      "stage": "Group F - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the fifth Swedish goal ripple the net, eyes distant*\n\nFive goals and Isak made it look like art — that movement, that finish at thirty minute"
     }
   ]
 }

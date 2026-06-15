@@ -4,8 +4,8 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 91,
+    "hope": 99,
+    "confidence": 92,
     "anger": 0,
     "bitterness": 0
   },
@@ -121,6 +121,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Leans back with arms crossed, shaking head slowly*\n\nThe Dutch concede in the eighty-ninth minute because they forgot the first rule — football doesn'"
+    },
+    {
+      "match_id": "12",
+      "date": "2026-06-14",
+      "match": "Sweden 5-1 Tunisia",
+      "stage": "Group F - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Taps the bar twice, watching Gyökeres celebrate*\n\nFive goals and not a single moment that makes you remember why you fell in love with this game — Sw"
     }
   ]
 }

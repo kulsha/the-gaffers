@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 95,
-    "confidence": 88,
+    "hope": 97,
+    "confidence": 89,
     "anger": 0,
-    "bitterness": 2
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -120,6 +120,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the defensive transition data on phone, adjusting glasses*\n\nNetherlands completed 89% of their passes in the final third after the sixty-fou"
+    },
+    {
+      "match_id": "12",
+      "date": "2026-06-14",
+      "match": "Sweden 5-1 Tunisia",
+      "stage": "Group F - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Adjusts glasses, pulling up Sweden's pass completion map*\n\nSweden generated 3.4 expected goals from just 11 shots — their clinical finishing exceeded"
     }
   ]
 }

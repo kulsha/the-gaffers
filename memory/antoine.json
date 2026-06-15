@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 89,
-    "confidence": 83,
-    "anger": 6,
-    "bitterness": 7
+    "hope": 91,
+    "confidence": 84,
+    "anger": 4,
+    "bitterness": 6
   },
   "rivalry": {
     "likes": [
@@ -121,6 +121,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the glass slowly, watching the wine settle*\n\nThe interesting thing is not that Japan scored late — it's that the Dutch spent forty minutes trea"
+    },
+    {
+      "match_id": "12",
+      "date": "2026-06-14",
+      "match": "Sweden 5-1 Tunisia",
+      "stage": "Group F - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls the glass once, watching Sweden's players shake hands with mechanical precision*\n\nThe scoreline flatters Sweden less than it insults Tunisia —"
     }
   ]
 }

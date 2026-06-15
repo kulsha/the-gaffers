@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 82,
-    "confidence": 56,
+    "hope": 84,
+    "confidence": 57,
     "anger": 0,
-    "bitterness": 19
+    "bitterness": 18
   },
   "rivalry": {
     "likes": [
@@ -121,6 +121,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Glances at the screen as they show Van Dijk's face, then back at my pint*\n\nThe Netherlands controlling a match for eighty-eight minutes and then conc"
+    },
+    {
+      "match_id": "12",
+      "date": "2026-06-14",
+      "match": "Sweden 5-1 Tunisia",
+      "stage": "Group F - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Leans back as the camera pans across Sweden's perfectly organized celebration*\n\nFive-one and they looked bored doing it — Isak, Gyökeres, clinical as"
     }
   ]
 }
