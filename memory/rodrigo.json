@@ -4,8 +4,8 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 95,
-    "confidence": 90,
+    "hope": 97,
+    "confidence": 91,
     "anger": 0,
     "bitterness": 0
   },
@@ -112,6 +112,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Stands up slowly, eyes fixed on the screen, voice low and deliberate*\n\nGermany scoring seven against Curaçao proves absolutely nothing except that mi"
+    },
+    {
+      "match_id": "11",
+      "date": "2026-06-14",
+      "match": "Netherlands 2-2 Japan",
+      "stage": "Group F - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Leans back with arms crossed, shaking head slowly*\n\nThe Dutch concede in the eighty-ninth minute because they forgot the first rule — football doesn'"
     }
   ]
 }

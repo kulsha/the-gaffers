@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 83,
-    "confidence": 71,
+    "hope": 85,
+    "confidence": 72,
     "anger": 0,
-    "bitterness": 14
+    "bitterness": 13
   },
   "rivalry": {
     "likes": [
@@ -111,6 +111,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Glass shatters against the table, not thrown but dropped from suddenly nerveless fingers*\n\nSeven-one. They had to make it seven-one. Against Curaçao,"
+    },
+    {
+      "match_id": "11",
+      "date": "2026-06-14",
+      "match": "Netherlands 2-2 Japan",
+      "stage": "Group F - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Sets glass down softly, a slight smile forming*\n\nJapan scoring in the eighty-ninth minute — that's the kind of football that makes you believe in som"
     }
   ]
 }

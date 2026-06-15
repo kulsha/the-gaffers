@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 87,
-    "confidence": 82,
-    "anger": 8,
-    "bitterness": 8
+    "hope": 89,
+    "confidence": 83,
+    "anger": 6,
+    "bitterness": 7
   },
   "rivalry": {
     "likes": [
@@ -112,6 +112,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lifts the glass, holds it to the light*\n\nThe cruelty is not the scoreline — it is the mercy Germany showed by stopping at seven. Curaçao deserved eit"
+    },
+    {
+      "match_id": "11",
+      "date": "2026-06-14",
+      "match": "Netherlands 2-2 Japan",
+      "stage": "Group F - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the glass slowly, watching the wine settle*\n\nThe interesting thing is not that Japan scored late — it's that the Dutch spent forty minutes trea"
     }
   ]
 }
