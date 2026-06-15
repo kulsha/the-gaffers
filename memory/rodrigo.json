@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 91,
-    "confidence": 88,
+    "hope": 93,
+    "confidence": 89,
     "anger": 0,
-    "bitterness": 2
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -94,6 +94,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Leans forward and taps the bar twice*\n\nTurkey had 62% possession and lost 2-0 — that's not football, that's a statistics seminar. Australia didn't ne"
+    },
+    {
+      "match_id": "9",
+      "date": "2026-06-14",
+      "match": "Ivory Coast 1-0 Ecuador",
+      "stage": "Group E - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Taps the bar slowly, staring at the screen as Ecuador's players collapse*\n\nNinety minutes of surviving and one flash of quality — that's not poetry, "
     }
   ]
 }

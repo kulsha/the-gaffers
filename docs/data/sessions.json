@@ -869,5 +869,105 @@
       }
     ],
     "timestamp": "2026-06-14T16:38:37.651577"
+  },
+  {
+    "session_id": "9",
+    "session_num": 9,
+    "date": "2026-06-14",
+    "day_label": "Day 4 · June 14",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Ivory Coast",
+      "away_team": "Ecuador",
+      "home_score": 1,
+      "away_score": 0,
+      "stage": "Group E - Matchday 1",
+      "venue": "NRG Stadium, Houston",
+      "home_flag": {
+        "code": "IC",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "ECU",
+        "style": "background:linear-gradient(180deg,#FFD100,#003DA5,#EF3340)"
+      },
+      "goals": [
+        {
+          "minute": 90,
+          "team": "Ivory Coast",
+          "scorer": "A. Diallo"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Exhales slowly, watching the Ivorian players celebrate*\n\nDiallo in the ninetieth minute — that's football showing her cruelest face to Ecuador. The whole match they defended, waited, and then one moment of brilliance... *that's* the poetry of this game, even when it breaks your heart. Ivory Coast didn't need to dominate, they just needed to believe until the very end.",
+        "time": "11:15",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Taps the bar slowly, staring at the screen as Ecuador's players collapse*\n\nNinety minutes of surviving and one flash of quality — that's not poetry, that's robbery with a beautiful mask. Ecuador controlled that match and have nothing, Ivory Coast barely existed and have everything. Sometimes football rewards faith, sometimes it just punishes hesitation. Tonight? Pure injustice wearing a gold jersey.",
+        "time": "11:15",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the Ecuador players on their knees, shakes head slowly*\n\nThat's the kind of goal that haunts you for years — ninety minutes of doing everything right and then one perfect ball, one perfect touch, and you're on the first plane home. We know that feeling better than most, don't we? At least when we lose heartbreakers we usually deserve it — Ecuador just got mugged in stoppage time by a moment of genuine class.",
+        "time": "11:15",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match stats on phone, then looks up with something approaching sympathy*\n\nEcuador generated 1.8 expected goals from 61% possession and seventeen shots — Ivory Coast's 0.4 xG came almost entirely from that single passage of play in the ninetieth minute. The data supports Rodrigo's robbery claim completely, though calling it injustice assumes football owes you anything for controlling the ball, which statistically it does not. Sometimes the only number that matters is the one next to the name.",
+        "time": "11:15",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Swirls the glass, watching light refract through the wine*\n\nThe tragedy is not that Ecuador controlled the match — it's that they confused control with conviction. Possession becomes a prison when you mistake it for progress. Ivory Coast understood what Ecuador forgot: football doesn't measure you by what you hold, only by what you're willing to risk in the moment that matters.",
+        "time": "11:15",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last five minutes, looks at the screen where Ecuador's players still haven't moved*\n\nNinety minutes they protected themselves from losing.\n\nOne second was all it took.",
+        "time": "11:15",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-15T11:15:14.697657"
   }
 ]

@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 81,
-    "confidence": 78,
+    "hope": 83,
+    "confidence": 79,
     "anger": 0,
-    "bitterness": 7
+    "bitterness": 6
   },
   "rivalry": {
     "likes": [
@@ -93,6 +93,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the possession map on phone, adjusting glasses*\n\nTurkey completed 487 passes to Australia's 301 but generated only 0.7 expected goals — that"
+    },
+    {
+      "match_id": "9",
+      "date": "2026-06-14",
+      "match": "Ivory Coast 1-0 Ecuador",
+      "stage": "Group E - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match stats on phone, then looks up with something approaching sympathy*\n\nEcuador generated 1.8 expected goals from 61% possession and s"
     }
   ]
 }
