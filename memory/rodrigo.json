@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 95,
+    "confidence": 96,
     "anger": 0,
     "bitterness": 0
   },
@@ -157,6 +157,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights a cigarette, exhales slowly toward the screen*\n\nEgypt just taught Belgium that technique without hunger is like tango without passion — you ca"
+    },
+    {
+      "match_id": "16",
+      "date": "2026-06-15",
+      "match": "Saudi Arabia 1-1 Uruguay",
+      "stage": "Group H - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Slaps the bar and leans forward, cigarette smoke curling toward the screen*\n\nSaudi Arabia holding Uruguay reminds me of something beautiful — they al"
     }
   ]
 }

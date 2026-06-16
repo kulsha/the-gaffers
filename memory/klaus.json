@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 92,
+    "confidence": 93,
     "anger": 0,
     "bitterness": 0
   },
@@ -156,6 +156,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, then sets it down with more force than intended*\n\nBelgium managed 2.1 expected goals from 68% possession and "
+    },
+    {
+      "match_id": "16",
+      "date": "2026-06-15",
+      "match": "Saudi Arabia 1-1 Uruguay",
+      "stage": "Group H - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the defensive metrics with a slight frown*\n\nUruguay managed only 1.2 expected goals from 61"
     }
   ]
 }

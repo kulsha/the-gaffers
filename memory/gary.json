@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 90,
-    "confidence": 60,
+    "hope": 92,
+    "confidence": 61,
     "anger": 0,
-    "bitterness": 15
+    "bitterness": 14
   },
   "rivalry": {
     "likes": [
@@ -157,6 +157,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the final whistle blow, taps my fingers against the bar top*\n\nBelgium drawing with Egypt is somehow less surprising than it should be — golde"
+    },
+    {
+      "match_id": "16",
+      "date": "2026-06-15",
+      "match": "Saudi Arabia 1-1 Uruguay",
+      "stage": "Group H - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the screen fade to the final scoreline, nursing my pint with both hands*\n\nSaudi Arabia getting a result against Uruguay absolutely tracks — t"
     }
   ]
 }

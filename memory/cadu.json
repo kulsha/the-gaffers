@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 93,
-    "confidence": 76,
+    "hope": 95,
+    "confidence": 77,
     "anger": 0,
-    "bitterness": 9
+    "bitterness": 8
   },
   "rivalry": {
     "likes": [
@@ -156,6 +156,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pushes empty glass forward, gestures for another*\n\nBelgium held to a draw by Egypt — this is what happens when you build a \"golden generation\" on pap"
+    },
+    {
+      "match_id": "16",
+      "date": "2026-06-15",
+      "match": "Saudi Arabia 1-1 Uruguay",
+      "stage": "Group H - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Taps fingers on the bar rhythmically, a knowing smile spreading across face*\n\nUruguay held to a draw by the Saudis — this is what happens when you fo"
     }
   ]
 }

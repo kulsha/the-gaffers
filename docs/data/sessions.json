@@ -1658,5 +1658,110 @@
       }
     ],
     "timestamp": "2026-06-16T10:13:43.301472"
+  },
+  {
+    "session_id": "16",
+    "session_num": 16,
+    "date": "2026-06-15",
+    "day_label": "Day 5 · June 15",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Saudi Arabia",
+      "away_team": "Uruguay",
+      "home_score": 1,
+      "away_score": 1,
+      "stage": "Group H - Matchday 1",
+      "venue": "SoFi Stadium, Inglewood",
+      "home_flag": {
+        "code": "KSA",
+        "style": "background:linear-gradient(135deg,#006C35,#ffffff)"
+      },
+      "away_flag": {
+        "code": "URU",
+        "style": "background:linear-gradient(135deg,#5EB6E4,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 41,
+          "team": "Saudi Arabia",
+          "scorer": "Abdallh Alamri"
+        },
+        {
+          "minute": 80,
+          "team": "Uruguay",
+          "scorer": "Maksimilianv Araivkhv"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Taps fingers on the bar rhythmically, a knowing smile spreading across face*\n\nUruguay held to a draw by the Saudis — this is what happens when you forget that football is played with heart, not just with names on a team sheet. Araújo scoring in the eightieth minute to salvage a point, desperate like a man reaching for something already slipping away. The desert showed them something tonight about humility.",
+        "time": "10:14",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Slaps the bar and leans forward, cigarette smoke curling toward the screen*\n\nSaudi Arabia holding Uruguay reminds me of something beautiful — they already did the impossible once against us in 2022, and look where we ended up lifting the trophy anyway. That draw in the eightieth minute? That's Uruguay learning what we already knew four years ago: sometimes you have to suffer before you remember how to win.",
+        "time": "10:14",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the screen fade to the final scoreline, nursing my pint with both hands*\n\nSaudi Arabia getting a result against Uruguay absolutely tracks — they've got form for shocking South American giants when nobody's watching closely enough. Uruguay scrambling for an equalizer in the eightieth minute, all that quality and they're begging for a point against a side they should've put away before half-time. Reminds me of every England match where we forget that wanting it more actually matters.",
+        "time": "10:14",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the defensive metrics with a slight frown*\n\nUruguay managed only 1.2 expected goals from 61% possession — their final third efficiency was below 40%, which is Championship-level conversion against a Saudi defensive block that compressed into a 4-5-1 with an average defensive line just 32 meters from their own goal. Araújo's equalizer came from their first shot inside the box after the seventy-fifth minute, which tells you everything about how clinically Saudi Arabia suffocated the creative spaces.",
+        "time": "10:14",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Sets the glass down and lets the silence settle for a moment*\n\nThe curious thing about a draw is that Uruguay will spend the next week asking why they only got one point, while Saudi Arabia will spend it asking why they didn't get all three. Same result, different universes of expectation — and in that gap between what you deserve and what you believe you deserve, entire tournaments are decided.",
+        "time": "10:14",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the same spot on the bar three times, then stops*\n\nSaudi Arabia held Uruguay to a draw, and nobody at this bar mentioned the one thing that mattered — Uruguay spent ninety minutes looking like they expected to win, and forty-one minutes later they were chasing the game. Expectation doesn't score goals.\n\n*Goes back to wiping the counter*",
+        "time": "10:14",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-16T10:14:45.714781"
   }
 ]
