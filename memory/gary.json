@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 86,
-    "confidence": 58,
+    "hope": 88,
+    "confidence": 59,
     "anger": 0,
-    "bitterness": 17
+    "bitterness": 16
   },
   "rivalry": {
     "likes": [
@@ -139,6 +139,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the final whistle blow, takes a long sip*\n\nTwo goals from Ali Jast and New Zealand still can't hold on — honestly that's the most relatable f"
+    },
+    {
+      "match_id": "14",
+      "date": "2026-06-15",
+      "match": "Spain 0-0 Cape Verde",
+      "stage": "Group H - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the screen fade to black, sets down my pint with a gentle thud*\n\nSpain getting held scoreless by Cape Verde is somehow both shocking and comp"
     }
   ]
 }

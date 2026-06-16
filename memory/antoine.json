@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 93,
-    "confidence": 85,
-    "anger": 2,
-    "bitterness": 5
+    "hope": 95,
+    "confidence": 86,
+    "anger": 0,
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -139,6 +139,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Sets the wine glass down with deliberate care*\n\nThe fascinating thing about a draw is that both teams think they dropped two points instead of earned"
+    },
+    {
+      "match_id": "14",
+      "date": "2026-06-15",
+      "match": "Spain 0-0 Cape Verde",
+      "stage": "Group H - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls the glass, watching the wine catch the light*\n\nThe tragedy is that Spain forgot the one thing possession cannot buy — urgency. Cape Verde unde"
     }
   ]
 }

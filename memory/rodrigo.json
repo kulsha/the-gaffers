@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 93,
+    "confidence": 94,
     "anger": 0,
     "bitterness": 0
   },
@@ -139,6 +139,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Drums fingers on the bar, eyes still on the screen*\n\nTwo-all means both teams played not to lose instead of playing to win — that's the difference be"
+    },
+    {
+      "match_id": "14",
+      "date": "2026-06-15",
+      "match": "Spain 0-0 Cape Verde",
+      "stage": "Group H - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Slaps the bar with an open palm, shaking head in disbelief*\n\nCape Verde just showed the world what defending with heart looks like — every Spanish pa"
     }
   ]
 }

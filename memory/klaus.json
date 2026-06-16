@@ -4,8 +4,8 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 90,
+    "hope": 100,
+    "confidence": 91,
     "anger": 0,
     "bitterness": 0
   },
@@ -138,6 +138,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the expected goals data on phone, then pauses longer than usual*\n\nNew Zealand generated 2.3 xG from just seven shots on target — Ali Jast's "
+    },
+    {
+      "match_id": "14",
+      "date": "2026-06-15",
+      "match": "Spain 0-0 Cape Verde",
+      "stage": "Group H - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, then looks up with something that might be clinical satisfaction*\n\nSpain generated 2.4 expected goals from 74"
     }
   ]
 }

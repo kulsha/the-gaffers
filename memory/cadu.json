@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 89,
-    "confidence": 74,
+    "hope": 91,
+    "confidence": 75,
     "anger": 0,
-    "bitterness": 11
+    "bitterness": 10
   },
   "rivalry": {
     "likes": [
@@ -138,6 +138,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Leans back, swirling the cachaça in his glass thoughtfully*\n\nAli Jast with two goals — that number seven shirt carrying some weight tonight. New Zeal"
+    },
+    {
+      "match_id": "14",
+      "date": "2026-06-15",
+      "match": "Spain 0-0 Cape Verde",
+      "stage": "Group H - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Stares at the television screen, then turns away with visible disgust*\n\nSpain — Spain! — held by Cape Verde to nil-nil. This is what happens when you"
     }
   ]
 }
