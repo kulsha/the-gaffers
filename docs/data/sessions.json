@@ -1553,5 +1553,110 @@
       }
     ],
     "timestamp": "2026-06-16T10:12:24.340153"
+  },
+  {
+    "session_id": "15",
+    "session_num": 15,
+    "date": "2026-06-15",
+    "day_label": "Day 5 · June 15",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Belgium",
+      "away_team": "Egypt",
+      "home_score": 1,
+      "away_score": 1,
+      "stage": "Group G - Matchday 1",
+      "venue": "Hard Rock Stadium, Miami Gardens",
+      "home_flag": {
+        "code": "BEL",
+        "style": "background:linear-gradient(90deg,#000000,#FFD90C,#F31830)"
+      },
+      "away_flag": {
+        "code": "E",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 20,
+          "team": "Egypt",
+          "scorer": "Emam Ashour"
+        },
+        {
+          "minute": 66,
+          "team": "Belgium",
+          "scorer": "Mohamed Hany"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Pushes empty glass forward, gestures for another*\n\nBelgium held to a draw by Egypt — this is what happens when you build a \"golden generation\" on paper instead of on the pitch. De Bruyne, Lukaku, all those names, and they can't break down a team playing with heart and organization. Maybe Antoine was right about something after all — sometimes the romance dies when you chase it too hard with money and reputation.",
+        "time": "10:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Lights a cigarette, exhales slowly toward the screen*\n\nEgypt just taught Belgium that technique without hunger is like tango without passion — you can have all the steps memorized but the soul is missing. Golden generation? Please. Argentina had one golden player in 2022 and he dragged us to glory while Belgium's entire squad can't even beat a team they're supposed to dominate. This is why football will always be about moments of magic, not spreadsheets full of talent.",
+        "time": "10:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the final whistle blow, taps my fingers against the bar top*\n\nBelgium drawing with Egypt is somehow less surprising than it should be — golden generations have a funny way of never quite arriving when you need them to, trust me I would know. All that talent and they looked like they expected Egypt to just roll over because the names on the teamsheet said so. At least when England disappoint you can see it coming from three months away.",
+        "time": "10:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, then sets it down with more force than intended*\n\nBelgium managed 2.1 expected goals from 68% possession and seventeen shots — Egypt generated 1.4 xG from nine attempts with just 32% of the ball. The efficiency gap tells you everything about why golden generations fail — Belgium needed three times the resources to create marginal superiority. Sometimes the data confirms what even Gary's pessimism already knows.",
+        "time": "10:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Lifts the fresh glass, holds it to the light for a moment*\n\nThe beautiful irony is that Belgium spent a decade being told they were destined for greatness, and Egypt arrived in Miami with nothing but the freedom that comes from having nothing to lose. Destiny is a burden — anonymity is a superpower. This is why underdogs don't draw matches, they steal points that were never supposed to belong to them.",
+        "time": "10:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Polishes the same glass for the third time, eyes on the screen showing replays of Emam Ashour's celebration*\n\nGolden generations don't fail because they lack talent — they fail because everyone already wrote the ending before the story began.\n\n*Sets the glass down, turns off the television*",
+        "time": "10:13",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-16T10:13:43.301472"
   }
 ]

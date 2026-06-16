@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 94,
+    "confidence": 95,
     "anger": 0,
     "bitterness": 0
   },
@@ -148,6 +148,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Slaps the bar with an open palm, shaking head in disbelief*\n\nCape Verde just showed the world what defending with heart looks like — every Spanish pa"
+    },
+    {
+      "match_id": "15",
+      "date": "2026-06-15",
+      "match": "Belgium 1-1 Egypt",
+      "stage": "Group G - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights a cigarette, exhales slowly toward the screen*\n\nEgypt just taught Belgium that technique without hunger is like tango without passion — you ca"
     }
   ]
 }

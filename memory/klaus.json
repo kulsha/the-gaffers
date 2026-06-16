@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 91,
+    "confidence": 92,
     "anger": 0,
     "bitterness": 0
   },
@@ -147,6 +147,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, then looks up with something that might be clinical satisfaction*\n\nSpain generated 2.4 expected goals from 74"
+    },
+    {
+      "match_id": "15",
+      "date": "2026-06-15",
+      "match": "Belgium 1-1 Egypt",
+      "stage": "Group G - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, then sets it down with more force than intended*\n\nBelgium managed 2.1 expected goals from 68% possession and "
     }
   ]
 }

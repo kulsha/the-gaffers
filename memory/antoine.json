@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 95,
-    "confidence": 86,
+    "hope": 97,
+    "confidence": 87,
     "anger": 0,
-    "bitterness": 4
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -148,6 +148,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls the glass, watching the wine catch the light*\n\nThe tragedy is that Spain forgot the one thing possession cannot buy — urgency. Cape Verde unde"
+    },
+    {
+      "match_id": "15",
+      "date": "2026-06-15",
+      "match": "Belgium 1-1 Egypt",
+      "stage": "Group G - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lifts the fresh glass, holds it to the light for a moment*\n\nThe beautiful irony is that Belgium spent a decade being told they were destined for grea"
     }
   ]
 }
