@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 84,
-    "confidence": 57,
+    "hope": 86,
+    "confidence": 58,
     "anger": 0,
-    "bitterness": 18
+    "bitterness": 17
   },
   "rivalry": {
     "likes": [
@@ -130,6 +130,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Leans back as the camera pans across Sweden's perfectly organized celebration*\n\nFive-one and they looked bored doing it — Isak, Gyökeres, clinical as"
+    },
+    {
+      "match_id": "13",
+      "date": "2026-06-15",
+      "match": "Iran 2-2 New Zealand",
+      "stage": "Group G - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the final whistle blow, takes a long sip*\n\nTwo goals from Ali Jast and New Zealand still can't hold on — honestly that's the most relatable f"
     }
   ]
 }

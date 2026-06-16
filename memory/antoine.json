@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 91,
-    "confidence": 84,
-    "anger": 4,
-    "bitterness": 6
+    "hope": 93,
+    "confidence": 85,
+    "anger": 2,
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -130,6 +130,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls the glass once, watching Sweden's players shake hands with mechanical precision*\n\nThe scoreline flatters Sweden less than it insults Tunisia —"
+    },
+    {
+      "match_id": "13",
+      "date": "2026-06-15",
+      "match": "Iran 2-2 New Zealand",
+      "stage": "Group G - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Sets the wine glass down with deliberate care*\n\nThe fascinating thing about a draw is that both teams think they dropped two points instead of earned"
     }
   ]
 }

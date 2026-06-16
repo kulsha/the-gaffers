@@ -4,8 +4,8 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 92,
+    "hope": 100,
+    "confidence": 93,
     "anger": 0,
     "bitterness": 0
   },
@@ -130,6 +130,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Taps the bar twice, watching Gyökeres celebrate*\n\nFive goals and not a single moment that makes you remember why you fell in love with this game — Sw"
+    },
+    {
+      "match_id": "13",
+      "date": "2026-06-15",
+      "match": "Iran 2-2 New Zealand",
+      "stage": "Group G - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Drums fingers on the bar, eyes still on the screen*\n\nTwo-all means both teams played not to lose instead of playing to win — that's the difference be"
     }
   ]
 }
