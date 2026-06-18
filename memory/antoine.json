@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "confidence": 100,
-    "anger": 0,
-    "bitterness": 0
+    "hope": 97,
+    "confidence": 98,
+    "anger": 8,
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -211,6 +211,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass slowly, watching the light refract through it*\n\nThe curious thing about Portugal is that they scored too early — six minutes giv"
+    },
+    {
+      "match_id": "22",
+      "date": "2026-06-17",
+      "match": "England 4-2 Croatia",
+      "stage": "Group L - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lifts the wine glass finally, takes a small sip, sets it back down with precision*\n\nThe problem with winning four-two is that it teaches you nothing "
     }
   ]
 }

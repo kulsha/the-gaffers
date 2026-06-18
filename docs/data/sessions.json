@@ -2328,5 +2328,130 @@
       }
     ],
     "timestamp": "2026-06-18T22:55:34.202696"
+  },
+  {
+    "session_id": "22",
+    "session_num": 22,
+    "date": "2026-06-17",
+    "day_label": "Day 7 · June 17",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "England",
+      "away_team": "Croatia",
+      "home_score": 4,
+      "away_score": 2,
+      "stage": "Group L - Matchday 1",
+      "venue": "AT&T Stadium, Arlington",
+      "home_flag": {
+        "code": "ENG",
+        "style": "background:#cf081f"
+      },
+      "away_flag": {
+        "code": "CRO",
+        "style": "background:linear-gradient(135deg,#FF0000,#ffffff,#0000CD)"
+      },
+      "goals": [
+        {
+          "minute": 22,
+          "team": "England",
+          "scorer": "H. Kane"
+        },
+        {
+          "minute": 35,
+          "team": "Croatia",
+          "scorer": "P. Musa"
+        },
+        {
+          "minute": 49,
+          "team": "Croatia",
+          "scorer": "I. Perišić"
+        },
+        {
+          "minute": 54,
+          "team": "England",
+          "scorer": "H. Kane"
+        },
+        {
+          "minute": 67,
+          "team": "England",
+          "scorer": "J. Bellingham"
+        },
+        {
+          "minute": 78,
+          "team": "England",
+          "scorer": "M. Rashford"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Pushes the cachaça glass forward, leaning back with arms crossed*\n\nFour goals and Gary hasn't even started with the \"coming home\" nonsense yet — give it ten minutes. Kane with two, Bellingham, Rashford — this England side has something different about them, I'll admit that much even if it pains me. Croatia looked dangerous for twenty minutes after the break, but England answered every time like they'd read the script beforehand.",
+        "time": "22:57",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Lights a cigarette and shakes his head slowly, eyes fixed on the screen*\n\nKane scored twice but watch how he celebrated — like a man relieved, not confident. England won because Croatia are old now, not because they suddenly learned how to handle pressure. Bellingham is their only player who moves like he believes in something bigger than himself, the rest are still waiting for permission to dream.",
+        "time": "22:57",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Sets my pint down carefully, like I'm afraid the glass might shatter if I grip it too hard*\n\nFour-two feels comfortable until you remember we were winning two-one and somehow made it feel closer than it should've been. Croatia are rebuilding and we still gave them twenty minutes where it could've gone sideways — that's the England tax, lads. Bellingham played like he's never heard of penalty shootouts and that might be the most dangerous thing about him.",
+        "time": "22:57",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the progressive passing data with a slight nod*\n\nEngland generated 3.2 expected goals from open play — they actually overperformed, which is statistically unusual for a team that historically underperforms in tournament knockout phases by an average of 0.4 xG. Bellingham's positioning in the half-spaces created seventeen progressive passes, seven more than any Croatian midfielder managed combined. The problem Gary isn't mentioning: England's defensive transitions still allowed 1.8 xG against a Croatia side that averaged 0.9 in qualifying, which means against France or Germany those twenty dangerous minutes become forty.",
+        "time": "22:57",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Lifts the wine glass finally, takes a small sip, sets it back down with precision*\n\nThe problem with winning four-two is that it teaches you nothing about what happens when you only score once. England played well tonight because Croatia allowed them to play the match England wanted — the real test comes when someone forces them into a different conversation entirely. Kane celebrated his second goal five seconds longer than his first, which tells you everything about where the doubt lives.",
+        "time": "22:57",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar in slow, deliberate circles, eyes on the wet wood instead of the screen*\n\nFour goals and everybody's already forgotten the twenty minutes when Croatia made them remember what fear tastes like.",
+        "time": "22:57",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-18T22:57:13.782850"
   }
 ]

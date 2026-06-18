@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 98,
+    "confidence": 99,
     "anger": 0,
     "bitterness": 0
   },
@@ -210,6 +210,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Adjusts glasses and scrolls through the match statistics with a slight frown*\n\nPortugal generated 2.1 expected goals from 68% possession and still dr"
+    },
+    {
+      "match_id": "22",
+      "date": "2026-06-17",
+      "match": "England 4-2 Croatia",
+      "stage": "Group L - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the progressive passing data with a slight nod*\n\nEngland generated 3.2 expected goals from "
     }
   ]
 }
