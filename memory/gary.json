@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 91,
-    "confidence": 60,
-    "anger": 6,
-    "bitterness": 18
+    "hope": 88,
+    "confidence": 58,
+    "anger": 14,
+    "bitterness": 23
   },
   "rivalry": {
     "likes": [
@@ -184,6 +184,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Haaland's celebration replay one more time, drumming fingers on the bar*\n\nFour goals against Iraq and suddenly everyone's acting like Norway "
+    },
+    {
+      "match_id": "19",
+      "date": "2026-06-16",
+      "match": "Argentina 3-0 Algeria",
+      "stage": "Group J - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the third goal replay fade from the screen, takes a slow sip*\n\nMessi scoring a hat-trick at thirty-nine feels like watching someone casually "
     }
   ]
 }

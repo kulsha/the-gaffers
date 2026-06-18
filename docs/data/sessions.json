@@ -1998,5 +1998,115 @@
       }
     ],
     "timestamp": "2026-06-18T22:51:00.333287"
+  },
+  {
+    "session_id": "19",
+    "session_num": 19,
+    "date": "2026-06-16",
+    "day_label": "Day 6 · June 16",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Argentina",
+      "away_team": "Algeria",
+      "home_score": 3,
+      "away_score": 0,
+      "stage": "Group J - Matchday 1",
+      "venue": "Arrowhead Stadium, Kansas City",
+      "home_flag": {
+        "code": "ARG",
+        "style": "background:linear-gradient(135deg,#4fa8d8,#ffffff)"
+      },
+      "away_flag": {
+        "code": "ALG",
+        "style": "background:linear-gradient(90deg,#006233,#ffffff,#D21034)"
+      },
+      "goals": [
+        {
+          "minute": 12,
+          "team": "Argentina",
+          "scorer": "L. Messi"
+        },
+        {
+          "minute": 45,
+          "team": "Argentina",
+          "scorer": "L. Messi"
+        },
+        {
+          "minute": 61,
+          "team": "Argentina",
+          "scorer": "L. Messi"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Stares into the glass of cachaça, jaw tight, then exhales slowly*\n\nThree times. Messi finds the net three times against Algeria like they're training cones. The little magician — always the magician — making it look like poetry while the rest of us mortals watch and remember why we love this cursed sport even when it breaks our hearts. Rodrigo's going to be insufferable tomorrow, but tonight — tonight that performance was pure futebol arte, and even I can't deny it.",
+        "time": "22:52",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Slaps the bar with both hands and stands up, eyes blazing toward the screen*\n\nThree goals is not a hat-trick — it's a sermon. Messi just reminded Algeria, reminded the world, reminded every doubter who thought 2022 was luck that genius doesn't fade, it only gets sharper. This is what happens when you put the game's greatest artist on a canvas big enough for him to paint — Kansas City just witnessed a masterclass in why Argentina are the ones carrying the Copa América and the World Cup on their backs while everyone else carries hope.",
+        "time": "22:52",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the third goal replay fade from the screen, takes a slow sip*\n\nMessi scoring a hat-trick at thirty-nine feels like watching someone casually solve a Rubik's cube underwater while the rest of us are still figuring out which side is blue. The man's won everything there is to win and he's still out here making Algeria look like they forgot football was being played. Some people retire gracefully — Messi's apparently decided to retire by reminding everyone exactly how far the rest of humanity is from touching his level.",
+        "time": "22:52",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the heat maps with something close to reverence*\n\nMessi's positioning data is absurd — ninety-three touches in the final third, seven key passes, and all three goals came from positions within a four-meter radius of the penalty spot. The efficiency is almost inhuman: 3.8 expected goals for Argentina, and he personally accounted for 2.9 of it. At thirty-nine, his movement between the lines is still generating more space than players half his age, and Algeria's defensive compactness rating of 31 meters tells you everything about how thoroughly he pulled them apart.",
+        "time": "22:52",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Lifts the glass but doesn't drink, studying the light through the wine*\n\nThe tragedy for Algeria is that they will review the footage tomorrow and discover they did everything correctly — the spacing, the pressure, the shape — and it changed nothing. What Messi demonstrated tonight is that football at the highest level isn't about systems defeating systems. It's about one human being deciding that the geometry of the pitch bends to him, not the other way around.",
+        "time": "22:52",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the same spot on the bar three times, not looking up*\n\nHe scored the last one in the sixty-first minute and nobody here said a word for ten seconds — that's how you know it wasn't about Argentina anymore.",
+        "time": "22:52",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-18T22:52:19.670187"
   }
 ]

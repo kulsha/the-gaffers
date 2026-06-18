@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 97,
+    "confidence": 98,
     "anger": 0,
     "bitterness": 0
   },
@@ -184,6 +184,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Sets the wine glass down and watches the replay of Thorstvedt's late goal*\n\nThe interesting thing is that Iraq scored first after equalizing the mome"
+    },
+    {
+      "match_id": "19",
+      "date": "2026-06-16",
+      "match": "Argentina 3-0 Algeria",
+      "stage": "Group J - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lifts the glass but doesn't drink, studying the light through the wine*\n\nThe tragedy for Algeria is that they will review the footage tomorrow and di"
     }
   ]
 }

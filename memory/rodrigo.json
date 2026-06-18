@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 98,
+    "confidence": 100,
     "anger": 0,
     "bitterness": 0
   },
@@ -184,6 +184,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights a cigarette and waves dismissively at the screen*\n\nHaaland is a machine, sure, but machines don't win World Cups — Messi proved that in 2022 w"
+    },
+    {
+      "match_id": "19",
+      "date": "2026-06-16",
+      "match": "Argentina 3-0 Algeria",
+      "stage": "Group J - Matchday 1",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*Slaps the bar with both hands and stands up, eyes blazing toward the screen*\n\nThree goals is not a hat-trick — it's a sermon. Messi just reminded Alg"
     }
   ]
 }

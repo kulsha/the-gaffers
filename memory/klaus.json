@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 95,
+    "confidence": 96,
     "anger": 0,
     "bitterness": 0
   },
@@ -183,6 +183,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the shot map with a slight nod*\n\nNorway generated 3.7 expected goals from just fourteen sho"
+    },
+    {
+      "match_id": "19",
+      "date": "2026-06-16",
+      "match": "Argentina 3-0 Algeria",
+      "stage": "Group J - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the heat maps with something close to reverence*\n\nMessi's positioning data is absurd — nine"
     }
   ]
 }
