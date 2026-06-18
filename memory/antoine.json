@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 99,
-    "anger": 6,
-    "bitterness": 4
+    "hope": 100,
+    "confidence": 100,
+    "anger": 4,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -229,6 +229,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Sets the wine glass down and studies the condensation on the outside for a moment*\n\nThe cruelty of football is that Panama will remember the ninety-f"
+    },
+    {
+      "match_id": "24",
+      "date": "2026-06-17",
+      "match": "Colombia 3-1 Uzbekistan",
+      "stage": "Group K - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass slowly, watching the condensation gather at the base*\n\nThe interesting thing about Colombia tonight is that they waited fifty-fi"
     }
   ]
 }

@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 99,
-    "anger": 6,
-    "bitterness": 4
+    "hope": 100,
+    "confidence": 100,
+    "anger": 4,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -229,6 +229,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Stubs out cigarette and leans forward, eyes locked on the screen*\n\nA ninety-fifth minute goal is not luck, Cadu — it's hunger. Panama thought defendi"
+    },
+    {
+      "match_id": "24",
+      "date": "2026-06-17",
+      "match": "Colombia 3-1 Uzbekistan",
+      "stage": "Group K - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Stubs out cigarette and waves dismissively at the screen*\n\nColombia won because Uzbekistan thought showing up was enough — same mistake everyone make"
     }
   ]
 }

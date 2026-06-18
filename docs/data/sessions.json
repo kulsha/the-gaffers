@@ -2553,5 +2553,120 @@
       }
     ],
     "timestamp": "2026-06-18T22:59:54.574706"
+  },
+  {
+    "session_id": "24",
+    "session_num": 24,
+    "date": "2026-06-17",
+    "day_label": "Day 7 · June 17",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Colombia",
+      "away_team": "Uzbekistan",
+      "home_score": 3,
+      "away_score": 1,
+      "stage": "Group K - Matchday 1",
+      "venue": "Estadio Azteca, Mexico City",
+      "home_flag": {
+        "code": "COL",
+        "style": "background:linear-gradient(180deg,#FCD116,#003087,#CE1126)"
+      },
+      "away_flag": {
+        "code": "UZB",
+        "style": "background:linear-gradient(180deg,#1EB53A,#ffffff,#009FCA)"
+      },
+      "goals": [
+        {
+          "minute": 40,
+          "team": "Colombia",
+          "scorer": "D. Muñoz"
+        },
+        {
+          "minute": 50,
+          "team": "Uzbekistan",
+          "scorer": "A. Fayzullaev"
+        },
+        {
+          "minute": 55,
+          "team": "Colombia",
+          "scorer": "L. Díaz"
+        },
+        {
+          "minute": 90,
+          "team": "Colombia",
+          "scorer": "J. Campaz"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Leans forward, eyes still on the screen as the final whistle blows*\n\nLuis Díaz — that's the kind of football that makes you remember why we play this beautiful game. Colombia finding their rhythm at the Azteca, three goals with that South American flair. *Takes a slow sip of cachaça* Uzbekistan tried, bless them, but this is our hemisphere, our football — the kind that flows like water, not machinery.",
+        "time": "23:02",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Stubs out cigarette and waves dismissively at the screen*\n\nColombia won because Uzbekistan thought showing up was enough — same mistake everyone makes against South American teams. Luis Díaz scored but watch how he moved before the goal, that's what separates our hemisphere from the rest. *Lights another cigarette* Three goals sounds convincing until you remember Argentina put three past Algeria without needing ninety minutes to seal it.",
+        "time": "23:02",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Campaz's ninetieth-minute goal replay fade, turning my pint glass slowly*\n\nColombia scoring in the ninetieth when they're already two up is the kind of ruthlessness England would call \"unsporting\" before going out on penalties to Iceland again. That Díaz goal though — proper bit of football, that. Made it look easy, which is how you know it wasn't.",
+        "time": "23:02",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the progressive carry data with a slight nod*\n\nColombia generated 2.4 expected goals from seventeen shots — efficient conversion rate at 17.6 percent, well above tournament average. Díaz completed four progressive carries into the final third before his goal, typical output for a winger operating at elite spatial awareness levels. What's interesting is Uzbekistan's 0.8 xG from twelve shots — classic case of volume without quality, exactly what the data predicted from a team making their first World Cup appearance at altitude.",
+        "time": "23:02",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass slowly, watching the condensation gather at the base*\n\nThe interesting thing about Colombia tonight is that they waited fifty-five minutes to become themselves — as if they needed permission from Uzbekistan's brief hope to remember what they already knew. That ninetieth-minute goal was not cruelty, it was confirmation: the most dangerous team is the one that has already stopped needing to prove anything.",
+        "time": "23:02",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the counter slowly, eyes still on the screen as the stadium empties*\n\nFive people watched Colombia win and every one of them made it about themselves.",
+        "time": "23:02",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-18T23:02:16.008404"
   }
 ]

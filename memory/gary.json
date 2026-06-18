@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 69,
-    "anger": 3,
-    "bitterness": 17
+    "confidence": 70,
+    "anger": 1,
+    "bitterness": 16
   },
   "rivalry": {
     "likes": [
@@ -229,6 +229,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the replay fade and taps my pint glass once, softly*\n\nNinety-five minutes of thinking you've survived only to concede feels like supporting E"
+    },
+    {
+      "match_id": "24",
+      "date": "2026-06-17",
+      "match": "Colombia 3-1 Uzbekistan",
+      "stage": "Group K - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Campaz's ninetieth-minute goal replay fade, turning my pint glass slowly*\n\nColombia scoring in the ninetieth when they're already two up is t"
     }
   ]
 }

@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 81,
+    "confidence": 82,
     "anger": 0,
-    "bitterness": 7
+    "bitterness": 6
   },
   "rivalry": {
     "likes": [
@@ -228,6 +228,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights a cigarette and exhales slowly, watching the replay of that ninety-fifth minute goal*\n\nGhana stealing it at the death in Toronto — this is the"
+    },
+    {
+      "match_id": "24",
+      "date": "2026-06-17",
+      "match": "Colombia 3-1 Uzbekistan",
+      "stage": "Group K - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Leans forward, eyes still on the screen as the final whistle blows*\n\nLuis Díaz — that's the kind of football that makes you remember why we play this"
     }
   ]
 }
