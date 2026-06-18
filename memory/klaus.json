@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 96,
+    "confidence": 97,
     "anger": 0,
     "bitterness": 0
   },
@@ -192,6 +192,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the heat maps with something close to reverence*\n\nMessi's positioning data is absurd — nine"
+    },
+    {
+      "match_id": "20",
+      "date": "2026-06-16",
+      "match": "Austria 3-1 Jordan",
+      "stage": "Group J - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the possession metrics with a slight frown*\n\nAustria generated 2.8 expected goals from 64% "
     }
   ]
 }

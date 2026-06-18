@@ -2108,5 +2108,120 @@
       }
     ],
     "timestamp": "2026-06-18T22:52:19.670187"
+  },
+  {
+    "session_id": "20",
+    "session_num": 20,
+    "date": "2026-06-16",
+    "day_label": "Day 6 · June 16",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Austria",
+      "away_team": "Jordan",
+      "home_score": 3,
+      "away_score": 1,
+      "stage": "Group J - Matchday 1",
+      "venue": "Levi's Stadium, Santa Clara",
+      "home_flag": {
+        "code": "AUT",
+        "style": "background:linear-gradient(180deg,#ED2939,#ffffff,#ED2939)"
+      },
+      "away_flag": {
+        "code": "JOR",
+        "style": "background:linear-gradient(180deg,#007A3D,#ffffff,#CE1126)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "Austria",
+          "scorer": "Y. Al-Arab 76 OG"
+        },
+        {
+          "minute": 21,
+          "team": "Austria",
+          "scorer": "R. Schmid"
+        },
+        {
+          "minute": 50,
+          "team": "Jordan",
+          "scorer": "A. Olwan"
+        },
+        {
+          "minute": 90,
+          "team": "Austria",
+          "scorer": "M. Arnautovic"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Sets down the cachaça glass with a soft clink, eyes still on the screen*\n\nAustria with three goals and Jordan managing just one — respectable enough, but that own goal in the seventy-sixth? That's football's cruelty distilled into a single moment. Schmid's strike in the twenty-first had elegance though, the kind of goal that makes you forget the scoreline for just a second. Arnautovic in stoppage time sealing it feels almost merciful compared to other ways this could have ended.",
+        "time": "22:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Lights a cigarette and exhales toward the ceiling, eyes narrowing at the screen*\n\nArnautovic scoring in the ninetieth minute — that's not mercy, Cadu, that's a veteran showing Jordan what happens when you give a proper striker even a centimeter of space. The own goal was cruel, sure, but Schmid's twenty-first minute strike? That was the moment Austria decided this match was already over. Jordan fought with heart but heart without precision is just noise.",
+        "time": "22:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Arnautovic's celebration fade from the screen, tapping the rim of my pint glass*\n\nAustria scoring an own goal for themselves in the seventy-sixth minute would somehow still feel more likely than England keeping a clean sheet against them. Schmid's goal was tidy enough but let's be honest — we're all just watching these matches until the ones that actually hurt start happening. Jordan gave it a proper go though, you have to give them that.",
+        "time": "22:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the possession metrics with a slight frown*\n\nAustria generated 2.8 expected goals from 64% possession — efficient, but Jordan's defensive shape held until the sixty-fifth minute when their press intensity dropped seventeen percent according to the tracking data. The own goal wasn't cruelty, Cadu — it was statistical inevitability when a team's defensive line drops that deep under sustained pressure. Arnautovic's positioning in the box averaged 0.73 expected goals per touch in the final third, which explains why \"a centimeter of space\" was all he needed.",
+        "time": "22:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Lifts the wine glass, studies the liquid for a moment, then sets it down untouched*\n\nThe fascinating thing about own goals is that they reveal the truth about pressure — Jordan's defender didn't make a mistake, he made the only decision available to him in that instant. Austria didn't win this match in the ninetieth minute with Arnautovic's goal, they won it in the sixty-fifth when Jordan stopped believing they could hold the line. The scoreline is just confirmation of what both teams already knew.",
+        "time": "22:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar in slow, deliberate circles, eyes on the empty glasses lined up in front of where the five of them sat*\n\nNobody mentioned that Jordan scored first.",
+        "time": "22:54",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-18T22:54:17.684828"
   }
 ]
