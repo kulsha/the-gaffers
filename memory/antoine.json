@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 96,
+    "confidence": 97,
     "anger": 0,
     "bitterness": 0
   },
@@ -175,6 +175,15 @@
       "my_team_played": true,
       "team_result": "won",
       "reaction_summary": "*Adjusts the wine glass without drinking, watching the screen fade to the studio analysts*\n\nThe cruelty of that ninety-fifth minute goal is that it ma"
+    },
+    {
+      "match_id": "18",
+      "date": "2026-06-16",
+      "match": "Norway 4-1 Iraq",
+      "stage": "Group I - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Sets the wine glass down and watches the replay of Thorstvedt's late goal*\n\nThe interesting thing is that Iraq scored first after equalizing the mome"
     }
   ]
 }

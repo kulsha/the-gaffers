@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 97,
+    "confidence": 98,
     "anger": 0,
     "bitterness": 0
   },
@@ -175,6 +175,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Stubs out cigarette, eyes still fixed on the screen where Mbappé's celebration freezes*\n\nMbappé scored twice but watch how France played — clinical, "
+    },
+    {
+      "match_id": "18",
+      "date": "2026-06-16",
+      "match": "Norway 4-1 Iraq",
+      "stage": "Group I - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights a cigarette and waves dismissively at the screen*\n\nHaaland is a machine, sure, but machines don't win World Cups — Messi proved that in 2022 w"
     }
   ]
 }

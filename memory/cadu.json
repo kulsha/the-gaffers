@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 78,
+    "hope": 99,
+    "confidence": 79,
     "anger": 0,
-    "bitterness": 7
+    "bitterness": 6
   },
   "rivalry": {
     "likes": [
@@ -174,6 +174,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Slides the cachaça glass aside, fingers drumming the bar with grudging admiration*\n\nMbappé in the sixty-sixth and again in stoppage time — this is wh"
+    },
+    {
+      "match_id": "18",
+      "date": "2026-06-16",
+      "match": "Norway 4-1 Iraq",
+      "stage": "Group I - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Leans forward, eyes fixed on the screen as the final whistle blows*\n\nHaaland with two goals, but look at the fourth — Thorstvedt in the eighty-ninth "
     }
   ]
 }

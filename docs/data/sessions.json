@@ -1878,5 +1878,125 @@
       }
     ],
     "timestamp": "2026-06-18T22:49:49.425682"
+  },
+  {
+    "session_id": "18",
+    "session_num": 18,
+    "date": "2026-06-16",
+    "day_label": "Day 6 · June 16",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Norway",
+      "away_team": "Iraq",
+      "home_score": 4,
+      "away_score": 1,
+      "stage": "Group I - Matchday 1",
+      "venue": "Gillette Stadium, Foxborough",
+      "home_flag": {
+        "code": "NOR",
+        "style": "background:linear-gradient(135deg,#EF2B2D,#002868)"
+      },
+      "away_flag": {
+        "code": "I",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 29,
+          "team": "Norway",
+          "scorer": "E. Haaland"
+        },
+        {
+          "minute": 39,
+          "team": "Iraq",
+          "scorer": "A. Hussein"
+        },
+        {
+          "minute": 43,
+          "team": "Norway",
+          "scorer": "E. Haaland"
+        },
+        {
+          "minute": 78,
+          "team": "Norway",
+          "scorer": "L. Østigård"
+        },
+        {
+          "minute": 89,
+          "team": "Norway",
+          "scorer": "K. Thorstvedt"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Leans forward, eyes fixed on the screen as the final whistle blows*\n\nHaaland with two goals, but look at the fourth — Thorstvedt in the eighty-ninth minute, still pushing forward, still attacking. This is the difference between a team that plays to win and one that plays not to lose. Norway aren't some powerhouse, they don't have our history, our seleção, but tonight they played with alegria — with joy — and that's what football should be.",
+        "time": "22:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Lights a cigarette and waves dismissively at the screen*\n\nHaaland is a machine, sure, but machines don't win World Cups — Messi proved that in 2022 when he beat a whole team of expensive robots. Norway scored four against Iraq, which tells you more about Iraq than it does about Norway. Watch them against a team that actually defends with intelligence and suddenly that Viking isn't so terrifying anymore.",
+        "time": "22:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Haaland's celebration replay one more time, drumming fingers on the bar*\n\nFour goals against Iraq and suddenly everyone's acting like Norway have cracked the code — mate, we put five past San Marino once and it didn't exactly translate to tournament glory. But fair play, at least they looked like they enjoyed it, which is more than can be said for some teams who shall remain nameless but rhyme with \"Schming-land.\"",
+        "time": "22:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the shot map with a slight nod*\n\nNorway generated 3.7 expected goals from just fourteen shots — that's exceptional conversion efficiency, though Iraq's defensive line averaged 38 meters from their own goal which is statistically suicidal against Haaland's run profile. Gary, your San Marino comparison is flawed — Norway's progressive carry percentage was 64% tonight, they created chances through structured build-up, not chaos. Still, Rodrigo isn't entirely wrong — Iraq allowed 2.1 meters of space per defensive action, and you simply cannot extrapolate tournament success from data this compromised.",
+        "time": "22:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Sets the wine glass down and watches the replay of Thorstvedt's late goal*\n\nThe interesting thing is that Iraq scored first after equalizing the momentum, and Norway's response was not desperation but expansion — they didn't just restore the lead, they dismantled the possibility of hope. That fourth goal in the eighty-ninth minute wasn't about padding statistics, it was about teaching a lesson: that some teams arrive at tournaments to participate, and others arrive to demonstrate the difference between the two.",
+        "time": "22:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the same spot on the bar three times, watching the screen fade to black*\n\nFour goals and nobody mentioned that Iraq's goalkeeper made eleven saves.",
+        "time": "22:51",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-18T22:51:00.333287"
   }
 ]

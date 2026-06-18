@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 89,
-    "confidence": 59,
-    "anger": 8,
-    "bitterness": 19
+    "hope": 91,
+    "confidence": 60,
+    "anger": 6,
+    "bitterness": 18
   },
   "rivalry": {
     "likes": [
@@ -175,6 +175,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Mbappé's second goal replay one more time, shaking my head slowly*\n\nFrance just casually dispatched Senegal like they were reading the mornin"
+    },
+    {
+      "match_id": "18",
+      "date": "2026-06-16",
+      "match": "Norway 4-1 Iraq",
+      "stage": "Group I - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Haaland's celebration replay one more time, drumming fingers on the bar*\n\nFour goals against Iraq and suddenly everyone's acting like Norway "
     }
   ]
 }
