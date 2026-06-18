@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 96,
+    "confidence": 97,
     "anger": 0,
     "bitterness": 0
   },
@@ -166,6 +166,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Slaps the bar and leans forward, cigarette smoke curling toward the screen*\n\nSaudi Arabia holding Uruguay reminds me of something beautiful — they al"
+    },
+    {
+      "match_id": "17",
+      "date": "2026-06-16",
+      "match": "France 3-1 Senegal",
+      "stage": "Group I - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Stubs out cigarette, eyes still fixed on the screen where Mbappé's celebration freezes*\n\nMbappé scored twice but watch how France played — clinical, "
     }
   ]
 }

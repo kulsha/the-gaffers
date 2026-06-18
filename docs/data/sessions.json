@@ -1763,5 +1763,120 @@
       }
     ],
     "timestamp": "2026-06-16T10:14:45.714781"
+  },
+  {
+    "session_id": "17",
+    "session_num": 17,
+    "date": "2026-06-16",
+    "day_label": "Day 6 · June 16",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "France",
+      "away_team": "Senegal",
+      "home_score": 3,
+      "away_score": 1,
+      "stage": "Group I - Matchday 1",
+      "venue": "MetLife Stadium, East Rutherford",
+      "home_flag": {
+        "code": "FRA",
+        "style": "background:linear-gradient(90deg,#002395 33%,#ffffff 33%,#ffffff 66%,#ED2939 66%)"
+      },
+      "away_flag": {
+        "code": "SEN",
+        "style": "background:linear-gradient(90deg,#00853F,#FDEF42,#E31B23)"
+      },
+      "goals": [
+        {
+          "minute": 66,
+          "team": "France",
+          "scorer": "K. Mbappé"
+        },
+        {
+          "minute": 82,
+          "team": "France",
+          "scorer": "B. Barcola"
+        },
+        {
+          "minute": 93,
+          "team": "Senegal",
+          "scorer": "I. Mbaye"
+        },
+        {
+          "minute": 95,
+          "team": "France",
+          "scorer": "K. Mbappé"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Slides the cachaça glass aside, fingers drumming the bar with grudging admiration*\n\nMbappé in the sixty-sixth and again in stoppage time — this is what separates the poets from the workers. That second goal, the way he cut inside, pure samba in French boots. Antoine's going to be unbearable now, but meu Deus, when the boy moves like that, you can't argue with beauty.",
+        "time": "22:49",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Stubs out cigarette, eyes still fixed on the screen where Mbappé's celebration freezes*\n\nMbappé scored twice but watch how France played — clinical, cold, efficient as a German car factory. This is what happens when you have speed without soul, goals without poetry. In 2022, we showed the world that football is an art form first and a sport second — France just proved they still don't understand the difference.",
+        "time": "22:49",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Mbappé's second goal replay one more time, shaking my head slowly*\n\nFrance just casually dispatched Senegal like they were reading the morning paper — Mbappé scoring in the ninety-fifth minute when the match was already dead feels almost spiteful. They've got that winner's arrogance where even their mercy looks like cruelty. And somehow Antoine's still going to tell us it was harder than it looked.",
+        "time": "22:49",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the post-match statistics on phone, scrolling through the progressive carry data*\n\nFrance generated only 1.8 expected goals from 67% possession — Mbappé's finishing efficiency was 37% above his seasonal average, which is statistical deviation, not sustainable dominance. Senegal actually outperformed their xG by creating three high-quality chances in transition that their forwards completely wasted. The scoreline flatters France more than any of you want to admit, even Antoine.",
+        "time": "22:49",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Adjusts the wine glass without drinking, watching the screen fade to the studio analysts*\n\nThe cruelty of that ninety-fifth minute goal is that it made the match look comfortable when for sixty-five minutes France were searching for answers they couldn't find. Mbappé solved a problem that superior tactics should have prevented from existing in the first place. Lyon understands this — Paris never will.",
+        "time": "22:49",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes the same spot on the bar three times, watching the grain of the wood*\n\nThree goals for France and four of you still couldn't decide if they were brilliant or lucky.",
+        "time": "22:49",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-18T22:49:49.425682"
   }
 ]

@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 93,
+    "confidence": 94,
     "anger": 0,
     "bitterness": 0
   },
@@ -165,6 +165,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the defensive metrics with a slight frown*\n\nUruguay managed only 1.2 expected goals from 61"
+    },
+    {
+      "match_id": "17",
+      "date": "2026-06-16",
+      "match": "France 3-1 Senegal",
+      "stage": "Group I - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the post-match statistics on phone, scrolling through the progressive carry data*\n\nFrance generated only 1.8 expected goals from 67% possess"
     }
   ]
 }

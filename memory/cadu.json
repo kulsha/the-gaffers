@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 95,
-    "confidence": 77,
+    "hope": 97,
+    "confidence": 78,
     "anger": 0,
-    "bitterness": 8
+    "bitterness": 7
   },
   "rivalry": {
     "likes": [
@@ -165,6 +165,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Taps fingers on the bar rhythmically, a knowing smile spreading across face*\n\nUruguay held to a draw by the Saudis — this is what happens when you fo"
+    },
+    {
+      "match_id": "17",
+      "date": "2026-06-16",
+      "match": "France 3-1 Senegal",
+      "stage": "Group I - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Slides the cachaça glass aside, fingers drumming the bar with grudging admiration*\n\nMbappé in the sixty-sixth and again in stoppage time — this is wh"
     }
   ]
 }
