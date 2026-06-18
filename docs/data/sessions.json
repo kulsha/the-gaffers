@@ -2223,5 +2223,110 @@
       }
     ],
     "timestamp": "2026-06-18T22:54:17.684828"
+  },
+  {
+    "session_id": "21",
+    "session_num": 21,
+    "date": "2026-06-17",
+    "day_label": "Day 7 · June 17",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Portugal",
+      "away_team": "DR Congo",
+      "home_score": 1,
+      "away_score": 1,
+      "stage": "Group K - Matchday 1",
+      "venue": "NRG Stadium, Houston",
+      "home_flag": {
+        "code": "POR",
+        "style": "background:linear-gradient(135deg,#006600,#FF0000)"
+      },
+      "away_flag": {
+        "code": "DC",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 6,
+          "team": "Portugal",
+          "scorer": "J. Neves"
+        },
+        {
+          "minute": 45,
+          "team": "DR Congo",
+          "scorer": "Y. Wissa"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Whistles low, swirling the cachaça in the glass*\n\nPortugal dropping points to Congo in the opener — Cristiano's legacy weighs heavy on these shoulders now. Neves scores in the sixth minute and they still can't hold it, letting Wissa equalize right before halftime like they forgot what defending means. This is what happens when you build a team around nostalgia instead of hunger.",
+        "time": "22:55",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Leans back and lights a cigarette, exhaling smoke slowly toward the screen*\n\nPortugal drew because they expected Congo to lie down — the same arrogance that cost them in 2022 when Morocco sent them home. Neves scored early and they thought the job was done, but football doesn't work like that anymore. Congo wanted it more, and wanting it is half the battle — Messi taught the world that three years ago.",
+        "time": "22:55",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Sets down my pint with a soft thud, eyes still on the screen*\n\nPortugal getting pegged back by Congo feels like watching someone trip over their own shoelaces — you see it coming the moment they stop paying attention. Six minutes in and cruising, then Wissa scores right before the whistle because apparently defending for forty-five minutes straight is too much to ask. At least when England do it, we have the decency to look surprised.",
+        "time": "22:55",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts glasses and scrolls through the match statistics with a slight frown*\n\nPortugal generated 2.1 expected goals from 68% possession and still drew — that's not arrogance, Gary, that's a conversion problem. Congo's defensive block averaged 4.2 meters of compactness in the second half, which is tournament-level organization, not just \"wanting it more.\" The data shows Portugal created enough chances to win this match twice over, but Wissa's goal came from their only shot on target in the first half — sometimes the statistics betray you and that's just football.",
+        "time": "22:55",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass slowly, watching the light refract through it*\n\nThe curious thing about Portugal is that they scored too early — six minutes gives you eighty-four minutes to protect something you haven't yet earned. Congo had nothing to lose from the seventh minute onward, which is a kind of freedom Portugal will never understand. When you expect to win, the draw feels like defeat, but when you expect to lose, the draw tastes like victory — and you could see which team left Houston happier.",
+        "time": "22:55",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the same spot on the bar three times, eyes on the door where everyone just left*\n\nPortugal forgot that the other team gets to want things too.",
+        "time": "22:55",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-18T22:55:34.202696"
   }
 ]

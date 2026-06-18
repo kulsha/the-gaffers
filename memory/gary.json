@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 90,
-    "confidence": 59,
-    "anger": 12,
-    "bitterness": 22
+    "hope": 92,
+    "confidence": 60,
+    "anger": 10,
+    "bitterness": 21
   },
   "rivalry": {
     "likes": [
@@ -202,6 +202,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Arnautovic's celebration fade from the screen, tapping the rim of my pint glass*\n\nAustria scoring an own goal for themselves in the seventy-s"
+    },
+    {
+      "match_id": "21",
+      "date": "2026-06-17",
+      "match": "Portugal 1-1 DR Congo",
+      "stage": "Group K - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Sets down my pint with a soft thud, eyes still on the screen*\n\nPortugal getting pegged back by Congo feels like watching someone trip over their own "
     }
   ]
 }

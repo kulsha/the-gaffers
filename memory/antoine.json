@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 99,
+    "confidence": 100,
     "anger": 0,
     "bitterness": 0
   },
@@ -202,6 +202,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lifts the wine glass, studies the liquid for a moment, then sets it down untouched*\n\nThe fascinating thing about own goals is that they reveal the tr"
+    },
+    {
+      "match_id": "21",
+      "date": "2026-06-17",
+      "match": "Portugal 1-1 DR Congo",
+      "stage": "Group K - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass slowly, watching the light refract through it*\n\nThe curious thing about Portugal is that they scored too early — six minutes giv"
     }
   ]
 }

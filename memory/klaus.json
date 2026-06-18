@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 97,
+    "confidence": 98,
     "anger": 0,
     "bitterness": 0
   },
@@ -201,6 +201,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the possession metrics with a slight frown*\n\nAustria generated 2.8 expected goals from 64% "
+    },
+    {
+      "match_id": "21",
+      "date": "2026-06-17",
+      "match": "Portugal 1-1 DR Congo",
+      "stage": "Group K - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Adjusts glasses and scrolls through the match statistics with a slight frown*\n\nPortugal generated 2.1 expected goals from 68% possession and still dr"
     }
   ]
 }
