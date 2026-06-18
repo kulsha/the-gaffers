@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 68,
-    "anger": 5,
-    "bitterness": 18
+    "confidence": 69,
+    "anger": 3,
+    "bitterness": 17
   },
   "rivalry": {
     "likes": [
@@ -220,6 +220,15 @@
       "my_team_played": true,
       "team_result": "won",
       "reaction_summary": "*Sets my pint down carefully, like I'm afraid the glass might shatter if I grip it too hard*\n\nFour-two feels comfortable until you remember we were wi"
+    },
+    {
+      "match_id": "23",
+      "date": "2026-06-17",
+      "match": "Ghana 1-0 Panama",
+      "stage": "Group L - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the replay fade and taps my pint glass once, softly*\n\nNinety-five minutes of thinking you've survived only to concede feels like supporting E"
     }
   ]
 }

@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 80,
-    "anger": 2,
-    "bitterness": 8
+    "confidence": 81,
+    "anger": 0,
+    "bitterness": 7
   },
   "rivalry": {
     "likes": [
@@ -219,6 +219,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pushes the cachaça glass forward, leaning back with arms crossed*\n\nFour goals and Gary hasn't even started with the \"coming home\" nonsense yet — give"
+    },
+    {
+      "match_id": "23",
+      "date": "2026-06-17",
+      "match": "Ghana 1-0 Panama",
+      "stage": "Group L - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights a cigarette and exhales slowly, watching the replay of that ninety-fifth minute goal*\n\nGhana stealing it at the death in Toronto — this is the"
     }
   ]
 }

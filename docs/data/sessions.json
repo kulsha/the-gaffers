@@ -2453,5 +2453,105 @@
       }
     ],
     "timestamp": "2026-06-18T22:57:13.782850"
+  },
+  {
+    "session_id": "23",
+    "session_num": 23,
+    "date": "2026-06-17",
+    "day_label": "Day 7 · June 17",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Ghana",
+      "away_team": "Panama",
+      "home_score": 1,
+      "away_score": 0,
+      "stage": "Group L - Matchday 1",
+      "venue": "BMO Field, Toronto",
+      "home_flag": {
+        "code": "GHA",
+        "style": "background:linear-gradient(180deg,#006B3F,#FCD116,#CE1126)"
+      },
+      "away_flag": {
+        "code": "P",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 95,
+          "team": "Ghana",
+          "scorer": "C. Yirenkyi"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights a cigarette and exhales slowly, watching the replay of that ninety-fifth minute goal*\n\nGhana stealing it at the death in Toronto — this is the kind of heartbreak Panama will carry home like luggage. Yirenkyi's timing, though... that's what separates the dreamers from those who actually know how to finish the dream. Poor Panama, they defended for ninety-four minutes and discovered that in football, time is never your friend.",
+        "time": "22:59",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Stubs out cigarette and leans forward, eyes locked on the screen*\n\nA ninety-fifth minute goal is not luck, Cadu — it's hunger. Panama thought defending was enough, but Messi taught us in 2022 that wanting it more in the final seconds is what separates glory from going home early. Ghana didn't steal anything — they earned what Panama was too afraid to take.",
+        "time": "22:59",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the replay fade and taps my pint glass once, softly*\n\nNinety-five minutes of thinking you've survived only to concede feels like supporting England in concentrated form. Panama just learned what the rest of us already know — the hope doesn't kill you, it's that last moment when you realize the hope was never real. Ghana knew exactly when to twist the knife.",
+        "time": "22:59",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the expected goals with a slight shake of the head*\n\nPanama generated 0.3 xG across ninety-five minutes — you cannot win tournaments by hoping the other team forgets how to score. Ghana's pressing intensity peaked at 87 minutes, exactly when Panama's defensive shape collapsed from fatigue, which the data predicted would happen around 83 minutes. This wasn't heartbreak or hunger, it was inevitable mathematics.",
+        "time": "22:59",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Sets the wine glass down and studies the condensation on the outside for a moment*\n\nThe cruelty of football is that Panama will remember the ninety-fifth minute, but they should be studying the first. When you begin a match by deciding not to lose rather than trying to win, you are simply choosing the manner of your defeat. Ghana understood something fundamental — that time added is not a complication of the rules, it is the revelation of character.",
+        "time": "22:59",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar in one slow motion, eyes on the replay as it fades to black*\n\nPanama defended for ninety-four minutes and thirty-nine seconds like their lives depended on it. And for one second, they believed.",
+        "time": "22:59",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-18T22:59:54.574706"
   }
 ]

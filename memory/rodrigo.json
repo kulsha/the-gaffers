@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 98,
-    "anger": 8,
-    "bitterness": 5
+    "hope": 99,
+    "confidence": 99,
+    "anger": 6,
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -220,6 +220,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights a cigarette and shakes his head slowly, eyes fixed on the screen*\n\nKane scored twice but watch how he celebrated — like a man relieved, not co"
+    },
+    {
+      "match_id": "23",
+      "date": "2026-06-17",
+      "match": "Ghana 1-0 Panama",
+      "stage": "Group L - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Stubs out cigarette and leans forward, eyes locked on the screen*\n\nA ninety-fifth minute goal is not luck, Cadu — it's hunger. Panama thought defendi"
     }
   ]
 }

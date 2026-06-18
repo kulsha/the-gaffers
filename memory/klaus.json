@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 99,
+    "confidence": 100,
     "anger": 0,
     "bitterness": 0
   },
@@ -219,6 +219,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the progressive passing data with a slight nod*\n\nEngland generated 3.2 expected goals from "
+    },
+    {
+      "match_id": "23",
+      "date": "2026-06-17",
+      "match": "Ghana 1-0 Panama",
+      "stage": "Group L - Matchday 1",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the expected goals with a slight shake of the head*\n\nPanama generated 0.3 xG across ninety-"
     }
   ]
 }
