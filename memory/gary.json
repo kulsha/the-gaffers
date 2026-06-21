@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 70,
-    "anger": 1,
-    "bitterness": 16
+    "confidence": 71,
+    "anger": 0,
+    "bitterness": 15
   },
   "rivalry": {
     "likes": [
@@ -238,6 +238,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Campaz's ninetieth-minute goal replay fade, turning my pint glass slowly*\n\nColombia scoring in the ninetieth when they're already two up is t"
+    },
+    {
+      "match_id": "25",
+      "date": "2026-06-18",
+      "match": "Czechia 1-1 South Africa",
+      "stage": "Group A - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns my pint glass slowly, watching the condensation trail*\n\nScoring in the sixth minute and spending eighty-four minutes protecting it like it's th"
     }
   ]
 }

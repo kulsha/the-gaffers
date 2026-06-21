@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 82,
+    "confidence": 83,
     "anger": 0,
-    "bitterness": 6
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -237,6 +237,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Leans forward, eyes still on the screen as the final whistle blows*\n\nLuis Díaz — that's the kind of football that makes you remember why we play this"
+    },
+    {
+      "match_id": "25",
+      "date": "2026-06-18",
+      "match": "Czechia 1-1 South Africa",
+      "stage": "Group A - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights another cigarette, squinting at the screen*\n\nSadílek scores in the sixth minute and then they just... stop? Czechia defending a one-goal lead "
     }
   ]
 }

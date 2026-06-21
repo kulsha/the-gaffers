@@ -2668,5 +2668,110 @@
       }
     ],
     "timestamp": "2026-06-18T23:02:16.008404"
+  },
+  {
+    "session_id": "25",
+    "session_num": 25,
+    "date": "2026-06-18",
+    "day_label": "Day 8 · June 18",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Czechia",
+      "away_team": "South Africa",
+      "home_score": 1,
+      "away_score": 1,
+      "stage": "Group A - Matchday 2",
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "home_flag": {
+        "code": "CZE",
+        "style": "background:linear-gradient(180deg,#D7141A,#ffffff)"
+      },
+      "away_flag": {
+        "code": "RSA",
+        "style": "background:linear-gradient(135deg,#007A4D,#FFB612,#DE3831)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "South Africa",
+          "scorer": "T. Mokoena 83 pen"
+        },
+        {
+          "minute": 6,
+          "team": "Czechia",
+          "scorer": "M. Sadílek"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights another cigarette, squinting at the screen*\n\nSadílek scores in the sixth minute and then they just... stop? Czechia defending a one-goal lead for eighty-four minutes like they're protecting the crown jewels — that's not football, that's cowardice. South Africa waited until the eighty-third to wake up with that penalty, but at least they tried to play. This is exactly the kind of match that makes people forget why they fell in love with this beautiful game.",
+        "time": "19:12",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Stubs out cigarette and shakes head at the screen*\n\nCzechia scored early and forgot the match lasts ninety minutes — they invited pressure like fools invite ruin. South Africa earned that penalty because when you sit back and defend for eighty-four minutes, the universe corrects itself. Both teams played like they were afraid to win, and fear never lifted a trophy.",
+        "time": "19:12",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Turns my pint glass slowly, watching the condensation trail*\n\nScoring in the sixth minute and spending eighty-four minutes protecting it like it's the last clean sheet on earth — that's the kind of hope management I understand completely. Difference is, when England do it we concede in the eighty-ninth, not the eighty-third. Small mercies for Czechia, I suppose.",
+        "time": "19:12",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the defensive action data with a slight shake of the head*\n\nCzechia's pressing intensity dropped from 8.2 high turnovers in the first fifteen minutes to 1.4 after the sixtieth — textbook defensive collapse disguised as game management. South Africa generated 1.8 expected goals from seventy-three percent possession in the second half, which makes that penalty practically inevitable rather than earned. Both teams optimized for the wrong outcome and got exactly what their tactical cowardice deserved.",
+        "time": "19:12",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Lifts the wine glass, considers the level for a moment, then sets it down without drinking*\n\nThe penalty arrived in the eighty-third minute, but the draw was written in the seventh — the moment Czechia decided one goal was a philosophy rather than an accident. South Africa did not rescue a point so much as collect what fear had already surrendered. Both teams will call this acceptable, which is precisely why neither will win anything that matters.",
+        "time": "19:12",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the counter slowly, eyes on the empty glass Cadu keeps turning*\n\nFive people talking about cowardice and fear, and not one of them mentioned that both teams got exactly what they came for.",
+        "time": "19:12",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-21T19:12:08.438167"
   }
 ]

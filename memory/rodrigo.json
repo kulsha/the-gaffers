@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 4,
-    "bitterness": 3
+    "anger": 2,
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -238,6 +238,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Stubs out cigarette and waves dismissively at the screen*\n\nColombia won because Uzbekistan thought showing up was enough — same mistake everyone make"
+    },
+    {
+      "match_id": "25",
+      "date": "2026-06-18",
+      "match": "Czechia 1-1 South Africa",
+      "stage": "Group A - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Stubs out cigarette and shakes head at the screen*\n\nCzechia scored early and forgot the match lasts ninety minutes — they invited pressure like fools"
     }
   ]
 }

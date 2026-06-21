@@ -237,6 +237,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the progressive carry data with a slight nod*\n\nColombia generated 2.4 expected goals from s"
+    },
+    {
+      "match_id": "25",
+      "date": "2026-06-18",
+      "match": "Czechia 1-1 South Africa",
+      "stage": "Group A - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the defensive action data with a slight shake of the head*\n\nCzechia's pressing intensity dr"
     }
   ]
 }
