@@ -2899,5 +2899,141 @@
       }
     ],
     "timestamp": "2026-06-21T19:13:11.291284"
+  },
+  {
+    "session_id": "27",
+    "session_num": 27,
+    "date": "2026-06-18",
+    "day_label": "Day 8 · June 18",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Canada",
+      "away_team": "Qatar",
+      "home_score": 6,
+      "away_score": 0,
+      "stage": "Group B - Matchday 2",
+      "venue": "BC Place, Vancouver",
+      "home_flag": {
+        "code": "CAN",
+        "style": "background:linear-gradient(135deg,#FF0000,#ffffff)"
+      },
+      "away_flag": {
+        "code": "QAT",
+        "style": "background:linear-gradient(135deg,#8D1B3D,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "Canada",
+          "scorer": "M. Al Mannai 77 OG"
+        },
+        {
+          "minute": 18,
+          "team": "Canada",
+          "scorer": "C. Larin"
+        },
+        {
+          "minute": 34,
+          "team": "Canada",
+          "scorer": "J. David"
+        },
+        {
+          "minute": 45,
+          "team": "Canada",
+          "scorer": "J. David"
+        },
+        {
+          "minute": 68,
+          "team": "Canada",
+          "scorer": "N. Saliba"
+        },
+        {
+          "minute": 85,
+          "team": "Canada",
+          "scorer": "J. David"
+        }
+      ],
+      "red_cards": [
+        {
+          "minute": 62,
+          "team": "Qatar",
+          "player": "H. Ahmed"
+        },
+        {
+          "minute": 75,
+          "team": "Qatar",
+          "player": "A. Madibo"
+        }
+      ]
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Slams hand on the bar, shaking my head*\n\nJonathan David with a hat-trick and they still have the audacity to call CONCACAF weak? This is what happens when you buy a World Cup instead of earning it — Qatar getting dismantled like they never belonged in the first place. Two red cards, six goals, an own goal in the first minute — meu Deus, it's almost sad to watch. Canada playing with the kind of hunger that reminds you football still means something to some people.",
+        "time": "19:14",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Lights cigarette and exhales slowly toward the screen*\n\nQatar bought the tournament in 2022 but couldn't buy dignity — this is what happens when money forgets you still need corazón. David scored three because Qatar defended like they expected the referee to protect them again. Canada didn't just win, they exposed what everyone already knew — some teams earn their place, others rent it.",
+        "time": "19:14",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the replay of that first-minute own goal one more time*\n\nQatar getting six put past them at a World Cup they actually had to qualify for feels like watching someone realise the safety net was never real. Two years ago they hosted the whole thing and now they're down to nine men getting battered in Vancouver — that's not football cruelty, that's just gravity catching up. Jonathan David hat-trick against ten men then nine, fair play, but let's not pretend Canada wouldn't fancy their chances against us on current form.",
+        "time": "19:14",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the defensive action data with something almost like satisfaction*\n\nQatar's defensive line averaged 42.3 meters from their own goal in the first half — catastrophic spatial awareness that any Bundesliga academy would drill out of fifteen-year-olds in a week. David's hat-trick came from a combined 2.1 expected goals, which tells you everything about Qatar's structural collapse after the first red card. The own goal in the opening minute wasn't bad luck, it was inevitable — their backline was already retreating before Canada even pressed.",
+        "time": "19:14",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass a quarter rotation, watching the light shift through it*\n\nThe own goal in the first minute tells you that Qatar arrived defeated — the body was present but the spirit had already accepted what was coming. Jonathan David scored three times, but the real story is that he could have stopped at two and gone home early without changing anything. When a team receives two red cards and concedes six, they are not losing a match — they are confessing something they hoped would remain unspoken.",
+        "time": "19:14",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been drying for the last ten minutes, folds the bar towel once, and glances at the empty screen*\n\nSix-nil with two red cards isn't a football match — it's what happens when someone finally asks for the receipt.",
+        "time": "19:14",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-21T19:14:02.040096"
   }
 ]

@@ -255,6 +255,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, eyes narrowing at the progressive passing data*\n\nSwitzerland generated 2.8 expected goals across ninety minut"
+    },
+    {
+      "match_id": "27",
+      "date": "2026-06-18",
+      "match": "Canada 6-0 Qatar",
+      "stage": "Group B - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the defensive action data with something almost like satisfaction*\n\nQatar's defensive line "
     }
   ]
 }

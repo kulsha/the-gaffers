@@ -7,7 +7,7 @@
     "hope": 100,
     "confidence": 100,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -256,6 +256,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass slowly, studying the way the light catches the rim*\n\nThe penalty in the ninetieth minute reveals something uncomfortable about c"
+    },
+    {
+      "match_id": "27",
+      "date": "2026-06-18",
+      "match": "Canada 6-0 Qatar",
+      "stage": "Group B - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass a quarter rotation, watching the light shift through it*\n\nThe own goal in the first minute tells you that Qatar arrived defeated"
     }
   ]
 }

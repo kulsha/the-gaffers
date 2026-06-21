@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 84,
+    "confidence": 85,
     "anger": 0,
-    "bitterness": 4
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -255,6 +255,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Manzambi's second goal and lets out a low whistle*\n\nSwitzerland putting four past them after that red card — efficient, cold, exactly what Ya"
+    },
+    {
+      "match_id": "27",
+      "date": "2026-06-18",
+      "match": "Canada 6-0 Qatar",
+      "stage": "Group B - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Slams hand on the bar, shaking my head*\n\nJonathan David with a hat-trick and they still have the audacity to call CONCACAF weak? This is what happens"
     }
   ]
 }
