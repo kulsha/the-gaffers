@@ -43,10 +43,10 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 @keyframes bounce{0%,100%{transform:translateX(-50%) translateY(0);}50%{transform:translateX(-50%) translateY(6px);}}
  
 /* ── SITE HEADER ── */
-.site-header{position:sticky;top:0;z-index:100;background:rgba(8,8,16,0.96);backdrop-filter:blur(20px);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 24px;height:60px;gap:24px;}
-.site-logo{font-family:'Bebas Neue',sans-serif;font-size:24px;color:var(--white);letter-spacing:2px;flex-shrink:0;display:flex;align-items:center;gap:8px;}
+.site-header{position:sticky;top:0;z-index:100;background:rgba(8,8,16,0.96);backdrop-filter:blur(20px);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 24px;height:60px;gap:12px;}
+.site-logo{font-family:'Bebas Neue',sans-serif;font-size:24px;color:var(--white);letter-spacing:2px;flex-shrink:0;display:flex;align-items:center;gap:8px;min-width:0;}
 .site-logo span{color:var(--gold);}
-.day-tabs-wrapper{flex:1;position:relative;display:flex;align-items:center;gap:4px;}
+.day-tabs-wrapper{flex:1;position:relative;display:flex;align-items:center;gap:4px;min-width:0;overflow:hidden;}
 .day-tabs{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;scroll-behavior:smooth;flex:1;}
 .day-tabs::-webkit-scrollbar{display:none;}
 .day-tabs-fade-left{flex-shrink:0;}
