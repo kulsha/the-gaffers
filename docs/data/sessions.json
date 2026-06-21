@@ -3562,7 +3562,7 @@
     "session_num": 33,
     "date": "2026-06-20",
     "day_label": "Day 10 · June 20",
-    "bartender_mode": "prediction",
+    "bartender_mode": "silent",
     "match": {
       "home_team": "Netherlands",
       "away_team": "Sweden",
