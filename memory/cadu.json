@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 99,
+    "confidence": 100,
     "anger": 0,
     "bitterness": 0
   },
@@ -327,6 +327,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Stubs out cigarette and orders another caipirinha*\n\nUndav twice in the second half — Germany doing what they always do, grinding you down until you b"
+    },
+    {
+      "match_id": "35",
+      "date": "2026-06-20",
+      "match": "Ecuador 0-0 Curacao",
+      "stage": "Group E - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights a cigarette and stares at the screen in disbelief*\n\nEcuador couldn't score against Curacao? Curacao? This is CONMEBOL football now — we've bec"
     }
   ]
 }

@@ -3791,5 +3791,99 @@
       }
     ],
     "timestamp": "2026-06-21T19:26:31.616072"
+  },
+  {
+    "session_id": "35",
+    "session_num": 35,
+    "date": "2026-06-20",
+    "day_label": "Day 10 · June 20",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Ecuador",
+      "away_team": "Curacao",
+      "home_score": 0,
+      "away_score": 0,
+      "stage": "Group E - Matchday 2",
+      "venue": "Arrowhead Stadium, Kansas City",
+      "home_flag": {
+        "code": "ECU",
+        "style": "background:linear-gradient(180deg,#FFD100,#003DA5,#EF3340)"
+      },
+      "away_flag": {
+        "code": "CUW",
+        "style": "background:linear-gradient(135deg,#003DA5,#F9E300)"
+      },
+      "goals": [],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights a cigarette and stares at the screen in disbelief*\n\nEcuador couldn't score against Curacao? Curacao? This is CONMEBOL football now — we've become so cautious, so afraid to take risks, that even our neighbors forgot how to create beauty. Zero-zero in Kansas City isn't a result, it's an apology for existing. At least when we lost 7-1, we were trying to play football.",
+        "time": "19:27",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Exhales smoke and waves hand dismissively at the television*\n\nCuracao held Ecuador to nothing because Ecuador approached this match like accountants, not footballers — when you play not to lose instead of playing to win, this is what you deserve. CONMEBOL sides think defensive organization is a strategy, but it's just cowardice dressed up in tactics. Messi scored twice against Mexico in 2022 when it mattered most — that's the difference between champions and whatever Ecuador just offered tonight.",
+        "time": "19:27",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Leans back and lets out a quiet laugh*\n\nEcuador nil-nil against Curacao and somehow I'm watching teams play like they've seen England's tournament history and thought \"yeah, that's the template.\" Ninety minutes of absolutely nothing — at least when we bottle it, we do it with some drama attached. This wasn't cautious, wasn't tactical, it was just two teams terrified of being remembered.",
+        "time": "19:27",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the shot maps with clinical disappointment*\n\nEcuador registered 0.3 xG across ninety minutes — against Curacao, that is not defensive organization from the opposition, that is attacking dysfunction from a side that cannot create chances. Gary, England's bottling at least comes after generating opportunities — this was statistically closer to two mid-table Bundesliga sides playing for a winter break draw than a World Cup fixture. The data suggests Ecuador's progressive passing dropped 23% from their opening match, which means either the coaching setup is fundamentally flawed or the players have stopped believing in the system entirely.",
+        "time": "19:27",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the condensation settle*\n\nThe nil-nil does not tell you Ecuador cannot score — it tells you they have forgotten why they should. Curacao defended with the discipline of a team that knows exactly what it is, while Ecuador attacked with the hesitation of a team that has forgotten. When you stop believing in your own identity, even the open goal becomes philosophical question rather than physical certainty.",
+        "time": "19:27",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ten minutes and glances at the empty scoreline still frozen on the screen*\n\nWhen both teams celebrate not losing more than they regret not winning, you don't have a football match — you have a mirror nobody wants to look into.",
+        "time": "19:27",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-21T19:27:47.408708"
   }
 ]

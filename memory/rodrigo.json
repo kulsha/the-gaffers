@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 2,
-    "bitterness": 2
+    "anger": 0,
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -328,6 +328,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights fresh cigarette and waves dismissively at the screen*\n\nUndav scoring twice means nothing when Messi scored seven goals in 2022 — this is what "
+    },
+    {
+      "match_id": "35",
+      "date": "2026-06-20",
+      "match": "Ecuador 0-0 Curacao",
+      "stage": "Group E - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Exhales smoke and waves hand dismissively at the television*\n\nCuracao held Ecuador to nothing because Ecuador approached this match like accountants,"
     }
   ]
 }

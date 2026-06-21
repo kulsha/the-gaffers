@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 80,
+    "confidence": 81,
     "anger": 0,
-    "bitterness": 6
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -328,6 +328,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Undav's ninetieth-minute goal replay and takes a long drink*\n\nGermany winning 2-1 after going behind is somehow more German than winning 5-0 "
+    },
+    {
+      "match_id": "35",
+      "date": "2026-06-20",
+      "match": "Ecuador 0-0 Curacao",
+      "stage": "Group E - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Leans back and lets out a quiet laugh*\n\nEcuador nil-nil against Curacao and somehow I'm watching teams play like they've seen England's tournament hi"
     }
   ]
 }
