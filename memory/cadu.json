@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 96,
+    "confidence": 97,
     "anger": 0,
     "bitterness": 0
   },
@@ -300,6 +300,15 @@
       "my_team_played": true,
       "team_result": "won",
       "reaction_summary": "*Lights up and raises my caipirinha to the screen*\n\nCunha with a brace, Vini dancing in Philadelphia — this is what we do when we remember who we are."
+    },
+    {
+      "match_id": "32",
+      "date": "2026-06-19",
+      "match": "Turkey 0-1 Paraguay",
+      "stage": "Group D - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Leans back and watches the replay of Galarza's goal, swirling my caipirinha*\n\nMorocco takes the lead in sixty seconds, now Paraguay does it in one mi"
     }
   ]
 }

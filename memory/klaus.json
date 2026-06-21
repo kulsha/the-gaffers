@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 98,
-    "anger": 8,
-    "bitterness": 5
+    "hope": 99,
+    "confidence": 99,
+    "anger": 6,
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -300,6 +300,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Adjusts glasses and pulls up the match statistics on phone, scrolling through the progressive passing data*\n\nBrazil completed 89% of their passes in "
+    },
+    {
+      "match_id": "32",
+      "date": "2026-06-19",
+      "match": "Turkey 0-1 Paraguay",
+      "stage": "Group D - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through Turkey's shot placement data with clinical precision*\n\nTurkey generated 1.9 xG playing 45 m"
     }
   ]
 }

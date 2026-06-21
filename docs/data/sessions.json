@@ -3450,5 +3450,111 @@
       }
     ],
     "timestamp": "2026-06-21T19:20:19.722945"
+  },
+  {
+    "session_id": "32",
+    "session_num": 32,
+    "date": "2026-06-19",
+    "day_label": "Day 9 · June 19",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Turkey",
+      "away_team": "Paraguay",
+      "home_score": 0,
+      "away_score": 1,
+      "stage": "Group D - Matchday 2",
+      "venue": "Levi's Stadium, Santa Clara",
+      "home_flag": {
+        "code": "T",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "PAR",
+        "style": "background:linear-gradient(180deg,#D52B1E,#ffffff,#009B3A)"
+      },
+      "goals": [
+        {
+          "minute": 1,
+          "team": "Paraguay",
+          "scorer": "M. Galarza"
+        }
+      ],
+      "red_cards": [
+        {
+          "minute": 45,
+          "team": "Turkey",
+          "player": "M. Almirón"
+        }
+      ]
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Leans back and watches the replay of Galarza's goal, swirling my caipirinha*\n\nMorocco takes the lead in sixty seconds, now Paraguay does it in one minute — seems like everyone's figured out the script except the team that's supposed to lose. Turkey played with ten men for half the match and still couldn't find an equalizer. Sometimes football punishes you for the moment you lose your head, and Almirón's red card wasn't just a sending off, it was an execution.",
+        "time": "19:23",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Lights cigarette and exhales toward the screen with a dismissive wave*\n\nParaguay scored in the first minute and then remembered they had ninety more to survive — that's not football, that's holding your breath underwater and praying. Turkey with ten men created more chances than Paraguay with eleven, but creation without finish is just foreplay without the climax. Almirón's red card saved Paraguay from having to actually play the second half.",
+        "time": "19:23",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the replay of Turkey's eleven chances that went nowhere and lets out a low whistle*\n\nFirst-minute goal and then forty-four minutes of red card — that's not winning a match, that's being handed one and somehow still making it look hard. Turkey spent the second half throwing everything forward except the actual ball into the net, which feels like watching England but with better kebabs. Paraguay celebrating like they've conquered something when really they just outlasted a team playing with one hand tied behind their back.",
+        "time": "19:23",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through Turkey's shot placement data with clinical precision*\n\nTurkey generated 1.9 xG playing 45 minutes with ten men — Paraguay's total xG was 0.4, all of it from the first minute. The red card didn't save Paraguay, it exposed them: 68% possession in the second half and they completed exactly zero key passes in the attacking third. Sometimes the data reveals teams that win matches they have no statistical business winning, and this is textbook variance over competence.",
+        "time": "19:23",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass a quarter rotation, studying the way the light breaks through the Bordeaux*\n\nThe red card did not change the match — it revealed what the match always was. Turkey discovered that desire without discipline is just noise, while Paraguay learned that survival is not the same as control, even when the scoreboard suggests otherwise. Sometimes a team wins and still loses something essential in the process.",
+        "time": "19:23",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar in front of cadu's empty glass and glances at the screen one last time*\n\nParaguay won in the first minute and then spent eighty-nine defending against ten men who couldn't finish. Turkey lost to themselves before they lost to anyone else.\n\n*Sets the towel down and turns off the overhead light above the bar*",
+        "time": "19:23",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-21T19:23:30.764429"
   }
 ]

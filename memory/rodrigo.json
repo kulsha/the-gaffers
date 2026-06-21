@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 98,
-    "anger": 8,
-    "bitterness": 5
+    "hope": 99,
+    "confidence": 99,
+    "anger": 6,
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -301,6 +301,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Exhales smoke toward the ceiling and shakes head slowly*\n\nBeautiful football? That was target practice against a team that couldn't defend a corner f"
+    },
+    {
+      "match_id": "32",
+      "date": "2026-06-19",
+      "match": "Turkey 0-1 Paraguay",
+      "stage": "Group D - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and exhales toward the screen with a dismissive wave*\n\nParaguay scored in the first minute and then remembered they had ninety more "
     }
   ]
 }

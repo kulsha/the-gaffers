@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 77,
+    "confidence": 78,
     "anger": 0,
-    "bitterness": 9
+    "bitterness": 8
   },
   "rivalry": {
     "likes": [
@@ -301,6 +301,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Cunha's second goal replay and takes a slow sip*\n\nThree-nil against Haiti and Rodrigo's already measuring them for the final — sounds about r"
+    },
+    {
+      "match_id": "32",
+      "date": "2026-06-19",
+      "match": "Turkey 0-1 Paraguay",
+      "stage": "Group D - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the replay of Turkey's eleven chances that went nowhere and lets out a low whistle*\n\nFirst-minute goal and then forty-four minutes of red car"
     }
   ]
 }
