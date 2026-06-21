@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 99,
-    "anger": 6,
-    "bitterness": 4
+    "hope": 100,
+    "confidence": 100,
+    "anger": 4,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -310,6 +310,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and exhales toward the screen with a dismissive wave*\n\nParaguay scored in the first minute and then remembered they had ninety more "
+    },
+    {
+      "match_id": "33",
+      "date": "2026-06-20",
+      "match": "Netherlands 5-1 Sweden",
+      "stage": "Group F - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Exhales smoke and taps ash into the tray with deliberate precision*\n\nThe Dutch are dangerous when they wake up like this — all that beautiful geometr"
     }
   ]
 }

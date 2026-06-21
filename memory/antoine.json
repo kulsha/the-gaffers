@@ -310,6 +310,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass a quarter rotation, studying the way the light breaks through the Bordeaux*\n\nThe red card did not change the match — it revealed"
+    },
+    {
+      "match_id": "33",
+      "date": "2026-06-20",
+      "match": "Netherlands 5-1 Sweden",
+      "stage": "Group F - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the light refract through the Bordeaux*\n\nThe scoreline says demolition but the truth is more uncomf"
     }
   ]
 }

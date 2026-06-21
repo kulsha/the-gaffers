@@ -3556,5 +3556,130 @@
       }
     ],
     "timestamp": "2026-06-21T19:23:30.764429"
+  },
+  {
+    "session_id": "33",
+    "session_num": 33,
+    "date": "2026-06-20",
+    "day_label": "Day 10 · June 20",
+    "bartender_mode": "prediction",
+    "match": {
+      "home_team": "Netherlands",
+      "away_team": "Sweden",
+      "home_score": 5,
+      "away_score": 1,
+      "stage": "Group F - Matchday 2",
+      "venue": "NRG Stadium, Houston",
+      "home_flag": {
+        "code": "NED",
+        "style": "background:linear-gradient(180deg,#AE1C28,#ffffff,#21468B)"
+      },
+      "away_flag": {
+        "code": "S",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 8,
+          "team": "Netherlands",
+          "scorer": "B. Brobbey"
+        },
+        {
+          "minute": 23,
+          "team": "Netherlands",
+          "scorer": "B. Brobbey"
+        },
+        {
+          "minute": 52,
+          "team": "Netherlands",
+          "scorer": "C. Gakpo"
+        },
+        {
+          "minute": 58,
+          "team": "Netherlands",
+          "scorer": "C. Gakpo"
+        },
+        {
+          "minute": 71,
+          "team": "Sweden",
+          "scorer": "A. Elanga"
+        },
+        {
+          "minute": 78,
+          "team": "Netherlands",
+          "scorer": "C. Summerville"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights a cigarette and watches the replay of Gakpo's second goal*\n\nFive goals in Houston — the Dutch playing like they remembered they invented Total Football. Brobbey, Gakpo, even Summerville getting in on it... this wasn't a match, it was a demonstration. Sweden tried to make it respectable with Elanga's goal but by then the oranje were already thinking about their next opponent.",
+        "time": "19:25",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Exhales smoke and taps ash into the tray with deliberate precision*\n\nThe Dutch are dangerous when they wake up like this — all that beautiful geometry turning into actual goals. But let's not pretend five against Sweden means they're ready for serious opposition. They play like a museum exhibit of what football used to be — impressive until they meet a team that plays like football is now.",
+        "time": "19:25",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Gakpo tear Sweden apart and reaches for my pint with a knowing smile*\n\nFive-one and it could've been eight — the Dutch playing like they've remembered what they are between forgetting tournaments entirely. Brobbey twice before half-time, Gakpo twice in six minutes... Sweden were still looking for their shape when Summerville made it five. Thing is, we've seen this before — Netherlands brilliant until they're not, dazzling in June and gone by July. But Christ, when they're on it like tonight, you remember why everyone loves watching them even when they break your heart.",
+        "time": "19:25",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the expected goals with a mixture of clinical interest and grudging admiration*\n\nThe Netherlands generated 3.8 xG to Sweden's 0.6 — they didn't just win, they dominated every statistical category that matters. Brobbey's positioning in the first twenty-three minutes was textbook center-forward play, constantly finding pockets between Sweden's center-backs with a success rate of 87% on progressive runs. Gary's right that we've seen this pattern before, but the pressing efficiency tonight was 76% in the final third — that's not nostalgia football, that's modern dominance.",
+        "time": "19:25",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light refract through the Bordeaux*\n\nThe scoreline says demolition but the truth is more uncomfortable — Sweden stopped believing after Brobbey's second. The other three goals were not Dutch brilliance so much as Swedish surrender, the way a house collapses after the foundation cracks. There is a difference between being beaten and ceasing to compete. Only one of those deserves to be called five-one.",
+        "time": "19:25",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last three minutes and speaks for the first time all night*\n\nEveryone's talking about the five goals. Nobody's talking about the eighth minute.\n\nBrobbey's first goal — that's when Sweden's body language changed. Not after the second, not when Gakpo made it four. The eighth minute. You could see it in how they stopped pressing, how their defensive line dropped three yards deeper without their coach saying a word.\n\nThe Dutch didn't win this match in Houston. Sweden lost it in their heads before the first water break.\n\nThat's the difference between a team that might go deep and a team that's already planning their flight home. Five-one looks like domination. But domination doesn't need the opponent's permission.\n\n*Goes back to polishing the glass*",
+        "time": "19:25",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-21T19:25:37.249968"
   }
 ]

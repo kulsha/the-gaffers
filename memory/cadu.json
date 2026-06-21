@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 97,
+    "confidence": 98,
     "anger": 0,
     "bitterness": 0
   },
@@ -309,6 +309,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Leans back and watches the replay of Galarza's goal, swirling my caipirinha*\n\nMorocco takes the lead in sixty seconds, now Paraguay does it in one mi"
+    },
+    {
+      "match_id": "33",
+      "date": "2026-06-20",
+      "match": "Netherlands 5-1 Sweden",
+      "stage": "Group F - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights a cigarette and watches the replay of Gakpo's second goal*\n\nFive goals in Houston — the Dutch playing like they remembered they invented Total"
     }
   ]
 }
