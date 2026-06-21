@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 86,
+    "confidence": 87,
     "anger": 0,
-    "bitterness": 2
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -273,6 +273,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Romo's goal replay, nursing a caipirinha*\n\nMexico grinding it out — one goal, one moment, that's all they needed. South Korea pushed and push"
+    },
+    {
+      "match_id": "29",
+      "date": "2026-06-19",
+      "match": "United States 2-0 Australia",
+      "stage": "Group D - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Takes a long sip of caipirinha and watches the screen fade to black*\n\nAn own goal to open it and then Freeman seals it — the Americans playing at hom"
     }
   ]
 }

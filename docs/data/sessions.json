@@ -3135,5 +3135,110 @@
       }
     ],
     "timestamp": "2026-06-21T19:14:47.960052"
+  },
+  {
+    "session_id": "29",
+    "session_num": 29,
+    "date": "2026-06-19",
+    "day_label": "Day 9 · June 19",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "United States",
+      "away_team": "Australia",
+      "home_score": 2,
+      "away_score": 0,
+      "stage": "Group D - Matchday 2",
+      "venue": "Lumen Field, Seattle",
+      "home_flag": {
+        "code": "US",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "AUS",
+        "style": "background:linear-gradient(135deg,#00008B,#FF0000)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "United States",
+          "scorer": "C. Burgess 12 OG"
+        },
+        {
+          "minute": 38,
+          "team": "United States",
+          "scorer": "A. Freeman"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Takes a long sip of caipirinha and watches the screen fade to black*\n\nAn own goal to open it and then Freeman seals it — the Americans playing at home with that confidence, you can feel it building. Australia never found their rhythm, never looked dangerous. Seattle gave them nothing, and CONCACAF suddenly looks less like a joke and more like a problem for everyone else in this tournament.",
+        "time": "19:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Lights cigarette and leans back, exhaling smoke toward the ceiling*\n\nThe Americans won because Australia forgot football is a contact sport — they walked around Seattle like tourists at a museum. Freeman's goal was clean, but let's be honest, that own goal set the tone and the Socceroos never recovered their dignity. Home advantage means nothing if you don't have the mentality to use it, and Australia proved tonight they have neither.",
+        "time": "19:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the replay fade and sets my pint down with a quiet laugh*\n\nOwn goal in the first minute and Australia spent ninety minutes looking like they were trying to remember where they parked the car. The Americans didn't even have to get out of second gear, just let Seattle do half the work and Freeman finish what the own goal started. CONCACAF looking organized is the kind of thing that makes you wonder what else you've got wrong about this tournament.",
+        "time": "19:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the possession and pressing data with a slight frown*\n\nAustralia managed 58% possession but generated only 0.4 expected goals — possession without purpose is just jogging in circles. The United States pressed in a 4-4-2 mid-block, forced Australia into 47 backwards passes in their own half, and converted territorial dominance into two goals on 0.9 xG. That own goal wasn't bad luck, it was the statistical inevitability of sustained pressure against a defense that couldn't progress the ball cleanly.",
+        "time": "19:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass slowly, watching the way the light catches the edge*\n\nThe own goal in the first minute is what Australia will remember, but the real defeat was in the eighty-nine minutes afterward when they had time to respond and chose instead to look confused. Freeman's goal was almost a kindness — it gave them something concrete to blame instead of the formless anxiety of a team that forgot what they were supposed to be doing. The Americans understood something Australia did not: home soil does not care about your reputation, only whether you are willing to use it.",
+        "time": "19:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing and glances at the empty seats where they were all sitting*\n\nAn own goal in the first minute and Australia spent the rest of the match trying to convince themselves it didn't matter.",
+        "time": "19:16",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-21T19:16:16.007343"
   }
 ]

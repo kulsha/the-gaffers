@@ -273,6 +273,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the expected goals with a slight frown*\n\nSouth Korea generated 1.8 xG to Mexico's 0.7 — the"
+    },
+    {
+      "match_id": "29",
+      "date": "2026-06-19",
+      "match": "United States 2-0 Australia",
+      "stage": "Group D - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the possession and pressing data with a slight frown*\n\nAustralia managed 58% possession but"
     }
   ]
 }
