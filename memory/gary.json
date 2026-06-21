@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 81,
+    "confidence": 82,
     "anger": 0,
-    "bitterness": 5
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -337,6 +337,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Leans back and lets out a quiet laugh*\n\nEcuador nil-nil against Curacao and somehow I'm watching teams play like they've seen England's tournament hi"
+    },
+    {
+      "match_id": "36",
+      "date": "2026-06-20",
+      "match": "Tunisia 0-4 Japan",
+      "stage": "Group F - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Ueda's second goal replay and sets my pint down carefully*\n\nFour-nil and Tunisia barely touched the ball — Japan playing like they've got the"
     }
   ]
 }

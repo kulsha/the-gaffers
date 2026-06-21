@@ -7,7 +7,7 @@
     "hope": 100,
     "confidence": 100,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -337,6 +337,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Exhales smoke and waves hand dismissively at the television*\n\nCuracao held Ecuador to nothing because Ecuador approached this match like accountants,"
+    },
+    {
+      "match_id": "36",
+      "date": "2026-06-20",
+      "match": "Tunisia 0-4 Japan",
+      "stage": "Group F - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Exhales smoke and adjusts collar with casual elegance*\n\nJapan dismantled Tunisia the way a surgeon removes an appendix — clinical, necessary, complet"
     }
   ]
 }

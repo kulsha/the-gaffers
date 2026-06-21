@@ -336,6 +336,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the shot maps with clinical disappointment*\n\nEcuador registered 0.3 xG across ninety minute"
+    },
+    {
+      "match_id": "36",
+      "date": "2026-06-20",
+      "match": "Tunisia 0-4 Japan",
+      "stage": "Group F - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the possession and pressing metrics with a slight nod*\n\nJapan's PPDA of 6.2 confirms what G"
     }
   ]
 }

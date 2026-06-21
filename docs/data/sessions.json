@@ -3885,5 +3885,120 @@
       }
     ],
     "timestamp": "2026-06-21T19:27:47.408708"
+  },
+  {
+    "session_id": "36",
+    "session_num": 36,
+    "date": "2026-06-20",
+    "day_label": "Day 10 · June 20",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Tunisia",
+      "away_team": "Japan",
+      "home_score": 0,
+      "away_score": 4,
+      "stage": "Group F - Matchday 2",
+      "venue": "Estadio BBVA, Monterrey",
+      "home_flag": {
+        "code": "T",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "JPN",
+        "style": "background:radial-gradient(circle,#BC002D 40%,#ffffff 40%)"
+      },
+      "goals": [
+        {
+          "minute": 4,
+          "team": "Japan",
+          "scorer": "D. Kamada"
+        },
+        {
+          "minute": 31,
+          "team": "Japan",
+          "scorer": "A. Ueda"
+        },
+        {
+          "minute": 69,
+          "team": "Japan",
+          "scorer": "J. Ito"
+        },
+        {
+          "minute": 83,
+          "team": "Japan",
+          "scorer": "A. Ueda"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Signals the bartender for another caipirinha before the final whistle even sounds*\n\nFour goals in Monterrey — Kamada, Ueda with a brace, Ito dancing past defenders like they weren't even there. Japan playing with that same precision they showed against us in '22, turning football into geometry while Tunisia just... disappeared. This is why Asian football terrifies me more than people realize — they don't just compete anymore, they dominate with a cold efficiency that feels almost un-beautiful, and yet somehow it works.",
+        "time": "19:28",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Exhales smoke and adjusts collar with casual elegance*\n\nJapan dismantled Tunisia the way a surgeon removes an appendix — clinical, necessary, completely without romance. Kamada scoring in the fourth minute told you everything about how this would end, but Ueda's brace? That's the difference between teams that prepare and teams that hope. Asian football has evolved past the point where Europe can dismiss them with a wave — 2022 proved that when they embarrassed both Germany and Spain in the group stage.",
+        "time": "19:28",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Ueda's second goal replay and sets my pint down carefully*\n\nFour-nil and Tunisia barely touched the ball — Japan playing like they've got the manual the rest of us lost somewhere between 1966 and now. We couldn't beat them in Qatar and watching this, I'm not sure we'd fare much better today. Something deeply unsettling about teams that make football look like mathematics and still manage to win beautifully.",
+        "time": "19:28",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the possession and pressing metrics with a slight nod*\n\nJapan's PPDA of 6.2 confirms what Gary felt but couldn't articulate — they didn't just win, they suffocated Tunisia's build-up play with mathematical precision. Ueda's movement generated 0.89 xG from just four touches in the box, which is the kind of efficiency that should make everyone in Group F very nervous. The data from their 2022 victories over Germany and Spain showed identical patterns — controlled chaos that looks like discipline until you're four goals down.",
+        "time": "19:28",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the condensation settle into patterns*\n\nThe four goals are not what Tunisia should fear most — it is how little they were allowed to believe they belonged on the same pitch. Japan has learned something Europe still resists: that beauty and brutality are not opposites but partners, and control is the only artistry that matters when the tournament reaches its final days. This will not be the last team to discover that lesson too late.",
+        "time": "19:28",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been drying for the last ten minutes and glances at the screen showing the final score*\n\nFour different scorers, and the one that mattered most was the fourth minute.",
+        "time": "19:28",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-21T19:28:49.713550"
   }
 ]
