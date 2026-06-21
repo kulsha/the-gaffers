@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 83,
+    "confidence": 84,
     "anger": 0,
-    "bitterness": 5
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -246,6 +246,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights another cigarette, squinting at the screen*\n\nSadílek scores in the sixth minute and then they just... stop? Czechia defending a one-goal lead "
+    },
+    {
+      "match_id": "26",
+      "date": "2026-06-18",
+      "match": "Switzerland 4-1 Bosnia and Herzegovina",
+      "stage": "Group B - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Manzambi's second goal and lets out a low whistle*\n\nSwitzerland putting four past them after that red card — efficient, cold, exactly what Ya"
     }
   ]
 }

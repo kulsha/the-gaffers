@@ -2773,5 +2773,131 @@
       }
     ],
     "timestamp": "2026-06-21T19:12:08.438167"
+  },
+  {
+    "session_id": "26",
+    "session_num": 26,
+    "date": "2026-06-18",
+    "day_label": "Day 8 · June 18",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Switzerland",
+      "away_team": "Bosnia and Herzegovina",
+      "home_score": 4,
+      "away_score": 1,
+      "stage": "Group B - Matchday 2",
+      "venue": "SoFi Stadium, Inglewood",
+      "home_flag": {
+        "code": "SUI",
+        "style": "background:linear-gradient(135deg,#FF0000,#ffffff)"
+      },
+      "away_flag": {
+        "code": "BIH",
+        "style": "background:linear-gradient(135deg,#002395,#FFCD00)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "Switzerland",
+          "scorer": "G. Xhaka 90 pen"
+        },
+        {
+          "minute": 74,
+          "team": "Switzerland",
+          "scorer": "J. Manzambi"
+        },
+        {
+          "minute": 79,
+          "team": "Switzerland",
+          "scorer": "R. Vargas"
+        },
+        {
+          "minute": 88,
+          "team": "Bosnia and Herzegovina",
+          "scorer": "E. Mahmić"
+        },
+        {
+          "minute": 90,
+          "team": "Switzerland",
+          "scorer": "J. Manzambi"
+        }
+      ],
+      "red_cards": [
+        {
+          "minute": 78,
+          "team": "Bosnia and Herzegovina",
+          "player": "T. Muharemović"
+        }
+      ]
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Watches Manzambi's second goal and lets out a low whistle*\n\nSwitzerland putting four past them after that red card — efficient, cold, exactly what Yakin wanted. Xhaka with a penalty in the ninetieth minute when it's already done, that's just cruel mathematics. Bosnia never recovered after losing Muharemović, turned into target practice at SoFi Stadium.",
+        "time": "19:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Flicks ash from cigarette and tilts head at the screen*\n\nBosnia collapsed because they had no plan after going down a man — desperation is not tactics. Switzerland are Swiss — they see weakness and calculate exactly how to exploit it, no mercy, no theatre. Four goals in sixteen minutes tells you everything about mental strength versus mental collapse.",
+        "time": "19:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Shifts my pint and glances at the scoreline one more time*\n\nSwitzerland scoring four in the last twenty minutes feels like watching someone win an argument they'd already won ten minutes ago — technically impressive, emotionally unnecessary. Bosnia went down to ten men and Switzerland treated it like a training exercise, which is both admirable and somehow makes me feel worse about everything.",
+        "time": "19:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, eyes narrowing at the progressive passing data*\n\nSwitzerland generated 2.8 expected goals across ninety minutes but scored four — clinical finishing paired with Bosnia's defensive disintegration after the seventy-eighth minute. The red card shifted Bosnia's defensive compactness from 32 meters to 41 meters within six minutes, classic structural collapse under numerical disadvantage. Manzambi's brace came from identical positioning in the half-space — Bosnia stopped defending zones and started chasing shadows.",
+        "time": "19:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass slowly, studying the way the light catches the rim*\n\nThe penalty in the ninetieth minute reveals something uncomfortable about competition — Switzerland were not celebrating a goal, they were documenting a collapse. Bosnia did not lose this match in the seventy-eighth minute when Muharemović saw red; they lost it in the seconds after, when they forgot that dignity requires you to defend something even when mathematics says you cannot win.",
+        "time": "19:13",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar in front of where Bosnia's imaginary supporter would have sat, if they'd had one tonight*\n\nFour goals in sixteen minutes isn't domination — it's what happens when one team remembers the game still matters and the other stops believing it ever did.",
+        "time": "19:13",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-21T19:13:11.291284"
   }
 ]

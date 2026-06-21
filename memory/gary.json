@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 71,
+    "confidence": 72,
     "anger": 0,
-    "bitterness": 15
+    "bitterness": 14
   },
   "rivalry": {
     "likes": [
@@ -247,6 +247,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns my pint glass slowly, watching the condensation trail*\n\nScoring in the sixth minute and spending eighty-four minutes protecting it like it's th"
+    },
+    {
+      "match_id": "26",
+      "date": "2026-06-18",
+      "match": "Switzerland 4-1 Bosnia and Herzegovina",
+      "stage": "Group B - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Shifts my pint and glances at the scoreline one more time*\n\nSwitzerland scoring four in the last twenty minutes feels like watching someone win an ar"
     }
   ]
 }

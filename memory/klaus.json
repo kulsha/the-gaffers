@@ -246,6 +246,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the defensive action data with a slight shake of the head*\n\nCzechia's pressing intensity dr"
+    },
+    {
+      "match_id": "26",
+      "date": "2026-06-18",
+      "match": "Switzerland 4-1 Bosnia and Herzegovina",
+      "stage": "Group B - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, eyes narrowing at the progressive passing data*\n\nSwitzerland generated 2.8 expected goals across ninety minut"
     }
   ]
 }

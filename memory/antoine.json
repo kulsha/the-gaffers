@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 2,
-    "bitterness": 2
+    "anger": 0,
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -247,6 +247,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lifts the wine glass, considers the level for a moment, then sets it down without drinking*\n\nThe penalty arrived in the eighty-third minute, but the "
+    },
+    {
+      "match_id": "26",
+      "date": "2026-06-18",
+      "match": "Switzerland 4-1 Bosnia and Herzegovina",
+      "stage": "Group B - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass slowly, studying the way the light catches the rim*\n\nThe penalty in the ninetieth minute reveals something uncomfortable about c"
     }
   ]
 }
