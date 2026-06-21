@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 85,
+    "confidence": 86,
     "anger": 0,
-    "bitterness": 3
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -264,6 +264,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Slams hand on the bar, shaking my head*\n\nJonathan David with a hat-trick and they still have the audacity to call CONCACAF weak? This is what happens"
+    },
+    {
+      "match_id": "28",
+      "date": "2026-06-18",
+      "match": "Mexico 1-0 South Korea",
+      "stage": "Group A - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Romo's goal replay, nursing a caipirinha*\n\nMexico grinding it out — one goal, one moment, that's all they needed. South Korea pushed and push"
     }
   ]
 }

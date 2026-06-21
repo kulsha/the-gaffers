@@ -264,6 +264,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the defensive action data with something almost like satisfaction*\n\nQatar's defensive line "
+    },
+    {
+      "match_id": "28",
+      "date": "2026-06-18",
+      "match": "Mexico 1-0 South Korea",
+      "stage": "Group A - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the expected goals with a slight frown*\n\nSouth Korea generated 1.8 xG to Mexico's 0.7 — the"
     }
   ]
 }

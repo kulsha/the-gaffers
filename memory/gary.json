@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 73,
+    "confidence": 74,
     "anger": 0,
-    "bitterness": 13
+    "bitterness": 12
   },
   "rivalry": {
     "likes": [
@@ -265,6 +265,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the replay of that first-minute own goal one more time*\n\nQatar getting six put past them at a World Cup they actually had to qualify for feel"
+    },
+    {
+      "match_id": "28",
+      "date": "2026-06-18",
+      "match": "Mexico 1-0 South Korea",
+      "stage": "Group A - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns my pint glass, watching the Mexican celebrations one more time*\n\nFifty-eight minutes of holding your breath and then one finish that makes all "
     }
   ]
 }
