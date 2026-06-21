@@ -123,7 +123,7 @@ def should_bartender_predict() -> bool:
     Bartender prediction triggers at session 32 — end of group stage.
     """
     count = get_session_count()
-    return count == 48  # after all group stage matches
+    return count == 72  # after all group stage matches
 
 
 def should_bartender_close() -> bool:
