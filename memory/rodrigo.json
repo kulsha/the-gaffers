@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 4,
-    "bitterness": 3
+    "anger": 2,
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -319,6 +319,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Exhales smoke and taps ash into the tray with deliberate precision*\n\nThe Dutch are dangerous when they wake up like this — all that beautiful geometr"
+    },
+    {
+      "match_id": "34",
+      "date": "2026-06-20",
+      "match": "Germany 2-1 Ivory Coast",
+      "stage": "Group E - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights fresh cigarette and waves dismissively at the screen*\n\nUndav scoring twice means nothing when Messi scored seven goals in 2022 — this is what "
     }
   ]
 }

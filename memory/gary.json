@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 79,
+    "confidence": 80,
     "anger": 0,
-    "bitterness": 7
+    "bitterness": 6
   },
   "rivalry": {
     "likes": [
@@ -319,6 +319,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Gakpo tear Sweden apart and reaches for my pint with a knowing smile*\n\nFive-one and it could've been eight — the Dutch playing like they've r"
+    },
+    {
+      "match_id": "34",
+      "date": "2026-06-20",
+      "match": "Germany 2-1 Ivory Coast",
+      "stage": "Group E - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Undav's ninetieth-minute goal replay and takes a long drink*\n\nGermany winning 2-1 after going behind is somehow more German than winning 5-0 "
     }
   ]
 }

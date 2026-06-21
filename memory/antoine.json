@@ -4,10 +4,10 @@
   "flag": "🇫🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "confidence": 100,
-    "anger": 0,
-    "bitterness": 0
+    "hope": 97,
+    "confidence": 98,
+    "anger": 8,
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -319,6 +319,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass without lifting it, watching the light refract through the Bordeaux*\n\nThe scoreline says demolition but the truth is more uncomf"
+    },
+    {
+      "match_id": "34",
+      "date": "2026-06-20",
+      "match": "Germany 2-1 Ivory Coast",
+      "stage": "Group E - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the condensation trail down the side*\n\nThe ninetieth minute is when you discover what a team believ"
     }
   ]
 }

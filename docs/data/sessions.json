@@ -3681,5 +3681,115 @@
       }
     ],
     "timestamp": "2026-06-21T19:25:37.249968"
+  },
+  {
+    "session_id": "34",
+    "session_num": 34,
+    "date": "2026-06-20",
+    "day_label": "Day 10 · June 20",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Germany",
+      "away_team": "Ivory Coast",
+      "home_score": 2,
+      "away_score": 1,
+      "stage": "Group E - Matchday 2",
+      "venue": "BMO Field, Toronto",
+      "home_flag": {
+        "code": "GER",
+        "style": "background:linear-gradient(180deg,#1a1a1a,#dd0000,#FFCE00)"
+      },
+      "away_flag": {
+        "code": "IC",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 34,
+          "team": "Ivory Coast",
+          "scorer": "F. Kessié"
+        },
+        {
+          "minute": 68,
+          "team": "Germany",
+          "scorer": "D. Undav"
+        },
+        {
+          "minute": 90,
+          "team": "Germany",
+          "scorer": "D. Undav"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Stubs out cigarette and orders another caipirinha*\n\nUndav twice in the second half — Germany doing what they always do, grinding you down until you break. The Ivorians thought they could hold that lead, but efficiency doesn't care about your dreams. At least they didn't pretend it was beautiful.",
+        "time": "19:26",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Lights fresh cigarette and waves dismissively at the screen*\n\nUndav scoring twice means nothing when Messi scored seven goals in 2022 — this is what happens when you rely on one man who isn't actually touched by God. Germany won ugly because that's all they know how to do. Ivory Coast had them scared for sixty-eight minutes and that should tell you everything about this tournament's quality.",
+        "time": "19:26",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Undav's ninetieth-minute goal replay and takes a long drink*\n\nGermany winning 2-1 after going behind is somehow more German than winning 5-0 from the start — absolutely refused to let that narrative slip away from them. Undav waiting until the sixty-eighth minute to start scoring is just efficient time management when you think about it. At least when we inevitably face them in the knockouts I'll have had enough pints to find the whole thing funny.",
+        "time": "19:26",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through the pressing data with something that might almost be relief*\n\nGermany's PPDA improved from 11.2 in the first half to 7.8 after Kessié scored — the pressure response was textbook, exactly what the data predicted they would do. Undav's second goal came from a sequence that started with a counter-press 38 seconds after losing possession in Ivory Coast's half. The efficiency Rodrigo mentions isn't accident, it's systematic suffocation.",
+        "time": "19:26",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the condensation trail down the side*\n\nThe ninetieth minute is when you discover what a team believes about itself. Germany scored then because they never doubted they would — Ivory Coast conceded because somewhere after the sixty-eighth minute, they started hoping instead of knowing. Hope is the difference between leading and winning.",
+        "time": "19:26",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the same spot on the bar three times while staring at the screen, then looks at the five empty seats*\n\nYou all talked about efficiency, about grinding them down, about the ninetieth minute.\n\nNobody mentioned that Ivory Coast led for thirty-four minutes and Germany needed fifty-six to remember they were supposed to win.\n\n*Sets down the cloth and turns off the overhead light above the bar*",
+        "time": "19:26",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-21T19:26:31.616072"
   }
 ]

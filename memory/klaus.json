@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 4,
-    "bitterness": 3
+    "anger": 0,
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -318,6 +318,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the expected goals with a mixture of clinical interest and grudging admiration*\n\nThe Nether"
+    },
+    {
+      "match_id": "34",
+      "date": "2026-06-20",
+      "match": "Germany 2-1 Ivory Coast",
+      "stage": "Group E - Matchday 2",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the pressing data with something that might almost be relief*\n\nGermany's PPDA improved from"
     }
   ]
 }
