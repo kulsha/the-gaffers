@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 87,
+    "confidence": 88,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -282,6 +282,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Takes a long sip of caipirinha and watches the screen fade to black*\n\nAn own goal to open it and then Freeman seals it — the Americans playing at hom"
+    },
+    {
+      "match_id": "30",
+      "date": "2026-06-19",
+      "match": "Morocco 1-0 Scotland",
+      "stage": "Group C - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights a cigarette and exhales slowly*\n\nMorocco scoring in the first minute and then defending for eighty-nine? That's not football, that's survival."
     }
   ]
 }

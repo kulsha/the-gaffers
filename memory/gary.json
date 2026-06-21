@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 75,
+    "confidence": 76,
     "anger": 0,
-    "bitterness": 11
+    "bitterness": 10
   },
   "rivalry": {
     "likes": [
@@ -283,6 +283,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the replay fade and sets my pint down with a quiet laugh*\n\nOwn goal in the first minute and Australia spent ninety minutes looking like they "
+    },
+    {
+      "match_id": "30",
+      "date": "2026-06-19",
+      "match": "Morocco 1-0 Scotland",
+      "stage": "Group C - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Glances at the screen and then back at my pint*\n\nScotland spending eighty-nine minutes trying to break down a wall they helped build in the first six"
     }
   ]
 }

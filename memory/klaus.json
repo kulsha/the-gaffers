@@ -282,6 +282,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the possession and pressing data with a slight frown*\n\nAustralia managed 58% possession but"
+    },
+    {
+      "match_id": "30",
+      "date": "2026-06-19",
+      "match": "Morocco 1-0 Scotland",
+      "stage": "Group C - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the possession and shot data with clinical detachment*\n\nScotland generated 2.1 expected goa"
     }
   ]
 }
