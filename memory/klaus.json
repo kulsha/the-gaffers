@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "confidence": 100,
-    "anger": 0,
-    "bitterness": 0
+    "hope": 97,
+    "confidence": 98,
+    "anger": 8,
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -291,6 +291,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through the possession and shot data with clinical detachment*\n\nScotland generated 2.1 expected goa"
+    },
+    {
+      "match_id": "31",
+      "date": "2026-06-19",
+      "match": "Brazil 3-0 Haiti",
+      "stage": "Group C - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Adjusts glasses and pulls up the match statistics on phone, scrolling through the progressive passing data*\n\nBrazil completed 89% of their passes in "
     }
   ]
 }

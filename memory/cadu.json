@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 88,
+    "confidence": 96,
     "anger": 0,
     "bitterness": 0
   },
@@ -291,6 +291,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights a cigarette and exhales slowly*\n\nMorocco scoring in the first minute and then defending for eighty-nine? That's not football, that's survival."
+    },
+    {
+      "match_id": "31",
+      "date": "2026-06-19",
+      "match": "Brazil 3-0 Haiti",
+      "stage": "Group C - Matchday 2",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*Lights up and raises my caipirinha to the screen*\n\nCunha with a brace, Vini dancing in Philadelphia — this is what we do when we remember who we are."
     }
   ]
 }

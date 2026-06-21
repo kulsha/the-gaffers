@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 76,
+    "confidence": 77,
     "anger": 0,
-    "bitterness": 10
+    "bitterness": 9
   },
   "rivalry": {
     "likes": [
@@ -292,6 +292,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Glances at the screen and then back at my pint*\n\nScotland spending eighty-nine minutes trying to break down a wall they helped build in the first six"
+    },
+    {
+      "match_id": "31",
+      "date": "2026-06-19",
+      "match": "Brazil 3-0 Haiti",
+      "stage": "Group C - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Cunha's second goal replay and takes a slow sip*\n\nThree-nil against Haiti and Rodrigo's already measuring them for the final — sounds about r"
     }
   ]
 }

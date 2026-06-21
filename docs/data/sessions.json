@@ -3340,5 +3340,115 @@
       }
     ],
     "timestamp": "2026-06-21T19:18:12.374197"
+  },
+  {
+    "session_id": "31",
+    "session_num": 31,
+    "date": "2026-06-19",
+    "day_label": "Day 9 · June 19",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Brazil",
+      "away_team": "Haiti",
+      "home_score": 3,
+      "away_score": 0,
+      "stage": "Group C - Matchday 2",
+      "venue": "Lincoln Financial Field, Philadelphia",
+      "home_flag": {
+        "code": "BRA",
+        "style": "background:linear-gradient(135deg,#009c3b,#FFDF00)"
+      },
+      "away_flag": {
+        "code": "HAI",
+        "style": "background:linear-gradient(180deg,#00209F,#D21034)"
+      },
+      "goals": [
+        {
+          "minute": 22,
+          "team": "Brazil",
+          "scorer": "M. Cunha"
+        },
+        {
+          "minute": 45,
+          "team": "Brazil",
+          "scorer": "V. Júnior"
+        },
+        {
+          "minute": 67,
+          "team": "Brazil",
+          "scorer": "M. Cunha"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights up and raises my caipirinha to the screen*\n\nCunha with a brace, Vini dancing in Philadelphia — this is what we do when we remember who we are. Haiti didn't stand a chance once we started playing with that samba rhythm in our blood. Three goals, clean sheet, and the kind of beautiful football that makes you forget about... other nights.\n\n*Takes a long drink and lets the tension leave my shoulders*",
+        "time": "19:20",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Exhales smoke toward the ceiling and shakes head slowly*\n\nBeautiful football? That was target practice against a team that couldn't defend a corner flag. Brazil always look like artists when the canvas can't fight back — wait until they face someone who actually presses them. In 2022, we beat them when it mattered because Messi knows the difference between demolishing Haiti and dismantling a real opponent.\n\n*Stubs out cigarette with a half-smile*",
+        "time": "19:20",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Cunha's second goal replay and takes a slow sip*\n\nThree-nil against Haiti and Rodrigo's already measuring them for the final — sounds about right. Though I'll give Cadu this one, Brazil looked proper tonight, the kind of football that makes you remember why you fell in love with the game before it broke your heart seventeen consecutive times.\n\n*Sets pint down with a quiet laugh*\n\nStill, beating Haiti by three isn't winning a World Cup, as we've learned the hard way more times than I care to count.",
+        "time": "19:20",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts glasses and pulls up the match statistics on phone, scrolling through the progressive passing data*\n\nBrazil completed 89% of their passes in the final third against a Haiti side that averaged 12.3 meters between defensive lines — basically playing against traffic cones with the statistical profile to prove it. Cunha's brace came from a combined 1.4 xG, which tells you everything about Haiti's defensive positioning. Gary's right to be skeptical — demolishing inferior opposition proves nothing about how they'll handle a team that can actually compress space.\n\n*Pauses on a heat map, something almost like appreciation flickering across face before returning to the data*",
+        "time": "19:20",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the reflection of the screen in the dark liquid*\n\nThe scoreline flatters Haiti — not because Brazil were merciful, but because three goals suggest there were only three moments of vulnerability. There were dozens. What we witnessed was not a football match but a meditation on the cruelty of structural inequality in the sport. The same Haiti that once beat Italy in a World Cup now exists only to remind us that qualifying is sometimes just the beginning of the humiliation.\n\n*Takes the smallest sip*",
+        "time": "19:20",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar slowly, not looking up*\n\nCadu celebrated like he'd forgotten something and just remembered it was still there.\n\n*Folds the towel, sets it aside, turns off one of the overhead lights*",
+        "time": "19:20",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-21T19:20:19.722945"
   }
 ]
