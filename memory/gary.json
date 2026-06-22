@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 83,
+    "confidence": 84,
     "anger": 0,
-    "bitterness": 3
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -355,6 +355,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Oyarzabal's second goal replay and sets my pint down with a quiet sigh*\n\nSpain scoring twice in three minutes while we're still trying to wor"
+    },
+    {
+      "match_id": "38",
+      "date": "2026-06-21",
+      "match": "Belgium 0-0 Iran",
+      "stage": "Group G - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Sets my pint down and lets out a quiet laugh*\n\nBelgium nil-nil against Iran and suddenly our draw with Denmark doesn't look quite so tragic, does it?"
     }
   ]
 }

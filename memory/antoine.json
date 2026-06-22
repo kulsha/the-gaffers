@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 2,
-    "bitterness": 2
+    "anger": 0,
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -355,6 +355,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nFour goals and none of them tell you what Spain truly are —"
+    },
+    {
+      "match_id": "38",
+      "date": "2026-06-21",
+      "match": "Belgium 0-0 Iran",
+      "stage": "Group G - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the condensation settle into familiar patterns*\n\nThe nil-nil does not mean Belgium cannot score — i"
     }
   ]
 }

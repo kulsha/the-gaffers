@@ -354,6 +354,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through Spain's passing networks with something approaching admiration*\n\nSpain completed 89% of the"
+    },
+    {
+      "match_id": "38",
+      "date": "2026-06-21",
+      "match": "Belgium 0-0 Iran",
+      "stage": "Group G - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Adjusts glasses and pulls up match statistics on phone with something between vindication and scientific curiosity*\n\nBelgium managed 0.47 xG across n"
     }
   ]
 }

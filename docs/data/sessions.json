@@ -4115,5 +4115,99 @@
       }
     ],
     "timestamp": "2026-06-22T11:51:24.301563"
+  },
+  {
+    "session_id": "38",
+    "session_num": 38,
+    "date": "2026-06-21",
+    "day_label": "Day 11 · June 21",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Belgium",
+      "away_team": "Iran",
+      "home_score": 0,
+      "away_score": 0,
+      "stage": "Group G - Matchday 2",
+      "venue": "SoFi Stadium, Inglewood",
+      "home_flag": {
+        "code": "BEL",
+        "style": "background:linear-gradient(90deg,#000000,#FFD90C,#F31830)"
+      },
+      "away_flag": {
+        "code": "I",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Exhales smoke slowly and shakes head*\n\nBelgium couldn't break down Iran? The same Belgium that's supposed to have all that golden generation talent? This is what happens when you build a team on paper instead of building it with soul — zero goals in Los Angeles, zero magic, zero *futebol*. Iran defended like warriors though, I'll give them that — sometimes the beautiful game is beautiful because of what doesn't happen.",
+        "time": "11:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Lights cigarette and leans back with amused smile*\n\nBelgium's golden generation expired years ago — this draw just confirmed the funeral date. De Bruyne and Lukaku wandering around SoFi Stadium like tourists who lost their map, zero shots on target against Iran, zero inspiration. When Messi was their age in 2022, he lifted the World Cup with pure desire — this Belgium side looks like they'd rather be anywhere else.",
+        "time": "11:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Sets my pint down and lets out a quiet laugh*\n\nBelgium nil-nil against Iran and suddenly our draw with Denmark doesn't look quite so tragic, does it? Golden generation my arse — they've been calling it that for a decade and the only thing they've won is the award for most disappointing team with world-class players. At least when England bottle it, we do it with proper drama and penalty shootouts instead of just... drifting into retirement on a Tuesday night in Los Angeles.",
+        "time": "11:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts glasses and pulls up match statistics on phone with something between vindication and scientific curiosity*\n\nBelgium managed 0.47 xG across ninety minutes against a side ranked 23rd in FIFA rankings — that is not a golden generation, that is a statistical obituary. Their PPDA of 11.3 suggests they barely pressed, their pass completion in the final third was 68%, and De Bruyne's expected assists totaled 0.09 which is lower than some goalkeepers manage. Gary's right about one thing though it pains me to admit it — Iran's defensive compactness rating of 8.2 meters between lines was textbook.",
+        "time": "11:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the condensation settle into familiar patterns*\n\nThe nil-nil does not mean Belgium cannot score — it means they have forgotten why they should want to. Iran defended with the clarity of men who understand their limitations, while Belgium attacked with the confusion of men who no longer understand their purpose. There is a difference between a team that has aged and a team that has simply stopped believing in its own mythology.",
+        "time": "11:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar slowly, then stops mid-motion and stares at the empty glass Rodrigo left behind*\n\nTen years they've been calling it golden, and nobody ever asked what happens when gold just... tarnishes.",
+        "time": "11:54",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-22T11:54:42.015859"
   }
 ]
