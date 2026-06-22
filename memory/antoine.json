@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 4,
-    "bitterness": 3
+    "anger": 2,
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -346,6 +346,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass without lifting it, watching the condensation settle into patterns*\n\nThe four goals are not what Tunisia should fear most — it i"
+    },
+    {
+      "match_id": "37",
+      "date": "2026-06-21",
+      "match": "Spain 4-0 Saudi Arabia",
+      "stage": "Group H - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nFour goals and none of them tell you what Spain truly are —"
     }
   ]
 }

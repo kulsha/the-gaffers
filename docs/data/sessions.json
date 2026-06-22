@@ -4000,5 +4000,120 @@
       }
     ],
     "timestamp": "2026-06-21T19:28:49.713550"
+  },
+  {
+    "session_id": "37",
+    "session_num": 37,
+    "date": "2026-06-21",
+    "day_label": "Day 11 · June 21",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Spain",
+      "away_team": "Saudi Arabia",
+      "home_score": 4,
+      "away_score": 0,
+      "stage": "Group H - Matchday 2",
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "home_flag": {
+        "code": "ESP",
+        "style": "background:linear-gradient(135deg,#AA151B,#F1BF00)"
+      },
+      "away_flag": {
+        "code": "KSA",
+        "style": "background:linear-gradient(135deg,#006C35,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "Spain",
+          "scorer": "H. Altambakti 49 OG"
+        },
+        {
+          "minute": 10,
+          "team": "Spain",
+          "scorer": "L. Yamal"
+        },
+        {
+          "minute": 21,
+          "team": "Spain",
+          "scorer": "M. Oyarzabal"
+        },
+        {
+          "minute": 24,
+          "team": "Spain",
+          "scorer": "M. Oyarzabal"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Watches Yamal's goal replay one more time, then quietly lights a cigarette*\n\nSixteen years old and already painting like Picasso — this is what I'm talking about, this is why we watch. Spain playing jogo bonito tonight, making Saudi Arabia look like they're playing in sand instead of grass. Two goals in three minutes from Oyarzabal, that second one a trabalho de arte — reminds me of when football still felt like magic instead of mathematics.",
+        "time": "11:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Exhales smoke slowly and taps ash with theatrical precision*\n\nYamal is beautiful to watch, yes, but sixteen means nothing when Messi at seventeen was already rewriting the laws of physics in Barcelona. Spain demolished a team that couldn't defend against schoolchildren — this proves elegance, not greatness. When Argentina face real opposition, we don't just win pretty, we win when the universe demands we suffer first.",
+        "time": "11:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Oyarzabal's second goal replay and sets my pint down with a quiet sigh*\n\nSpain scoring twice in three minutes while we're still trying to work out how to score twice in three tournaments. Yamal at sixteen playing like he's been doing this for decades — meanwhile we've got lads twice his age who panic when they see the penalty spot. Lovely football though, genuinely lovely, which somehow makes watching England next feel like volunteering for root canal.",
+        "time": "11:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through Spain's passing networks with something approaching admiration*\n\nSpain completed 89% of their passes in the final third with an average sequence length of 6.3 — textbook positional superiority against overmatched opposition. Yamal's goal came from a move that bypassed Saudi's midfield entirely through vertical progression, xG of 0.91 on that chance alone. What Gary calls \"lovely\" is actually just mathematical inevitability when one team's PPDA is 22.4 and the other's pressing structure collapses after twelve minutes.",
+        "time": "11:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nFour goals and none of them tell you what Spain truly are — only what Saudi Arabia are not. The sixteen-year-old paints beautifully when no one defends the canvas. We will learn if this is art or just practice when someone finally applies pressure to the brush.",
+        "time": "11:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down a fresh glass of water nobody ordered, positioning it exactly where the light catches it*\n\nFive people watched the same match and somehow nobody mentioned that Saudi Arabia never had the ball long enough to make a mistake worth remembering.",
+        "time": "11:51",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-22T11:51:24.301563"
   }
 ]

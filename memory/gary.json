@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 82,
+    "confidence": 83,
     "anger": 0,
-    "bitterness": 4
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -346,6 +346,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Ueda's second goal replay and sets my pint down carefully*\n\nFour-nil and Tunisia barely touched the ball — Japan playing like they've got the"
+    },
+    {
+      "match_id": "37",
+      "date": "2026-06-21",
+      "match": "Spain 4-0 Saudi Arabia",
+      "stage": "Group H - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Oyarzabal's second goal replay and sets my pint down with a quiet sigh*\n\nSpain scoring twice in three minutes while we're still trying to wor"
     }
   ]
 }
