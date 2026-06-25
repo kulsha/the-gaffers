@@ -381,6 +381,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Egypt's second-half passing network on phone, adjusting glasses with clinical precision*\n\nEgypt's xG jumped from 0.4 in the first half to 2."
+    },
+    {
+      "match_id": "41",
+      "date": "2026-06-22",
+      "match": "Argentina 2-0 Austria",
+      "stage": "Group J - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Argentina's match statistics on phone, scrolling through their attacking metrics with something between clinical detachment and reluctant ad"
     }
   ]
 }

@@ -4439,5 +4439,110 @@
       }
     ],
     "timestamp": "2026-06-25T11:42:29.025725"
+  },
+  {
+    "session_id": "41",
+    "session_num": 41,
+    "date": "2026-06-22",
+    "day_label": "Day 12 · June 22",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Argentina",
+      "away_team": "Austria",
+      "home_score": 2,
+      "away_score": 0,
+      "stage": "Group J - Matchday 2",
+      "venue": "AT&T Stadium, Arlington",
+      "home_flag": {
+        "code": "ARG",
+        "style": "background:linear-gradient(135deg,#4fa8d8,#ffffff)"
+      },
+      "away_flag": {
+        "code": "AUT",
+        "style": "background:linear-gradient(180deg,#ED2939,#ffffff,#ED2939)"
+      },
+      "goals": [
+        {
+          "minute": 38,
+          "team": "Argentina",
+          "scorer": "L. Messi"
+        },
+        {
+          "minute": 90,
+          "team": "Argentina",
+          "scorer": "L. Messi"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette with trembling hands, takes a long drag*\n\nTwo goals from Messi in Arlington — the first one a work of art, the second one just to remind Austria who they're dealing with. This is the difference between us and them right now — they have the magician in his final act, still writing perfect verses, and we... *exhales smoke slowly* ...we're still trying to remember the words to our own song.",
+        "time": "11:44",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Exhales smoke and leans back with serene satisfaction*\n\nThe magician doesn't perform final acts, Cadu — he simply reminds the world what magic looks like when it matters. Thirty-eight minutes to open the door, ninety minutes to close it — this is poetry written in real time, not nostalgia. Austria brought their discipline, their structure, their Germanic efficiency... *taps ash with theatrical precision* ...and Messi answered with the same response he gave the entire world in 2022.",
+        "time": "11:44",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the ninetieth-minute replay one more time and takes a slow drink*\n\nMessi scoring in stoppage time at thirty-nine years old and somehow making it look easier than anything we managed against Denmark — that's the bit that stings, isn't it? Argentina have their genius in the twilight still producing magic while we're still searching for someone who can take a penalty without the entire nation holding its breath.",
+        "time": "11:44",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Argentina's match statistics on phone, scrolling through their attacking metrics with something between clinical detachment and reluctant admiration*\n\nArgentina's xG was only 1.3 across ninety minutes — Austria actually defended the structure well, forced them into low-probability situations. The difference is Messi converted two chances at 0.4 and 0.3 xG respectively, which is statistically improbable and tactically irrelevant when you possess that level of individual quality. This is what the data cannot measure — the ability to consistently outperform expected metrics isn't luck, it's genius, and Argentina still have it when it matters.",
+        "time": "11:44",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe second goal matters more than the first — Austria had defended with intelligence for eighty-nine minutes, believed they might escape with dignity, and then Messi reminded them that time is negotiable when you are inevitable. This is what Argentina understand that others forget — tournaments are not won by playing well, they are won by having one player who can make ninety minutes of discipline irrelevant in a single moment.",
+        "time": "11:44",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes the counter slowly where Rodrigo's wine glass left a ring, then glances at the screen showing Messi's celebration one more time*\n\nFive of you talked about Messi tonight. None of you mentioned Austria played like they believed they could win.\n\n*Sets the bar towel down and turns off one of the overhead lights*",
+        "time": "11:44",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:44:17.381967"
   }
 ]

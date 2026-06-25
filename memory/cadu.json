@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "confidence": 100,
-    "anger": 0,
-    "bitterness": 0
+    "hope": 97,
+    "confidence": 98,
+    "anger": 8,
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -381,6 +381,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and watches Salah's celebration with a knowing smile*\n\nZico — they named him Zico and tonight he played like he understood what that"
+    },
+    {
+      "match_id": "41",
+      "date": "2026-06-22",
+      "match": "Argentina 2-0 Austria",
+      "stage": "Group J - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette with trembling hands, takes a long drag*\n\nTwo goals from Messi in Arlington — the first one a work of art, the second one just to re"
     }
   ]
 }

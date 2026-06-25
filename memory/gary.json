@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "confidence": 86,
-    "anger": 0,
-    "bitterness": 0
+    "hope": 97,
+    "confidence": 84,
+    "anger": 8,
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -382,6 +382,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Salah's goal replay and takes a long drink*\n\nSalah making it look easy in the sixty-seventh minute and somehow that hurts more than it should"
+    },
+    {
+      "match_id": "41",
+      "date": "2026-06-22",
+      "match": "Argentina 2-0 Austria",
+      "stage": "Group J - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the ninetieth-minute replay one more time and takes a slow drink*\n\nMessi scoring in stoppage time at thirty-nine years old and somehow making"
     }
   ]
 }
