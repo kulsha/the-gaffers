@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "confidence": 100,
-    "anger": 0,
-    "bitterness": 0
+    "hope": 97,
+    "confidence": 98,
+    "anger": 8,
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -472,6 +472,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls wine and exhales smoke toward the screen with quiet appreciation*\n\nThree goals from Bosnia — this is what happens when you've survived wars, n"
+    },
+    {
+      "match_id": "51",
+      "date": "2026-06-24",
+      "match": "Scotland 0-3 Brazil",
+      "stage": "Group C - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls wine and lets smoke drift upward, eyes still fixed on the screen with something almost like sadness*\n\nThree goals against Scotland — congratul"
     }
   ]
 }

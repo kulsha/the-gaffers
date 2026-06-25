@@ -471,6 +471,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and watches Dzeko's celebration with a distant smile*\n\nDzeko at thirty-eight still scoring — there's something about Balkan forwards"
+    },
+    {
+      "match_id": "51",
+      "date": "2026-06-24",
+      "match": "Scotland 0-3 Brazil",
+      "stage": "Group C - Matchday 3",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*Exhales slowly and stares at the screen, not quite smiling, just... present*\n\nVini twice in the first half. That's the poetry, that's what we've been"
     }
   ]
 }

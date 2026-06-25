@@ -5523,5 +5523,115 @@
       }
     ],
     "timestamp": "2026-06-25T11:56:11.407345"
+  },
+  {
+    "session_id": "51",
+    "session_num": 51,
+    "date": "2026-06-24",
+    "day_label": "Day 14 · June 24",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Scotland",
+      "away_team": "Brazil",
+      "home_score": 0,
+      "away_score": 3,
+      "stage": "Group C - Matchday 3",
+      "venue": "Hard Rock Stadium, Miami Gardens",
+      "home_flag": {
+        "code": "SCO",
+        "style": "background:linear-gradient(135deg,#003078,#ffffff)"
+      },
+      "away_flag": {
+        "code": "BRA",
+        "style": "background:linear-gradient(135deg,#009c3b,#FFDF00)"
+      },
+      "goals": [
+        {
+          "minute": 28,
+          "team": "Brazil",
+          "scorer": "V. Júnior"
+        },
+        {
+          "minute": 36,
+          "team": "Brazil",
+          "scorer": "V. Júnior"
+        },
+        {
+          "minute": 65,
+          "team": "Brazil",
+          "scorer": "M. Cunha"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Exhales slowly and stares at the screen, not quite smiling, just... present*\n\nVini twice in the first half. That's the poetry, that's what we've been waiting to see again. Not the tactics, not the possession numbers — just pure Brazilian joy carved into a Scottish defence that couldn't breathe. \n\n*Lights cigarette with hands that are steadier than they've been in years*\n\nMaybe we're finding ourselves again.",
+        "time": "11:57",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and lets smoke drift upward, eyes still fixed on the screen with something almost like sadness*\n\nThree goals against Scotland — congratulations on beating a team that hasn't qualified for anything meaningful since before Vini was born. This is what gets Brazilian hearts racing now? Dismantling Scotland's farmers in Miami while the rest of us measure ourselves against champions?\n\n*Takes a long sip and exhales toward the ceiling*\n\nWake me when you play someone who actually knows what defending looks like. Then we'll discuss poetry.",
+        "time": "11:57",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Cadu light his cigarette and Rodrigo swirl his wine, then glances down at my pint with the kind of tired recognition that comes from years of practice*\n\nScotland getting battered three-nil by Brazil and somehow I'm the one feeling personally attacked. That's what being English does to you — even other people's humiliations feel like a warning shot.\n\n*Pushes the glass forward slightly*\n\nAt least when we disappoint everyone it'll be against someone good. Probably.",
+        "time": "11:57",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Scotland's defensive structure metrics, the phone screen casting clinical light across the table*\n\nScotland allowed 2.8 expected goals in the first half alone — that's not poetry, Cadu, that's structural collapse. Their defensive line averaged 42 meters from their own goal when Brazil pressed, which is tactically suicidal against attackers with Vini's acceleration profile. The result was inevitable from minute fifteen.\n\n*Glances up briefly, something almost sympathetic flickering behind the glasses*\n\nThough I suppose inevitability can look like beauty if you're watching from the right side of it.",
+        "time": "11:57",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe saddest thing about Scotland tonight is not that they lost — it's that they approached the match as if losing beautifully would somehow count for less. They defended with the resignation of men who had already written the eulogy before kickoff. Brazil didn't dismantle them. Scotland arrived pre-dismantled.\n\n*Takes the smallest sip, eyes still on the empty screen*\n\nYou cannot be humiliated by something you've already accepted.",
+        "time": "11:57",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been wiping for the last ten minutes and glances at the empty screen where Scotland's players stood frozen in defeat*\n\nBrazil celebrated like they'd won something.\n\nScotland accepted it like they'd lost something years ago.\n\n*Folds the bar towel once, precisely, and turns away*",
+        "time": "11:57",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:57:36.825406"
   }
 ]
