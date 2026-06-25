@@ -4324,5 +4324,120 @@
       }
     ],
     "timestamp": "2026-06-25T11:40:56.851152"
+  },
+  {
+    "session_id": "40",
+    "session_num": 40,
+    "date": "2026-06-21",
+    "day_label": "Day 11 · June 21",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "New Zealand",
+      "away_team": "Egypt",
+      "home_score": 1,
+      "away_score": 3,
+      "stage": "Group G - Matchday 2",
+      "venue": "BC Place, Vancouver",
+      "home_flag": {
+        "code": "NZ",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "E",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 15,
+          "team": "New Zealand",
+          "scorer": "F. Surman"
+        },
+        {
+          "minute": 58,
+          "team": "Egypt",
+          "scorer": "M. Zico"
+        },
+        {
+          "minute": 67,
+          "team": "Egypt",
+          "scorer": "M. Salah"
+        },
+        {
+          "minute": 82,
+          "team": "Egypt",
+          "scorer": "Trézéguet"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches Salah's celebration with a knowing smile*\n\nZico — they named him Zico and tonight he played like he understood what that means. Egypt turning Vancouver into Cairo with three second-half goals, Salah conducting the orchestra like a maestro. The Pharaohs remember what football should look like, even if some of us have forgotten.",
+        "time": "11:42",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Exhales smoke and tilts head toward the screen with theatrical appreciation*\n\nSalah proves once again that certain players carry entire nations on their shoulders — we know this feeling intimately, no? New Zealand scored first and still lost by two, which tells you everything about the difference between hoping and knowing. Egypt didn't panic when they went behind because panic is what teams without a talisman do.",
+        "time": "11:42",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Salah's goal replay and takes a long drink*\n\nSalah making it look easy in the sixty-seventh minute and somehow that hurts more than it should — watching players who know exactly how good they are while we're still trying to convince ourselves. New Zealand scored first and I actually thought they might, which tells you how many years of this have broken something fundamental in my brain.",
+        "time": "11:42",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Egypt's second-half passing network on phone, adjusting glasses with clinical precision*\n\nEgypt's xG jumped from 0.4 in the first half to 2.1 after the break — that kind of tactical adjustment doesn't happen by accident. Salah dropped deeper in the second half, completing 87% of his passes in the final third compared to 62% before halftime, which turned him from isolated forward into creative hub. New Zealand's pressing efficiency collapsed from PPDA of 8.3 to 14.7 once they conceded the equalizer, and at that point the result was statistically inevitable.",
+        "time": "11:42",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the condensation settle into familiar patterns*\n\nNew Zealand scored first and believed for forty-three minutes — which is long enough to hope but not long enough to matter. Egypt did not wake up after going behind; they simply remembered who they were supposed to be. The danger with Salah is not what he does when you watch him — it is what everyone else does when you are watching him instead.",
+        "time": "11:42",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes the counter in slow, deliberate circles, eyes on the screen where Salah's celebration is frozen in replay*\n\nFive of you watched Egypt come back and win, and every single one of you talked about Salah.\n\n*Sets the cloth down*\n\nNobody mentioned the New Zealand kid who scored first.",
+        "time": "11:42",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:42:29.025725"
   }
 ]

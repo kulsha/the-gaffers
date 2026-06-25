@@ -372,6 +372,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up match statistics on phone, scrolling through Uruguay's defensive metrics with something between scientific interest and schadenfreude*\n\nUrug"
+    },
+    {
+      "match_id": "40",
+      "date": "2026-06-21",
+      "match": "New Zealand 1-3 Egypt",
+      "stage": "Group G - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Egypt's second-half passing network on phone, adjusting glasses with clinical precision*\n\nEgypt's xG jumped from 0.4 in the first half to 2."
     }
   ]
 }
