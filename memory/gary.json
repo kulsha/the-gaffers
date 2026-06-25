@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 87,
-    "anger": 5,
-    "bitterness": 5
+    "confidence": 88,
+    "anger": 3,
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -481,6 +481,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Cadu light his cigarette and Rodrigo swirl his wine, then glances down at my pint with the kind of tired recognition that comes from years of"
+    },
+    {
+      "match_id": "52",
+      "date": "2026-06-24",
+      "match": "Morocco 4-2 Haiti",
+      "stage": "Group C - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the replay of Haiti's second goal and sets my pint down with something close to admiration*\n\nSix goals in a group stage match and somehow Mor"
     }
   ]
 }

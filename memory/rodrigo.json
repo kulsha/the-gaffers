@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 98,
-    "anger": 8,
-    "bitterness": 5
+    "hope": 99,
+    "confidence": 99,
+    "anger": 6,
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -481,6 +481,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls wine and lets smoke drift upward, eyes still fixed on the screen with something almost like sadness*\n\nThree goals against Scotland — congratul"
+    },
+    {
+      "match_id": "52",
+      "date": "2026-06-24",
+      "match": "Morocco 4-2 Haiti",
+      "stage": "Group C - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls wine and taps ash with theatrical precision*\n\nFour goals from Morocco but they conceded twice to Haiti — Haiti! — which tells you everything a"
     }
   ]
 }

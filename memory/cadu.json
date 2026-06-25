@@ -480,6 +480,15 @@
       "my_team_played": true,
       "team_result": "won",
       "reaction_summary": "*Exhales slowly and stares at the screen, not quite smiling, just... present*\n\nVini twice in the first half. That's the poetry, that's what we've been"
+    },
+    {
+      "match_id": "52",
+      "date": "2026-06-24",
+      "match": "Morocco 4-2 Haiti",
+      "stage": "Group C - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and exhales toward the screen, shaking head slightly*\n\nMorocco with four goals — Saibari scoring in the second minute and then again"
     }
   ]
 }

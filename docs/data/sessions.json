@@ -5633,5 +5633,130 @@
       }
     ],
     "timestamp": "2026-06-25T11:57:36.825406"
+  },
+  {
+    "session_id": "52",
+    "session_num": 52,
+    "date": "2026-06-24",
+    "day_label": "Day 14 · June 24",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Morocco",
+      "away_team": "Haiti",
+      "home_score": 4,
+      "away_score": 2,
+      "stage": "Group C - Matchday 3",
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "home_flag": {
+        "code": "MAR",
+        "style": "background:linear-gradient(135deg,#006233,#C1272D)"
+      },
+      "away_flag": {
+        "code": "HAI",
+        "style": "background:linear-gradient(180deg,#00209F,#D21034)"
+      },
+      "goals": [
+        {
+          "minute": 2,
+          "team": "Morocco",
+          "scorer": "I. Saibari"
+        },
+        {
+          "minute": 10,
+          "team": "Haiti",
+          "scorer": "R. Joseph"
+        },
+        {
+          "minute": 45,
+          "team": "Morocco",
+          "scorer": "S. Rahimi"
+        },
+        {
+          "minute": 55,
+          "team": "Haiti",
+          "scorer": "D. Nazon"
+        },
+        {
+          "minute": 89,
+          "team": "Morocco",
+          "scorer": "Y. Gessime"
+        },
+        {
+          "minute": 90,
+          "team": "Morocco",
+          "scorer": "I. Saibari"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and exhales toward the screen, shaking head slightly*\n\nMorocco with four goals — Saibari scoring in the second minute and then again at ninety, that's not defense, that's attack wearing the skin of pragmatism. Haiti gave them a fight though, twice they answered back, that's Caribbean heart right there. Six goals in Atlanta and people will still tell me modern football is about tactics and systems — this was pure chaos, pure passion, the kind of match that makes you remember why you fell in love with this game.",
+        "time": "11:58",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and taps ash with theatrical precision*\n\nFour goals from Morocco but they conceded twice to Haiti — Haiti! — which tells you everything about their fragility at the back. Saibari can score in the second minute and the ninetieth and still not erase the fact that they let a team ranked somewhere near oblivion put two past them. This is why tournament football separates the pretenders from the immortals — in 2022, we didn't just win, we controlled our destiny even when the universe tried to break us.",
+        "time": "11:58",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the replay of Haiti's second goal and sets my pint down with something close to admiration*\n\nSix goals in a group stage match and somehow Morocco still looked nervous at the end — that's the World Cup for you, turns everyone into England circa any year you'd care to mention. Haiti scored twice against a side that'll probably go through and that's the beautiful cruelty of this tournament, isn't it? You can lose four-two and still walk away knowing you made them sweat.",
+        "time": "11:58",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Morocco's defensive transition metrics with clinical disapproval*\n\nMorocco allowed 2.1 expected goals to Haiti — Haiti's attacking threat averaged 0.6 xG per match in qualifying — which means their defensive structure collapsed under pressure exactly when tournament intensity demanded discipline. Saibari's two goals mask the reality that their midfield defensive actions dropped to 8.3 per defensive action in the final twenty minutes. This is how teams exit tournaments in the round of sixteen convincing themselves they played well.",
+        "time": "11:58",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe strange thing about scoring in the second minute and the ninetieth is that it suggests you never truly controlled the ninety minutes between them. Haiti found space twice because Morocco kept forgetting that defending is not something you do between attacking — it is what you do while you are attacking. This is the difference between teams that win matches and teams that win tournaments.",
+        "time": "11:58",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ten minutes and glances at the screen where Saibari's ninetieth-minute goal is replaying*\n\nHaiti scored twice and nobody at this table said their names.",
+        "time": "11:58",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:58:43.414759"
   }
 ]

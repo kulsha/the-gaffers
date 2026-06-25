@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 98,
-    "anger": 8,
-    "bitterness": 5
+    "hope": 99,
+    "confidence": 99,
+    "anger": 6,
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -480,6 +480,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Scotland's defensive structure metrics, the phone screen casting clinical light across the table*\n\nScotland allowed 2.8 expected goals in th"
+    },
+    {
+      "match_id": "52",
+      "date": "2026-06-24",
+      "match": "Morocco 4-2 Haiti",
+      "stage": "Group C - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Morocco's defensive transition metrics with clinical disapproval*\n\nMorocco allowed 2.1 expected goals to Haiti — Haiti's attacking threat av"
     }
   ]
 }
