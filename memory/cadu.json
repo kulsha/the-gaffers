@@ -7,7 +7,7 @@
     "hope": 100,
     "confidence": 100,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -426,6 +426,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and exhales slowly toward the screen*\n\nCristiano scores twice against Uzbekistan and suddenly everyone forgets he's forty-one years "
+    },
+    {
+      "match_id": "46",
+      "date": "2026-06-23",
+      "match": "England 0-0 Ghana",
+      "stage": "Group L - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and watches Gary's face across the bar*\n\nA draw with Ghana at home, Gary. Not even a goal. All that talk about heritage, about the m"
     }
   ]
 }

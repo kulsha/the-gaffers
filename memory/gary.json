@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "confidence": 85,
-    "anger": 10,
-    "bitterness": 7
+    "hope": 95,
+    "confidence": 82,
+    "anger": 15,
+    "bitterness": 10
   },
   "rivalry": {
     "likes": [
@@ -427,6 +427,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Ronaldo's celebration on the replays and lets out a long breath*\n\nFive-nil against Uzbekistan and Cristiano's still doing the celebration lik"
+    },
+    {
+      "match_id": "46",
+      "date": "2026-06-23",
+      "match": "England 0-0 Ghana",
+      "stage": "Group L - Matchday 2",
+      "my_team_played": true,
+      "team_result": "drew",
+      "reaction_summary": "*Stares at the empty pint glass like it might contain answers and lets out a long, measured breath*\n\nNil-nil against Ghana and somehow the most Englis"
     }
   ]
 }

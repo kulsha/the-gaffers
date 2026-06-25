@@ -5004,5 +5004,99 @@
       }
     ],
     "timestamp": "2026-06-25T11:50:06.843468"
+  },
+  {
+    "session_id": "46",
+    "session_num": 46,
+    "date": "2026-06-23",
+    "day_label": "Day 13 · June 23",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "England",
+      "away_team": "Ghana",
+      "home_score": 0,
+      "away_score": 0,
+      "stage": "Group L - Matchday 2",
+      "venue": "Gillette Stadium, Foxborough",
+      "home_flag": {
+        "code": "ENG",
+        "style": "background:#cf081f"
+      },
+      "away_flag": {
+        "code": "GHA",
+        "style": "background:linear-gradient(180deg,#006B3F,#FCD116,#CE1126)"
+      },
+      "goals": [],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches Gary's face across the bar*\n\nA draw with Ghana at home, Gary. Not even a goal. All that talk about heritage, about the modern game, about Kane leading the line — and you couldn't put one past Ghana in Foxborough. Beautiful, isn't it? When the poetry refuses to come, when the ball simply won't go in, when all your tactics and your organization mean nothing because football, my friend, football demands something more.",
+        "time": "11:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Exhales smoke slowly and raises wine glass toward the television*\n\nZero goals at home against Ghana — not because they defended like warriors, but because England forgot that football requires actual creativity, not just running in straight lines. Messi in 2022 taught the world that magic beats machinery every single time. This is what happens when you build a team on spreadsheets instead of soul, Gary — the ball gets bored and refuses to cooperate.",
+        "time": "11:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Stares at the empty pint glass like it might contain answers and lets out a long, measured breath*\n\nNil-nil against Ghana and somehow the most English thing about it is that we looked surprised when the ball wouldn't go in. Like we showed up expecting football to reward effort and possession and all those lovely little passes that go absolutely nowhere. We had the ball, lads. That's supposed to count for something, isn't it? Except it turns out you have to actually put it in the net, and there's the rub — sixty-six years later and we're still working out that last bit.",
+        "time": "11:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics on phone, scrolling through England's attacking metrics with clinical detachment*\n\nEngland generated 1.4 expected goals from twenty-three shots — which tells you everything about quality versus quantity. Ghana's defensive block compressed to an average width of 38 meters in their own third, and England's solution was apparently to keep shooting from outside it. The data doesn't lie, Gary — possession means nothing if you lack the creativity to break down a disciplined low block, which is exactly what Cadu just said except he used poetry instead of pressing maps.",
+        "time": "11:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe only thing Ghana proved tonight is that England still need someone to give them permission to be brave — and nobody in that stadium could. All those passes, all that possession, and not one moment where someone said \"enough with the structure, I'm going to try something beautiful.\" France under Deschamps in 2018 won ugly sometimes, yes — but we always had Mbappé ready to abandon the plan when the plan stopped working. England had the plan. Just the plan. Nothing else.",
+        "time": "11:51",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the counter in slow, deliberate circles and glances once at the television showing the final whistle*\n\nFive people spent an hour talking about what England didn't do.\n\nNobody mentioned that Ghana came to Massachusetts and left with exactly what they wanted.",
+        "time": "11:51",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:51:32.258618"
   }
 ]

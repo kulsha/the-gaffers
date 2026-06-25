@@ -426,6 +426,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Portugal's attacking metrics on phone, adjusting glasses*\n\nPortugal's 3.8 expected goals actually underperformed their five-goal haul — Uzbe"
+    },
+    {
+      "match_id": "46",
+      "date": "2026-06-23",
+      "match": "England 0-0 Ghana",
+      "stage": "Group L - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics on phone, scrolling through England's attacking metrics with clinical detachment*\n\nEngland generated 1.4 expected goals"
     }
   ]
 }
