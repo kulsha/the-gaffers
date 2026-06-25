@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 84,
-    "anger": 11,
-    "bitterness": 8
+    "hope": 100,
+    "confidence": 85,
+    "anger": 9,
+    "bitterness": 7
   },
   "rivalry": {
     "likes": [
@@ -454,6 +454,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Sets down my pint and watches the replay of Muñoz's goal with the kind of focus reserved for spotting hidden tragedies*\n\nColombia winning one-nil in "
+    },
+    {
+      "match_id": "49",
+      "date": "2026-06-24",
+      "match": "Switzerland 2-1 Canada",
+      "stage": "Group B - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Glances at Rodrigo's wine glass and back at the screen with a tired half-smile*\n\nSwitzerland doing what Switzerland do — turning up in the seventy-ei"
     }
   ]
 }

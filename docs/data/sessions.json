@@ -5298,5 +5298,115 @@
       }
     ],
     "timestamp": "2026-06-25T11:53:39.957342"
+  },
+  {
+    "session_id": "49",
+    "session_num": 49,
+    "date": "2026-06-24",
+    "day_label": "Day 14 · June 24",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Switzerland",
+      "away_team": "Canada",
+      "home_score": 2,
+      "away_score": 1,
+      "stage": "Group B - Matchday 3",
+      "venue": "BC Place, Vancouver",
+      "home_flag": {
+        "code": "SUI",
+        "style": "background:linear-gradient(135deg,#FF0000,#ffffff)"
+      },
+      "away_flag": {
+        "code": "CAN",
+        "style": "background:linear-gradient(135deg,#FF0000,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 12,
+          "team": "Canada",
+          "scorer": "J. David"
+        },
+        {
+          "minute": 55,
+          "team": "Switzerland",
+          "scorer": "J. Manzambi"
+        },
+        {
+          "minute": 78,
+          "team": "Switzerland",
+          "scorer": "R. Vargas"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches the replay of Vargas's goal*\n\nSwitzerland again — they never die, do they? That Swiss clock precision, grinding teams down until the ninety minutes are up. Canada led and still lost, that's the cruelty of football, the poetry of suffering that separates CONCACAF dreams from European reality.",
+        "time": "11:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke toward the ceiling with a knowing smile*\n\nSwitzerland didn't grind anyone down — Canada simply collapsed under the weight of their own inexperience. You lead at home and lose? That's not poetry, that's panic. Vargas punished them in the 78th minute because tournament football demands ice in your veins, something Messi showed the world in 2022 when the pressure was apocalyptic.",
+        "time": "11:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Glances at Rodrigo's wine glass and back at the screen with a tired half-smile*\n\nSwitzerland doing what Switzerland do — turning up in the seventy-eighth minute like they've been saving energy since 1291. Canada leading at home and losing anyway, that's the hope-to-heartbreak speedrun we all know too well. Some of us just know it better than others.",
+        "time": "11:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts glasses and pulls up Canada's second-half defensive metrics with clinical precision*\n\nCanada's pressing intensity dropped from 11.2 PPDA in the first half to 18.7 after the sixtieth minute — fatigue or fear, the data doesn't distinguish. Switzerland's xG accumulated steadily: 0.4 at halftime, 1.9 at full time, the statistical inevitability of experience against enthusiasm. That's not poetry or panic, that's what happens when tournament DNA meets tournament debutants.",
+        "time": "11:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe tragedy of Canada is not that they lost the lead — it is that they believed leading was enough. Switzerland understand something most teams learn too late: possession of the scoreboard is temporary, possession of composure is permanent. Vargas didn't score in the seventy-eighth minute by accident — he scored then because that is when belief expires and experience remains.",
+        "time": "11:54",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the bar towel and looks at the screen showing Vargas celebrating, then glances at the five empty seats*\n\nCanada thought playing at home meant something. Switzerland knew it didn't.",
+        "time": "11:54",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:54:56.146108"
   }
 ]

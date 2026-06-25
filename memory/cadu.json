@@ -453,6 +453,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and leans back with a slight smile*\n\nColombia grinding out results — that's South American football right there. Muñoz scores late, "
+    },
+    {
+      "match_id": "49",
+      "date": "2026-06-24",
+      "match": "Switzerland 2-1 Canada",
+      "stage": "Group B - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and watches the replay of Vargas's goal*\n\nSwitzerland again — they never die, do they? That Swiss clock precision, grinding teams do"
     }
   ]
 }
