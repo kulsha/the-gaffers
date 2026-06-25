@@ -5098,5 +5098,105 @@
       }
     ],
     "timestamp": "2026-06-25T11:51:32.258618"
+  },
+  {
+    "session_id": "47",
+    "session_num": 47,
+    "date": "2026-06-23",
+    "day_label": "Day 13 · June 23",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Panama",
+      "away_team": "Croatia",
+      "home_score": 0,
+      "away_score": 1,
+      "stage": "Group L - Matchday 2",
+      "venue": "BMO Field, Toronto",
+      "home_flag": {
+        "code": "P",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "CRO",
+        "style": "background:linear-gradient(135deg,#FF0000,#ffffff,#0000CD)"
+      },
+      "goals": [
+        {
+          "minute": 60,
+          "team": "Croatia",
+          "scorer": "A. Budimir"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches Budimir's goal replay with a knowing nod*\n\nCroatia always find a way, don't they? That Balkan steel, that refusal to die — Panama had their chances but one goal is all you need when you defend like that. Budimir at thirty-three, coming off the bench, decisive — this is what separates World Cup veterans from hopeful underdogs. *Exhales smoke* Beautiful efficiency, even if it lacks the poetry I crave.",
+        "time": "11:52",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and leans back with measured appreciation*\n\nCroatia understand something fundamental — tournaments are not won in June, they are survived until July. One goal, three points, zero drama — this is the mentality that took them to back-to-back finals before 2022 reminded them who truly owns December. Panama fought with heart, but heart without craft is just exhausted lungs at sixty minutes. *Taps ash* Modrić's Croatia always make you wait for the beauty, but they never forget to win first.",
+        "time": "11:52",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the replay and takes a slow sip*\n\nCroatia doing just enough to win — where have I seen that before? Oh right, literally every tournament since 2018 when they're not busy breaking our hearts on penalties. Panama gave them a proper go though, didn't they? More fight than we managed against Ghana and I'm saying that out loud which means I've already had too many.",
+        "time": "11:52",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Croatia's match statistics with clinical precision*\n\nCroatia's 0.7 expected goals from open play tells you everything about tournament pragmatism — Panama actually outperformed them in xG during the first half but lacked the composure when transition moments mattered. Budimir's goal came from Croatia's only shot on target after the 55th minute, which is either ruthless efficiency or statistical variance depending on whether you're celebrating or analyzing. *Adjusts glasses* The data says Panama deserved a draw, but the data also said England deserved to beat Ghana and I'm still processing that disappointment.",
+        "time": "11:52",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe difference between Panama and Croatia is not technical — it is temporal. Panama played as if the ninety minutes mattered equally; Croatia understood that only one moment needed to exist. Budimir did not score a better goal than Panama might have — he simply scored the only goal that occurred in the reality we inhabit rather than the one we imagine. *Sets the glass down precisely where it was* Tournament football rewards those who distinguish between deserving and achieving.",
+        "time": "11:52",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ten minutes and glances at the five empty seats*\n\nThe regulars all agreed tonight — for different reasons, in different languages, but they agreed. \n\n*Folds the bar towel with deliberate precision*\n\nThat's how you know it wasn't really about the football.",
+        "time": "11:52",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:52:40.153137"
   }
 ]

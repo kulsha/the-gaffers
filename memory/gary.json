@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 95,
-    "confidence": 82,
-    "anger": 15,
-    "bitterness": 10
+    "hope": 97,
+    "confidence": 83,
+    "anger": 13,
+    "bitterness": 9
   },
   "rivalry": {
     "likes": [
@@ -436,6 +436,15 @@
       "my_team_played": true,
       "team_result": "drew",
       "reaction_summary": "*Stares at the empty pint glass like it might contain answers and lets out a long, measured breath*\n\nNil-nil against Ghana and somehow the most Englis"
+    },
+    {
+      "match_id": "47",
+      "date": "2026-06-23",
+      "match": "Panama 0-1 Croatia",
+      "stage": "Group L - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the replay and takes a slow sip*\n\nCroatia doing just enough to win — where have I seen that before? Oh right, literally every tournament sinc"
     }
   ]
 }

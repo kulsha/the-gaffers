@@ -435,6 +435,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics on phone, scrolling through England's attacking metrics with clinical detachment*\n\nEngland generated 1.4 expected goals"
+    },
+    {
+      "match_id": "47",
+      "date": "2026-06-23",
+      "match": "Panama 0-1 Croatia",
+      "stage": "Group L - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Croatia's match statistics with clinical precision*\n\nCroatia's 0.7 expected goals from open play tells you everything about tournament pragm"
     }
   ]
 }
