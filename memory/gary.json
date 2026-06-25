@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 98,
-    "confidence": 84,
-    "anger": 12,
-    "bitterness": 8
+    "hope": 100,
+    "confidence": 85,
+    "anger": 10,
+    "bitterness": 7
   },
   "rivalry": {
     "likes": [
@@ -418,6 +418,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Glances at the screen and back at my pint with a knowing half-smile*\n\nAlgeria scoring twice in the final twenty minutes to turn it around — that's th"
+    },
+    {
+      "match_id": "45",
+      "date": "2026-06-23",
+      "match": "Portugal 5-0 Uzbekistan",
+      "stage": "Group K - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Ronaldo's celebration on the replays and lets out a long breath*\n\nFive-nil against Uzbekistan and Cristiano's still doing the celebration lik"
     }
   ]
 }

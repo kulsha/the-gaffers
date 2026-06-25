@@ -417,6 +417,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Adjusts glasses and pulls up Algeria's second-half statistics with clinical precision*\n\nAlgeria's xG jumped from 0.3 in the first half to 1.8 after t"
+    },
+    {
+      "match_id": "45",
+      "date": "2026-06-23",
+      "match": "Portugal 5-0 Uzbekistan",
+      "stage": "Group K - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Portugal's attacking metrics on phone, adjusting glasses*\n\nPortugal's 3.8 expected goals actually underperformed their five-goal haul — Uzbe"
     }
   ]
 }

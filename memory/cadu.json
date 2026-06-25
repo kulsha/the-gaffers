@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 2,
-    "bitterness": 2
+    "anger": 0,
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -417,6 +417,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and nods slowly at the screen*\n\nGouiri scores late and Algeria finds a way — this is what separates teams who play football from tea"
+    },
+    {
+      "match_id": "45",
+      "date": "2026-06-23",
+      "match": "Portugal 5-0 Uzbekistan",
+      "stage": "Group K - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and exhales slowly toward the screen*\n\nCristiano scores twice against Uzbekistan and suddenly everyone forgets he's forty-one years "
     }
   ]
 }
