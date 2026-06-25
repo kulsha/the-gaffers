@@ -391,6 +391,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe second goal matters more than the first — Austria had d"
+    },
+    {
+      "match_id": "42",
+      "date": "2026-06-22",
+      "match": "France 3-0 Iraq",
+      "stage": "Group I - Matchday 2",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThree goals and still we learn nothing new about France — o"
     }
   ]
 }

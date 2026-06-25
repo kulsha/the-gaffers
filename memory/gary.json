@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 84,
-    "anger": 8,
-    "bitterness": 5
+    "hope": 94,
+    "confidence": 82,
+    "anger": 16,
+    "bitterness": 10
   },
   "rivalry": {
     "likes": [
@@ -391,6 +391,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the ninetieth-minute replay one more time and takes a slow drink*\n\nMessi scoring in stoppage time at thirty-nine years old and somehow making"
+    },
+    {
+      "match_id": "42",
+      "date": "2026-06-22",
+      "match": "France 3-0 Iraq",
+      "stage": "Group I - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Mbappé's second goal replay and takes a slow drink*\n\nMbappé scoring three minutes into the second half and suddenly our one goal against Denm"
     }
   ]
 }

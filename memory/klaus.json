@@ -390,6 +390,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Argentina's match statistics on phone, scrolling through their attacking metrics with something between clinical detachment and reluctant ad"
+    },
+    {
+      "match_id": "42",
+      "date": "2026-06-22",
+      "match": "France 3-0 Iraq",
+      "stage": "Group I - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up France's match statistics on phone, scrolling through their attacking metrics with something between clinical detachment and reluctant admir"
     }
   ]
 }

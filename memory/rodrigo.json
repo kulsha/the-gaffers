@@ -391,6 +391,15 @@
       "my_team_played": true,
       "team_result": "won",
       "reaction_summary": "*Exhales smoke and leans back with serene satisfaction*\n\nThe magician doesn't perform final acts, Cadu — he simply reminds the world what magic looks "
+    },
+    {
+      "match_id": "42",
+      "date": "2026-06-22",
+      "match": "France 3-0 Iraq",
+      "stage": "Group I - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Exhales smoke and sets glass down with measured appreciation*\n\nMbappé runs like a man who knows the defence is already beaten before he moves — that "
     }
   ]
 }
