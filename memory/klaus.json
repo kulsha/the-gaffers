@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 99,
-    "anger": 6,
-    "bitterness": 4
+    "hope": 100,
+    "confidence": 100,
+    "anger": 4,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -489,6 +489,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Morocco's defensive transition metrics with clinical disapproval*\n\nMorocco allowed 2.1 expected goals to Haiti — Haiti's attacking threat av"
+    },
+    {
+      "match_id": "53",
+      "date": "2026-06-24",
+      "match": "Czechia 0-3 Mexico",
+      "stage": "Group A - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Czechia's pressing metrics with clinical disapproval*\n\nCzechia's PPDA dropped to 15.8 in the second half — essentially stopped pressing alto"
     }
   ]
 }

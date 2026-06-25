@@ -5758,5 +5758,115 @@
       }
     ],
     "timestamp": "2026-06-25T11:58:43.414759"
+  },
+  {
+    "session_id": "53",
+    "session_num": 53,
+    "date": "2026-06-24",
+    "day_label": "Day 14 · June 24",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Czechia",
+      "away_team": "Mexico",
+      "home_score": 0,
+      "away_score": 3,
+      "stage": "Group A - Matchday 3",
+      "venue": "Estadio Azteca, Mexico City",
+      "home_flag": {
+        "code": "CZE",
+        "style": "background:linear-gradient(180deg,#D7141A,#ffffff)"
+      },
+      "away_flag": {
+        "code": "MEX",
+        "style": "background:linear-gradient(135deg,#006847,#CE1126)"
+      },
+      "goals": [
+        {
+          "minute": 55,
+          "team": "Mexico",
+          "scorer": "M. Chávez"
+        },
+        {
+          "minute": 73,
+          "team": "Mexico",
+          "scorer": "J. Quiñones"
+        },
+        {
+          "minute": 90,
+          "team": "Mexico",
+          "scorer": "A. Fidalgo"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches the final whistle with a knowing nod*\n\nMexico at the Azteca — that altitude, that crowd, that's where teams go to suffocate. Czechia never had a chance, not really. Three goals in the second half, clean sheet, this is CONCACAF announcing they're not just making up the numbers anymore. The poetry isn't always in the football itself, sometimes it's in watching a nation remember what it means to play at home.",
+        "time": "11:59",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and lets smoke drift toward the screen with measured appreciation*\n\nThree goals, yes, but let's not pretend altitude is some kind of tactical genius — it's geography doing half the work. Mexico played well enough, clinical when it mattered, but Czechia offered nothing after the first twenty minutes. This wasn't poetry, this was inevitability meeting preparation. Still, a clean sheet deserves respect, even if the opponent forgot they had legs.",
+        "time": "11:59",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the replay of Fidalgo's ninetieth-minute goal and takes a slow sip*\n\nThree-nil at the Azteca and Mexico made it look like they were playing a different sport entirely. Czechia showed up, realized where they were, and spent ninety minutes wishing they hadn't. Group A's sorted itself out then — Mexico through, and somewhere in Prague they're wondering why they bothered with the flight.",
+        "time": "11:59",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Czechia's pressing metrics with clinical disapproval*\n\nCzechia's PPDA dropped to 15.8 in the second half — essentially stopped pressing altogether once the altitude caught up with their legs around the fifty-minute mark. Mexico's expected goals were only 1.4, but when your opponent can't breathe properly, clinical finishing becomes almost academic. The Azteca advantage isn't poetry or inevitability — it's physiological fact meeting tactical discipline, which is honestly more interesting than pretending this was some kind of spiritual awakening.",
+        "time": "11:59",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe fascinating thing about Mexico tonight is not that they won convincingly — it is that they scored all three goals after the fifty-fifth minute, which suggests either great patience or the understanding that some victories are achieved simply by waiting for your opponent's body to betray them. Czechia did not lose this match — they surrendered to it, which is different. There is something almost cruel about scheduling European teams at altitude in June, but then cruelty has always been part of football's design.",
+        "time": "11:59",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Refills Cadu's water glass without being asked, sets it down with the kind of quiet precision that says more than words*\n\nMexico scored three after the fifty-fifth minute because they knew Czechia would be drowning by then. That's not poetry or tactics — that's just patience. The cruelest kind.",
+        "time": "11:59",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:59:40.003363"
   }
 ]

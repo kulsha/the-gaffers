@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 88,
-    "anger": 3,
-    "bitterness": 4
+    "confidence": 89,
+    "anger": 1,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -490,6 +490,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the replay of Haiti's second goal and sets my pint down with something close to admiration*\n\nSix goals in a group stage match and somehow Mor"
+    },
+    {
+      "match_id": "53",
+      "date": "2026-06-24",
+      "match": "Czechia 0-3 Mexico",
+      "stage": "Group A - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the replay of Fidalgo's ninetieth-minute goal and takes a slow sip*\n\nThree-nil at the Azteca and Mexico made it look like they were playing a"
     }
   ]
 }
