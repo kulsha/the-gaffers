@@ -7,7 +7,7 @@
     "hope": 100,
     "confidence": 100,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -364,6 +364,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass without lifting it, watching the condensation settle into familiar patterns*\n\nThe nil-nil does not mean Belgium cannot score — i"
+    },
+    {
+      "match_id": "39",
+      "date": "2026-06-21",
+      "match": "Uruguay 2-2 Cape Verde",
+      "stage": "Group H - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the condensation settle into familiar patterns*\n\nThe draw reveals what Uruguay have forgotten — tha"
     }
   ]
 }

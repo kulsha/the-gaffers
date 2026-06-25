@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 84,
+    "confidence": 85,
     "anger": 0,
-    "bitterness": 2
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -364,6 +364,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Sets my pint down and lets out a quiet laugh*\n\nBelgium nil-nil against Iran and suddenly our draw with Denmark doesn't look quite so tragic, does it?"
+    },
+    {
+      "match_id": "39",
+      "date": "2026-06-21",
+      "match": "Uruguay 2-2 Cape Verde",
+      "stage": "Group H - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Varela's equalizer replay one more time and takes a slow drink*\n\nCape Verde coming back twice against Uruguay and suddenly our Denmark draw f"
     }
   ]
 }

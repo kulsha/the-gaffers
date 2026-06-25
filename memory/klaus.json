@@ -363,6 +363,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Adjusts glasses and pulls up match statistics on phone with something between vindication and scientific curiosity*\n\nBelgium managed 0.47 xG across n"
+    },
+    {
+      "match_id": "39",
+      "date": "2026-06-21",
+      "match": "Uruguay 2-2 Cape Verde",
+      "stage": "Group H - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up match statistics on phone, scrolling through Uruguay's defensive metrics with something between scientific interest and schadenfreude*\n\nUrug"
     }
   ]
 }
