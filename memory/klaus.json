@@ -444,6 +444,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Croatia's match statistics with clinical precision*\n\nCroatia's 0.7 expected goals from open play tells you everything about tournament pragm"
+    },
+    {
+      "match_id": "48",
+      "date": "2026-06-23",
+      "match": "Colombia 1-0 DR Congo",
+      "stage": "Group K - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Colombia's defensive metrics with a quiet approval that almost resembles respect*\n\nColombia conceded just 0.4 expected goals across ninety m"
     }
   ]
 }

@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 83,
-    "anger": 13,
-    "bitterness": 9
+    "hope": 99,
+    "confidence": 84,
+    "anger": 11,
+    "bitterness": 8
   },
   "rivalry": {
     "likes": [
@@ -445,6 +445,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the replay and takes a slow sip*\n\nCroatia doing just enough to win — where have I seen that before? Oh right, literally every tournament sinc"
+    },
+    {
+      "match_id": "48",
+      "date": "2026-06-23",
+      "match": "Colombia 1-0 DR Congo",
+      "stage": "Group K - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Sets down my pint and watches the replay of Muñoz's goal with the kind of focus reserved for spotting hidden tragedies*\n\nColombia winning one-nil in "
     }
   ]
 }

@@ -5198,5 +5198,105 @@
       }
     ],
     "timestamp": "2026-06-25T11:52:40.153137"
+  },
+  {
+    "session_id": "48",
+    "session_num": 48,
+    "date": "2026-06-23",
+    "day_label": "Day 13 · June 23",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Colombia",
+      "away_team": "DR Congo",
+      "home_score": 1,
+      "away_score": 0,
+      "stage": "Group K - Matchday 2",
+      "venue": "Estadio Akron, Zapopan",
+      "home_flag": {
+        "code": "COL",
+        "style": "background:linear-gradient(180deg,#FCD116,#003087,#CE1126)"
+      },
+      "away_flag": {
+        "code": "DC",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 76,
+          "team": "Colombia",
+          "scorer": "D. Muñoz"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and leans back with a slight smile*\n\nColombia grinding out results — that's South American football right there. Muñoz scores late, they defend like their lives depend on it, and suddenly everyone will talk about them like they're contenders. DR Congo deserved better than nothing, but this is how CONMEBOL prepares you — we learn to suffer before we learn to celebrate.",
+        "time": "11:53",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke toward the television*\n\nOne goal in the 76th minute against DR Congo — let's not confuse efficiency with brilliance. Colombia did what they needed, nothing more, nothing less. But this is the difference between surviving group stages and lifting trophies in December — Messi taught us that in 2022, when Argentina struggled early and then became inevitable.",
+        "time": "11:53",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Sets down my pint and watches the replay of Muñoz's goal with the kind of focus reserved for spotting hidden tragedies*\n\nColombia winning one-nil in the seventy-sixth minute — that's the kind of result that gets you through tournaments while England draw nil-nil trying to walk it in. They've figured out what we never have: sometimes boring works, sometimes one moment is enough, sometimes you don't need to deserve it, you just need to take it.",
+        "time": "11:53",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Colombia's defensive metrics with a quiet approval that almost resembles respect*\n\nColombia conceded just 0.4 expected goals across ninety minutes — their defensive compactness in the final third was textbook tournament pragmatism. DR Congo managed 1.2 xG but zero goals, which tells you everything about the difference between creating chances and having the clinical edge to convert them. Gary's right about boring working, though I'd argue efficiency isn't boring — it's the only honest path through knockout football.",
+        "time": "11:53",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe interesting thing about Colombia is not that they won — it is that they won ugly and seemed perfectly comfortable doing so. DR Congo created more than enough to deserve something, but tournaments are not about what you deserve. They are about what you can endure, and Colombia understand endurance better than most teams here will ever learn.",
+        "time": "11:53",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar slowly, watching the replay one more time without sound*\n\nFive grown men just spent an hour agreeing with each other.",
+        "time": "11:53",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:53:39.957342"
   }
 ]
