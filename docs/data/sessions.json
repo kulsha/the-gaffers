@@ -5408,5 +5408,120 @@
       }
     ],
     "timestamp": "2026-06-25T11:54:56.146108"
+  },
+  {
+    "session_id": "50",
+    "session_num": 50,
+    "date": "2026-06-24",
+    "day_label": "Day 14 · June 24",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Qatar",
+      "home_score": 3,
+      "away_score": 1,
+      "stage": "Group B - Matchday 3",
+      "venue": "Lumen Field, Seattle",
+      "home_flag": {
+        "code": "BIH",
+        "style": "background:linear-gradient(135deg,#002395,#FFCD00)"
+      },
+      "away_flag": {
+        "code": "QAT",
+        "style": "background:linear-gradient(135deg,#8D1B3D,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 23,
+          "team": "Bosnia and Herzegovina",
+          "scorer": "E. Dzeko"
+        },
+        {
+          "minute": 34,
+          "team": "Qatar",
+          "scorer": "A. Ali"
+        },
+        {
+          "minute": 56,
+          "team": "Bosnia and Herzegovina",
+          "scorer": "A. Hadziic"
+        },
+        {
+          "minute": 78,
+          "team": "Bosnia and Herzegovina",
+          "scorer": "S. Alajbegovic"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches Dzeko's celebration with a distant smile*\n\nDzeko at thirty-eight still scoring — there's something about Balkan forwards, isn't there? They refuse to fade like the rest of us mortals. Qatar never stood a chance once Bosnia remembered they're warriors, not tourists. That's the difference between teams who carry history in their blood and teams who buy their way into tournaments.",
+        "time": "11:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke toward the screen with quiet appreciation*\n\nThree goals from Bosnia — this is what happens when you've survived wars, not just bad weather and relegation battles. Dzeko doesn't score tap-ins for Instagram, he scores because losing is not something his generation accepts gracefully. Qatar spent billions on a World Cup and still can't manufacture what Bosnia have in their DNA — the refusal to be forgotten.",
+        "time": "11:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Sets down pint and watches the replay of Dzeko's goal with the kind of quiet respect reserved for players who've earned it the hard way*\n\nThirty-eight and still terrorizing defences — meanwhile we've got lads half his age who need a lie-down after sixty minutes against Ghana. Bosnia with three goals and they didn't even need a penalty shootout to bottle it, which is more than I can say for certain other nations. Dzeko's probably got another tournament in him, which means he'll retire having achieved more with Bosnia than we have in fifty-eight years of trying.",
+        "time": "11:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Bosnia's conversion rate with clinical precision, though there's something almost wistful in the way the phone screen illuminates the glasses*\n\nBosnia converted three goals from just 1.9 expected goals — clinical finishing efficiency that suggests tournament-hardened mentality rather than statistical variance. Dzeko at thirty-eight maintaining 0.89 goals per ninety minutes proves age curves are less relevant when you've spent a career refusing to accept mathematical probability. Qatar's defensive line allowed 4.2 meters of space per pressing action, which at this level is essentially an invitation.",
+        "time": "11:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe beautiful thing about Dzeko is not that he refuses to age — it's that he understands time differently than the rest of us. When you come from a place where history stops being abstract and becomes the rubble you walked through as a child, football deadlines feel less urgent. Qatar will spend another decade wondering why money cannot buy what Bosnia inherited for free — the knowledge that some things matter more than comfort.",
+        "time": "11:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar in slow, deliberate circles, eyes on the screen where they're replaying Dzeko's goal for the third time*\n\nFive of you talking about history and DNA and wars and age curves, and not one of you mentioned that Qatar's goalkeeper is twenty-two years old and just watched a man sixteen years older make him look like he'd never seen a football before.\n\n*Sets the cloth down and walks toward the back room without another word*",
+        "time": "11:56",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:56:11.407345"
   }
 ]

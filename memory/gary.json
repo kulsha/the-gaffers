@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 85,
-    "anger": 9,
-    "bitterness": 7
+    "confidence": 86,
+    "anger": 7,
+    "bitterness": 6
   },
   "rivalry": {
     "likes": [
@@ -463,6 +463,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Glances at Rodrigo's wine glass and back at the screen with a tired half-smile*\n\nSwitzerland doing what Switzerland do — turning up in the seventy-ei"
+    },
+    {
+      "match_id": "50",
+      "date": "2026-06-24",
+      "match": "Bosnia and Herzegovina 3-1 Qatar",
+      "stage": "Group B - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Sets down pint and watches the replay of Dzeko's goal with the kind of quiet respect reserved for players who've earned it the hard way*\n\nThirty-eigh"
     }
   ]
 }
