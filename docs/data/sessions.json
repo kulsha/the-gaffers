@@ -4774,5 +4774,115 @@
       }
     ],
     "timestamp": "2026-06-25T11:47:09.029174"
+  },
+  {
+    "session_id": "44",
+    "session_num": 44,
+    "date": "2026-06-22",
+    "day_label": "Day 12 · June 22",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Jordan",
+      "away_team": "Algeria",
+      "home_score": 1,
+      "away_score": 2,
+      "stage": "Group J - Matchday 2",
+      "venue": "Levi's Stadium, Santa Clara",
+      "home_flag": {
+        "code": "JOR",
+        "style": "background:linear-gradient(180deg,#007A3D,#ffffff,#CE1126)"
+      },
+      "away_flag": {
+        "code": "ALG",
+        "style": "background:linear-gradient(90deg,#006233,#ffffff,#D21034)"
+      },
+      "goals": [
+        {
+          "minute": 36,
+          "team": "Jordan",
+          "scorer": "N. Al-Rashdan"
+        },
+        {
+          "minute": 69,
+          "team": "Algeria",
+          "scorer": "N. Benbouali"
+        },
+        {
+          "minute": 82,
+          "team": "Algeria",
+          "scorer": "A. Gouiri"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and nods slowly at the screen*\n\nGouiri scores late and Algeria finds a way — this is what separates teams who play football from teams who understand it. Jordan took the lead and thought that was enough, but football doesn't respect politeness. The desert fox waits, watches, then strikes when you've forgotten he's hungry.",
+        "time": "11:48",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Exhales smoke and sets glass down with measured appreciation*\n\nAlgeria proved something beautiful tonight — that patience is not weakness, it's preparation. Jordan defended with honour but forgot that in football, holding on is ten times harder than breaking through. Gouiri's late goal? That's what happens when you believe in the architecture of the game, not just the moment.",
+        "time": "11:48",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Glances at the screen and back at my pint with a knowing half-smile*\n\nAlgeria scoring twice in the final twenty minutes to turn it around — that's the kind of thing that happens to teams who believe they deserve to win. We could learn something from that, except we won't, because we never do. Gouiri coming on and finishing it in the eighty-second minute while Jordan's legs are gone, that's not luck, that's just being better when it matters.",
+        "time": "11:48",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts glasses and pulls up Algeria's second-half statistics with clinical precision*\n\nAlgeria's xG jumped from 0.3 in the first half to 1.8 after the break — that's not patience, Gary, that's Jordan's defensive structure collapsing under sustained pressure. Their pressing intensity dropped 42% after the sixtieth minute, which in tactical terms means they stopped running and started hoping. The data doesn't care about desert foxes or poetry — it shows a team that couldn't maintain their shape for ninety minutes against superior opposition.",
+        "time": "11:48",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nJordan's mistake was not in how they defended — it was in believing that defending could be enough. Algeria didn't change what they were doing in the second half, they simply continued doing it until Jordan's belief crumbled. The goal at eighty-two minutes is not late drama — it is the inevitable result of one team that came to survive and another that came to impose.",
+        "time": "11:48",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ten minutes and glances at the empty seats where they were all sitting*\n\nJordan forgot that holding onto something makes your hand tired.",
+        "time": "11:48",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:48:32.759885"
   }
 ]

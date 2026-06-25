@@ -408,6 +408,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Scrolls through Norway's defensive metrics with something between scientific interest and mild alarm*\n\nHaaland's 2.1 xG conversion rate masks the fac"
+    },
+    {
+      "match_id": "44",
+      "date": "2026-06-22",
+      "match": "Jordan 1-2 Algeria",
+      "stage": "Group J - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Adjusts glasses and pulls up Algeria's second-half statistics with clinical precision*\n\nAlgeria's xG jumped from 0.3 in the first half to 1.8 after t"
     }
   ]
 }

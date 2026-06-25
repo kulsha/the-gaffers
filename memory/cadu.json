@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 4,
-    "bitterness": 3
+    "anger": 2,
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -408,6 +408,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and watches Haaland's celebration with a mixture of admiration and melancholy*\n\nThat Viking scores twice and Norway still almost thr"
+    },
+    {
+      "match_id": "44",
+      "date": "2026-06-22",
+      "match": "Jordan 1-2 Algeria",
+      "stage": "Group J - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and nods slowly at the screen*\n\nGouiri scores late and Algeria finds a way — this is what separates teams who play football from tea"
     }
   ]
 }

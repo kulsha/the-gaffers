@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 96,
-    "confidence": 83,
-    "anger": 14,
-    "bitterness": 9
+    "hope": 98,
+    "confidence": 84,
+    "anger": 12,
+    "bitterness": 8
   },
   "rivalry": {
     "likes": [
@@ -409,6 +409,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the ninetieth-third minute replay and lets out a quiet laugh that doesn't quite reach my eyes*\n\nHaaland scores twice and Norway still nearly "
+    },
+    {
+      "match_id": "44",
+      "date": "2026-06-22",
+      "match": "Jordan 1-2 Algeria",
+      "stage": "Group J - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Glances at the screen and back at my pint with a knowing half-smile*\n\nAlgeria scoring twice in the final twenty minutes to turn it around — that's th"
     }
   ]
 }
