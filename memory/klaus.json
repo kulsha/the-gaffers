@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 4,
-    "bitterness": 3
+    "anger": 2,
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -498,6 +498,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Czechia's pressing metrics with clinical disapproval*\n\nCzechia's PPDA dropped to 15.8 in the second half — essentially stopped pressing alto"
+    },
+    {
+      "match_id": "54",
+      "date": "2026-06-24",
+      "match": "South Africa 1-0 South Korea",
+      "stage": "Group A - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Korea's expected goals with clinical precision, though there's something almost sympathetic in the way the glasses catch the bar light*\n\nSou"
     }
   ]
 }

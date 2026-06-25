@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 4,
-    "bitterness": 3
+    "anger": 2,
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -499,6 +499,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls wine and lets smoke drift toward the screen with measured appreciation*\n\nThree goals, yes, but let's not pretend altitude is some kind of tact"
+    },
+    {
+      "match_id": "54",
+      "date": "2026-06-24",
+      "match": "South Africa 1-0 South Korea",
+      "stage": "Group A - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls wine and lets smoke drift toward the ceiling with a measured nod*\n\nSouth Africa defended with their lives after that goal — that's how you win"
     }
   ]
 }
