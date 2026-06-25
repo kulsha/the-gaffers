@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 99,
-    "anger": 6,
-    "bitterness": 4
+    "hope": 100,
+    "confidence": 100,
+    "anger": 4,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -399,6 +399,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Takes a long drag from cigarette and watches the highlights replay*\n\nMbappé makes it look so simple, doesn't he? Like running is enough, like speed a"
+    },
+    {
+      "match_id": "43",
+      "date": "2026-06-22",
+      "match": "Norway 3-2 Senegal",
+      "stage": "Group I - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and watches Haaland's celebration with a mixture of admiration and melancholy*\n\nThat Viking scores twice and Norway still almost thr"
     }
   ]
 }

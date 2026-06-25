@@ -4654,5 +4654,125 @@
       }
     ],
     "timestamp": "2026-06-25T11:46:04.695304"
+  },
+  {
+    "session_id": "43",
+    "session_num": 43,
+    "date": "2026-06-22",
+    "day_label": "Day 12 · June 22",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Norway",
+      "away_team": "Senegal",
+      "home_score": 3,
+      "away_score": 2,
+      "stage": "Group I - Matchday 2",
+      "venue": "MetLife Stadium, East Rutherford",
+      "home_flag": {
+        "code": "NOR",
+        "style": "background:linear-gradient(135deg,#EF2B2D,#002868)"
+      },
+      "away_flag": {
+        "code": "SEN",
+        "style": "background:linear-gradient(90deg,#00853F,#FDEF42,#E31B23)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "Norway",
+          "scorer": "E. Haaland 58 pen"
+        },
+        {
+          "minute": 44,
+          "team": "Norway",
+          "scorer": "M. Pedersen"
+        },
+        {
+          "minute": 49,
+          "team": "Senegal",
+          "scorer": "I. Sarr"
+        },
+        {
+          "minute": 58,
+          "team": "Norway",
+          "scorer": "E. Haaland"
+        },
+        {
+          "minute": 93,
+          "team": "Senegal",
+          "scorer": "I. Sarr"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches Haaland's celebration with a mixture of admiration and melancholy*\n\nThat Viking scores twice and Norway still almost threw it away in stoppage time — this is why football breaks your heart even when you win. Haaland is a machine, yes, but where is the beauty in it? Just power, just efficiency, just... *waves hand dismissively* ...Klaus would probably love it.",
+        "time": "11:47",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Exhales smoke and sets glass down with measured appreciation*\n\nHaaland proves what Messi already taught us in 2022 — sometimes one player carries an entire nation on their shoulders, no matter how flawed the rest may be. The difference? Messi made it look like poetry while this Norwegian makes it look like demolition work. Still, two goals when it matters most — even a machine deserves respect for that.",
+        "time": "11:47",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the ninetieth-third minute replay and lets out a quiet laugh that doesn't quite reach my eyes*\n\nHaaland scores twice and Norway still nearly bottles it in injury time — that's the hope right there, isn't it? Thinking you've done enough and then watching it almost slip away because football doesn't care what you deserve. At least when we do it, we commit properly to the collapse.",
+        "time": "11:47",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Scrolls through Norway's defensive metrics with something between scientific interest and mild alarm*\n\nHaaland's 2.1 xG conversion rate masks the fact Norway conceded 1.8 expected goals while sitting on a lead — tactically reckless. Senegal created three high-quality chances in the final fifteen minutes when Norway's defensive line dropped an average of eight meters deeper than optimal positioning would suggest. Efficiency means nothing if you invite pressure through structural collapse.",
+        "time": "11:47",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nHaaland scores twice and Norway win — yet the match they will remember is the one they nearly lost in the dying seconds. This is the peculiar mathematics of football — two goals matter less than two minutes of panic. Victories built on individual brilliance are always fragile because one man cannot defend what eleven barely hold together.",
+        "time": "11:47",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass Gary just emptied and glances at the screen showing Haaland's celebration one more time*\n\nHe scores twice and all five of you are still talking about what almost went wrong.",
+        "time": "11:47",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-25T11:47:09.029174"
   }
 ]

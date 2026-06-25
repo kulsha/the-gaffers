@@ -399,6 +399,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up France's match statistics on phone, scrolling through their attacking metrics with something between clinical detachment and reluctant admir"
+    },
+    {
+      "match_id": "43",
+      "date": "2026-06-22",
+      "match": "Norway 3-2 Senegal",
+      "stage": "Group I - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Scrolls through Norway's defensive metrics with something between scientific interest and mild alarm*\n\nHaaland's 2.1 xG conversion rate masks the fac"
     }
   ]
 }

@@ -400,6 +400,15 @@
       "my_team_played": true,
       "team_result": "won",
       "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThree goals and still we learn nothing new about France — o"
+    },
+    {
+      "match_id": "43",
+      "date": "2026-06-22",
+      "match": "Norway 3-2 Senegal",
+      "stage": "Group I - Matchday 2",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nHaaland scores twice and Norway win — yet the match they wi"
     }
   ]
 }
