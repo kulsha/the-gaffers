@@ -6497,5 +6497,125 @@
       }
     ],
     "timestamp": "2026-06-26T22:12:57.574498"
+  },
+  {
+    "session_id": "60",
+    "session_num": 60,
+    "date": "2026-06-25",
+    "day_label": "Day 15 · June 25",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Turkey",
+      "away_team": "United States",
+      "home_score": 3,
+      "away_score": 2,
+      "stage": "Group D - Matchday 3",
+      "venue": "Levi's Stadium, Santa Clara",
+      "home_flag": {
+        "code": "T",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "US",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 3,
+          "team": "United States",
+          "scorer": "A. Trusty"
+        },
+        {
+          "minute": 10,
+          "team": "Turkey",
+          "scorer": "A. Güler"
+        },
+        {
+          "minute": 31,
+          "team": "Turkey",
+          "scorer": "B. Yilmaz"
+        },
+        {
+          "minute": 49,
+          "team": "United States",
+          "scorer": "S. Berhalter"
+        },
+        {
+          "minute": 90,
+          "team": "Turkey",
+          "scorer": "K. Ayhan"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and leans back with a knowing smile*\n\nGüler at nineteen years old deciding a World Cup match in the 90th minute — that's the kind of moment that makes you remember why we watch football. The Americans played with heart, fought back twice, but Turkey had the poetry when it mattered. In Santa Clara, on American soil, the Turks bring the drama and the Americans learn what CONCACAF grit means nothing against European técnica. Beautiful chaos, this match — the kind that makes your heart race even when it's not your team bleeding on the pitch.",
+        "time": "22:24",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and lets smoke drift toward the ceiling with theatrical satisfaction*\n\nTurkey scoring in the 90th minute on American soil — there's a certain justice to that, watching the hosts learn that football doesn't care about your geography. Güler has that spark, that unpredictability you need when the moment demands magic, not muscle. The United States fought hard, yes, but fighting hard without elegance is just running in expensive circles. This is what separates teams who dream from teams who deliver when the dream is dying.",
+        "time": "22:24",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Sets down pint and stares at the ceiling for a moment*\n\nNinety-fourth minute winner in your own backyard — that's the kind of heartbreak that stays with you for years, ask me how I know. Americans will be replaying that Ayhan strike in their nightmares while Güler becomes the name Turkish grandads tell their grandkids about. We've all been there, watching hope die in injury time, and now the Yanks get their introduction to proper tournament pain.",
+        "time": "22:24",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the defensive transition data with the kind of clinical precision that cannot quite hide a flicker of sympathy*\n\nUnited States conceded 2.1 expected goals from Turkish counter-attacks, which means their midfield pressing efficiency dropped to 61% after Berhalter's equalizer — classic psychological collapse disguised as tactical failure. Turkey's win probability at 89 minutes was only 34%, but Güler's positioning in the half-spaces created a 0.43 xG opportunity that Ayhan converted with cold precision. The data predicted American vulnerability in deep defensive transitions, and sometimes the numbers know the heartbreak is coming before the heart does.",
+        "time": "22:24",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe tragedy of the ninety-fourth minute is not the goal itself but the three minutes of hope that preceded it — those moments when the Americans believed their second comeback would hold, when belief itself became the cruelest form of self-deception. Turkey did not win this match so much as wait for it to arrive at its inevitable conclusion. Some teams understand that patience is not passive — it is simply confidence stretched across time until the moment presents itself.",
+        "time": "22:24",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar in slow, deliberate circles and glances at the empty glasses lined up like headstones*\n\nFive people spent ninety-four minutes talking about football, and not one of them mentioned that both goals the Americans scored came from their own soil — Trusty, Berhalter — like the country was trying to save itself and couldn't.",
+        "time": "22:24",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-26T22:24:54.547507"
   }
 ]

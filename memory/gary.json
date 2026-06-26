@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 95,
+    "confidence": 96,
     "anger": 0,
     "bitterness": 0
   },
@@ -553,6 +553,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the final whistle and takes a long pull from my pint with the weary recognition of someone who's seen this exact match but with different shi"
+    },
+    {
+      "match_id": "60",
+      "date": "2026-06-25",
+      "match": "Turkey 3-2 United States",
+      "stage": "Group D - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Sets down pint and stares at the ceiling for a moment*\n\nNinety-fourth minute winner in your own backyard — that's the kind of heartbreak that stays w"
     }
   ]
 }
