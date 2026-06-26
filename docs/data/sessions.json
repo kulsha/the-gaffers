@@ -5968,5 +5968,110 @@
       }
     ],
     "timestamp": "2026-06-25T12:01:15.448748"
+  },
+  {
+    "session_id": "55",
+    "session_num": 55,
+    "date": "2026-06-25",
+    "day_label": "Day 15 · June 25",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Curacao",
+      "away_team": "Ivory Coast",
+      "home_score": 0,
+      "away_score": 2,
+      "stage": "Group E - Matchday 3",
+      "venue": "Lincoln Financial Field, Philadelphia",
+      "home_flag": {
+        "code": "CUW",
+        "style": "background:linear-gradient(135deg,#003DA5,#F9E300)"
+      },
+      "away_flag": {
+        "code": "IC",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 7,
+          "team": "Ivory Coast",
+          "scorer": "N. Pépé"
+        },
+        {
+          "minute": 64,
+          "team": "Ivory Coast",
+          "scorer": "N. Pépé"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches Pépé's second goal replay with a slow nod*\n\nPépé scoring twice — that's the Ivorian elegance, the kind of finishing that comes from somewhere deeper than training grounds. Philadelphia's concrete isn't Abidjan's sun, but the poetry traveled with him anyway. These African teams, they carry something we used to understand better before we started counting possession percentages.",
+        "time": "22:05",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and lets smoke drift toward the screen with quiet appreciation*\n\nTwo goals from Pépé, both clean, both necessary — this is what efficiency looks like when you don't confuse it with cowardice. Ivory Coast didn't need to humiliate Curaçao, they just needed to win, and they did it with the kind of professional cruelty that wins tournaments. The difference between a team that knows how to close out matches and one that celebrates before the final whistle.",
+        "time": "22:05",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Pépé's second goal and takes a slow sip while trying not to think about England's finishing*\n\nTwo goals, both clinical, job done without fuss — that's the kind of ruthless efficiency England keep explaining they're going to develop any decade now. Ivory Coast just made winning look simple, which is the most complicated thing in football and somehow everyone except us seems to understand that.",
+        "time": "22:05",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts glasses and pulls up Pépé's conversion metrics with clinical satisfaction*\n\nPépé's two goals from 2.3 expected goals — 87% conversion efficiency against a Curaçao defensive block that averaged 4.2 meters between lines, which is actually competent compactness for their level. The 57-minute gap between goals suggests tactical patience rather than dominance — Ivory Coast generated only 1.1 xG in the middle hour before the second breakthrough. Professional, not brilliant, but tournaments are won by teams who know the difference.",
+        "time": "22:05",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe interesting thing about Pépé tonight is not that he scored twice but that he scored exactly when Ivory Coast needed him to — seven minutes to settle nerves, sixty-four to kill hope. This is the difference between a good player and one who understands rhythm. Curaçao never collapsed, they just learned slowly that some gaps close and others don't.",
+        "time": "22:05",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been drying for the last ten minutes and glances at the empty seats where they were all sitting*\n\nPépé scored in the seventh minute and the sixty-fourth, and none of them mentioned he waited fifty-seven minutes because that's exactly how long it took for Curaçao to believe they might still be in it.",
+        "time": "22:05",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-26T22:05:39.715354"
   }
 ]

@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 2,
-    "bitterness": 2
+    "anger": 0,
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -508,6 +508,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls wine and lets smoke drift toward the ceiling with a measured nod*\n\nSouth Africa defended with their lives after that goal — that's how you win"
+    },
+    {
+      "match_id": "55",
+      "date": "2026-06-25",
+      "match": "Curacao 0-2 Ivory Coast",
+      "stage": "Group E - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls wine and lets smoke drift toward the screen with quiet appreciation*\n\nTwo goals from Pépé, both clean, both necessary — this is what efficienc"
     }
   ]
 }

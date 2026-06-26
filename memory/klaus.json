@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 2,
-    "bitterness": 2
+    "anger": 0,
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -507,6 +507,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Korea's expected goals with clinical precision, though there's something almost sympathetic in the way the glasses catch the bar light*\n\nSou"
+    },
+    {
+      "match_id": "55",
+      "date": "2026-06-25",
+      "match": "Curacao 0-2 Ivory Coast",
+      "stage": "Group E - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Adjusts glasses and pulls up Pépé's conversion metrics with clinical satisfaction*\n\nPépé's two goals from 2.3 expected goals — 87% conversion efficie"
     }
   ]
 }

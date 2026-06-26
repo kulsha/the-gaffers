@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 90,
+    "confidence": 91,
     "anger": 0,
-    "bitterness": 2
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -508,6 +508,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the final whistle and sets down my pint with genuine respect*\n\nSouth Africa just beat South Korea the way England keep promising we'll beat s"
+    },
+    {
+      "match_id": "55",
+      "date": "2026-06-25",
+      "match": "Curacao 0-2 Ivory Coast",
+      "stage": "Group E - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Pépé's second goal and takes a slow sip while trying not to think about England's finishing*\n\nTwo goals, both clinical, job done without fuss"
     }
   ]
 }
