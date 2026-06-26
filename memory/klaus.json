@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 85,
-    "confidence": 90,
-    "anger": 20,
-    "bitterness": 13
+    "hope": 87,
+    "confidence": 91,
+    "anger": 18,
+    "bitterness": 12
   },
   "rivalry": {
     "likes": [
@@ -525,6 +525,15 @@
       "my_team_played": true,
       "team_result": "lost",
       "reaction_summary": "*Removes glasses and cleans them with methodical precision that cannot quite hide the way the hands are shaking slightly*\n\nGermany's defensive transit"
+    },
+    {
+      "match_id": "57",
+      "date": "2026-06-25",
+      "match": "Japan 1-1 Sweden",
+      "stage": "Group F - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Sweden's defensive metrics with the precision of someone who has seen this pattern before*\n\nSweden allowed 1.8 expected goals despite sittin"
     }
   ]
 }

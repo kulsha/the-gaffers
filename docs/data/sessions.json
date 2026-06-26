@@ -6183,5 +6183,110 @@
       }
     ],
     "timestamp": "2026-06-26T22:07:04.912748"
+  },
+  {
+    "session_id": "57",
+    "session_num": 57,
+    "date": "2026-06-25",
+    "day_label": "Day 15 · June 25",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Japan",
+      "away_team": "Sweden",
+      "home_score": 1,
+      "away_score": 1,
+      "stage": "Group F - Matchday 3",
+      "venue": "AT&T Stadium, Arlington",
+      "home_flag": {
+        "code": "JPN",
+        "style": "background:radial-gradient(circle,#BC002D 40%,#ffffff 40%)"
+      },
+      "away_flag": {
+        "code": "S",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 56,
+          "team": "Japan",
+          "scorer": "D. Maeda"
+        },
+        {
+          "minute": 62,
+          "team": "Sweden",
+          "scorer": "A. Elanga"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches the final whistle with a slight shake of the head*\n\nTwo teams playing for survival and they settle for this polite handshake of a draw. Maeda's goal had some beauty to it — that movement, that finish — but then Elanga answers six minutes later and suddenly everyone's happy with a point. This is what happens when teams stop believing in the poetry of the moment and start calculating their way through tournaments like accountants.",
+        "time": "22:10",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and lets smoke drift toward the ceiling with quiet disdain*\n\nA draw between two teams who've already forgotten what it means to demand victory. Japan had the lead and the momentum — you defend that with your life, you make Sweden earn every centimeter of grass. Instead they gifted Elanga space like they were handing out invitations to a party. When Argentina led in the final, we didn't calculate points — we bled on that pitch until the whistle confirmed what destiny already knew.",
+        "time": "22:10",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the replay of Elanga's equalizer and sets down my pint with something between sympathy and familiarity*\n\nJapan holding a lead for exactly six minutes — that's the kind of hope management England have turned into an art form. Both teams playing not to lose instead of playing to win, both settling for the safety of a point when the moment demanded more. At least when we bottle it, we have the decency to make it dramatic.",
+        "time": "22:10",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Sweden's defensive metrics with the precision of someone who has seen this pattern before*\n\nSweden allowed 1.8 expected goals despite sitting back after Elanga's equalizer — that's not defensive solidity, that's just hoping Japan forgot how to finish. Both teams recorded their lowest PPDA values of the tournament in the final twenty minutes — 18.4 for Japan, 19.1 for Sweden — essentially stopped pressing and accepted the mathematics of mutual survival. Sometimes the data confirms what even poetry can see — fear makes cowards of everyone.",
+        "time": "22:10",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe saddest thing about a draw like this is that both teams will call it a point earned when really it's two points surrendered to their own anxiety. Japan controlled the match for six minutes and spent the other eighty-four trying to remember what courage looked like. Sweden never wanted to be there at all — Elanga's goal wasn't an explosion of belief, it was muscle memory rescuing a team that had already accepted elimination before they stepped on the pitch.",
+        "time": "22:10",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the counter slowly, eyes on the screen where both teams are already walking off*\n\nSix minutes of hope between two goals nobody will remember tomorrow.",
+        "time": "22:10",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-26T22:10:25.991335"
   }
 ]

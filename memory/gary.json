@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 92,
+    "confidence": 93,
     "anger": 0,
     "bitterness": 0
   },
@@ -526,6 +526,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the final whistle and sets down my pint with the kind of recognition that comes from experience*\n\nGermany going up after two minutes and then"
+    },
+    {
+      "match_id": "57",
+      "date": "2026-06-25",
+      "match": "Japan 1-1 Sweden",
+      "stage": "Group F - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the replay of Elanga's equalizer and sets down my pint with something between sympathy and familiarity*\n\nJapan holding a lead for exactly six"
     }
   ]
 }
