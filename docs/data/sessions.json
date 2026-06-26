@@ -6288,5 +6288,120 @@
       }
     ],
     "timestamp": "2026-06-26T22:10:25.991335"
+  },
+  {
+    "session_id": "58",
+    "session_num": 58,
+    "date": "2026-06-25",
+    "day_label": "Day 15 · June 25",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
+      "home_score": 1,
+      "away_score": 3,
+      "stage": "Group F - Matchday 3",
+      "venue": "Arrowhead Stadium, Kansas City",
+      "home_flag": {
+        "code": "T",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "NED",
+        "style": "background:linear-gradient(180deg,#AE1C28,#ffffff,#21468B)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "Netherlands",
+          "scorer": "E. Skhiri 3 OG"
+        },
+        {
+          "minute": 7,
+          "team": "Netherlands",
+          "scorer": "B. Brobbey"
+        },
+        {
+          "minute": 54,
+          "team": "Tunisia",
+          "scorer": "H. Mastouri"
+        },
+        {
+          "minute": 62,
+          "team": "Netherlands",
+          "scorer": "J. van Hecke"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches the Dutch celebration with a tired recognition*\n\nThree goals and Tunisia never had the air to breathe — that's Dutch efficiency, clinical and cold like their winters. Brobbey finishes chances like he's reading from a manual, no poetry, just function. The Oranje always play like they're building a dyke — one brick at a time until you're drowning.",
+        "time": "22:11",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and lets smoke drift toward the screen with mild interest*\n\nTunisia gifted them the first goal in three minutes — an own goal is not efficiency, it's charity accepted without shame. The Dutch didn't create beauty tonight, they just waited for mistakes and collected them like tax collectors. Competent? Sure. Inspiring? About as much as watching paint dry in Amsterdam.",
+        "time": "22:11",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the Dutch celebrate with the quiet recognition of someone who's seen this film before*\n\nNetherlands doing what Netherlands do — getting the job done without breaking a sweat, making it look easier than it should be. Three goals and they're through, tidy as a Sunday roast, while England are still trying to remember how to score from open play. They'll go deep this tournament and somehow still find a way to lose on penalties to someone absolutely mental.",
+        "time": "22:11",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts glasses and pulls up Tunisia's defensive transition data with the clinical precision of someone proving a point*\n\nNetherlands' pressing forced Tunisia into 23 turnovers in the final third — that own goal at three minutes wasn't charity, it was the inevitable result of systematic pressure. Brobbey's conversion rate sits at 68% this tournament, which is... actually exactly what the data predicted he would deliver. The Dutch aren't building poetry, they're building a machine that processes opponents into expected goal differentials, and sometimes — *pauses, glances at Germany's group table* — sometimes that's all you need.",
+        "time": "22:11",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe saddest thing about watching the Netherlands is that they have solved football the way engineers solve problems — completely, efficiently, and without ever making you feel anything. Tunisia's own goal at three minutes was not bad luck, it was the logical conclusion of being caught in a system that does not permit accidents to remain accidents. Somewhere in Amsterdam, a data analyst just marked this match as \"within predicted parameters\" and closed his laptop.",
+        "time": "22:11",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ten minutes and looks at the empty seats where they were all sitting*\n\nTunisia scored an own goal in three minutes and still kept fighting for fifty-one more.\n\n*Goes back to wiping the bar*",
+        "time": "22:11",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-26T22:11:36.063409"
   }
 ]

@@ -5,7 +5,7 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 93,
+    "confidence": 94,
     "anger": 0,
     "bitterness": 0
   },
@@ -535,6 +535,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the replay of Elanga's equalizer and sets down my pint with something between sympathy and familiarity*\n\nJapan holding a lead for exactly six"
+    },
+    {
+      "match_id": "58",
+      "date": "2026-06-25",
+      "match": "Tunisia 1-3 Netherlands",
+      "stage": "Group F - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the Dutch celebrate with the quiet recognition of someone who's seen this film before*\n\nNetherlands doing what Netherlands do — getting the j"
     }
   ]
 }

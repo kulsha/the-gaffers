@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 87,
-    "confidence": 91,
-    "anger": 18,
-    "bitterness": 12
+    "hope": 89,
+    "confidence": 92,
+    "anger": 16,
+    "bitterness": 11
   },
   "rivalry": {
     "likes": [
@@ -534,6 +534,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Sweden's defensive metrics with the precision of someone who has seen this pattern before*\n\nSweden allowed 1.8 expected goals despite sittin"
+    },
+    {
+      "match_id": "58",
+      "date": "2026-06-25",
+      "match": "Tunisia 1-3 Netherlands",
+      "stage": "Group F - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Adjusts glasses and pulls up Tunisia's defensive transition data with the clinical precision of someone proving a point*\n\nNetherlands' pressing force"
     }
   ]
 }
