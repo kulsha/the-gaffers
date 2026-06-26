@@ -6073,5 +6073,115 @@
       }
     ],
     "timestamp": "2026-06-26T22:05:39.715354"
+  },
+  {
+    "session_id": "56",
+    "session_num": 56,
+    "date": "2026-06-25",
+    "day_label": "Day 15 · June 25",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Ecuador",
+      "away_team": "Germany",
+      "home_score": 2,
+      "away_score": 1,
+      "stage": "Group E - Matchday 3",
+      "venue": "MetLife Stadium, East Rutherford",
+      "home_flag": {
+        "code": "ECU",
+        "style": "background:linear-gradient(180deg,#FFD100,#003DA5,#EF3340)"
+      },
+      "away_flag": {
+        "code": "GER",
+        "style": "background:linear-gradient(180deg,#1a1a1a,#dd0000,#FFCE00)"
+      },
+      "goals": [
+        {
+          "minute": 2,
+          "team": "Germany",
+          "scorer": "L. Sané"
+        },
+        {
+          "minute": 9,
+          "team": "Ecuador",
+          "scorer": "N. Angulo"
+        },
+        {
+          "minute": 77,
+          "team": "Ecuador",
+          "scorer": "G. Plata"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and allows himself the smallest smile*\n\nPlata in the 77th minute — that's CONMEBOL football, that's the altitude training, that's what happens when German efficiency meets South American heart. Ecuador just sent a message to the entire group, and Klaus... *glances around* ...Klaus is going to need something stronger than beer tonight. Germany scored in two minutes and still lost — sometimes the beautiful game doesn't care about your reputation.",
+        "time": "22:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and lets smoke drift toward the ceiling with quiet satisfaction*\n\nGermany leading after two minutes and still finding a way to lose — this is what happens when you build a team on systems instead of soul. Ecuador didn't just win, they reminded everyone that CONMEBOL doesn't respect European pedigree, we respect what you do on the pitch today, not what your grandfather did in 1974. Klaus, mi amigo, maybe it's time to accept that German efficiency is just a fancy word for predictable.",
+        "time": "22:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the final whistle and sets down my pint with the kind of recognition that comes from experience*\n\nGermany going up after two minutes and then somehow losing to Ecuador — that's the exact kind of thing that would happen to England except we wouldn't have scored first. Klaus is about to learn what all of us already know: leading early in a World Cup match just means you get to watch hope die in slow motion instead of all at once.",
+        "time": "22:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Removes glasses and cleans them with methodical precision that cannot quite hide the way the hands are shaking slightly*\n\nGermany's defensive transition speed dropped 23% after the Sané goal — complacency the data predicted and Nagelsmann ignored. Ecuador's second-half pressing intensity increased to 11.2 PPDA while ours dropped to 18.7, which is not football, that is statistical suicide. Leading after two minutes with 73% possession and losing anyway... *pauses, stares at the phone screen* ...Rodrigo is right about one thing — sometimes the data tells you exactly how you're going to lose and you do it anyway.",
+        "time": "22:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe cruelest gift in football is the early goal — it gives you seventy-eight minutes to believe you understand what is happening while the match quietly decides otherwise. Germany controlled everything except the only thing that mattered: the understanding that Ecuador were never actually chasing the game, they were simply waiting for it to come to them. Nagelsmann will review the data and find a thousand small mistakes, but the real mistake was philosophical — believing that scoring first meant they had already won.",
+        "time": "22:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been drying for the last ten minutes and glances at Klaus's empty seat*\n\nGermany scored in the second minute and had eighty-eight minutes to learn they'd already lost.",
+        "time": "22:07",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-26T22:07:04.912748"
   }
 ]

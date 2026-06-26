@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "confidence": 100,
-    "anger": 0,
-    "bitterness": 1
+    "hope": 85,
+    "confidence": 90,
+    "anger": 20,
+    "bitterness": 13
   },
   "rivalry": {
     "likes": [
@@ -516,6 +516,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Adjusts glasses and pulls up Pépé's conversion metrics with clinical satisfaction*\n\nPépé's two goals from 2.3 expected goals — 87% conversion efficie"
+    },
+    {
+      "match_id": "56",
+      "date": "2026-06-25",
+      "match": "Ecuador 2-1 Germany",
+      "stage": "Group E - Matchday 3",
+      "my_team_played": true,
+      "team_result": "lost",
+      "reaction_summary": "*Removes glasses and cleans them with methodical precision that cannot quite hide the way the hands are shaking slightly*\n\nGermany's defensive transit"
     }
   ]
 }

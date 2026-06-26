@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 91,
+    "confidence": 92,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -517,6 +517,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Pépé's second goal and takes a slow sip while trying not to think about England's finishing*\n\nTwo goals, both clinical, job done without fuss"
+    },
+    {
+      "match_id": "56",
+      "date": "2026-06-25",
+      "match": "Ecuador 2-1 Germany",
+      "stage": "Group E - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the final whistle and sets down my pint with the kind of recognition that comes from experience*\n\nGermany going up after two minutes and then"
     }
   ]
 }

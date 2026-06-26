@@ -7,7 +7,7 @@
     "hope": 100,
     "confidence": 100,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -517,6 +517,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls wine and lets smoke drift toward the screen with quiet appreciation*\n\nTwo goals from Pépé, both clean, both necessary — this is what efficienc"
+    },
+    {
+      "match_id": "56",
+      "date": "2026-06-25",
+      "match": "Ecuador 2-1 Germany",
+      "stage": "Group E - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls wine and lets smoke drift toward the ceiling with quiet satisfaction*\n\nGermany leading after two minutes and still finding a way to lose — thi"
     }
   ]
 }
