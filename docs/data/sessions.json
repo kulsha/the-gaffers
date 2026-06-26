@@ -6403,5 +6403,99 @@
       }
     ],
     "timestamp": "2026-06-26T22:11:36.063409"
+  },
+  {
+    "session_id": "59",
+    "session_num": 59,
+    "date": "2026-06-25",
+    "day_label": "Day 15 · June 25",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Paraguay",
+      "away_team": "Australia",
+      "home_score": 0,
+      "away_score": 0,
+      "stage": "Group D - Matchday 3",
+      "venue": "SoFi Stadium, Inglewood",
+      "home_flag": {
+        "code": "PAR",
+        "style": "background:linear-gradient(180deg,#D52B1E,#ffffff,#009B3A)"
+      },
+      "away_flag": {
+        "code": "AUS",
+        "style": "background:linear-gradient(135deg,#00008B,#FF0000)"
+      },
+      "goals": [],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and stares at the screen with the expression of someone who just watched paint dry in slow motion*\n\nTwo South American teams in this tournament and Paraguay gives us... that. Ninety minutes of fear disguised as tactics, playing not to lose against Australia like they're defending a lead that doesn't exist. This is why CONMEBOL gets disrespected — we send teams who've forgotten that football is supposed to make the heart beat faster, not slower.",
+        "time": "22:12",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke with theatrical disgust*\n\nParaguay played like they were already eliminated before the match started — zero ambition, zero fire, zero reason to remember they exist. Australia at least had the excuse of being Australia, but what does Paraguay offer the world except proof that sharing a continent with Argentina doesn't guarantee you've learned anything about attacking football? This draw is an insult to every South American who believed CONMEBOL still meant something.",
+        "time": "22:12",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the final whistle and takes a long pull from my pint with the weary recognition of someone who's seen this exact match but with different shirts*\n\nNinety minutes, no goals, two teams playing like they're both terrified of losing more than they want to win — that's England's specialty right there and Paraguay just borrowed the entire playbook. At least when we do it there's decades of trauma to justify the fear, what's their excuse?",
+        "time": "22:12",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match data with the clinical precision of someone documenting a crime scene*\n\nParaguay completed 412 passes at 78% accuracy while creating 0.3 expected goals — that's not defensive organization, that's mathematical proof of cowardice. Australia managed 0.4 xG from set pieces alone, which means Paraguay couldn't even execute fear properly. Both teams registered zero shots on target in the final thirty minutes, which statistically should be impossible unless you've actively given up on the concept of winning.",
+        "time": "22:12",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe tragedy of a goalless draw is not that nothing happened — it is that both teams convinced themselves that not losing was the same as surviving. Paraguay and Australia played ninety minutes of football that will be forgotten before the stadium empties, and neither seemed to understand this is worse than defeat. A loss at least demands you were trying to win something.",
+        "time": "22:12",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar in slow circles, eyes on the empty glasses, the kind of silence that comes after nobody got what they wanted*\n\nFive people spent ninety minutes watching two teams agree not to exist.",
+        "time": "22:12",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-06-26T22:12:57.574498"
   }
 ]

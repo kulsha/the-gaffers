@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 89,
-    "confidence": 92,
-    "anger": 16,
-    "bitterness": 11
+    "hope": 91,
+    "confidence": 93,
+    "anger": 14,
+    "bitterness": 10
   },
   "rivalry": {
     "likes": [
@@ -543,6 +543,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Adjusts glasses and pulls up Tunisia's defensive transition data with the clinical precision of someone proving a point*\n\nNetherlands' pressing force"
+    },
+    {
+      "match_id": "59",
+      "date": "2026-06-25",
+      "match": "Paraguay 0-0 Australia",
+      "stage": "Group D - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match data with the clinical precision of someone documenting a crime scene*\n\nParaguay completed 412 passes at 78% accuracy while creati"
     }
   ]
 }
