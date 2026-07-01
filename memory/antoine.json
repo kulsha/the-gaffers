@@ -562,6 +562,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe tragedy of the ninety-fourth minute is not the goal its"
+    },
+    {
+      "match_id": "61",
+      "date": "2026-06-26",
+      "match": "Norway 1-4 France",
+      "stage": "Group I - Matchday 3",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe hat-trick will be remembered, but the silence after Nor"
     }
   ]
 }

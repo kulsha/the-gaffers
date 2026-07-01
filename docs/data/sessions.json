@@ -6617,5 +6617,125 @@
       }
     ],
     "timestamp": "2026-06-26T22:24:54.547507"
+  },
+  {
+    "session_id": "61",
+    "session_num": 61,
+    "date": "2026-06-26",
+    "day_label": "Day 16 · June 26",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Norway",
+      "away_team": "France",
+      "home_score": 1,
+      "away_score": 4,
+      "stage": "Group I - Matchday 3",
+      "venue": "Gillette Stadium, Foxborough",
+      "home_flag": {
+        "code": "NOR",
+        "style": "background:linear-gradient(135deg,#EF2B2D,#002868)"
+      },
+      "away_flag": {
+        "code": "FRA",
+        "style": "background:linear-gradient(90deg,#002395 33%,#ffffff 33%,#ffffff 66%,#ED2939 66%)"
+      },
+      "goals": [
+        {
+          "minute": 7,
+          "team": "France",
+          "scorer": "O. Dembélé"
+        },
+        {
+          "minute": 20,
+          "team": "France",
+          "scorer": "O. Dembélé"
+        },
+        {
+          "minute": 21,
+          "team": "Norway",
+          "scorer": "T. Aasgaard"
+        },
+        {
+          "minute": 32,
+          "team": "France",
+          "scorer": "O. Dembélé"
+        },
+        {
+          "minute": 90,
+          "team": "France",
+          "scorer": "D. Doué"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches Dembélé's hat-trick with the specific pleasure of someone who understands what it means when a player finds his form at exactly the right moment*\n\nThree goals in twenty-five minutes — that's not efficiency, that's violence disguised as beauty. France when they're cruel like this, when Dembélé stops thinking and just plays... *exhales smoke* ...this is why Antoine's philosophy exists, even if he pretends it's about something deeper.",
+        "time": "20:39",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and lets smoke drift toward the screen with knowing appreciation*\n\nDembélé scored a hat-trick in twenty-five minutes because Norway gave him the space Messi would've finished in fifteen. France looked dangerous, yes, but against organized chaos — wait until they face a team that actually defends with discipline and watches them rediscover their limitations. Antoine will appreciate the beauty tonight, but beauty without suffering is just... exhibition football.",
+        "time": "20:39",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Dembélé's third goal and takes a long pull from my pint with the specific dread of someone who's done the mental arithmetic*\n\nDembélé hat-trick in twenty-five minutes — that's the kind of form that peaks right before a knockout round against England, isn't it? France playing like that when they need to, looking average when it doesn't matter, then turning up looking like Barcelona circa 2015 the moment we finally believe we might have a chance. Tale as old as time, really.",
+        "time": "20:39",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Dembélé's heat map with the methodical precision of someone documenting evidence*\n\nFrance's attacking third entries increased 47% after Norway's defensive line pushed to 52 meters — basic spatial exploitation that becomes devastating when you have someone converting 75% of high-value chances. The hat-trick looks like individual brilliance but it's really just Norway's tactical suicide given numerical form.",
+        "time": "20:39",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe hat-trick will be remembered, but the silence after Norway's goal in the twenty-first minute — that thirty seconds when France could have fractured — that was the tournament moment. Not the three goals from Dembélé, but the fact that the fourth one was never in doubt.",
+        "time": "20:39",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ten minutes and glances at the empty seats where they were all sitting*\n\nHat-trick in twenty-five minutes and not one of them mentioned his name was already on the plane home before the tournament started.",
+        "time": "20:39",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T20:39:26.724263"
   }
 ]

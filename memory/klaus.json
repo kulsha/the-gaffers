@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 93,
-    "confidence": 94,
-    "anger": 12,
-    "bitterness": 9
+    "hope": 95,
+    "confidence": 95,
+    "anger": 10,
+    "bitterness": 8
   },
   "rivalry": {
     "likes": [
@@ -561,6 +561,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the defensive transition data with the kind of clinical precision that cannot quite hide a flicker of sympathy*\n\nUnited States conceded 2.1 "
+    },
+    {
+      "match_id": "61",
+      "date": "2026-06-26",
+      "match": "Norway 1-4 France",
+      "stage": "Group I - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Dembélé's heat map with the methodical precision of someone documenting evidence*\n\nFrance's attacking third entries increased 47% after Norw"
     }
   ]
 }

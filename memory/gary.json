@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "confidence": 96,
-    "anger": 0,
-    "bitterness": 0
+    "hope": 97,
+    "confidence": 94,
+    "anger": 8,
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -562,6 +562,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Sets down pint and stares at the ceiling for a moment*\n\nNinety-fourth minute winner in your own backyard — that's the kind of heartbreak that stays w"
+    },
+    {
+      "match_id": "61",
+      "date": "2026-06-26",
+      "match": "Norway 1-4 France",
+      "stage": "Group I - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Dembélé's third goal and takes a long pull from my pint with the specific dread of someone who's done the mental arithmetic*\n\nDembélé hat-tri"
     }
   ]
 }

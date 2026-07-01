@@ -561,6 +561,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and leans back with a knowing smile*\n\nGüler at nineteen years old deciding a World Cup match in the 90th minute — that's the kind of"
+    },
+    {
+      "match_id": "61",
+      "date": "2026-06-26",
+      "match": "Norway 1-4 France",
+      "stage": "Group I - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and watches Dembélé's hat-trick with the specific pleasure of someone who understands what it means when a player finds his form at "
     }
   ]
 }
