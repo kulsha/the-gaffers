@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 98,
-    "anger": 8,
-    "bitterness": 5
+    "hope": 92,
+    "confidence": 95,
+    "anger": 13,
+    "bitterness": 8
   },
   "rivalry": {
     "likes": [
@@ -687,6 +687,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Brazil's late-game performance data with the kind of precision that makes even a dramatic winner look statistically predictable*\n\nBrazil's x"
+    },
+    {
+      "match_id": "75",
+      "date": "2026-06-29",
+      "match": "Germany 1-1 Paraguay",
+      "stage": "Knockout",
+      "my_team_played": true,
+      "team_result": "drew",
+      "reaction_summary": "*Adjusts laptop screen with the kind of deliberate precision that suggests recalculating everything*\n\nGermany's xG was 2.1 to Paraguay's 0.8 — we crea"
     }
   ]
 }

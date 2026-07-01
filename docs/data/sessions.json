@@ -7957,7 +7957,7 @@
     "session_num": 73,
     "date": "2026-06-28",
     "day_label": "Day 18 · June 28",
-    "bartender_mode": "prediction",
+    "bartender_mode": "silent",
     "match": {
       "home_team": "South Africa",
       "away_team": "Canada",
@@ -8161,5 +8161,110 @@
       }
     ],
     "timestamp": "2026-07-01T21:51:16.235170"
+  },
+  {
+    "session_id": "75",
+    "session_num": 75,
+    "date": "2026-06-29",
+    "day_label": "Day 19 · June 29",
+    "bartender_mode": "prediction",
+    "match": {
+      "home_team": "Germany",
+      "away_team": "Paraguay",
+      "home_score": 1,
+      "away_score": 1,
+      "stage": "Knockout",
+      "venue": "Gillette Stadium, Foxborough",
+      "home_flag": {
+        "code": "GER",
+        "style": "background:linear-gradient(180deg,#1a1a1a,#dd0000,#FFCE00)"
+      },
+      "away_flag": {
+        "code": "PAR",
+        "style": "background:linear-gradient(180deg,#D52B1E,#ffffff,#009B3A)"
+      },
+      "goals": [
+        {
+          "minute": 42,
+          "team": "Paraguay",
+          "scorer": "J. Enciso"
+        },
+        {
+          "minute": 67,
+          "team": "Germany",
+          "scorer": "K. Havertz"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches the replay of Enciso's goal with quiet satisfaction*\n\nParaguay held the machine to a draw — not with German efficiency, but with South American heart, the kind that knows when to suffer and when to strike. Enciso's goal was pure *jogo bonito*, the type Klaus would dismiss as unnecessary flair but we understand as necessary beauty. Germany equalized because that's what they do, like taxes or rain, but they didn't win — and sometimes that's poetry enough.",
+        "time": "22:21",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke with the amused expression of someone watching predictability disguised as dominance*\n\nHavertz scored in the 67th minute and suddenly everyone forgets Paraguay led for twenty-five minutes of German anxiety. This is what happens when you build a team on structure instead of soul — you draw with Paraguay in a knockout match and call it \"respectable.\" Messi would have ended this before halftime, but then again, Messi ended everything in 2022.",
+        "time": "22:21",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Klaus likely doing the maths on how Germany still advance and takes a knowing sip*\n\nGermany drew with Paraguay and somehow that feels more England than anything we've actually done this tournament — all the possession, all the expectation, and then Enciso scores the kind of goal that makes you remember football isn't meant to be played like accountancy. They'll go through on some tiebreaker and act like it was always under control, but we all saw those twenty-five minutes of panic.",
+        "time": "22:21",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts laptop screen with the kind of deliberate precision that suggests recalculating everything*\n\nGermany's xG was 2.1 to Paraguay's 0.8 — we created chances worth two goals and converted at 47% efficiency, which is the problem when Füllkrug isn't starting. The draw isn't poetry, Cadu, it's variance, the kind that regresses to mean over larger samples, except we don't get larger samples in knockout football. Twenty-five minutes of \"panic\" Gary mentions — heart rate data would show it, the kind of numbers I wish I couldn't feel myself.",
+        "time": "22:21",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe most German thing about tonight was not the equalizer — it was the assumption that Paraguay would simply accept their role in someone else's narrative. Enciso's goal wasn't poetry, it was refusal, the kind that turns possession statistics into historical footnotes. They'll advance, yes, but somewhere in Asunción tonight, people are celebrating a draw like a victory, which tells you everything about who actually won.",
+        "time": "22:21",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ninety minutes and speaks for the first time tonight*\n\nEveryone saw Germany draw with Paraguay. Nobody saw what Rodrigo stopped saying.\n\nThree sessions ago, he was talking about what separates European football from South American football — structure versus soul, he said. Tonight, Paraguay scored the kind of goal he would've celebrated two tournaments ago, the kind of *jogo bonito* he claims to still believe in.\n\nHe called it \"unnecessary flair.\"\n\nThat's the sound of a man who watched his football die in 2022 and is still pretending it's alive. When Argentina wins on structure now instead of magic, when Rodrigo starts talking like Klaus, when he swirls wine and calls a draw \"predictable\" — that's not analysis. That's grief dressed as superiority.\n\nGermany will go through. Paraguay will go home. And Rodrigo will keep pretending he doesn't miss the football that used to make him feel something before it became something to be right about.\n\n*Lights go out over the bar*\n\nSame time tomorrow.",
+        "time": "22:21",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T22:21:22.659205"
   }
 ]

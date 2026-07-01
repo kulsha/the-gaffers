@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 98,
-    "anger": 12,
-    "bitterness": 8
+    "hope": 99,
+    "confidence": 99,
+    "anger": 10,
+    "bitterness": 7
   },
   "rivalry": {
     "likes": [
@@ -688,6 +688,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls wine and watches the smoke curl toward the ceiling with barely concealed amusement*\n\nMartinelli scoring in the 90th minute doesn't make Brazil"
+    },
+    {
+      "match_id": "75",
+      "date": "2026-06-29",
+      "match": "Germany 1-1 Paraguay",
+      "stage": "Knockout",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls wine and exhales smoke with the amused expression of someone watching predictability disguised as dominance*\n\nHavertz scored in the 67th minut"
     }
   ]
 }

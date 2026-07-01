@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 2,
-    "bitterness": 2
+    "anger": 0,
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -688,6 +688,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe most dangerous thing Japan did tonight was make Brazil "
+    },
+    {
+      "match_id": "75",
+      "date": "2026-06-29",
+      "match": "Germany 1-1 Paraguay",
+      "stage": "Knockout",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe most German thing about tonight was not the equalizer —"
     }
   ]
 }
