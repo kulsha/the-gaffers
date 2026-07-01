@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 95,
-    "anger": 6,
-    "bitterness": 4
+    "hope": 100,
+    "confidence": 96,
+    "anger": 4,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -580,6 +580,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the fifth goal go in and sets down my pint with the quiet recognition of someone doing uncomfortable mental arithmetic*\n\nSenegal putting five"
+    },
+    {
+      "match_id": "63",
+      "date": "2026-06-26",
+      "match": "Cape Verde 0-0 Saudi Arabia",
+      "stage": "Group H - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the full-time whistle and takes a long pull from my pint with the specific relief of someone who wasn't emotionally invested*\n\nCape Verde and"
     }
   ]
 }

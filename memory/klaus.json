@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 96,
-    "anger": 8,
-    "bitterness": 7
+    "hope": 99,
+    "confidence": 97,
+    "anger": 6,
+    "bitterness": 6
   },
   "rivalry": {
     "likes": [
@@ -579,6 +579,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the possession and chance creation data with the kind of precision that cannot hide a flicker of respect*\n\nIraq completed just 187 passes af"
+    },
+    {
+      "match_id": "63",
+      "date": "2026-06-26",
+      "match": "Cape Verde 0-0 Saudi Arabia",
+      "stage": "Group H - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the advanced metrics with the kind of clinical detachment that makes the absence of football even more damning*\n\nCape Verde registered 0.03 "
     }
   ]
 }

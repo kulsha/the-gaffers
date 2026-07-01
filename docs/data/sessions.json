@@ -6863,5 +6863,99 @@
       }
     ],
     "timestamp": "2026-07-01T20:40:38.399344"
+  },
+  {
+    "session_id": "63",
+    "session_num": 63,
+    "date": "2026-06-26",
+    "day_label": "Day 16 · June 26",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Cape Verde",
+      "away_team": "Saudi Arabia",
+      "home_score": 0,
+      "away_score": 0,
+      "stage": "Group H - Matchday 3",
+      "venue": "NRG Stadium, Houston",
+      "home_flag": {
+        "code": "CPV",
+        "style": "background:linear-gradient(135deg,#003893,#CF2027)"
+      },
+      "away_flag": {
+        "code": "KSA",
+        "style": "background:linear-gradient(135deg,#006C35,#ffffff)"
+      },
+      "goals": [],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and stares at the screen with the particular exhaustion of someone who just watched ninety minutes of their life disappear into the void*\n\nZero shots on target between them — zero — and somewhere in Houston they're calling this football. Cape Verde and Saudi Arabia played like two men who showed up to a dance but forgot the music, just standing there shuffling their feet and hoping nobody noticed. This is what happens when fear is bigger than ambition, when the beautiful game becomes the frightened game.",
+        "time": "20:50",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke with the weary satisfaction of someone who has seen true football and knows this wasn't it*\n\nBoth teams left Houston with a point and absolutely nothing else — no memory, no moment, no reason for anyone to remember they existed. This is the tournament reminding us that not everyone deserves to share a stage with the beautiful game. At least in 2022, every match felt like it mattered — even the smallest teams played like they had something to prove.",
+        "time": "20:50",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the full-time whistle and takes a long pull from my pint with the specific relief of someone who wasn't emotionally invested*\n\nCape Verde and Saudi Arabia just proved you can be at a World Cup and still be absolutely nowhere — ninety minutes of two teams so scared of losing they forgot winning was an option. Somewhere in Group H, someone's going home because of goal difference and they'll deserve it for playing like this. At least when England disappoint us it's usually spectacular.",
+        "time": "20:50",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the advanced metrics with the kind of clinical detachment that makes the absence of football even more damning*\n\nCape Verde registered 0.03 expected goals — Saudi Arabia 0.04 — combined that's the lowest xG total in any World Cup match since they started tracking the data in 2010. Both teams completed over 300 passes but generated nothing because pass completion without progressive intent is just sophisticated cowardice dressed up as tactics. The data confirms what the eye already knew — this wasn't even football, it was two teams agreeing not to play.",
+        "time": "20:50",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe draw is the most honest result in football — two teams admitting they deserve each other. What we witnessed was not cowardice but equilibrium, the mathematical certainty that appears when ambition and ability are perfectly matched at zero. Cape Verde and Saudi Arabia will leave this tournament having changed nothing, which is perhaps the most philosophical outcome of all — to exist without consequence is its own form of disappearance.",
+        "time": "20:50",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ten minutes and glances at the empty seats*\n\nThey all stayed for ninety minutes and nobody cheered once.",
+        "time": "20:50",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T20:50:36.525855"
   }
 ]
