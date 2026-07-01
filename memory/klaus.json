@@ -7,7 +7,7 @@
     "hope": 100,
     "confidence": 100,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -633,6 +633,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Adjusts glasses and pulls up the defensive transition data with the kind of precision that cannot quite mask genuine fascination*\n\nAustria's expected"
+    },
+    {
+      "match_id": "69",
+      "date": "2026-06-27",
+      "match": "Colombia 0-0 Portugal",
+      "stage": "Group K - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the match statistics with the kind of precision that makes even a goalless draw look calculable*\n\nPortugal generated 1.8 xG from 14 shots an"
     }
   ]
 }

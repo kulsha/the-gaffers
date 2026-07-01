@@ -7527,5 +7527,99 @@
       }
     ],
     "timestamp": "2026-07-01T21:07:36.743091"
+  },
+  {
+    "session_id": "69",
+    "session_num": 69,
+    "date": "2026-06-27",
+    "day_label": "Day 17 · June 27",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Colombia",
+      "away_team": "Portugal",
+      "home_score": 0,
+      "away_score": 0,
+      "stage": "Group K - Matchday 3",
+      "venue": "Hard Rock Stadium, Miami Gardens",
+      "home_flag": {
+        "code": "COL",
+        "style": "background:linear-gradient(180deg,#FCD116,#003087,#CE1126)"
+      },
+      "away_flag": {
+        "code": "POR",
+        "style": "background:linear-gradient(135deg,#006600,#FF0000)"
+      },
+      "goals": [],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches the final whistle with a mixture of relief and aesthetic disappointment*\n\nNinety minutes and not a single goal — this is what happens when two teams are so afraid of beauty they strangle it in the cradle. Portugal brought Ronaldo, Bernardo Silva, Bruno Fernandes — and played like they were protecting a 1-0 lead they never even scored. Colombia at least tried to create something in the second half, but my God, in Miami of all places, you'd think someone would remember football is supposed to make you *feel* something.",
+        "time": "21:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke with the weary expression of someone who just watched two teams forget what attacking football looks like*\n\nPortugal have become exactly what they feared most — a collection of names without a narrative. Ronaldo standing there like a statue waiting for service that never comes, while Colombia played with all the ambition of a team already calculating whether a draw would be enough. This is what happens when you build a team around legacy instead of hunger — 2022 taught us that much, at least.",
+        "time": "21:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Ninety minutes of two teams looking at goal like it might bite them back and takes a thoughtful sip*\n\nPortugal had enough quality on that pitch to score three and somehow convinced themselves nil-nil was the sophisticated option. That's the difference right there — England would've found a way to lose that match spectacularly, but at least we'd have tried to win it first. Sometimes I think suffering builds character and sometimes I watch matches like that and wonder if being cautious is actually worse than being hopeless.",
+        "time": "21:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the match statistics with the kind of precision that makes even a goalless draw look calculable*\n\nPortugal generated 1.8 xG from 14 shots and converted none of it — that's not caution, that's clinical failure in the final third. Colombia's defensive structure held a 4.2-meter average compactness rating, which explains the lack of space, but it doesn't explain why Portugal's progressive carries dropped 34% compared to their group opener. The data suggests both teams played not to lose rather than playing to win, which is tactically coherent but experientially worthless.",
+        "time": "21:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeeau*\n\nZero goals is not the same as zero football, but tonight came dangerously close. What struck me most was not the caution — caution has its place — but the absence of conviction. Portugal moved like men who had forgotten why they wanted to win, and Colombia defended like they had already achieved something worth protecting. Neither was true, which made the whole thing feel like watching two philosophers argue about a question neither of them actually cared to answer.",
+        "time": "21:16",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass someone left half-finished and wipes the ring it made on the bar*\n\nTwo teams spent ninety minutes in Miami proving you can have everything except a reason to use it.",
+        "time": "21:16",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T21:16:56.355964"
   }
 ]

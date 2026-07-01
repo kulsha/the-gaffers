@@ -4,10 +4,10 @@
   "flag": "🇧🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 99,
-    "anger": 6,
-    "bitterness": 4
+    "hope": 100,
+    "confidence": 100,
+    "anger": 4,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -633,6 +633,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and watches Mahrez's second goal replay with genuine appreciation*\n\nSix goals, two in the ninetieth minute, and Mahrez playing like "
+    },
+    {
+      "match_id": "69",
+      "date": "2026-06-27",
+      "match": "Colombia 0-0 Portugal",
+      "stage": "Group K - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and watches the final whistle with a mixture of relief and aesthetic disappointment*\n\nNinety minutes and not a single goal — this is"
     }
   ]
 }

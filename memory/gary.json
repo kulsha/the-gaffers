@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 98,
-    "anger": 6,
-    "bitterness": 4
+    "hope": 100,
+    "confidence": 99,
+    "anger": 4,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -634,6 +634,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Takes a long pull from pint and sets it down with the specific expression of someone who's just watched ninety minutes that had absolutely nothing to"
+    },
+    {
+      "match_id": "69",
+      "date": "2026-06-27",
+      "match": "Colombia 0-0 Portugal",
+      "stage": "Group K - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Ninety minutes of two teams looking at goal like it might bite them back and takes a thoughtful sip*\n\nPortugal had enough quality on that pitch to sc"
     }
   ]
 }
