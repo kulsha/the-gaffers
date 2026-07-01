@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 2,
-    "bitterness": 2
+    "anger": 0,
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -651,6 +651,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and watches Wissa's second goal replay with quiet appreciation*\n\nWissa waited eighty-nine minutes to remember he was supposed to be "
+    },
+    {
+      "match_id": "71",
+      "date": "2026-06-27",
+      "match": "England 2-0 Panama",
+      "stage": "Group L - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and watches Kane's goal replay with the weary recognition of someone who knows efficiency when he sees it*\n\nBellingham and Kane — tw"
     }
   ]
 }

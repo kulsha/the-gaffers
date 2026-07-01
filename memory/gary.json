@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 2,
-    "bitterness": 2
+    "anger": 0,
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -652,6 +652,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the replay of Mayele's goal and takes a thoughtful sip*\n\nFair play to Congo — went a goal down and didn't fold like we might've done in 2016,"
+    },
+    {
+      "match_id": "71",
+      "date": "2026-06-27",
+      "match": "England 2-0 Panama",
+      "stage": "Group L - Matchday 3",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*Sets pint down with the careful precision of someone trying not to tempt fate*\n\nTwo-nil against Panama and I'm sitting here genuinely worried that wi"
     }
   ]
 }

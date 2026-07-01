@@ -7736,5 +7736,110 @@
       }
     ],
     "timestamp": "2026-07-01T21:17:49.500459"
+  },
+  {
+    "session_id": "71",
+    "session_num": 71,
+    "date": "2026-06-27",
+    "day_label": "Day 17 · June 27",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "England",
+      "away_team": "Panama",
+      "home_score": 2,
+      "away_score": 0,
+      "stage": "Group L - Matchday 3",
+      "venue": "Arrowhead Stadium, Kansas City",
+      "home_flag": {
+        "code": "ENG",
+        "style": "background:#cf081f"
+      },
+      "away_flag": {
+        "code": "P",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 54,
+          "team": "England",
+          "scorer": "J. Bellingham"
+        },
+        {
+          "minute": 78,
+          "team": "England",
+          "scorer": "H. Kane"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches Kane's goal replay with the weary recognition of someone who knows efficiency when he sees it*\n\nBellingham and Kane — two goals, zero poetry, maximum English pragmatism. They beat Panama like someone crossing items off a shopping list, which I suppose is its own kind of beauty if you squint hard enough and have no soul. Gary will be insufferable now, but at least they did it without pretending it was art.",
+        "time": "21:18",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke with the measured appreciation of someone watching competence mistake itself for destiny*\n\nKane scores and suddenly England believe the prophecy is writing itself, when really they just beat Panama with the same ruthless efficiency Germany used to crush Brazil 7-1. Bellingham has that spark though — the boy moves like he understands football is supposed to be a conversation, not a monologue. Still, beating Panama 2-0 isn't winning the World Cup, no matter how many times Gary whispers \"it's coming home\" into his pint tonight.",
+        "time": "21:18",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Sets pint down with the careful precision of someone trying not to tempt fate*\n\nTwo-nil against Panama and I'm sitting here genuinely worried that winning without conceding might give us ideas above our station. Bellingham's twenty-one and already looks like he's been carrying England's hopes his entire life, which unfortunately means he probably has been. Not saying anything, not even thinking it, just watching Kane's celebration like a man who's learned that hope is the thing that hurts you most.",
+        "time": "21:18",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up England's chance creation data with the kind of precision that makes even a comfortable win look mathematically unremarkable*\n\nEngland generated 2.1 expected goals from seventeen attempts — almost exactly what they scored, which is either clinical finishing or statistical regression to the mean depending on whether you're Gary or thinking clearly. Panama's defensive block held a 4-5-1 shape for 53 minutes before Bellingham's movement between lines finally found the mathematical weak point every compact defence has. The efficiency is impressive, but efficiency against Panama proves nothing except that England can do what they're supposed to do, which historically has been their exact problem.",
+        "time": "21:18",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe problem with doing exactly what you are supposed to do is that it teaches you nothing about yourself. England beat Panama the way a strong man opens a door — with the correct amount of force applied in the correct direction, which is admirable until you realize the door was already unlocked. Bellingham moves like he is searching for something more complex than this tournament will ask of him in the group stage, and that restlessness is either England's future or their inevitable disappointment.",
+        "time": "21:18",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Wipes down the bar in slow, deliberate circles, watching the grain of the wood appear through the film of condensation*\n\nKane celebrated that second goal like a man who's already forgotten what the first one felt like.",
+        "time": "21:18",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T21:18:38.344442"
   }
 ]
