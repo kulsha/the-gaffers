@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 99,
-    "anger": 10,
-    "bitterness": 7
+    "hope": 100,
+    "confidence": 100,
+    "anger": 8,
+    "bitterness": 6
   },
   "rivalry": {
     "likes": [
@@ -697,6 +697,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls wine and exhales smoke with the amused expression of someone watching predictability disguised as dominance*\n\nHavertz scored in the 67th minut"
+    },
+    {
+      "match_id": "76",
+      "date": "2026-06-29",
+      "match": "Netherlands 1-1 Morocco",
+      "stage": "Knockout",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls wine and exhales smoke with the quiet amusement of someone who just watched inevitability get slapped in the face*\n\nGakpo scores and suddenly "
     }
   ]
 }

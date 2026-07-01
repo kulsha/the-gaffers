@@ -8266,5 +8266,110 @@
       }
     ],
     "timestamp": "2026-07-01T22:21:22.659205"
+  },
+  {
+    "session_id": "76",
+    "session_num": 76,
+    "date": "2026-06-29",
+    "day_label": "Day 19 · June 29",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Netherlands",
+      "away_team": "Morocco",
+      "home_score": 1,
+      "away_score": 1,
+      "stage": "Knockout",
+      "venue": "Estadio BBVA, Monterrey",
+      "home_flag": {
+        "code": "NED",
+        "style": "background:linear-gradient(180deg,#AE1C28,#ffffff,#21468B)"
+      },
+      "away_flag": {
+        "code": "MAR",
+        "style": "background:linear-gradient(135deg,#006233,#C1272D)"
+      },
+      "goals": [
+        {
+          "minute": 72,
+          "team": "Netherlands",
+          "scorer": "C. Gakpo"
+        },
+        {
+          "minute": 90,
+          "team": "Morocco",
+          "scorer": "I. Diop"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and leans back with something close to satisfaction*\n\nMorocco saving themselves at ninety minutes — that's the kind of drama that makes knockout football worth the heartbreak. The Dutch thought they had it controlled, mechanical, done — then Diop reminded them that football doesn't care about their plans. Gakpo's goal was clean, I'll give them that, but there's something beautiful about a team refusing to die even when the script says they should.",
+        "time": "22:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke with the quiet amusement of someone who just watched inevitability get slapped in the face*\n\nGakpo scores and suddenly the Dutch think they've remembered how to win tournaments — seventy-two minutes of nothing, then one moment of competence. Morocco equalized because they had to, because that's what happens when you play like you deserve it instead of like you're entitled to it. The Netherlands keep collecting draws like they're building a museum of mediocrity, and somehow they're still surprised when teams refuse to respect their imaginary superiority.",
+        "time": "22:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Ninety minutes against Morocco and the Dutch managed to make qualifying look like an existential crisis*\n\nThat Gakpo goal had them thinking they'd finally cracked it, then Diop scored in the ninetieth and reminded everyone that controlling a match doesn't mean you've actually won it. The Netherlands keep playing like they're owed something by football — bit rich coming from a team that's spent decades proving they can do everything except actually win when it matters. Though I suppose I'm not exactly in a position to throw stones about that particular glass house, am I?",
+        "time": "22:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "Morocco's xG after the seventieth minute was 0.31 — they converted one chance from essentially nothing, which is either remarkable efficiency or Dutch defensive collapse depending on how charitable you want to be. The Netherlands generated 1.8 xG across ninety minutes but only scored once, which suggests they're less clinical and more... hopeful. *Adjusts laptop screen with something that might be grudging respect for Morocco's timing* Diop's goal came from their only genuine scoring opportunity in the final twenty minutes, which is the kind of statistical improbability that makes knockout football impossible to model accurately.",
+        "time": "22:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe Netherlands spent seventy-two minutes solving a problem that did not exist until they created it by forgetting that football is played for ninety. Morocco understood something simpler — that survival is not about deserving to advance, it is about refusing to accept that you will not. The Dutch will go to extra time convinced they were the better team, which is the most dangerous thing you can believe when your opponent has already proven they do not care what you think you deserve.",
+        "time": "22:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down a glass, wipes the counter in one slow motion, and glances at the screen showing the final score*\n\nThe Dutch spent eighteen years learning how to not lose, and Morocco just taught them it's not the same as winning.",
+        "time": "22:56",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T22:56:32.914245"
   }
 ]

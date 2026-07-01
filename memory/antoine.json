@@ -7,7 +7,7 @@
     "hope": 100,
     "confidence": 100,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -697,6 +697,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe most German thing about tonight was not the equalizer —"
+    },
+    {
+      "match_id": "76",
+      "date": "2026-06-29",
+      "match": "Netherlands 1-1 Morocco",
+      "stage": "Knockout",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe Netherlands spent seventy-two minutes solving a problem"
     }
   ]
 }

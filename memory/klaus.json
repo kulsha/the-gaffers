@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 92,
-    "confidence": 95,
-    "anger": 13,
-    "bitterness": 8
+    "hope": 94,
+    "confidence": 96,
+    "anger": 11,
+    "bitterness": 7
   },
   "rivalry": {
     "likes": [
@@ -696,6 +696,15 @@
       "my_team_played": true,
       "team_result": "drew",
       "reaction_summary": "*Adjusts laptop screen with the kind of deliberate precision that suggests recalculating everything*\n\nGermany's xG was 2.1 to Paraguay's 0.8 — we crea"
+    },
+    {
+      "match_id": "76",
+      "date": "2026-06-29",
+      "match": "Netherlands 1-1 Morocco",
+      "stage": "Knockout",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "Morocco's xG after the seventieth minute was 0.31 — they converted one chance from essentially nothing, which is either remarkable efficiency or Dutch"
     }
   ]
 }
