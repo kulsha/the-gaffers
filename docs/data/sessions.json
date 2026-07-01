@@ -7162,5 +7162,130 @@
       }
     ],
     "timestamp": "2026-07-01T20:55:34.813845"
+  },
+  {
+    "session_id": "66",
+    "session_num": 66,
+    "date": "2026-06-26",
+    "day_label": "Day 16 · June 26",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
+      "home_score": 1,
+      "away_score": 5,
+      "stage": "Group G - Matchday 3",
+      "venue": "BC Place, Vancouver",
+      "home_flag": {
+        "code": "NZ",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "BEL",
+        "style": "background:linear-gradient(90deg,#000000,#FFD90C,#F31830)"
+      },
+      "goals": [
+        {
+          "minute": 28,
+          "team": "Belgium",
+          "scorer": "L. Trossard"
+        },
+        {
+          "minute": 50,
+          "team": "Belgium",
+          "scorer": "L. Trossard"
+        },
+        {
+          "minute": 66,
+          "team": "Belgium",
+          "scorer": "K. De Bruyne"
+        },
+        {
+          "minute": 84,
+          "team": "New Zealand",
+          "scorer": "A. Just"
+        },
+        {
+          "minute": 86,
+          "team": "Belgium",
+          "scorer": "R. Lukaku"
+        },
+        {
+          "minute": 90,
+          "team": "Belgium",
+          "scorer": "A. Saelemaekers"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches De Bruyne's goal replay with the kind of appreciation reserved for craftsmen*\n\nBelgium finally remembered they have the best midfielder on the planet. That pass from De Bruyne at sixty-six minutes — thread through the eye of a needle while the defense was still trying to figure out which way was north. Trossard with the brace, Lukaku doing what he does, and New Zealand got their consolation goal like a kind gesture from someone who's already taken everything you have.",
+        "time": "20:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke with theatrical approval*\n\nBelgium played like they remembered football is supposed to be beautiful, not just effective. De Bruyne conducting that attack like Messi in Qatar — see how much better the game looks when you have a true artist in midfield? New Zealand's goal was politeness, nothing more — Belgium could have scored ten if they'd stayed hungry instead of getting comfortable.",
+        "time": "20:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Saelemaekers add the fifth in stoppage time and takes a measured sip of pint with the specific expression of someone doing extremely unwelcome mental arithmetic*\n\nBelgium looking like they've remembered how to Belgium again — that's the last thing any of us needed. De Bruyne threading passes like he's got Google Maps in his head while we're still trying to figure out if Bellingham can play as an eight or a ten or possibly both at once while also carrying our hopes and dreams.",
+        "time": "20:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Belgium's chance creation metrics with the kind of clinical precision that makes even a five-goal margin feel insufficient*\n\nBelgium generated 3.8 expected goals — they overperformed by 40% which suggests either clinical finishing or New Zealand's defensive positioning was catastrophically poor, probably both. De Bruyne completed 47 of 51 passes in the final third at 92% accuracy, which is the kind of midfield control that makes tactical analysis almost redundant — when you have that level of precision, systems become optional.",
+        "time": "20:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe interesting thing about Belgium is not that they won five-nil — it is that they needed to remember how to do it. A team with this much talent should not require reminders, yet here we are watching them rediscover themselves in June like tourists finding a map. That they can still turn it on this completely makes them dangerous — but also suggests the switch can turn off just as easily.",
+        "time": "20:56",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I was drying and glances at the screen showing Belgium's players celebrating*\n\nFive goals and the only thing anyone will remember tomorrow is how they looked in the first two matches.",
+        "time": "20:56",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T20:56:43.233753"
   }
 ]

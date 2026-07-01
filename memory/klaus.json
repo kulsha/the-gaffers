@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 99,
-    "anger": 2,
-    "bitterness": 4
+    "confidence": 100,
+    "anger": 0,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -606,6 +606,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Egypt's defensive set-piece metrics with the kind of precision that comes from watching too many late goals*\n\nEgypt conceded 73% of their ae"
+    },
+    {
+      "match_id": "66",
+      "date": "2026-06-26",
+      "match": "New Zealand 1-5 Belgium",
+      "stage": "Group G - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Belgium's chance creation metrics with the kind of clinical precision that makes even a five-goal margin feel insufficient*\n\nBelgium generat"
     }
   ]
 }

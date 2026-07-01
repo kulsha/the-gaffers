@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 98,
+    "confidence": 99,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -607,6 +607,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Takes a long pull from pint and sets it down with the specific expression of someone who's seen this film*\n\nEighty-nine minutes of holding on and the"
+    },
+    {
+      "match_id": "66",
+      "date": "2026-06-26",
+      "match": "New Zealand 1-5 Belgium",
+      "stage": "Group G - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Saelemaekers add the fifth in stoppage time and takes a measured sip of pint with the specific expression of someone doing extremely unwelcom"
     }
   ]
 }
