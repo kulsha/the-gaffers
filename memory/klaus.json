@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 98,
-    "anger": 4,
-    "bitterness": 5
+    "confidence": 99,
+    "anger": 2,
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -597,6 +597,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Spain's possession metrics with the kind of precision that cannot quite hide a flicker of admiration*\n\nSpain completed 687 passes at 89% acc"
+    },
+    {
+      "match_id": "65",
+      "date": "2026-06-26",
+      "match": "Egypt 1-1 Iran",
+      "stage": "Group G - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Egypt's defensive set-piece metrics with the kind of precision that comes from watching too many late goals*\n\nEgypt conceded 73% of their ae"
     }
   ]
 }
