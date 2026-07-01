@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 97,
-    "anger": 8,
-    "bitterness": 5
+    "hope": 99,
+    "confidence": 98,
+    "anger": 6,
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -625,6 +625,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the replay of Messi's goal with the specific expression of someone who's learned to appreciate brilliance even when it makes his own team's c"
+    },
+    {
+      "match_id": "68",
+      "date": "2026-06-27",
+      "match": "Austria 3-3 Algeria",
+      "stage": "Group J - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Takes a long pull from pint and sets it down with the specific expression of someone who's just watched ninety minutes that had absolutely nothing to"
     }
   ]
 }

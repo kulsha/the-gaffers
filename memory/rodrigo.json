@@ -625,6 +625,15 @@
       "my_team_played": true,
       "team_result": "won",
       "reaction_summary": "*Swirls wine and exhales smoke toward the ceiling with the satisfaction of someone watching destiny unfold exactly as promised*\n\nThat Al-Tamari goal w"
+    },
+    {
+      "match_id": "68",
+      "date": "2026-06-27",
+      "match": "Austria 3-3 Algeria",
+      "stage": "Group J - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls wine and exhales smoke with the satisfied look of someone who just watched theatre masquerading as football*\n\nMahrez proved something tonight "
     }
   ]
 }

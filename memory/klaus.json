@@ -7,7 +7,7 @@
     "hope": 100,
     "confidence": 100,
     "anger": 0,
-    "bitterness": 2
+    "bitterness": 1
   },
   "rivalry": {
     "likes": [
@@ -624,6 +624,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Argentina's progressive pass completion data with the kind of precision that cannot quite hide reluctant admiration*\n\nArgentina completed 89"
+    },
+    {
+      "match_id": "68",
+      "date": "2026-06-27",
+      "match": "Austria 3-3 Algeria",
+      "stage": "Group J - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Adjusts glasses and pulls up the defensive transition data with the kind of precision that cannot quite mask genuine fascination*\n\nAustria's expected"
     }
   ]
 }

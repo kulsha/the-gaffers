@@ -7402,5 +7402,130 @@
       }
     ],
     "timestamp": "2026-07-01T21:04:38.059626"
+  },
+  {
+    "session_id": "68",
+    "session_num": 68,
+    "date": "2026-06-27",
+    "day_label": "Day 17 · June 27",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Austria",
+      "away_team": "Algeria",
+      "home_score": 3,
+      "away_score": 3,
+      "stage": "Group J - Matchday 3",
+      "venue": "Lincoln Financial Field, Philadelphia",
+      "home_flag": {
+        "code": "AUT",
+        "style": "background:linear-gradient(180deg,#ED2939,#ffffff,#ED2939)"
+      },
+      "away_flag": {
+        "code": "ALG",
+        "style": "background:linear-gradient(90deg,#006233,#ffffff,#D21034)"
+      },
+      "goals": [
+        {
+          "minute": 28,
+          "team": "Austria",
+          "scorer": "M. Arnautovic"
+        },
+        {
+          "minute": 45,
+          "team": "Algeria",
+          "scorer": "R. Belghali"
+        },
+        {
+          "minute": 55,
+          "team": "Austria",
+          "scorer": "M. Sabitzer"
+        },
+        {
+          "minute": 60,
+          "team": "Algeria",
+          "scorer": "R. Mahrez"
+        },
+        {
+          "minute": 90,
+          "team": "Austria",
+          "scorer": "S. Kalajdzic"
+        },
+        {
+          "minute": 90,
+          "team": "Algeria",
+          "scorer": "R. Mahrez"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches Mahrez's second goal replay with genuine appreciation*\n\nSix goals, two in the ninetieth minute, and Mahrez playing like he's painting on canvas instead of grass. This is what football should be — chaos, beauty, heartbreak all happening at once. Austria thought they'd rescued it and then Mahrez just... decides otherwise. That's the poetry right there, even if it's in Philadelphia of all places.",
+        "time": "21:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke with the satisfied look of someone who just watched theatre masquerading as football*\n\nMahrez proved something tonight — when you have that kind of quality, the ninetieth minute isn't desperation, it's just delayed gratification. Austria's defense collapsed like they forgot Mahrez won a Premier League title carrying Leicester on his back. Six goals in Philadelphia and somehow it still feels like both teams left points on the table, which is the most beautiful kind of madness.",
+        "time": "21:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Takes a long pull from pint and sets it down with the specific expression of someone who's just watched ninety minutes that had absolutely nothing to do with him but somehow still triggered memories*\n\nTwo goals in the ninetieth minute — one to rescue it, one to answer back — and neither team gets the win. That's the kind of beautiful futility that makes you wonder if maybe draws are actually the most honest result in football. Both sides giving everything and still going home with just the one point and a story nobody asked for.",
+        "time": "21:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Adjusts glasses and pulls up the defensive transition data with the kind of precision that cannot quite mask genuine fascination*\n\nAustria's expected goals against from the 60th minute onward was 2.1 — they essentially conceded exactly what the model predicted they would once their defensive structure degraded. Mahrez completed seven progressive carries in the final third with 91% pass accuracy, which statistically makes him less of a magician and more of a system functioning exactly as designed against exhausted opponents. The poetry Cadu sees is really just probability playing out in real time, though I'll admit watching it happen twice in stoppage time does make the heart rate data spike unexpectedly.",
+        "time": "21:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nTwo teams fighting for survival and both choose to attack in the ninetieth minute when a draw guarantees neither of them anything. This is why football matters — the refusal to accept logic when glory is still mathematically possible, even if only for thirty seconds.",
+        "time": "21:07",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass Klaus left empty, wipes the ring it made on the bar, and glances at the screen still showing Mahrez's celebration frozen in stoppage time*\n\nSix goals and nobody got what they came for.",
+        "time": "21:07",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T21:07:36.743091"
   }
 ]
