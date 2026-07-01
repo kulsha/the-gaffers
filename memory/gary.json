@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 96,
-    "anger": 4,
-    "bitterness": 3
+    "confidence": 97,
+    "anger": 2,
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -589,6 +589,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches the full-time whistle and takes a long pull from my pint with the specific relief of someone who wasn't emotionally invested*\n\nCape Verde and"
+    },
+    {
+      "match_id": "64",
+      "date": "2026-06-26",
+      "match": "Uruguay 0-1 Spain",
+      "stage": "Group H - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches Spain celebrate and raises my pint with the specific expression of someone doing unwelcome mental arithmetic*\n\nSpain grinding out a 1-0 with "
     }
   ]
 }

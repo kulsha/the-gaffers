@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 97,
-    "anger": 6,
-    "bitterness": 6
+    "hope": 100,
+    "confidence": 98,
+    "anger": 4,
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -588,6 +588,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the advanced metrics with the kind of clinical detachment that makes the absence of football even more damning*\n\nCape Verde registered 0.03 "
+    },
+    {
+      "match_id": "64",
+      "date": "2026-06-26",
+      "match": "Uruguay 0-1 Spain",
+      "stage": "Group H - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Spain's possession metrics with the kind of precision that cannot quite hide a flicker of admiration*\n\nSpain completed 687 passes at 89% acc"
     }
   ]
 }
