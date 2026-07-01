@@ -669,6 +669,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Croatia's late-game efficiency metrics with something approaching grudging respect*\n\nCroatia's xG in matches minute 60+ since 2018 is 0.47 p"
+    },
+    {
+      "match_id": "73",
+      "date": "2026-06-28",
+      "match": "South Africa 0-1 Canada",
+      "stage": "Knockout",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Canada's late-game efficiency metrics with the kind of precision that cannot quite hide being fascinated by patience*\n\nCanada's xG in the fi"
     }
   ]
 }

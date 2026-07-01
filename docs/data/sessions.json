@@ -7951,5 +7951,105 @@
       }
     ],
     "timestamp": "2026-07-01T21:19:51.794248"
+  },
+  {
+    "session_id": "73",
+    "session_num": 73,
+    "date": "2026-06-28",
+    "day_label": "Day 18 · June 28",
+    "bartender_mode": "prediction",
+    "match": {
+      "home_team": "South Africa",
+      "away_team": "Canada",
+      "home_score": 0,
+      "away_score": 1,
+      "stage": "Knockout",
+      "venue": "SoFi Stadium, Inglewood",
+      "home_flag": {
+        "code": "RSA",
+        "style": "background:linear-gradient(135deg,#007A4D,#FFB612,#DE3831)"
+      },
+      "away_flag": {
+        "code": "CAN",
+        "style": "background:linear-gradient(135deg,#FF0000,#ffffff)"
+      },
+      "goals": [
+        {
+          "minute": 92,
+          "team": "Canada",
+          "scorer": "S. Eustáquio"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and stares at the screen with a mixture of admiration and melancholy*\n\nNinety-two minutes — that's when Eustáquio decided South Africa had suffered enough. Canada, of all nations, playing like they understand something about patience, about waiting for the exact moment when hope begins to die. This tournament keeps teaching the same lesson: beauty doesn't matter if you can't find the net, and sometimes the goal that matters most is the one that comes when everyone else has stopped believing it will.",
+        "time": "21:48",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke with the quiet satisfaction of someone who just watched desperation disguised as composure*\n\nSouth Africa kept their shape for ninety-one minutes and fifty-nine seconds — which is exactly fifty-nine seconds longer than it mattered. Canada didn't play beautiful football, they played *necessary* football, and there's a difference only tournament survivors understand. This is what separates teams who dream from teams who advance: knowing that sometimes a single moment of clarity is worth an hour of possession.",
+        "time": "21:48",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the replay of Eustáquio's goal and takes a slow sip*\n\nNinety-two minutes and Canada score the kind of goal that would've had us celebrating in the streets if we'd managed it — simple, late, utterly ruthless. South Africa defended like they thought keeping it nil-nil was an achievement in itself, which is exactly the sort of thinking that gets you on a plane home wondering what you were waiting for. Sometimes the cruelest thing about knockout football isn't losing — it's losing to a team that just wanted it slightly more when it mattered.",
+        "time": "21:48",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Canada's late-game efficiency metrics with the kind of precision that cannot quite hide being fascinated by patience*\n\nCanada's xG in the final fifteen minutes this tournament is 0.73 per match — they are statistically designed to punish teams who think survival equals success. South Africa's defensive compactness rating was 89.2 through ninety minutes, which is excellent until you realize compact without transition threat just means you're organized while waiting to lose. The goal came from Canada's seventh shot on target from twenty-three total attempts, which tells you everything about the difference between defending and actually threatening to score.",
+        "time": "21:48",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe goal at ninety-two minutes was not when Canada won — it was when South Africa finally admitted they had come only to avoid losing. There is a difference between defending well and defending because you have no other idea, and eventually the tournament finds that difference and puts a number next to it. Patience looks like wisdom until the moment it becomes paralysis, and tonight we watched that transformation happen in real time.",
+        "time": "21:48",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ten minutes and looks at the five of them*\n\nNobody mentioned that South Africa played ninety-two minutes without a single shot on target.\n\nNot one.\n\nThat's not defending well under pressure. That's not being unlucky. That's showing up to a knockout match having already decided that not losing badly was the best possible outcome.\n\nCanada didn't win this match in the ninety-second minute. They won it in the first minute, when South Africa's body language said: *We're here to not embarrass ourselves.*\n\nYou can see it in how Rodrigo called it paralysis. In how Gary recognized something England used to do. In how Klaus buried the real story under efficiency metrics.\n\nBut here's what none of you said: Canada scored that goal because they were the only team on the pitch who believed they *deserved* to score.\n\nSouth Africa played like guests. Polite. Careful. Grateful just to be in the room.\n\nAnd in knockout football, guests go home.\n\n*Picks up another glass to polish*\n\nThat's your match. Team that came to compete versus team that came to participate.\n\nThe scoreline was always going to be 1-0. The only question was which team remembered they were allowed to win.",
+        "time": "21:48",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T21:48:27.456256"
   }
 ]

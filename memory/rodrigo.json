@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 99,
-    "confidence": 99,
-    "anger": 6,
-    "bitterness": 4
+    "hope": 100,
+    "confidence": 100,
+    "anger": 4,
+    "bitterness": 3
   },
   "rivalry": {
     "likes": [
@@ -670,6 +670,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls wine and watches the smoke drift toward the ceiling*\n\nVlasic deciding matches in the 67th minute — this is what separates European football fr"
+    },
+    {
+      "match_id": "73",
+      "date": "2026-06-28",
+      "match": "South Africa 0-1 Canada",
+      "stage": "Knockout",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls wine and exhales smoke with the quiet satisfaction of someone who just watched desperation disguised as composure*\n\nSouth Africa kept their sh"
     }
   ]
 }
