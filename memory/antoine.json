@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 4,
-    "bitterness": 3
+    "anger": 2,
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -679,6 +679,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe goal at ninety-two minutes was not when Canada won — it"
+    },
+    {
+      "match_id": "74",
+      "date": "2026-06-29",
+      "match": "Brazil 2-1 Japan",
+      "stage": "Knockout",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe most dangerous thing Japan did tonight was make Brazil "
     }
   ]
 }

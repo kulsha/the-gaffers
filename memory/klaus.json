@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "confidence": 100,
-    "anger": 0,
-    "bitterness": 0
+    "hope": 97,
+    "confidence": 98,
+    "anger": 8,
+    "bitterness": 5
   },
   "rivalry": {
     "likes": [
@@ -678,6 +678,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Canada's late-game efficiency metrics with the kind of precision that cannot quite hide being fascinated by patience*\n\nCanada's xG in the fi"
+    },
+    {
+      "match_id": "74",
+      "date": "2026-06-29",
+      "match": "Brazil 2-1 Japan",
+      "stage": "Knockout",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Brazil's late-game performance data with the kind of precision that makes even a dramatic winner look statistically predictable*\n\nBrazil's x"
     }
   ]
 }

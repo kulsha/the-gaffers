@@ -678,6 +678,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and stares at the screen with a mixture of admiration and melancholy*\n\nNinety-two minutes — that's when Eustáquio decided South Afri"
+    },
+    {
+      "match_id": "74",
+      "date": "2026-06-29",
+      "match": "Brazil 2-1 Japan",
+      "stage": "Knockout",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*Lights cigarette with trembling hands*\n\nNinety minutes to remember how to win — that's what we've become. Japan made us sweat for every blade of gras"
     }
   ]
 }

@@ -4,10 +4,10 @@
   "flag": "🇦🇷",
   "team_status": "active",
   "mood_scores": {
-    "hope": 100,
-    "confidence": 100,
-    "anger": 4,
-    "bitterness": 3
+    "hope": 97,
+    "confidence": 98,
+    "anger": 12,
+    "bitterness": 8
   },
   "rivalry": {
     "likes": [
@@ -679,6 +679,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls wine and exhales smoke with the quiet satisfaction of someone who just watched desperation disguised as composure*\n\nSouth Africa kept their sh"
+    },
+    {
+      "match_id": "74",
+      "date": "2026-06-29",
+      "match": "Brazil 2-1 Japan",
+      "stage": "Knockout",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Swirls wine and watches the smoke curl toward the ceiling with barely concealed amusement*\n\nMartinelli scoring in the 90th minute doesn't make Brazil"
     }
   ]
 }
