@@ -4,10 +4,10 @@
   "flag": "🇩🇪",
   "team_status": "active",
   "mood_scores": {
-    "hope": 95,
-    "confidence": 95,
-    "anger": 10,
-    "bitterness": 8
+    "hope": 97,
+    "confidence": 96,
+    "anger": 8,
+    "bitterness": 7
   },
   "rivalry": {
     "likes": [
@@ -570,6 +570,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Dembélé's heat map with the methodical precision of someone documenting evidence*\n\nFrance's attacking third entries increased 47% after Norw"
+    },
+    {
+      "match_id": "62",
+      "date": "2026-06-26",
+      "match": "Senegal 5-0 Iraq",
+      "stage": "Group I - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up the possession and chance creation data with the kind of precision that cannot hide a flicker of respect*\n\nIraq completed just 187 passes af"
     }
   ]
 }

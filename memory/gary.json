@@ -4,10 +4,10 @@
   "flag": "🏴󠁧󠁢󠁥󠁬󠁧󠁿",
   "team_status": "active",
   "mood_scores": {
-    "hope": 97,
-    "confidence": 94,
-    "anger": 8,
-    "bitterness": 5
+    "hope": 99,
+    "confidence": 95,
+    "anger": 6,
+    "bitterness": 4
   },
   "rivalry": {
     "likes": [
@@ -571,6 +571,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Watches Dembélé's third goal and takes a long pull from my pint with the specific dread of someone who's done the mental arithmetic*\n\nDembélé hat-tri"
+    },
+    {
+      "match_id": "62",
+      "date": "2026-06-26",
+      "match": "Senegal 5-0 Iraq",
+      "stage": "Group I - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the fifth goal go in and sets down my pint with the quiet recognition of someone doing uncomfortable mental arithmetic*\n\nSenegal putting five"
     }
   ]
 }

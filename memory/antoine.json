@@ -571,6 +571,15 @@
       "my_team_played": true,
       "team_result": "won",
       "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe hat-trick will be remembered, but the silence after Nor"
+    },
+    {
+      "match_id": "62",
+      "date": "2026-06-26",
+      "match": "Senegal 5-0 Iraq",
+      "stage": "Group I - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe red card at twenty-two minutes is what everyone will me"
     }
   ]
 }

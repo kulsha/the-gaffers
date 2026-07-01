@@ -6737,5 +6737,131 @@
       }
     ],
     "timestamp": "2026-07-01T20:39:26.724263"
+  },
+  {
+    "session_id": "62",
+    "session_num": 62,
+    "date": "2026-06-26",
+    "day_label": "Day 16 · June 26",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Senegal",
+      "away_team": "Iraq",
+      "home_score": 5,
+      "away_score": 0,
+      "stage": "Group I - Matchday 3",
+      "venue": "BMO Field, Toronto",
+      "home_flag": {
+        "code": "SEN",
+        "style": "background:linear-gradient(90deg,#00853F,#FDEF42,#E31B23)"
+      },
+      "away_flag": {
+        "code": "I",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "goals": [
+        {
+          "minute": 4,
+          "team": "Senegal",
+          "scorer": "H. Diarra"
+        },
+        {
+          "minute": 56,
+          "team": "Senegal",
+          "scorer": "I. Sarr"
+        },
+        {
+          "minute": 71,
+          "team": "Senegal",
+          "scorer": "P. Gueye"
+        },
+        {
+          "minute": 75,
+          "team": "Senegal",
+          "scorer": "P. Gueye"
+        },
+        {
+          "minute": 82,
+          "team": "Senegal",
+          "scorer": "I. Ndiaye"
+        }
+      ],
+      "red_cards": [
+        {
+          "minute": 22,
+          "team": "Iraq",
+          "player": "R. Sulaka"
+        }
+      ]
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches the scoreline with a slow nod of appreciation*\n\nFive goals and Senegal made it look like they were dancing — that red card killed Iraq before halftime but the way Gueye scored twice in four minutes, that's not just numbers, that's rhythm. Africa at this World Cup has been playing with a freedom that reminds me of Brazil before we forgot how to dream. Iraq never stood a chance once Sulaka went off, but Senegal didn't just win, they performed.",
+        "time": "20:40",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and lets smoke drift toward the screen with theatrical approval*\n\nSenegal didn't just win — they gave a masterclass in how to dismantle broken opposition without mercy, the way champions should. That double from Gueye in four minutes wasn't rhythm, it was execution, cold and beautiful like Messi against Croatia when he decided the semifinal was over. Africa plays with joy, sure, but tonight they played with precision that would make Di María proud.",
+        "time": "20:40",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the fifth goal go in and sets down my pint with the quiet recognition of someone doing uncomfortable mental arithmetic*\n\nSenegal putting five past ten men and making it look like art — meanwhile we're all sitting here pretending we wouldn't take that scoreline against anyone right now. Red card at twenty-two minutes and they still waited until the second half to properly turn the screw, which is either ruthless professionalism or they were saving energy for the knockouts. Either way, that's tournament football done properly, and I'm trying very hard not to think about what happens when we face a team that attacks like that.",
+        "time": "20:40",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up the possession and chance creation data with the kind of precision that cannot hide a flicker of respect*\n\nIraq completed just 187 passes after the red card compared to Senegal's 487, but what the numbers show is Senegal's xG climbed to 4.2 even before Gueye's brace — they were inevitable whether it was eleven against eleven or not. The efficiency is what matters here: five goals from seventeen shots means 29% conversion, which is tournament-winning ruthlessness, not just superiority against ten men. Gary, you are right to be worried — teams that can maintain tactical discipline while up a man and still accelerating are exactly the ones that punish hesitation in the knockouts.",
+        "time": "20:40",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe red card at twenty-two minutes is what everyone will mention, but Senegal scored after four — Iraq were already losing before they were reduced, which is the part that should concern the rest of us. What separates a good team from a dangerous one is not how they exploit advantage but how they created it in the first place. Senegal did both, and the tournament has just become smaller for everyone else.",
+        "time": "20:40",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last ten minutes and glances at the empty seats where Iraq's section used to be*\n\nThey left after the red card.",
+        "time": "20:40",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T20:40:38.399344"
   }
 ]
