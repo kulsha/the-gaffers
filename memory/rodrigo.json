@@ -616,6 +616,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Swirls wine and exhales smoke with theatrical approval*\n\nBelgium played like they remembered football is supposed to be beautiful, not just effective"
+    },
+    {
+      "match_id": "67",
+      "date": "2026-06-27",
+      "match": "Argentina 3-1 Jordan",
+      "stage": "Group J - Matchday 3",
+      "my_team_played": true,
+      "team_result": "won",
+      "reaction_summary": "*Swirls wine and exhales smoke toward the ceiling with the satisfaction of someone watching destiny unfold exactly as promised*\n\nThat Al-Tamari goal w"
     }
   ]
 }

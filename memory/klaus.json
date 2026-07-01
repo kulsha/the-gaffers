@@ -7,7 +7,7 @@
     "hope": 100,
     "confidence": 100,
     "anger": 0,
-    "bitterness": 3
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -615,6 +615,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up Belgium's chance creation metrics with the kind of clinical precision that makes even a five-goal margin feel insufficient*\n\nBelgium generat"
+    },
+    {
+      "match_id": "67",
+      "date": "2026-06-27",
+      "match": "Argentina 3-1 Jordan",
+      "stage": "Group J - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up Argentina's progressive pass completion data with the kind of precision that cannot quite hide reluctant admiration*\n\nArgentina completed 89"
     }
   ]
 }

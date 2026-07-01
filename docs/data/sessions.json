@@ -7287,5 +7287,120 @@
       }
     ],
     "timestamp": "2026-07-01T20:56:43.233753"
+  },
+  {
+    "session_id": "67",
+    "session_num": 67,
+    "date": "2026-06-27",
+    "day_label": "Day 17 · June 27",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Argentina",
+      "away_team": "Jordan",
+      "home_score": 3,
+      "away_score": 1,
+      "stage": "Group J - Matchday 3",
+      "venue": "MetLife Stadium, East Rutherford",
+      "home_flag": {
+        "code": "ARG",
+        "style": "background:linear-gradient(135deg,#4fa8d8,#ffffff)"
+      },
+      "away_flag": {
+        "code": "JOR",
+        "style": "background:linear-gradient(180deg,#007A3D,#ffffff,#CE1126)"
+      },
+      "goals": [
+        {
+          "minute": 34,
+          "team": "Argentina",
+          "scorer": "L. Martinez"
+        },
+        {
+          "minute": 56,
+          "team": "Argentina",
+          "scorer": "G. Lo Celso"
+        },
+        {
+          "minute": 62,
+          "team": "Jordan",
+          "scorer": "M. Al-Tamari"
+        },
+        {
+          "minute": 80,
+          "team": "Argentina",
+          "scorer": "L. Messi"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches Messi's goal replay with the particular exhaustion of someone who respects genius even when it comes from the wrong country*\n\nJordan gave them more trouble than they should have — that Al-Tamari goal was pure chaos breaking through the script for a moment. But then the little magician writes his name one more time and MetLife Stadium turns into Buenos Aires. Three points and they made it look inevitable, like gravity or the sunrise.",
+        "time": "21:04",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke toward the ceiling with the satisfaction of someone watching destiny unfold exactly as promised*\n\nThat Al-Tamari goal was adorable — Jordan's brave little moment before reality remembered who was on the pitch. When Messi scored that third, you could see it in his eyes. Not celebration. Just confirmation. The man doesn't chase records anymore, he simply collects what the universe already wrote for him in 2022.",
+        "time": "21:04",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the replay of Messi's goal with the specific expression of someone who's learned to appreciate brilliance even when it makes his own team's chances mathematically worse*\n\nJordan held on longer than most expected, which somehow makes it sadder when the inevitable arrives. Messi at eighty minutes is still Messi — still writing poetry while the rest of us are trying to remember how punctuation works. Another group winner strolling through while we're all doing the maths on what \"probable Round of 16 opponents\" might mean.",
+        "time": "21:04",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Argentina's progressive pass completion data with the kind of precision that cannot quite hide reluctant admiration*\n\nArgentina completed 89% of their passes in the final third after the Jordan goal — the mark of a team that never actually felt threatened. Messi's goal came from a sequence that began with seven consecutive one-touch passes, the kind of fluid possession that makes tactical analysis feel almost irrelevant. Sometimes the data just confirms what your eyes already told you, which is frustrating when you prefer it the other way around.",
+        "time": "21:04",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe Jordan goal at sixty-two minutes was the most important moment of the match — not because it changed anything, but because it proved nothing could be changed. Argentina's response wasn't urgency, it was patience, which is the cruelest thing you can show an opponent who just glimpsed hope. Messi scoring late isn't drama, it's grammar — the full stop that was always going to end that particular sentence.",
+        "time": "21:04",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last five minutes and glances at the screen where Messi's celebration has finally faded to commercials*\n\nJordan scored and for exactly eighteen minutes, five people in this bar pretended it mattered.",
+        "time": "21:04",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T21:04:38.059626"
   }
 ]
