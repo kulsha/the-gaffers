@@ -7841,5 +7841,115 @@
       }
     ],
     "timestamp": "2026-07-01T21:18:38.344442"
+  },
+  {
+    "session_id": "72",
+    "session_num": 72,
+    "date": "2026-06-27",
+    "day_label": "Day 17 · June 27",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "Croatia",
+      "away_team": "Ghana",
+      "home_score": 2,
+      "away_score": 1,
+      "stage": "Group L - Matchday 3",
+      "venue": "AT&T Stadium, Arlington",
+      "home_flag": {
+        "code": "CRO",
+        "style": "background:linear-gradient(135deg,#FF0000,#ffffff,#0000CD)"
+      },
+      "away_flag": {
+        "code": "GHA",
+        "style": "background:linear-gradient(180deg,#006B3F,#FCD116,#CE1126)"
+      },
+      "goals": [
+        {
+          "minute": 38,
+          "team": "Croatia",
+          "scorer": "P. Sucic"
+        },
+        {
+          "minute": 55,
+          "team": "Ghana",
+          "scorer": "D. Luckassen"
+        },
+        {
+          "minute": 67,
+          "team": "Croatia",
+          "scorer": "N. Vlasic"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and exhales slowly*\n\nCroatia — always Croatia. They play like they're nursing a grudge against time itself, waiting, waiting, then Vlasic strikes and suddenly it's over. Ghana had something beautiful for ten minutes after that equalizer, you could see it building, but the Croats... they know how to kill a dream without making it look violent.",
+        "time": "21:19",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and watches the smoke drift toward the ceiling*\n\nVlasic deciding matches in the 67th minute — this is what separates European football from everyone else who confuses passion with discipline. Ghana equalized and thought the hard part was over, but Croatia understand something fundamental: in tournament football, hope is just the prelude to heartbreak. They've been to two World Cup finals in six years for a reason, and it's not luck.",
+        "time": "21:19",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches Rodrigo take that sip and shakes head with a rueful smile*\n\nCroatia are the team that always remind me what England could be if we had their mentality instead of our history. They went to penalties in both those World Cup runs — penalties, for god's sake — and somehow came out harder for it. We'd still be in therapy.",
+        "time": "21:19",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up Croatia's late-game efficiency metrics with something approaching grudging respect*\n\nCroatia's xG in matches minute 60+ since 2018 is 0.47 per game but their conversion rate in that window sits at 31% — statistically improbable consistency that suggests tactical discipline rather than fortune. Ghana generated 1.3 xG overall but 0.9 of it came in a fourteen-minute window after their goal, which is precisely the kind of emotional spike that Croatia's midfield structure is designed to absorb and neutralize. The data backs what Rodrigo said even if I'd never phrase it that way.",
+        "time": "21:19",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe equalizer at fifty-five was the worst thing that could have happened to Ghana. Before Luckassen scored they were playing without the burden of possibility — after, they had to believe, and belief makes you vulnerable. Croatia have built an entire generation on understanding that the team which wants it less usually wants it more intelligently.",
+        "time": "21:19",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass I've been polishing for the last three minutes and glances at the screen showing Croatia's players walking off*\n\nGhana scored and remembered they could win.\n\nCroatia never forgot they would.",
+        "time": "21:19",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T21:19:51.794248"
   }
 ]

@@ -7,7 +7,7 @@
     "hope": 100,
     "confidence": 100,
     "anger": 0,
-    "bitterness": 1
+    "bitterness": 0
   },
   "rivalry": {
     "likes": [
@@ -660,6 +660,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and watches Kane's goal replay with the weary recognition of someone who knows efficiency when he sees it*\n\nBellingham and Kane — tw"
+    },
+    {
+      "match_id": "72",
+      "date": "2026-06-27",
+      "match": "Croatia 2-1 Ghana",
+      "stage": "Group L - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and exhales slowly*\n\nCroatia — always Croatia. They play like they're nursing a grudge against time itself, waiting, waiting, then V"
     }
   ]
 }
