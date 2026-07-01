@@ -5,9 +5,9 @@
   "team_status": "active",
   "mood_scores": {
     "hope": 100,
-    "confidence": 99,
-    "anger": 4,
-    "bitterness": 3
+    "confidence": 100,
+    "anger": 2,
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -643,6 +643,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Ninety minutes of two teams looking at goal like it might bite them back and takes a thoughtful sip*\n\nPortugal had enough quality on that pitch to sc"
+    },
+    {
+      "match_id": "70",
+      "date": "2026-06-27",
+      "match": "DR Congo 3-1 Uzbekistan",
+      "stage": "Group K - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Watches the replay of Mayele's goal and takes a thoughtful sip*\n\nFair play to Congo — went a goal down and didn't fold like we might've done in 2016,"
     }
   ]
 }

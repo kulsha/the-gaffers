@@ -6,8 +6,8 @@
   "mood_scores": {
     "hope": 100,
     "confidence": 100,
-    "anger": 4,
-    "bitterness": 3
+    "anger": 2,
+    "bitterness": 2
   },
   "rivalry": {
     "likes": [
@@ -642,6 +642,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Lights cigarette and watches the final whistle with a mixture of relief and aesthetic disappointment*\n\nNinety minutes and not a single goal — this is"
+    },
+    {
+      "match_id": "70",
+      "date": "2026-06-27",
+      "match": "DR Congo 3-1 Uzbekistan",
+      "stage": "Group K - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Lights cigarette and watches Wissa's second goal replay with quiet appreciation*\n\nWissa waited eighty-nine minutes to remember he was supposed to be "
     }
   ]
 }

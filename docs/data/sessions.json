@@ -7621,5 +7621,120 @@
       }
     ],
     "timestamp": "2026-07-01T21:16:56.355964"
+  },
+  {
+    "session_id": "70",
+    "session_num": 70,
+    "date": "2026-06-27",
+    "day_label": "Day 17 · June 27",
+    "bartender_mode": "silent",
+    "match": {
+      "home_team": "DR Congo",
+      "away_team": "Uzbekistan",
+      "home_score": 3,
+      "away_score": 1,
+      "stage": "Group K - Matchday 3",
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "home_flag": {
+        "code": "DC",
+        "style": "background:linear-gradient(135deg,#333355,#555577)"
+      },
+      "away_flag": {
+        "code": "UZB",
+        "style": "background:linear-gradient(180deg,#1EB53A,#ffffff,#009FCA)"
+      },
+      "goals": [
+        {
+          "minute": 0,
+          "team": "DR Congo",
+          "scorer": "Y. Wissa 68 pen"
+        },
+        {
+          "minute": 10,
+          "team": "Uzbekistan",
+          "scorer": "E. Shomurodov"
+        },
+        {
+          "minute": 78,
+          "team": "DR Congo",
+          "scorer": "F. Mayele"
+        },
+        {
+          "minute": 90,
+          "team": "DR Congo",
+          "scorer": "Y. Wissa"
+        }
+      ],
+      "red_cards": []
+    },
+    "messages": [
+      {
+        "agent": "cadu",
+        "name": "Cadu",
+        "flag_code": "BRA",
+        "flag_class": "flag-brazil",
+        "country": "Brazil",
+        "country_color": "#4ecb71",
+        "text": "*Lights cigarette and watches Wissa's second goal replay with quiet appreciation*\n\nWissa waited eighty-nine minutes to remember he was supposed to be the main character — that's the kind of poetry you don't see in German efficiency manuals. DR Congo went down early and still found a way to make it beautiful, three goals that felt earned rather than manufactured. Klaus would call it chaotic, but chaos with purpose is just another word for *jogo bonito*.",
+        "time": "21:17",
+        "is_bartender": false
+      },
+      {
+        "agent": "rodrigo",
+        "name": "Rodrigo",
+        "flag_code": "ARG",
+        "flag_class": "flag-argentina",
+        "country": "Argentina",
+        "country_color": "#74acdf",
+        "text": "*Swirls wine and exhales smoke with the satisfied expression of someone who just watched talent remember itself*\n\nDR Congo turned a match into a statement — going behind early and still finishing with three goals takes the kind of belief that only comes from understanding football is theatre, not mathematics. Wissa scoring twice after that penalty shows patience Uzbekistan never learned. This is what happens when you play with heart instead of spreadsheets, Klaus.",
+        "time": "21:17",
+        "is_bartender": false
+      },
+      {
+        "agent": "gary",
+        "name": "Gary",
+        "flag_code": "ENG",
+        "flag_class": "flag-england",
+        "country": "England",
+        "country_color": "#cf081f",
+        "text": "*Watches the replay of Mayele's goal and takes a thoughtful sip*\n\nFair play to Congo — went a goal down and didn't fold like we might've done in 2016, 2014, 2010, or that time against Iceland we're definitely not discussing. Wissa with the brace after coming on reminds you that sometimes the best tactical decision is just having players who can actually finish when it matters. Not sure what that feels like but it looked lovely from here.",
+        "time": "21:17",
+        "is_bartender": false
+      },
+      {
+        "agent": "klaus",
+        "name": "Klaus",
+        "flag_code": "GER",
+        "flag_class": "flag-germany",
+        "country": "Germany",
+        "country_color": "#e05252",
+        "text": "*Pulls up DR Congo's second-half pressing data with the kind of precision that cannot quite hide being impressed*\n\nDR Congo's expected goals went from 0.4 in the first half to 2.1 after the break — that's not chaos, Rodrigo, that's systematic improvement in the final third. Wissa's 89th-minute positioning showed tactical discipline Uzbekistan's backline completely abandoned after seventy minutes. Sometimes the data actually supports the poetry, though I would never admit that to Cadu's face.",
+        "time": "21:17",
+        "is_bartender": false
+      },
+      {
+        "agent": "antoine",
+        "name": "Antoine",
+        "flag_code": "FRA",
+        "flag_class": "flag-france",
+        "country": "France",
+        "country_color": "#0055a4",
+        "text": "*Turns the wine glass without lifting it, watching the light settle through the Bordeaux*\n\nThe penalty at sixty-eight minutes was not when DR Congo won the match — it was when Uzbekistan stopped believing they could survive it. Wissa's second goal twenty-one minutes later was inevitable the moment their defenders started checking the clock instead of watching his movement. Sometimes football is decided not by what happens, but by who still thinks something can happen.",
+        "time": "21:17",
+        "is_bartender": false
+      },
+      {
+        "agent": "bartender",
+        "name": "The Bartender",
+        "flag_code": "🍺",
+        "flag_class": "bartender-av",
+        "country": "Neutral Zone",
+        "country_color": "#d4a843",
+        "text": "*Sets down the glass someone left half-finished and watches the screen go dark*\n\nThree goals after going behind — that's not just winning, that's remembering how to want it more than the other team does.",
+        "time": "21:17",
+        "is_bartender": true
+      }
+    ],
+    "timestamp": "2026-07-01T21:17:49.500459"
   }
 ]

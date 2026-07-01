@@ -642,6 +642,15 @@
       "my_team_played": false,
       "team_result": "not_playing",
       "reaction_summary": "*Pulls up the match statistics with the kind of precision that makes even a goalless draw look calculable*\n\nPortugal generated 1.8 xG from 14 shots an"
+    },
+    {
+      "match_id": "70",
+      "date": "2026-06-27",
+      "match": "DR Congo 3-1 Uzbekistan",
+      "stage": "Group K - Matchday 3",
+      "my_team_played": false,
+      "team_result": "not_playing",
+      "reaction_summary": "*Pulls up DR Congo's second-half pressing data with the kind of precision that cannot quite hide being impressed*\n\nDR Congo's expected goals went from"
     }
   ]
 }
